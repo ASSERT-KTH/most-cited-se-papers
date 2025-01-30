@@ -1,0 +1,543 @@
+[
+  [
+    1,
+    {
+      "title": "An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation",
+      "authors": [
+        "Michele Tufano",
+        "Cody Watson",
+        "Gabriele Bavota",
+        "Massimiliano Di Penta",
+        "Martin White",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/3340544",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "516497e7fc39ebb126bed28dcc5c6129e500acb8",
+        "citationCount": 324,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    2,
+    {
+      "title": "RESTful API Automated Test Case Generation with EvoMaster",
+      "authors": [
+        "Andrea Arcuri"
+      ],
+      "doi": "10.1145/3293455",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b339795e4c16f73307ed68021f7b52ff3b3d0df7",
+        "citationCount": 170,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Neural Network-based Detection of Self-Admitted Technical Debt",
+      "authors": [
+        "Xiaoxue Ren",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "David Lo",
+        "Xinyu Wang",
+        "John Grundy"
+      ],
+      "doi": "10.1145/3324916",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "497d1d1856f88e367524c98b9a999807d45e3250",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Status Quo in Requirements Engineering",
+      "authors": [
+        "Stefan Wagner",
+        "Daniel M\u00e9ndez Fern\u00e1ndez",
+        "Michael Felderer",
+        "Antonio Vetr\u00f2",
+        "Marcos Kalinowski",
+        "Roel Wieringa",
+        "Dietmar Pfahl",
+        "Tayana Conte",
+        "Marie-Therese Christiansson",
+        "Desmond Greer",
+        "Casper Lassenius",
+        "Tomi M\u00e4nnist\u00f6",
+        "Maleknaz Nayebi",
+        "Markku Oivo",
+        "Birgit Penzenstadler",
+        "Rafael Prikladnicki",
+        "Guenther Ruhe",
+        "Andr\u00e9 Schekelmann",
+        "Sagar Sen",
+        "Rodrigo Sp\u00ednola",
+        "Ahmed Tuzcu",
+        "Jose Luis De La Vara",
+        "Dietmar Winkler"
+      ],
+      "doi": "10.1145/3306607",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "91d594b49b431721f5b9a03cca482f782d3ccc24",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Understanding and Analyzing Java Reflection",
+      "authors": [
+        "Yue Li",
+        "Tian Tan",
+        "Jingling Xue"
+      ],
+      "doi": "10.1145/3295739",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "3e358882af7a2e782fdb02c0ccf260f00728aff0",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Recommending New Features from Mobile App Descriptions",
+      "authors": [
+        "He Jiang",
+        "Jingxuan Zhang",
+        "Xiaochen Li",
+        "Zhilei Ren",
+        "David Lo",
+        "Xindong Wu",
+        "Zhongxuan Luo"
+      ],
+      "doi": "10.1145/3344158",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "eeca31ea4d27af13602fb4809438a6579625e460",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Precise Learn-to-Rank Fault Localization Using Dynamic and Static Features of Target Programs",
+      "authors": [
+        "Yunho Kim",
+        "Seokhyeon Mun",
+        "Shin Yoo",
+        "Moonzoo Kim"
+      ],
+      "doi": "10.1145/3345628",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7e95f6ae6e629dd13a39524d79632411fb3ab97b",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    8,
+    {
+      "title": "An Active Learning Approach for Improving the Accuracy of Automated Domain Model Extraction",
+      "authors": [
+        "Chetan Arora",
+        "Mehrdad Sabetzadeh",
+        "Shiva Nejati",
+        "Lionel Briand"
+      ],
+      "doi": "10.1145/3293454",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "abcad78d2dba846e7c02ab853f86fbb258ad9952",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Verifying and Quantifying Side-channel Resistance of Masked Software Implementations",
+      "authors": [
+        "Pengfei Gao",
+        "Jun Zhang",
+        "Fu Song",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/3330392",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1d65a01f57f072ebfb3975cee8610421f13096ef",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Differential Testing of Certificate Validation in SSL/TLS Implementations",
+      "authors": [
+        "Cong Tian",
+        "Chu Chen",
+        "Zhenhua Duan",
+        "Liang Zhao"
+      ],
+      "doi": "10.1145/3355048",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f28194e20acf9f6bbbc6e1ad485151073a8ccd08",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Software Effort Interval Prediction via Bayesian Inference and Synthetic Bootstrap Resampling",
+      "authors": [
+        "Liyan Song",
+        "Leandro L. Minku",
+        "Xin Yao"
+      ],
+      "doi": "10.1145/3295700",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b193627bcf70ad9a0addb372c4a362604a28613d",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Runtime Fault Detection in Programmed Molecular Systems",
+      "authors": [
+        "Samuel J. Ellis",
+        "Titus H. Klinge",
+        "James I. Lathrop",
+        "Jack H. Lutz",
+        "Robyn R. Lutz",
+        "Andrew S. Miner",
+        "Hugh D. Potter"
+      ],
+      "doi": "10.1145/3295740",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8392c1e7cdec5daf1d9b8e329e898575d8d973f3",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    13,
+    {
+      "title": "D\n            <scp>ESEN</scp>",
+      "authors": [
+        "\u00d6zg\u00fcr Kafali",
+        "Nirav Ajmeri",
+        "Munindar P. Singh"
+      ],
+      "doi": "10.1145/3365664",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7479febd956cd0575286edfc8d7dc4ed3cb3de9a",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Domain Analysis and Description Principles, Techniques, and Modelling Languages",
+      "authors": [
+        "Dines Bj\u00f8rner"
+      ],
+      "doi": "10.1145/3295738",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "4e67cd7719568a5a5f3fb33319ad710e0c6ff79d",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Developing and Evaluating Objective Termination Criteria for Random Testing",
+      "authors": [
+        "Porfirio Tramontana",
+        "Domenico Amalfitano",
+        "Nicola Amatucci",
+        "Atif Memon",
+        "Anna Rita Fasolino"
+      ],
+      "doi": "10.1145/3339836",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1048b2e051adde4075721d8b9aa233ad4d0ba69b",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Theoretical and Practical Aspects of Linking Operational and Algebraic Semantics for MDESL",
+      "authors": [
+        "Feng Sheng",
+        "Huibiao Zhu",
+        "Jifeng He",
+        "Zongyuan Yang",
+        "Jonathan P. Bowen"
+      ],
+      "doi": "10.1145/3295699",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e59d3055491de09960dcff74e802c5586548fe4d",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    17,
+    {
+      "title": "How Understandable Are Pattern-based Behavioral Constraints for Novice Software Designers?",
+      "authors": [
+        "Christoph Czepa",
+        "Uwe Zdun"
+      ],
+      "doi": "10.1145/3306608",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "40f94e1737a9a1c9d45ffe9b39db89d1a93c1551",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    18,
+    {
+      "title": "The Virtual Developer",
+      "authors": [
+        "Carlo Bernaschina",
+        "Emanuele Falzone",
+        "Piero Fraternali",
+        "Sergio Luis Herrera Gonzalez"
+      ],
+      "doi": "10.1145/3340545",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9e2c39400a7821d14195b4a067d82e121ac402e2",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Automated Reuse of Model Transformations through Typing Requirements Models",
+      "authors": [
+        "Juan De Lara",
+        "Esther Guerra",
+        "Davide Di Ruscio",
+        "Juri Di Rocco",
+        "Jes\u00fas S\u00e1nchez Cuadrado",
+        "Ludovico Iovino",
+        "Alfonso Pierantonio"
+      ],
+      "doi": "10.1145/3340108",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1a40792b8841645bfef512b225e19c9f64226cee",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Efficient Verification of Concurrent Systems Using Synchronisation Analysis and SAT/SMT Solving",
+      "authors": [
+        "Pedro Antonino",
+        "Thomas Gibson-Robinson",
+        "A. W. Roscoe"
+      ],
+      "doi": "10.1145/3335149",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d3ec20def9eaf71e7d75f8af0208193124cc11b6",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Automated N-way Program Merging for Facilitating Family-based Analyses of Variant-rich Software",
+      "authors": [
+        "Dennis Reuling",
+        "Udo Kelter",
+        "Johannes B\u00fcrdek",
+        "Malte Lochau"
+      ],
+      "doi": "10.1145/3313789",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "69b9a55b8428d2f3109ec1a9ba8aa282b919f2ba",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Isolation Modeling and Analysis Based on Mobility",
+      "authors": [
+        "Jian-Min Jiang",
+        "Huibiao Zhu",
+        "Qin Li",
+        "Yongxin Zhao",
+        "Zhong Hong",
+        "Shi Zhang",
+        "Ping Gong"
+      ],
+      "doi": "10.1145/3306606",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "08f579db695aec19222daab154374f2ed215665a",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Farewell Editorial from the Outgoing Editor-in-Chief",
+      "authors": [
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1145/3301288",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "631d168d0f79a6a705cfb369a180ad6a4b5377d7",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Editorial from the Incoming Editor-in-Chief",
+      "authors": [],
+      "doi": "10.1145/3301290",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "65329ce308685f137f1a056723f803c35a55bd4d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/3317953",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5d053550bf29bfac0090919dcb3c99e400bfd330",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/3363297",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/3339833",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "85a3ef738cc14b0388cbaaab70723db3138a31b4",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ]
+]

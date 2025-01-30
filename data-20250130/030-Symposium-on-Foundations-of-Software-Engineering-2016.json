@@ -1,0 +1,2759 @@
+[
+  [
+    1,
+    {
+      "title": "Deep API learning",
+      "authors": [
+        "Xiaodong Gu",
+        "Hongyu Zhang",
+        "Dongmei Zhang",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1145/2950290.2950334",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e4a323a3a1ca5ff4cc2dd74ede65f48fd62b897b",
+        "citationCount": 547,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Why we refactor? confessions of GitHub contributors",
+      "authors": [
+        "Danilo Silva",
+        "Nikolaos Tsantalis",
+        "Marco Tulio Valente"
+      ],
+      "doi": "10.1145/2950290.2950305",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b85b942784e0a6c9d84553a1ee8b7ea090aaee84",
+        "citationCount": 256,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models",
+      "authors": [
+        "Yibiao Yang",
+        "Yuming Zhou",
+        "Jinping Liu",
+        "Yangyang Zhao",
+        "Hongmin Lu",
+        "Lei Xu",
+        "Baowen Xu",
+        "Hareton Leung"
+      ],
+      "doi": "10.1145/2950290.2950353",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b3391f91dbee797be0de2eab4f950df9df453874",
+        "citationCount": 214,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    4,
+    {
+      "title": "BinGo: cross-architecture cross-OS binary search",
+      "authors": [
+        "Mahinthan Chandramohan",
+        "Yinxing Xue",
+        "Zhengzi Xu",
+        "Yang Liu",
+        "Chia Yuan Cho",
+        "Hee Beng Kuan Tan"
+      ],
+      "doi": "10.1145/2950290.2950350",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8b0acc7ebcd30607010ea62a1a1f253d3ff47bcc",
+        "citationCount": 193,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    5,
+    {
+      "title": "How to break an API: cost negotiation and community values in three software ecosystems",
+      "authors": [
+        "Christopher Bogart",
+        "Christian K\u00e4stner",
+        "James Herbsleb",
+        "Ferdian Thung"
+      ],
+      "doi": "10.1145/2950290.2950325",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "97bdc56c63afac6690d0412795b3be380c0046ae",
+        "citationCount": 192,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    6,
+    {
+      "title": "API code recommendation using statistical learning from fine-grained changes",
+      "authors": [
+        "Anh Tuan Nguyen",
+        "Michael Hilton",
+        "Mihai Codoban",
+        "Hoan Anh Nguyen",
+        "Lily Mast",
+        "Eli Rademacher",
+        "Tien N. Nguyen",
+        "Danny Dig"
+      ],
+      "doi": "10.1145/2950290.2950333",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2f40f934842d64911ccbd5edcf6e20ec8c670261",
+        "citationCount": 156,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Anti-patterns in search-based program repair",
+      "authors": [
+        "Shin Hwei Tan",
+        "Hiroaki Yoshida",
+        "Mukul R. Prasad",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/2950290.2950295",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bfc52c5679434fd7243ab8215696aa9a543247f2",
+        "citationCount": 151,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Disrupting developer productivity one bot at a time",
+      "authors": [
+        "Margaret-Anne Storey",
+        "Alexey Zagalsky"
+      ],
+      "doi": "10.1145/2950290.2983989",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fc2ac42a76d5a696c70ae4b64d31988ef46a501e",
+        "citationCount": 150,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    9,
+    {
+      "title": "What would users change in my app? summarizing app reviews for recommending software changes",
+      "authors": [
+        "Andrea Di Sorbo",
+        "Sebastiano Panichella",
+        "Carol V. Alexandru",
+        "Junji Shimagaki",
+        "Corrado A. Visaggio",
+        "Gerardo Canfora",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1145/2950290.2950299",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3fccb2dd396a1c42d26575bbb9b6b3a6ca0b3207",
+        "citationCount": 144,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    10,
+    {
+      "title": "An extensive study of static regression test selection in modern software evolution",
+      "authors": [
+        "Owolabi Legunsen",
+        "Farah Hariri",
+        "August Shi",
+        "Yafeng Lu",
+        "Lingming Zhang",
+        "Darko Marinov"
+      ],
+      "doi": "10.1145/2950290.2950361",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "77090ac0f223824a622797d0d2c36e99f1affa3a",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Paradise unplugged: identifying barriers for female participation on stack overflow",
+      "authors": [
+        "Denae Ford",
+        "Justin Smith",
+        "Philip J. Guo",
+        "Chris Parnin"
+      ],
+      "doi": "10.1145/2950290.2950331",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6c6d2ba5dc8dae7bb460b6966d2d0a5aa4f2e204",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    12,
+    {
+      "title": "ARdoc: app reviews development oriented classifier",
+      "authors": [
+        "Sebastiano Panichella",
+        "Andrea Di Sorbo",
+        "Emitza Guzman",
+        "Corrado A. Visaggio",
+        "Gerardo Canfora",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1145/2950290.2983938",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ce0bec0bdc05b3a494c576c5821a7c7d945e8fe5",
+        "citationCount": 105,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Learning for test prioritization: an industrial case study",
+      "authors": [
+        "Benjamin Busjaeger",
+        "Tao Xie"
+      ],
+      "doi": "10.1145/2950290.2983954",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bd067ee785e62b1c42fc5fd8814ce5675acbe344",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Parameter-free probabilistic API mining across GitHub",
+      "authors": [
+        "Jaroslav Fowkes",
+        "Charles Sutton"
+      ],
+      "doi": "10.1145/2950290.2950319",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "90f51c95ca6183fb856c08d2922575efa8722ff4",
+        "citationCount": 92,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Python probabilistic type inference with natural language support",
+      "authors": [
+        "Zhaogui Xu",
+        "Xiangyu Zhang",
+        "Lin Chen",
+        "Kexin Pei",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2950290.2950343",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f801f962c895d5c606cb52db85f099a4ed8c34e2",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Automated test input generation for Android: are we really there yet in an industrial case?",
+      "authors": [
+        "Xia Zeng",
+        "Dengfeng Li",
+        "Wujie Zheng",
+        "Fan Xia",
+        "Yuetang Deng",
+        "Wing Lam",
+        "Wei Yang",
+        "Tao Xie"
+      ],
+      "doi": "10.1145/2950290.2983958",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a67e488b270e4e0cc29bd5df0db9b5a07b4bae47",
+        "citationCount": 88,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    17,
+    {
+      "title": "A discrete-time feedback controller for containerized cloud applications",
+      "authors": [
+        "Luciano Baresi",
+        "Sam Guinea",
+        "Alberto Leva",
+        "Giovanni Quattrocchi"
+      ],
+      "doi": "10.1145/2950290.2950328",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4beed7056c232d88ae0f5294034a710e06802eb4",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    18,
+    {
+      "title": "On-demand strong update analysis via value-flow refinement",
+      "authors": [
+        "Yulei Sui",
+        "Jingling Xue"
+      ],
+      "doi": "10.1145/2950290.2950296",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "97de28278fc5754a696d40c459da8815e7d724f3",
+        "citationCount": 81,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Discovering bug patterns in JavaScript",
+      "authors": [
+        "Quinn Hanam",
+        "Fernando S. de M. Brito",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1145/2950290.2950308",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7915125f1b90cd43120cca127cfb71e1c565a8a6",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Analyzing the validity of selective mutation with dominator mutants",
+      "authors": [
+        "Bob Kurtz",
+        "Paul Ammann",
+        "Jeff Offutt",
+        "M\u00e1rcio E. Delamaro",
+        "Mariet Kurtz",
+        "Nida G\u00f6k\u00e7e"
+      ],
+      "doi": "10.1145/2950290.2950322",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2720cf98edc25359316ba78512db2b4542d57ac8",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Causal impact analysis for app releases in google play",
+      "authors": [
+        "William Martin",
+        "Federica Sarro",
+        "Mark Harman"
+      ],
+      "doi": "10.1145/2950290.2950320",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "65716fe3096aecf2c86331e98b7cc8a8089c3c5d",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Interactive and guided architectural refactoring with search-based recommendation",
+      "authors": [
+        "Yun Lin",
+        "Xin Peng",
+        "Yuanfang Cai",
+        "Danny Dig",
+        "Diwen Zheng",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1145/2950290.2950317",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "87f0564913da09208dd50464e62e6adcee950acf",
+        "citationCount": 74,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Correctness witnesses: exchanging verification results between verifiers",
+      "authors": [
+        "Dirk Beyer",
+        "Matthias Dangl",
+        "Daniel Dietsch",
+        "Matthias Heizmann"
+      ],
+      "doi": "10.1145/2950290.2950351",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "20c076bb47abaef614771cdd64668a76248b5300",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    24,
+    {
+      "title": "String analysis for side channels with segmented oracles",
+      "authors": [
+        "Lucas Bang",
+        "Abdulbaki Aydin",
+        "Quoc-Sang Phan",
+        "Corina S. P\u0103s\u0103reanu",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/2950290.2950362",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "196d997642e971ee8c8846ae20ce382d3a02b57e",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Factors influencing code review processes in industry",
+      "authors": [
+        "Tobias Baum",
+        "Olga Liskin",
+        "Kai Niklas",
+        "Kurt Schneider"
+      ],
+      "doi": "10.1145/2950290.2950323",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "62521e8ce3e16b1956a27521e3a8f3dcec8e3f95",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    26,
+    {
+      "title": "WATERFALL: an incremental approach for repairing record-replay tests of web applications",
+      "authors": [
+        "Mouna Hammoudi",
+        "Gregg Rothermel",
+        "Andrea Stocco"
+      ],
+      "doi": "10.1145/2950290.2950294",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bb0cae74c6d2edcee2a05e11b0acd651c34cc7fe",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Understanding and detecting wake lock misuses for Android applications",
+      "authors": [
+        "Yepang Liu",
+        "Chang Xu",
+        "Shing-Chi Cheung",
+        "Valerio Terragni"
+      ],
+      "doi": "10.1145/2950290.2950297",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "262a69f6ffbd3dbed222569e1e703a9132ca05ae",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    28,
+    {
+      "title": "A large-scale empirical comparison of static and dynamic test case prioritization techniques",
+      "authors": [
+        "Qi Luo",
+        "Kevin Moran",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/2950290.2950344",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "39a2e5079c505d417f91e4ffcd7f061a3fce5b5a",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    29,
+    {
+      "title": "CacheOptimizer: helping developers configure caching frameworks for hibernate-based database-centric web applications",
+      "authors": [
+        "Tse-Hsun Chen",
+        "Weiyi Shang",
+        "Ahmed E. Hassan",
+        "Mohamed Nasser",
+        "Parminder Flora"
+      ],
+      "doi": "10.1145/2950290.2950303",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8037e72f3d67abe3810971e71417da45bb5a1753",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    30,
+    {
+      "title": "API deprecation: a retrospective analysis and detection method for code examples on the web",
+      "authors": [
+        "Jing Zhou",
+        "Robert J. Walker"
+      ],
+      "doi": "10.1145/2950290.2950298",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f667a15a6dd1db99e4d2728701045536815fc953",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Semi-supervised verified feedback generation",
+      "authors": [
+        "Shalini Kaleeswaran",
+        "Anirudh Santhiar",
+        "Aditya Kanade",
+        "Sumit Gulwani"
+      ],
+      "doi": "10.1145/2950290.2950363",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d3e5f4ab52923337ff04cca46291204c583a3968",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Relationship-aware code search for JavaScript frameworks",
+      "authors": [
+        "Xuan Li",
+        "Zerui Wang",
+        "Qianxiang Wang",
+        "Shoumeng Yan",
+        "Tao Xie",
+        "Hong Mei"
+      ],
+      "doi": "10.1145/2950290.2950341",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "38b7502f4ff7f4261365ca838cf4026a79a48a30",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Bing developer assistant: improving developer productivity by recommending sample code",
+      "authors": [
+        "Hongyu Zhang",
+        "Anuj Jain",
+        "Gaurav Khandelwal",
+        "Chandrashekhar Kaushik",
+        "Scott Ge",
+        "Wenxiang Hu"
+      ],
+      "doi": "10.1145/2950290.2983955",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f4f874c431b75432ed6c1badd1359c2af1cdd70e",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Keep it SIMPLEX: satisfying multiple goals with guarantees in control-based self-adaptive systems",
+      "authors": [
+        "Stepan Shevtsov",
+        "Danny Weyns"
+      ],
+      "doi": "10.1145/2950290.2950301",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f0f4aaf1b30f52913e31912559fd6035c2c9941f",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Code relatives: detecting similarly behaving software",
+      "authors": [
+        "Fang-Hsiang Su",
+        "Jonathan Bell",
+        "Kenneth Harvey",
+        "Simha Sethumadhavan",
+        "Gail Kaiser",
+        "Tony Jebara"
+      ],
+      "doi": "10.1145/2950290.2950321",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ba10b95ae2c6fe8d1f7a0c07c00dd0c652757e4f",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Lightweight specification and analysis of dynamic systems with rich configurations",
+      "authors": [
+        "Nuno Macedo",
+        "Julien Brunel",
+        "David Chemouil",
+        "Alcino Cunha",
+        "Denis Kuperberg"
+      ],
+      "doi": "10.1145/2950290.2950318",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e57de96fec1e616777998437f48dd13cfc805288",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    37,
+    {
+      "title": "T2API: synthesizing API code usage templates from English texts with statistical translation",
+      "authors": [
+        "Thanh Nguyen",
+        "Peter C. Rigby",
+        "Anh Tuan Nguyen",
+        "Mark Karanfil",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/2950290.2983931",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f641c4ef600897420f455953bea35f37556e4ba4",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Effectiveness of code contribution: from patch-based to pull-request-based tools",
+      "authors": [
+        "Jiaxin Zhu",
+        "Minghui Zhou",
+        "Audris Mockus"
+      ],
+      "doi": "10.1145/2950290.2950364",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "123450427f0644a09ab9e8a21d5ec151f3c513e1",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Proteus: computing disjunctive loop summary via path dependency analysis",
+      "authors": [
+        "Xiaofei Xie",
+        "Bihuan Chen",
+        "Yang Liu",
+        "Wei Le",
+        "Xiaohong Li"
+      ],
+      "doi": "10.1145/2950290.2950340",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "66129da29ceb5ca70cd4ada510467b8e92c09b24",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Efficiency of projectional editing: a controlled experiment",
+      "authors": [
+        "Thorsten Berger",
+        "Markus V\u00f6lter",
+        "Hans Peter Jensen",
+        "Taweesap Dangprasert",
+        "Janet Siegmund"
+      ],
+      "doi": "10.1145/2950290.2950315",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "37db876b401b5578765e376be6bed962ca4e63ba",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Call graph construction for Java libraries",
+      "authors": [
+        "Michael Reif",
+        "Michael Eichberg",
+        "Ben Hermann",
+        "Johannes Lerch",
+        "Mira Mezini"
+      ],
+      "doi": "10.1145/2950290.2950312",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3a921534c39415ac41e87c3ef343c60f51dd928f",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    42,
+    {
+      "title": "JBSE: a symbolic executor for Java programs with complex heap inputs",
+      "authors": [
+        "Pietro Braione",
+        "Giovanni Denaro",
+        "Mauro Pezz\u00e8"
+      ],
+      "doi": "10.1145/2950290.2983940",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "65fa4473573f8cd4ddce96ce50ad92a95f238d56",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Minimizing GUI event traces",
+      "authors": [
+        "Lazaro Clapp",
+        "Osbert Bastani",
+        "Saswat Anand",
+        "Alex Aiken"
+      ],
+      "doi": "10.1145/2950290.2950342",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e32e7733de92692794063a410243d5207e4e1b44",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Can testedness be effectively measured?",
+      "authors": [
+        "Iftekhar Ahmed",
+        "Rahul Gopinath",
+        "Caius Brindescu",
+        "Alex Groce",
+        "Carlos Jensen"
+      ],
+      "doi": "10.1145/2950290.2950324",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b75b88f140b4b78eee05b308d7f51c1f4ee89f10",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Gray links in the use of requirements traceability",
+      "authors": [
+        "Nan Niu",
+        "Wentao Wang",
+        "Arushi Gupta"
+      ],
+      "doi": "10.1145/2950290.2950354",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b590d859526f3bcb33ea779bbbe15bf346f0a8da",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Continuous deployment of mobile software at facebook (showcase)",
+      "authors": [
+        "Chuck Rossi",
+        "Elisa Shibley",
+        "Shi Su",
+        "Kent Beck",
+        "Tony Savor",
+        "Michael Stumm"
+      ],
+      "doi": "10.1145/2950290.2994157",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ea7de65de6b58abdcc12dd01059d3cbb91e046fd",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    47,
+    {
+      "title": "TIPMerge: recommending experts for integrating changes across branches",
+      "authors": [
+        "Catarina Costa",
+        "Jair Figueiredo",
+        "Leonardo Murta",
+        "Anita Sarma"
+      ],
+      "doi": "10.1145/2950290.2950339",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "04ab39398fa2e1e58b47a149dc09060b8d4ffaea",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    48,
+    {
+      "title": "SMT-based verification of parameterized systems",
+      "authors": [
+        "Arie Gurfinkel",
+        "Sharon Shoham",
+        "Yuri Meshman"
+      ],
+      "doi": "10.1145/2950290.2950330",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d6743a45f1b1c6e796ca9351d683b58d95c07e03",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Efficient generation of inductive validity cores for safety properties",
+      "authors": [
+        "Elaheh Ghassabani",
+        "Andrew Gacek",
+        "Michael W. Whalen"
+      ],
+      "doi": "10.1145/2950290.2950346",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4022eafaeac15197256cfe84892c06b5245b7fc1",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    50,
+    {
+      "title": "ECHO: instantaneous in situ race detection in the IDE",
+      "authors": [
+        "Sheng Zhan",
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/2950290.2950332",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8f5fe4eb6eae4493e90f39630c42118a07a5d7b3",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Time-travel debugging for JavaScript/Node.js",
+      "authors": [
+        "Earl T. Barr",
+        "Mark Marron",
+        "Ed Maurer",
+        "Dan Moseley",
+        "Gaurav Seth"
+      ],
+      "doi": "10.1145/2950290.2983933",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2ca1c0683896149a1d91f49e3b10ef3a967f1f87",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Static DOM event dependency analysis for testing web applications",
+      "authors": [
+        "Chungha Sung",
+        "Markus Kusano",
+        "Nishant Sinha",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/2950290.2950292",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "06a41175f54f81ebef72aacc74f1af087fd2682c",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Understanding and generating high quality patches for concurrency bugs",
+      "authors": [
+        "Haopeng Liu",
+        "Yuxi Chen",
+        "Shan Lu"
+      ],
+      "doi": "10.1145/2950290.2950309",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5c88f3769812478b62c0fe544e05546d32b9d5f0",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    54,
+    {
+      "title": "A deployable sampling strategy for data race detection",
+      "authors": [
+        "Yan Cai",
+        "Jian Zhang",
+        "Lingwei Cao",
+        "Jian Liu"
+      ],
+      "doi": "10.1145/2950290.2950310",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fe03e7bbd755f740d30a844530f3bd510eefad8e",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Foraging and navigations, fundamentally: developers' predictions of value and cost",
+      "authors": [
+        "David Piorkowski",
+        "Austin Z. Henley",
+        "Tahmid Nabi",
+        "Scott D. Fleming",
+        "Christopher Scaffidi",
+        "Margaret Burnett"
+      ],
+      "doi": "10.1145/2950290.2950302",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d1f277412550e9976028ba1d0e78e7a7e76ca872",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    56,
+    {
+      "title": "WebRanz: web page randomization for better advertisement delivery and web-bot prevention",
+      "authors": [
+        "Weihang Wang",
+        "Yunhui Zheng",
+        "Xinyu Xing",
+        "Yonghwi Kwon",
+        "Xiangyu Zhang",
+        "Patrick Eugster"
+      ],
+      "doi": "10.1145/2950290.2950352",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5a5c5f5edc427ab356f6bad0eec2b9eccd1a14b5",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    57,
+    {
+      "title": "On well-separation of GR(1) specifications",
+      "authors": [
+        "Shahar Maoz",
+        "Jan Oliver Ringert"
+      ],
+      "doi": "10.1145/2950290.2950300",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c0453e6ea175e23814d7c9880c084a6d3c8adcc6",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Detecting sensitive data disclosure via bi-directional text correlation analysis",
+      "authors": [
+        "Jianjun Huang",
+        "Xiangyu Zhang",
+        "Lin Tan"
+      ],
+      "doi": "10.1145/2950290.2950348",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "64297dbe7df15356b1e5c0b143ecb741c4ed0ad2",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Titanium: efficient analysis of evolving alloy specifications",
+      "authors": [
+        "Hamid Bagheri",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/2950290.2950337",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "075558ffea0d285920b5cd40728d9cc5ea91596a",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    60,
+    {
+      "title": "A cross-tool communication study on program analysis tool notifications",
+      "authors": [
+        "Brittany Johnson",
+        "Rahul Pandita",
+        "Justin Smith",
+        "Denae Ford",
+        "Sarah Elder",
+        "Emerson Murphy-Hill",
+        "Sarah Heckman",
+        "Caitlin Sadowski"
+      ],
+      "doi": "10.1145/2950290.2950304",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b0b449bbda625b47ef41325c3e540faf47147f12",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Flow-sensitive composition of thread-modular abstract interpretation",
+      "authors": [
+        "Markus Kusano",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/2950290.2950291",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ae17f53eb9fd74b8ad8becb3b480db220f83f2a9",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    62,
+    {
+      "title": "DiagDroid: Android performance diagnosis via anatomizing asynchronous executions",
+      "authors": [
+        "Yu Kang",
+        "Yangfan Zhou",
+        "Hui Xu",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/2950290.2950316",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bb2332d9bca6968569b1f7939687f581af6a09c0",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Python predictive analysis for bug detection",
+      "authors": [
+        "Zhaogui Xu",
+        "Peng Liu",
+        "Xiangyu Zhang",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2950290.2950357",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b697fd12c2ac267bf64b802b134f3f7ce0127d54",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    64,
+    {
+      "title": "NonDex: a tool for detecting and debugging wrong assumptions on Java API specifications",
+      "authors": [
+        "Alex Gyori",
+        "Ben Lambeth",
+        "August Shi",
+        "Owolabi Legunsen",
+        "Darko Marinov"
+      ],
+      "doi": "10.1145/2950290.2983932",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bdfdfbf41c466cb0c966ed598da727d095e0d5b3",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    65,
+    {
+      "title": "DeepSoft: a vision for a deep model of software",
+      "authors": [
+        "Hoa Khanh Dam",
+        "Truyen Tran",
+        "John Grundy",
+        "Aditya Ghose"
+      ],
+      "doi": "10.1145/2950290.2983985",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "23389dd6e66c2ecd906f3ae92e491e413c6b9363",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Mining performance specifications",
+      "authors": [
+        "Marc Br\u00fcnink",
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1145/2950290.2950314",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b56799804c57644db623d4a2b6a5dba71c1e7329",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Training the future workforce through task curation in an OSS ecosystem",
+      "authors": [
+        "Anita Sarma",
+        "Marco Aur\u00e9lio Gerosa",
+        "Igor Steinmacher",
+        "Rafael Leano"
+      ],
+      "doi": "10.1145/2950290.2983984",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8dcc0e37a95b636bdef5b58bb0026fc40df1e6ac",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    68,
+    {
+      "title": "When should internal interfaces be promoted to public?",
+      "authors": [
+        "Andr\u00e9 Hora",
+        "Marco Tulio Valente",
+        "Romain Robbes",
+        "Nicolas Anquetil"
+      ],
+      "doi": "10.1145/2950290.2950306",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a6379c200bcc9e4b9c92822aa21904acc4600f95",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Build system with lazy retrieval for Java projects",
+      "authors": [
+        "Ahmet Celik",
+        "Alex Knaust",
+        "Aleksandar Milicevic",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1145/2950290.2950358",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9a36f943c9ebc6708451ddefaba4c303d5c829f7",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Reaching the masses: a new subdiscipline of app programmer education",
+      "authors": [
+        "Charles Weir",
+        "Awais Rashid",
+        "James Noble"
+      ],
+      "doi": "10.1145/2950290.2983981",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fb4c0dc16a65efd0e3be3c14cae6874f1bb82e1b",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Automated change impact analysis between SysML models of requirements and design",
+      "authors": [
+        "Shiva Nejati",
+        "Mehrdad Sabetzadeh",
+        "Chetan Arora",
+        "Lionel C. Briand",
+        "Felix Mandoux"
+      ],
+      "doi": "10.1145/2950290.2950293",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "78b1ecaf3ee866228d4e56de0512078429b7cb78",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Fine-grained binary code authorship identification",
+      "authors": [
+        "Xiaozhu Meng"
+      ],
+      "doi": "10.1145/2950290.2983962",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "57009d2996632f9c37692309c500087841a22960",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Multi-representational security analysis",
+      "authors": [
+        "Eunsuk Kang",
+        "Aleksandar Milicevic",
+        "Daniel Jackson"
+      ],
+      "doi": "10.1145/2950290.2950356",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "155be7a1d2f2fca991ba37cb8bf46da72809b585",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Directed test generation to detect loop inefficiencies",
+      "authors": [
+        "Monika Dhok",
+        "Murali Krishna Ramanathan"
+      ],
+      "doi": "10.1145/2950290.2950360",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6a2073f9e8fd01334e03bb7c7e28a61f945a9dcc",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Field-exhaustive testing",
+      "authors": [
+        "Pablo Ponzio",
+        "Nazareno Aguirre",
+        "Marcelo F. Frias",
+        "Willem Visser"
+      ],
+      "doi": "10.1145/2950290.2950336",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ed8b4d61fe7f10290c13e56fcf7e48cc232bea96",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    76,
+    {
+      "title": "iGen: dynamic interaction inference for configurable software",
+      "authors": [
+        "ThanhVu Nguyen",
+        "Ugur Koc",
+        "Javran Cheng",
+        "Jeffrey S. Foster",
+        "Adam A. Porter"
+      ],
+      "doi": "10.1145/2950290.2950311",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e82b927b77b2e9e7d7814f75ef757deb72049b01",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Detecting table clones and smells in spreadsheets",
+      "authors": [
+        "Wensheng Dou",
+        "Shing-Chi Cheung",
+        "Chushu Gao",
+        "Chang Xu",
+        "Liang Xu",
+        "Jun Wei"
+      ],
+      "doi": "10.1145/2950290.2950359",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f9c392776fbdabba4b5346a03b01d7d1756f6291",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Sustainable software design",
+      "authors": [
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1145/2950290.2983983",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f05d59a5497b1b7d217f510c7e1db42dd11afdb4",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Parallel data race detection for task parallel programs with locks",
+      "authors": [
+        "Adarsh Yoga",
+        "Santosh Nagarakatte",
+        "Aarti Gupta"
+      ],
+      "doi": "10.1145/2950290.2950329",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "01f8d20e8543a26df46a53a7cc726d3bd1a91a1b",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Isomorphic regression testing: executing uncovered branches without test augmentation",
+      "authors": [
+        "Jie Zhang",
+        "Yiling Lou",
+        "Lingming Zhang",
+        "Dan Hao",
+        "Lu Zhang",
+        "Hong Mei"
+      ],
+      "doi": "10.1145/2950290.2950313",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3f0558b8f0a7760d0e1e74f8d2d0c61a8c3e00dc",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Hunter: next-generation code reuse for Java",
+      "authors": [
+        "Yuepeng Wang",
+        "Yu Feng",
+        "Ruben Martins",
+        "Arati Kaushik",
+        "Isil Dillig",
+        "Steven P. Reiss"
+      ],
+      "doi": "10.1145/2950290.2983934",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ca0c4a5e00d4df3a8e268a3d5f26b280eba07fc1",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Extracting instruction semantics via symbolic execution of code generators",
+      "authors": [
+        "Niranjan Hasabnis",
+        "R. Sekar"
+      ],
+      "doi": "10.1145/2950290.2950335",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6a6776c2ac8a2381a79c8e4f9a51f7e0fb871c73",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Detecting and fixing precision-specific operations for measuring floating-point errors",
+      "authors": [
+        "Ran Wang",
+        "Daming Zou",
+        "Xinrui He",
+        "Yingfei Xiong",
+        "Lu Zhang",
+        "Gang Huang"
+      ],
+      "doi": "10.1145/2950290.2950355",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e5d19952147ebc792f3ace2f954d9ebf7e3b829d",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    84,
+    {
+      "title": "PUMConf: a tool to configure product specific use case and domain models in a product line",
+      "authors": [
+        "Ines Hajri",
+        "Arda Goknil",
+        "Lionel C. Briand",
+        "Thierry Stephany"
+      ],
+      "doi": "10.1145/2950290.2983935",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "549842030a9331c31ed43b1f1910086422983c26",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Building a socio-technical theory of coordination: why and how (outstanding research award)",
+      "authors": [
+        "James Herbsleb"
+      ],
+      "doi": "10.1145/2950290.2994160",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a8086b59fd34aa60ccca768d5f381f46ab9c544f",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Revamping JavaScript static analysis via localization and remediation of root causes of imprecision",
+      "authors": [
+        "Shiyi Wei",
+        "Omer Tripp",
+        "Barbara G. Ryder",
+        "Julian Dolby"
+      ],
+      "doi": "10.1145/2950290.2950338",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "645904316abade31d06320e1388019538571a149",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Visualizing code and coverage changes for code review",
+      "authors": [
+        "Sebastiaan Oosterwaal",
+        "Arie van Deursen",
+        "Roberta Coelho",
+        "Anand Ashok Sawant",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1145/2950290.2983929",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "44b99affad0172c3046da7714b44c19b2128d6b7",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Validate your SPDX files for open source license violations",
+      "authors": [
+        "Demetris Paschalides",
+        "Georgia M. Kapitsaki"
+      ],
+      "doi": "10.1145/2950290.2983939",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "12e0b140c621121bcb4303d7d276945490cbc39b",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Combinatorial generation of structurally complex test inputs for commercial software applications",
+      "authors": [
+        "Hua Zhong",
+        "Lingming Zhang",
+        "Sarfraz Khurshid"
+      ],
+      "doi": "10.1145/2950290.2983959",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3ef92f9f0acb9e1a8dd2163a2b26c360ed477ccb",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Guided code synthesis using deep neural networks",
+      "authors": [
+        "Carol V. Alexandru"
+      ],
+      "doi": "10.1145/2950290.2983951",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0f9b2717fcbbe9389c8c3980aa53054b899d4136",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Hotspot symbolic execution of floating-point programs",
+      "authors": [
+        "Minghui Quan"
+      ],
+      "doi": "10.1145/2950290.2983966",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "43aca55ebc6a0567becc3556f55ac09ebedf9cfe",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    92,
+    {
+      "title": "A portable interface for runtime energy monitoring",
+      "authors": [
+        "Connor Imes",
+        "Lars Bergstrom",
+        "Henry Hoffmann"
+      ],
+      "doi": "10.1145/2950290.2983956",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b9b2973efefd24717b36b7ae7f35978157a1a6ef",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    93,
+    {
+      "title": "BigDebug: interactive debugger for big data analytics in Apache Spark",
+      "authors": [
+        "Muhammad Ali Gulzar",
+        "Matteo Interlandi",
+        "Tyson Condie",
+        "Miryung Kim"
+      ],
+      "doi": "10.1145/2950290.2983930",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6da830bf6714d175ede7228f0a3b2b1575171a81",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Finding and breaking test dependencies to speed up test execution",
+      "authors": [
+        "Sebastian Kappler"
+      ],
+      "doi": "10.1145/2950290.2983974",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "dc21437128fcb7cea94c76c182ffc245abc8be08",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Reasoning with imprecise privacy preferences",
+      "authors": [
+        "Inah Omoronyia"
+      ],
+      "doi": "10.1145/2950290.2983982",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4fb663db9f1dc677838bc321b96554d15a632bb3",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    96,
+    {
+      "title": "How should static analysis tools explain anomalies to developers?",
+      "authors": [
+        "Titus Barik"
+      ],
+      "doi": "10.1145/2950290.2983968",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "580b915585789f951e40ef22f52ddf19e38a2e4e",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Evaluation of fault localization techniques",
+      "authors": [
+        "Spencer Pearson"
+      ],
+      "doi": "10.1145/2950290.2983967",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8d9aecbe8225e273b4a75d1a9ce0578701bb547d",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    98,
+    {
+      "title": "PerfGuard: binary-centric application performance monitoring in production environments",
+      "authors": [
+        "Chung Hwan Kim",
+        "Junghwan Rhee",
+        "Kyu Hyung Lee",
+        "Xiangyu Zhang",
+        "Dongyan Xu"
+      ],
+      "doi": "10.1145/2950290.2950347",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e381c76a9f8314e5c8f0602041ae2a1e5579bfb2",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Designing minimal effective normative systems with the help of lightweight formal methods",
+      "authors": [
+        "Jianye Hao",
+        "Eunsuk Kang",
+        "Jun Sun",
+        "Daniel Jackson"
+      ],
+      "doi": "10.1145/2950290.2950307",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "adbb25229be1a18aac3796d5e3959f003651fd4d",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Understanding and improving continuous integration",
+      "authors": [
+        "Michael Hilton"
+      ],
+      "doi": "10.1145/2950290.2983952",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "df412d744c8a6ae2fea8bffb98c44540b994507c",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    101,
+    {
+      "title": "On-the-fly decomposition of specifications in software model checking",
+      "authors": [
+        "Sven Apel",
+        "Dirk Beyer",
+        "Vitaly Mordan",
+        "Vadim Mutilin",
+        "Andreas Stahlbauer"
+      ],
+      "doi": "10.1145/2950290.2950349",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "478638181e257fdc29fd554dc861886c000071b0",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    102,
+    {
+      "title": "POLLUX: safely upgrading dependent application libraries",
+      "authors": [
+        "Sukrit Kalra",
+        "Ayush Goel",
+        "Dhriti Khanna",
+        "Mohan Dhawan",
+        "Subodh Sharma",
+        "Rahul Purandare"
+      ],
+      "doi": "10.1145/2950290.2950345",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3c1d6cdea73619d915c07168f7b51ba5ac481bf0",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    103,
+    {
+      "title": "TIPMerge: recommending developers for merging branches",
+      "authors": [
+        "Catarina Costa",
+        "Jair Figueiredo",
+        "Anita Sarma",
+        "Leonardo Murta"
+      ],
+      "doi": "10.1145/2950290.2983936",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5dc89bad74d29a966b2c88718a75b3e7716bcf6c",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    104,
+    {
+      "title": "End-to-end memory behavior profiling with DINAMITE",
+      "authors": [
+        "Svetozar Miucin",
+        "Conor Brady",
+        "Alexandra Fedorova"
+      ],
+      "doi": "10.1145/2950290.2983941",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9cd72b7860a2aec20caca46fdd28b1efaeee454f",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Studying developer gaze to empower software engineering research and practice",
+      "authors": [
+        "Bonita Sharif",
+        "Benjamin Clark",
+        "Jonathan I. Maletic"
+      ],
+      "doi": "10.1145/2950290.2983988",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "deebf8a9e97a4968ee4b387ced7419aed0ea0e7e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Cluster-based test suite functional analysis",
+      "authors": [
+        "Marcel Zalmanovici",
+        "Orna Raz",
+        "Rachel Tzoref-Brill"
+      ],
+      "doi": "10.1145/2950290.2983957",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f37067ed00a29f905d8bdfb8db24d6d4b5979a1a",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Constraint-based event trace reduction",
+      "authors": [
+        "Jie Wang"
+      ],
+      "doi": "10.1145/2950290.2983964",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "90c62bd139d9c181ba4b2d4baf928e9aa32fe85c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Crash consistency validation made easy",
+      "authors": [
+        "Yanyan Jiang",
+        "Haicheng Chen",
+        "Feng Qin",
+        "Chang Xu",
+        "Xiaoxing Ma",
+        "Jian Lu"
+      ],
+      "doi": "10.1145/2950290.2950327",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d438d6f1ab03228332ceae760cc191aff5b9fc55",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Combining bug detection and test case generation",
+      "authors": [
+        "Martin Kellogg"
+      ],
+      "doi": "10.1145/2950290.2983970",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4bf99b9df9090439c5971e299974d3c518a13525",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Supporting change in product lines within the context of use case-driven development and testing",
+      "authors": [
+        "Ines Hajri"
+      ],
+      "doi": "10.1145/2950290.2983945",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "645850fea5cb7eeb51d082229a235593ae662f6b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Social health cues developers use when choosing open source packages",
+      "authors": [
+        "Andrew Head"
+      ],
+      "doi": "10.1145/2950290.2983973",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3e8729b65fcb0464e92378476479630bd8f68129",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    112,
+    {
+      "title": "FSX: a tool for fine-grained incremental unit test generation for C/C++ programs",
+      "authors": [
+        "Hiroaki Yoshida",
+        "Susumu Tokumoto",
+        "Mukul R. Prasad",
+        "Indradeep Ghosh",
+        "Tadahiro Uehara"
+      ],
+      "doi": "10.1145/2950290.2983937",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "03859a7d16052092292e741d1727693297c75a3a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Bounded model checking of state-space digital systems: the impact of finite word-length effects on the implementation of fixed-point digital controllers based on state-space modeling",
+      "authors": [
+        "Felipe R. Monteiro"
+      ],
+      "doi": "10.1145/2950290.2983979",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "71a011c20d3c1a7e5c931133d67d6b3d271ea2cb",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Atlas: an intelligent, performant framework for web-based grid computing",
+      "authors": [
+        "Sachith Gullapalli"
+      ],
+      "doi": "10.1145/2950290.2983980",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ebd30bc7dd862d15dba808de615fdf54d9b6af54",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    115,
+    {
+      "title": "\"Womenomics\" and gender-inclusive software: what software engineers need to know (invited talk)",
+      "authors": [
+        "Margaret Burnett"
+      ],
+      "doi": "10.1145/2950290.2994159",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c064c723d0b9d3608eeea2897f9e24699c385026",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Automatic performance testing using input-sensitive profiling",
+      "authors": [
+        "Qi Luo"
+      ],
+      "doi": "10.1145/2950290.2983975",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e07bd6dfac84e002923896ef89f248d6af7f606f",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Static loop analysis and its applications",
+      "authors": [
+        "Xie Xiaofei"
+      ],
+      "doi": "10.1145/2950290.2983972",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b5772b7150d5212735bbaf7fd0412d4052e93844",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Effective assignment and assistance to software developers and reviewers",
+      "authors": [
+        "Motahareh Bahrami Zanjani"
+      ],
+      "doi": "10.1145/2950290.2983960",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8c67fa7a1cd2a7dee718612d50f44c5dc35465ab",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Input-sensitive performance testing",
+      "authors": [
+        "Qi Luo"
+      ],
+      "doi": "10.1145/2950290.2983953",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3ac9f600c19ee8a2b58891c3a6717727f85730c8",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Online shared memory dependence reduction via bisectional coordination",
+      "authors": [
+        "Yanyan Jiang",
+        "Chang Xu",
+        "Du Li",
+        "Xiaoxing Ma",
+        "Jian Lu"
+      ],
+      "doi": "10.1145/2950290.2950326",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9b12d777cc891f0452e3b5283bc7336d4af771c5",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Enforcing correct array indexes with a type system",
+      "authors": [
+        "Joseph Santino"
+      ],
+      "doi": "10.1145/2950290.2983976",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "36e849f8004e63b072151ee2252494e3244124cf",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Regression testing of web applications using Record/Replay tools",
+      "authors": [
+        "Mouna Hammoudi"
+      ],
+      "doi": "10.1145/2950290.2983942",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c3ad2440bb4eb4633db72144529c677908a7cb43",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    123,
+    {
+      "title": "On the utility of dominator mutants for mutation testing",
+      "authors": [
+        "Bob Kurtz"
+      ],
+      "doi": "10.1145/2950290.2983950",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e6acaf91c42a2b72a54fe63c0bffb33b53e86195",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Refactoring and migration of cascading style sheets: towards optimization and improved maintainability",
+      "authors": [
+        "Davood Mazinanian"
+      ],
+      "doi": "10.1145/2950290.2983943",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "17b25d4429dc6823df139b87a13468d596661ef9",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Understanding behavioural patterns in JavaScript",
+      "authors": [
+        "Saba Alimadadi"
+      ],
+      "doi": "10.1145/2950290.2983947",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ba9faa1a41940bdbef8071acff1dc8dcc2850474",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    126,
+    {
+      "title": "Correct or usable? the limits of traditional verification (impact paper award)",
+      "authors": [
+        "Daniel Jackson",
+        "Mandana Vaziri"
+      ],
+      "doi": "10.1145/2950290.2994161",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c65624a5c8b39ecfa89326121b1dfda70f7888ff",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Designing for dystopia: software engineering research for the post-apocalypse",
+      "authors": [
+        "Titus Barik",
+        "Rahul Pandita",
+        "Justin Middleton",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1145/2950290.2983986",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4d34f0224bb8607de34753d0035bed802c267841",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Making invisible things visible: tracking down known vulnerabilities at 3000 companies (showcase)",
+      "authors": [
+        "Gazi Mahmud"
+      ],
+      "doi": "10.1145/2950290.2994155",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c6611388dca845f24cc32cc40021452a0fcca912",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    129,
+    {
+      "title": "RABIEF: range analysis based integer error fixing",
+      "authors": [
+        "Xi Cheng"
+      ],
+      "doi": "10.1145/2950290.2983961",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ea02c1e301186f1b4e5dd418b05dba2afa5045c6",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    130,
+    {
+      "title": "Repairing test dependence",
+      "authors": [
+        "Wing Lam"
+      ],
+      "doi": "10.1145/2950290.2983969",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6802d276c82cb315d9ddd21702a1357cf74234b0",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Automatic trigger generation for end user written rules for home automation",
+      "authors": [
+        "Chandrakana Nandi"
+      ],
+      "doi": "10.1145/2950290.2983965",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f1fc4acd70cc9939cdf4aaa2dd3622ac0746869f",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Developing a reusable control-based approach to build self-adaptive software systems with formal guarantees",
+      "authors": [
+        "Stepan Shevtsov"
+      ],
+      "doi": "10.1145/2950290.2983949",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a0056aa00cf13dab581724ad3ca3112149419a03",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Automating repetitive code changes using examples",
+      "authors": [
+        "Reudismam Rolim"
+      ],
+      "doi": "10.1145/2950290.2983944",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8a8ce9f53be0791d8d25ebd14e318adffcd4f015",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Discovering additional violations of Java API invariants",
+      "authors": [
+        "Waylon Huang"
+      ],
+      "doi": "10.1145/2950290.2983977",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5b3527c92d69102e78eccc18f34a9585d742cc7e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Data structure synthesis",
+      "authors": [
+        "Calvin Loncaric"
+      ],
+      "doi": "10.1145/2950290.2983946",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "27a9d98325ec7fedb2a1d919d583c06c99bbd404",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Identifying participants for collaborative merge",
+      "authors": [
+        "Catarina Costa"
+      ],
+      "doi": "10.1145/2950290.2983963",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2ab578eab2609083092b69b1890d00021f658377",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Generating interactive web pages from storyboards",
+      "authors": [
+        "Pavel Panchekha"
+      ],
+      "doi": "10.1145/2950290.2983948",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d19da2f352c59651e13a4fc6a8e4b41d6f5b7c50",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    138,
+    {
+      "title": "SmartDebug: an interactive debug assistant for Java",
+      "authors": [
+        "Xinrui Guo"
+      ],
+      "doi": "10.1145/2950290.2983971",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8b6f8b96eef2bce2240c01db19675e2890cfb0da",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Budgeted testing through an algorithmic lens",
+      "authors": [
+        "Myra B. Cohen",
+        "A. Pavan",
+        "N. V. Vinodchandran"
+      ],
+      "doi": "10.1145/2950290.2983987",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4f1d4092f38462b930b54086447617a9244531d0",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    140,
+    {
+      "title": "Model, execute, and deploy: answering the hard questions in end-user programming (showcase)",
+      "authors": [
+        "Shan Shan Huang"
+      ],
+      "doi": "10.1145/2950290.2994158",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "285cccd6ccb1526bd631ad3f52aaab0f9b62e591",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Cozy: synthesizing collection data structures",
+      "authors": [
+        "Calvin Loncaric"
+      ],
+      "doi": "10.1145/2950290.2986032",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "15d5911ea940c46869b923b4021ffd60e710d20f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Developer workflow at google (showcase)",
+      "authors": [
+        "Caitlin Sadowski"
+      ],
+      "doi": "10.1145/2950290.2994156",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3075d894b45669df0f87d7d6f0c75304404200d4",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Preventing signedness errors in numerical computations in Java",
+      "authors": [
+        "Christopher A. Mackie"
+      ],
+      "doi": "10.1145/2950290.2983978",
+      "venue": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c67eb28e09a4069729793f0a687d1b064a368f10",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ]
+]

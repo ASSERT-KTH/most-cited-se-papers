@@ -1,0 +1,3249 @@
+[
+  [
+    1,
+    {
+      "title": "Automation of systematic literature reviews: A systematic literature review",
+      "authors": [
+        "Raymon van Dinter",
+        "Bedir Tekinerdogan",
+        "Cagatay Catal"
+      ],
+      "doi": "10.1016/j.infsof.2021.106589",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "05491e1b16bfcb68022cde37442ffde6a5a3ccfd",
+        "citationCount": 194,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    2,
+    {
+      "title": "BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection",
+      "authors": [
+        "Sicong Cao",
+        "Xiaobing Sun",
+        "Lili Bo",
+        "Ying Wei",
+        "Bin Li"
+      ],
+      "doi": "10.1016/j.infsof.2021.106576",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "69085baa399356c567717946e95c30519d44df30",
+        "citationCount": 141,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Understanding and addressing quality attributes of microservices architecture: A Systematic literature review",
+      "authors": [
+        "Shanshan Li",
+        "He Zhang",
+        "Zijia Jia",
+        "Chenxing Zhong",
+        "Cheng Zhang",
+        "Zhihao Shan",
+        "Jinfeng Shen",
+        "Muhammad Ali Babar"
+      ],
+      "doi": "10.1016/j.infsof.2020.106449",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "383bb59078641c7629c13a9ca09a862faebad8fa",
+        "citationCount": 90,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    4,
+    {
+      "title": "A risk prediction model for software project management based on similarity analysis of context histories",
+      "authors": [
+        "Alexsandro Souza Filippetto",
+        "Robson Lima",
+        "Jorge Luis Vict\u00f3ria Barbosa"
+      ],
+      "doi": "10.1016/j.infsof.2020.106497",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a00827af63631e0b84db638377e1d9765751c102",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    5,
+    {
+      "title": "COSTE: Complexity-based OverSampling TEchnique to alleviate the class imbalance problem in software defect prediction",
+      "authors": [
+        "Shuo Feng",
+        "Jacky Keung",
+        "Xiao Yu",
+        "Yan Xiao",
+        "Kwabena Ebo Bennin",
+        "Md Alamgir Kabir",
+        "Miao Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2020.106432",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "222a277450747907d8b60c0b106ff2928ed48dc0",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    6,
+    {
+      "title": "From monolithic systems to Microservices: An assessment framework",
+      "authors": [
+        "Florian Auer",
+        "Valentina Lenarduzzi",
+        "Michael Felderer",
+        "Davide Taibi"
+      ],
+      "doi": "10.1016/j.infsof.2021.106600",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "108f54df9ce657a1a7cbc441151036bf10dcd6c1",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    7,
+    {
+      "title": "On the generalizability of Neural Program Models with respect to semantic-preserving program transformations",
+      "authors": [
+        "Md Rafiqul Islam Rabin",
+        "Nghi D.Q. Bui",
+        "Ke Wang",
+        "Yijun Yu",
+        "Lingxiao Jiang",
+        "Mohammad Amin Alipour"
+      ],
+      "doi": "10.1016/j.infsof.2021.106552",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "be910753f93c24712942536c8dc69e320247c680",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Improving high-impact bug report prediction with combination of interactive machine learning and active learning",
+      "authors": [
+        "Xiaoxue Wu",
+        "Wei Zheng",
+        "Xiang Chen",
+        "Yu Zhao",
+        "Tingting Yu",
+        "Dejun Mu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106530",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ddaa9471ec0e27b4793270070fa95b2e6f82ba9b",
+        "citationCount": 74,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Quality Assessment in Systematic Literature Reviews: A Software Engineering Perspective",
+      "authors": [
+        "Lanxin Yang",
+        "He Zhang",
+        "Haifeng Shen",
+        "Xin Huang",
+        "Xin Zhou",
+        "Guoping Rong",
+        "Dong Shao"
+      ],
+      "doi": "10.1016/j.infsof.2020.106397",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0eafd95052bd52d02c650aec0cb9d17fecb5f252",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Towards a unified criteria model for usability evaluation in the context of open source software based on a fuzzy Delphi method",
+      "authors": [
+        "Kareem A. Dawood",
+        "Khaironi Y. Sharif",
+        "Abdul A. Ghani",
+        "H. Zulzalil",
+        "A.A. Zaidan",
+        "B.B. Zaidan"
+      ],
+      "doi": "10.1016/j.infsof.2020.106453",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "80cb1d7036e924dc6652c15e02a842f62f5f282a",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    11,
+    {
+      "title": "A Systematic Comparison of search-Based approaches for LDA hyperparameter tuning",
+      "authors": [
+        "Annibale Panichella"
+      ],
+      "doi": "10.1016/j.infsof.2020.106411",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3bfb24c5e6710fa5008604043c671fe945a9e2bd",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Self-Attention Networks for Code Search",
+      "authors": [
+        "Sen Fang",
+        "You-Shuai Tan",
+        "Tao Zhang",
+        "Yepang Liu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106542",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "19f60213590b251fd4d56f857e6e182bd993ead3",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Code smell detection using feature selection and stacking ensemble: An empirical investigation",
+      "authors": [
+        "Amal Alazba",
+        "Hamoud Aljamaan"
+      ],
+      "doi": "10.1016/j.infsof.2021.106648",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c01700a34a9c8189fb8f4d003f1ea371a63ee1d4",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Security in agile software development: A practitioner survey",
+      "authors": [
+        "Kalle Rindell",
+        "Jukka Ruohonen",
+        "Johannes Holvitie",
+        "Sami Hyrynsalmi",
+        "Ville Lepp\u00e4nen"
+      ],
+      "doi": "10.1016/j.infsof.2020.106488",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5608f27f44ae1c4cb377257f7c00a7bfbdbf2d18",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Big Data analytics in Agile software development: A systematic mapping study",
+      "authors": [
+        "Katarzyna Biesialska",
+        "Xavier Franch",
+        "Victor Munt\u00e9s-Mulero"
+      ],
+      "doi": "10.1016/j.infsof.2020.106448",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b9fe7150cc810e2405669ead53cbb7201feaa542",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    16,
+    {
+      "title": "A study of effectiveness of deep learning in locating real faults",
+      "authors": [
+        "Zhuo Zhang",
+        "Yan Lei",
+        "Xiaoguang Mao",
+        "Meng Yan",
+        "Ling Xu",
+        "Xiaohong Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2020.106486",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "df2edbd08a84d06f71af11f3563b7273be1e11e0",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Augmenting commit classification by using fine-grained source code changes and a pre-trained deep neural language model",
+      "authors": [
+        "Lobna Ghadhab",
+        "Ilyes Jenhani",
+        "Mohamed Wiem Mkaouer",
+        "Montassar Ben Messaoud"
+      ],
+      "doi": "10.1016/j.infsof.2021.106566",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3ebd93358472dcdb1ece04b787c122bcd6948cb3",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Spectrum-based multi-fault localization using Chaotic Genetic Algorithm",
+      "authors": [
+        "Debolina Ghosh",
+        "Jagannath Singh"
+      ],
+      "doi": "10.1016/j.infsof.2021.106512",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "1cbf3ba024d4b0be6e8bbc93537ea899f4434fee",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Case Study Research in Software Engineering\u2014It is a Case, and it is a Study, but is it a Case Study?",
+      "authors": [
+        "Claes Wohlin"
+      ],
+      "doi": "10.1016/j.infsof.2021.106514",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "19de8d86ec58a1ba7ea89b66d8522e1f7169cd6f",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review",
+      "authors": [
+        "Severi Peltonen",
+        "Luca Mezzalira",
+        "Davide Taibi"
+      ],
+      "doi": "10.1016/j.infsof.2021.106571",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f504b9b58ca977b8e3c5e1bf0a3ac8472428120c",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Grey Literature in Software Engineering: A critical review",
+      "authors": [
+        "Fernando Kamei",
+        "Igor Wiese",
+        "Crescencio Lima",
+        "Ivanilton Polato",
+        "Vilmar Nepomuceno",
+        "Waldemar Ferreira",
+        "M\u00e1rcio Ribeiro",
+        "Carolline Pena",
+        "Bruno Cartaxo",
+        "Gustavo Pinto",
+        "S\u00e9rgio Soares"
+      ],
+      "doi": "10.1016/j.infsof.2021.106609",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "756621a276b064b6d075d6a1deca9fddc7908ef8",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    22,
+    {
+      "title": "What skills do IT companies look for in new developers? A study with Stack Overflow jobs",
+      "authors": [
+        "Jo\u00e3o Eduardo Montandon",
+        "Cristiano Politowski",
+        "Luciana Lourdes Silva",
+        "Marco Tulio Valente",
+        "Fabio Petrillo",
+        "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc"
+      ],
+      "doi": "10.1016/j.infsof.2020.106429",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "da9336fa868957676b40eb94ed68d3c96c4eeafe",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Industry-Academia research collaboration in software engineering: The Certus model",
+      "authors": [
+        "Dusica Marijan",
+        "Arnaud Gotlieb"
+      ],
+      "doi": "10.1016/j.infsof.2020.106473",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0a42b6afd0f9d51c8f69a48e53d48061433da67a",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Overcoming cultural barriers to being agile in distributed teams",
+      "authors": [
+        "Darja \u0160mite",
+        "Nils Brede Moe",
+        "Javier Gonzalez-Huerta"
+      ],
+      "doi": "10.1016/j.infsof.2021.106612",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4c7b734dd5bcbfc65b948fd1976f530567b5b99b",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Why many challenges with GUI test automation (will) remain",
+      "authors": [
+        "Michel Nass",
+        "Emil Al\u00e9groth",
+        "Robert Feldt"
+      ],
+      "doi": "10.1016/j.infsof.2021.106625",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9b51160857f103dbb3924bb9be51a4e76eaa1cfd",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    26,
+    {
+      "title": "\u201cWon\u2019t We Fix this Issue?\u201d Qualitative characterization and automated identification of wontfix issues on GitHub",
+      "authors": [
+        "Sebastiano Panichella",
+        "Gerardo Canfora",
+        "Andrea Di Sorbo"
+      ],
+      "doi": "10.1016/j.infsof.2021.106665",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9fad68beb7c40895609edc3cc3b1933a55de2206",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    27,
+    {
+      "title": "The do\u2019s and don\u2019ts of infrastructure code: A systematic gray literature review",
+      "authors": [
+        "Indika Kumara",
+        "Mart\u00edn Garriga",
+        "Angel Urbano Romeu",
+        "Dario Di Nucci",
+        "Fabio Palomba",
+        "Damian Andrew Tamburri",
+        "Willem-Jan van den Heuvel"
+      ],
+      "doi": "10.1016/j.infsof.2021.106593",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "86fff3faa6dd79ba22726d44f456ae2af5857694",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Joint feature representation learning and progressive distribution matching for cross-project defect prediction",
+      "authors": [
+        "Quanyi Zou",
+        "Lu Lu",
+        "Zhanyu Yang",
+        "Xiaowei Gu",
+        "Shaojian Qiu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106588",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "d32ad341cd3eeb994dbfb55eebb1bce1e1ed0eeb",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Measuring the cognitive load of software developers: An extended Systematic Mapping Study",
+      "authors": [
+        "Lucian Jos\u00e9 Gon\u00e7ales",
+        "Kleinner Farias",
+        "Bruno C. da Silva"
+      ],
+      "doi": "10.1016/j.infsof.2021.106563",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "891df2f232842595eef81600ab4027d7f7514ef4",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    30,
+    {
+      "title": "DeepBackground: Metamorphic testing for Deep-Learning-driven image recognition systems accompanied by Background-Relevance",
+      "authors": [
+        "Zhiyi Zhang",
+        "Pu Wang",
+        "Hongjing Guo",
+        "Ziyuan Wang",
+        "Yuqian Zhou",
+        "Zhiqiu Huang"
+      ],
+      "doi": "10.1016/j.infsof.2021.106701",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "af4b821d347c48814e3ef0f73262a251f7cd2280",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Automated formalization of structured natural language requirements",
+      "authors": [
+        "Dimitra Giannakopoulou",
+        "Thomas Pressburger",
+        "Anastasia Mavridou",
+        "Johann Schumann"
+      ],
+      "doi": "10.1016/j.infsof.2021.106590",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a482818128e350d115d444b6c27f15c40f398b7e",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Mobile app privacy in software engineering research: A systematic mapping study",
+      "authors": [
+        "Fahimeh Ebrahimi",
+        "Miroslav Tushev",
+        "Anas Mahmoud"
+      ],
+      "doi": "10.1016/j.infsof.2020.106466",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b8314d84f44a9d4c24160525ab1e9f0ebfafdcb6",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Integrated framework for incorporating sustainability design in software engineering life-cycle: An empirical study",
+      "authors": [
+        "Theresia Ratih Dewi Saputri",
+        "Seok-Won Lee"
+      ],
+      "doi": "10.1016/j.infsof.2020.106407",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4613a0a27b69a77cd73c122fb084df7b2de779e3",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    34,
+    {
+      "title": "On preserving the behavior in software refactoring: A systematic mapping study",
+      "authors": [
+        "Eman Abdullah AlOmar",
+        "Mohamed Wiem Mkaouer",
+        "Christian Newman",
+        "Ali Ouni"
+      ],
+      "doi": "10.1016/j.infsof.2021.106675",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b5646e0c023e22015dc37aa07355199e6551240f",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Guiding the selection of research methodology in industry\u2013academia collaboration in software engineering",
+      "authors": [
+        "Claes Wohlin",
+        "Per Runeson"
+      ],
+      "doi": "10.1016/j.infsof.2021.106678",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "04b40448e8250f3c0642b63a66976d9bf85606ca",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    36,
+    {
+      "title": "UX work in software startups: A thematic analysis of the literature",
+      "authors": [
+        "Jullia Saad",
+        "Su\u00e9llen Martinelli",
+        "Leticia S. Machado",
+        "Cleidson R.B. de Souza",
+        "Alexandre Alvaro",
+        "Luciana Zaina"
+      ],
+      "doi": "10.1016/j.infsof.2021.106688",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "395db820ac72a71212f28c0a70589a11099f3b46",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Mining the Technical Roles of GitHub Users",
+      "authors": [
+        "Jo\u00e3o Eduardo Montandon",
+        "Marco Tulio Valente",
+        "Luciana L. Silva"
+      ],
+      "doi": "10.1016/j.infsof.2020.106485",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e685e656eafc06088be4ccc7f4f151ae55ccd12e",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    38,
+    {
+      "title": "How do developers discuss and support new programming languages in technical Q&amp;A site? An empirical study of Go, Swift, and Rust in Stack Overflow",
+      "authors": [
+        "Partha Chakraborty",
+        "Rifat Shahriyar",
+        "Anindya Iqbal",
+        "Gias Uddin"
+      ],
+      "doi": "10.1016/j.infsof.2021.106603",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ecb4c84a1806501f8c9d38a54a9ae000500769b3",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    39,
+    {
+      "title": "A graph-based clustering algorithm for software systems modularization",
+      "authors": [
+        "Babak Pourasghar",
+        "Habib Izadkhah",
+        "Ayaz Isazadeh",
+        "Shahriar Lotfi"
+      ],
+      "doi": "10.1016/j.infsof.2020.106469",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3ecf24ffc4d3c487aa36f878d2c1552ca149739f",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Game industry problems: An extensive analysis of the gray literature",
+      "authors": [
+        "Cristiano Politowski",
+        "Fabio Petrillo",
+        "Gabriel C. Ullmann",
+        "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc"
+      ],
+      "doi": "10.1016/j.infsof.2021.106538",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "7bbcca5a652347fe6245b8ddf8014c66bc9c46b5",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    41,
+    {
+      "title": "A decision model for programming language ecosystem selection: Seven industry case studies",
+      "authors": [
+        "Siamak Farshidi",
+        "Slinger Jansen",
+        "Mahdi Deldar"
+      ],
+      "doi": "10.1016/j.infsof.2021.106640",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f5820c36625b3ce49b33c943554b581e13cd28c2",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Continuous Systems and Software Engineering for Industry 4.0: A disruptive view",
+      "authors": [
+        "Elisa Yumi Nakagawa",
+        "Pablo Oliveira Antonino",
+        "Frank Schnicke",
+        "Thomas Kuhn",
+        "Peter Liggesmeyer"
+      ],
+      "doi": "10.1016/j.infsof.2021.106562",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5aa0e92db80bda85284dc3daf491c7f3ac9aa9a0",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    43,
+    {
+      "title": "A systematic review of scheduling approaches on multi-tenancy cloud platforms",
+      "authors": [
+        "Ru Jia",
+        "Yun Yang",
+        "John Grundy",
+        "Jacky Keung",
+        "Li Hao"
+      ],
+      "doi": "10.1016/j.infsof.2020.106478",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e4e016e0f33c86abec8160d983cfb0c8ad9f38fa",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    44,
+    {
+      "title": "RSTrace+: Reviewer suggestion using software artifact traceability graphs",
+      "authors": [
+        "Emre S\u00fcl\u00fcn",
+        "Eray T\u00fcz\u00fcn",
+        "U\u011fur Do\u011frus\u00f6z"
+      ],
+      "doi": "10.1016/j.infsof.2020.106455",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8e92aa999e046d683e9ff6dbf9a75f83d574dbff",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    45,
+    {
+      "title": "MEGDroid: A model-driven event generation framework for dynamic android malware analysis",
+      "authors": [
+        "Hayyan Hasan",
+        "Behrouz Tork Ladani",
+        "Bahman Zamani"
+      ],
+      "doi": "10.1016/j.infsof.2021.106569",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6a78dbbb8d6ad5de5e6d971b5c510e102db61a50",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    46,
+    {
+      "title": "On deriving conceptual models from user requirements: An empirical study",
+      "authors": [
+        "Fabiano Dalpiaz",
+        "Patrizia Gieske",
+        "Arnon Sturm"
+      ],
+      "doi": "10.1016/j.infsof.2020.106484",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a9debaa01d08652f36450742940be772aeb06aa3",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Context-Oriented Behavioral Programming",
+      "authors": [
+        "Achiya Elyasaf"
+      ],
+      "doi": "10.1016/j.infsof.2020.106504",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "01b537fb0d07125fbc9c72f85b6c04b9c5bfbc9a",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Convergence rate of Artificial Neural Networks for estimation in software development projects",
+      "authors": [
+        "Dragica Rankovic",
+        "Nevena Rankovic",
+        "Mirjana Ivanovic",
+        "Ljubomir Lazic"
+      ],
+      "doi": "10.1016/j.infsof.2021.106627",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c7de9719f2b86a4ebcbfa02c5d6de44110f8af38",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Identifying method-level mutation subsumption relations using Z3",
+      "authors": [
+        "Rohit Gheyi",
+        "M\u00e1rcio Ribeiro",
+        "Beatriz Souza",
+        "Marcio Guimar\u00e3es",
+        "Leo Fernandes",
+        "Marcelo d\u2019Amorim",
+        "Vander Alves",
+        "Leopoldo Teixeira",
+        "Baldoino Fonseca"
+      ],
+      "doi": "10.1016/j.infsof.2020.106496",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9ad555bc2f4a185eae3adfdb6ffb234ac919f5ce",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Controlled experimentation in continuous experimentation: Knowledge and challenges",
+      "authors": [
+        "Florian Auer",
+        "Rasmus Ros",
+        "Lukas Kaltenbrunner",
+        "Per Runeson",
+        "Michael Felderer"
+      ],
+      "doi": "10.1016/j.infsof.2021.106551",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "17f41c4d15abb3610397f219de2cd3526713afb3",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Automating user-feedback driven requirements prioritization",
+      "authors": [
+        "Fitsum Meshesha Kifetew",
+        "Anna Perini",
+        "Angelo Susi",
+        "Aberto Siena",
+        "Denisse Mu\u00f1ante",
+        "Itzel Morales-Ramirez"
+      ],
+      "doi": "10.1016/j.infsof.2021.106635",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a5f0ddc715b00fcf27e4aa5e03460f894adca2c4",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Revisiting heterogeneous defect prediction methods: How far are we?",
+      "authors": [
+        "Xiang Chen",
+        "Yanzhou Mu",
+        "Ke Liu",
+        "Zhanqi Cui",
+        "Chao Ni"
+      ],
+      "doi": "10.1016/j.infsof.2020.106441",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8d78c145381fd0792ce75350b4ddb6540e5e9fc1",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    53,
+    {
+      "title": "A comprehensive investigation of the impact of feature selection techniques on crashing fault residence prediction models",
+      "authors": [
+        "Kunsong Zhao",
+        "Zhou Xu",
+        "Meng Yan",
+        "Tao Zhang",
+        "Dan Yang",
+        "Wei Li"
+      ],
+      "doi": "10.1016/j.infsof.2021.106652",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "28284c0109ef7e627bf60f37b211c07f9f65c8d1",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Dynamic random testing with test case clustering and distance-based parameter adjustment",
+      "authors": [
+        "Hanyu Pei",
+        "Beibei Yin",
+        "Min Xie",
+        "Kai-Yuan Cai"
+      ],
+      "doi": "10.1016/j.infsof.2020.106470",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "74ca65f11f00717a17dc59d954d9f5ac92b79f30",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Assessing test artifact quality\u2014A tertiary study",
+      "authors": [
+        "Huynh Khanh Vi Tran",
+        "Michael Unterkalmsteiner",
+        "J\u00fcrgen B\u00f6rstler",
+        "Nauman bin Ali"
+      ],
+      "doi": "10.1016/j.infsof.2021.106620",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ccc02311844280bb3ac0afe36da1fbd43e525700",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Developing Mobile Applications Via Model Driven Development: A\u00a0Systematic Literature Review",
+      "authors": [
+        "Md. Shamsujjoha",
+        "John Grundy",
+        "Li Li",
+        "Hourieh Khalajzadeh",
+        "Qinghua Lu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106693",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "98676bd05a7d8b21eebe1c832bb2c696e60150aa",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Laprob: A Label propagation-Based software bug localization method",
+      "authors": [
+        "Zhengliang Li",
+        "Zhiwei Jiang",
+        "Xiang Chen",
+        "Kaibo Cao",
+        "Qing Gu"
+      ],
+      "doi": "10.1016/j.infsof.2020.106410",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "240c55e9d7eceeb7c52fd3f7993b6dfeb3a2b6f9",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Performance analysis of out-of-distribution detection on trained neural networks",
+      "authors": [
+        "Jens Henriksson",
+        "Christian Berger",
+        "Markus Borg",
+        "Lars Tornberg",
+        "Sankar Raman Sathyamoorthy",
+        "Cristofer Englund"
+      ],
+      "doi": "10.1016/j.infsof.2020.106409",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "06572d93ca5edee2dfa651b6a16c1d5d525a866f",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    59,
+    {
+      "title": "The effectiveness of data augmentation in code readability classification",
+      "authors": [
+        "Qing Mi",
+        "Yan Xiao",
+        "Zhi Cai",
+        "Xibin Jia"
+      ],
+      "doi": "10.1016/j.infsof.2020.106378",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3134e191687d927f7b59c4ce1bda14f97ba9ec2e",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    60,
+    {
+      "title": "A process for analysing the energy efficiency of software",
+      "authors": [
+        "Javier Mancebo",
+        "F\u00e9lix Garc\u00eda",
+        "Coral Calero"
+      ],
+      "doi": "10.1016/j.infsof.2021.106560",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ee0e69ab576414ca7cbc5479a8b483122ff9735c",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Large-scale intent analysis for identifying large-review-effort code changes",
+      "authors": [
+        "Song Wang",
+        "Chetan Bansal",
+        "Nachiappan Nagappan"
+      ],
+      "doi": "10.1016/j.infsof.2020.106408",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "457877bbd88ac49705b2471a3e27c38962346bc9",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Recommending tags for pull requests in GitHub",
+      "authors": [
+        "Jing Jiang",
+        "Qiudi Wu",
+        "Jin Cao",
+        "Xin Xia",
+        "Li Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2020.106394",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a448d7f9efad538454919c9f7633278abc616603",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Method-level bug localization using hybrid multi-objective search",
+      "authors": [
+        "Rafi Almhana",
+        "Marouane Kessentini",
+        "Wiem Mkaouer"
+      ],
+      "doi": "10.1016/j.infsof.2020.106474",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "042d8b116c57dc7ecf7cb1b371e378cbb9cc86fe",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Technical debt payment and prevention through the lenses of software architects",
+      "authors": [
+        "Boris P\u00e9rez",
+        "Camilo Castellanos",
+        "Dar\u00edo Correal",
+        "Nicolli Rios",
+        "S\u00e1vio Freire",
+        "Rodrigo Sp\u00ednola",
+        "Carolyn Seaman",
+        "Clemente Izurieta"
+      ],
+      "doi": "10.1016/j.infsof.2021.106692",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0f9b14ab0c204fcf0deecaab60e14ff72abe887c",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Understanding Hypotheses Engineering in Software Startups through a Gray Literature Review",
+      "authors": [
+        "Jorge Melegati",
+        "Eduardo Guerra",
+        "Xiaofeng Wang"
+      ],
+      "doi": "10.1016/j.infsof.2020.106465",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e2eee2dd75780349bae9c1355b10e8a19ed38ecc",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    66,
+    {
+      "title": "On the impact of Continuous Integration on refactoring practice: An exploratory study on TravisTorrent",
+      "authors": [
+        "Islem Saidani",
+        "Ali Ouni",
+        "Mohamed Wiem Mkaouer",
+        "Fabio Palomba"
+      ],
+      "doi": "10.1016/j.infsof.2021.106618",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2b08d961eca39b14ff8c43846b806226b36b0108",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Analyzing privacy policies through syntax-driven semantic analysis of information types",
+      "authors": [
+        "Mitra Bokaei Hosseini",
+        "Travis D. Breaux",
+        "Rocky Slavin",
+        "Jianwei Niu",
+        "Xiaoyin Wang"
+      ],
+      "doi": "10.1016/j.infsof.2021.106608",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a81e1781216aeee77e18e262e8389bfd04181549",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Challenges and recommendations to publishing and using credible evidence in software engineering",
+      "authors": [
+        "Claes Wohlin",
+        "Austen Rainer"
+      ],
+      "doi": "10.1016/j.infsof.2021.106555",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f0f87dd27e83b54b14677dd5e53f4b3431aca2f1",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Stakeholder engagement in enterprise architecture practice: What inhibitors are there?",
+      "authors": [
+        "Sherah Kurnia",
+        "Svyatoslav Kotusev",
+        "Graeme Shanks",
+        "Rod Dilnutt",
+        "Simon Milton"
+      ],
+      "doi": "10.1016/j.infsof.2021.106536",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a2a4e5baa3add01143fe5248c83a83e8687826fb",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    70,
+    {
+      "title": "SRPTackle: A semi-automated requirements prioritisation technique for scalable requirements of software system projects",
+      "authors": [
+        "Fadhl Hujainah",
+        "Rohani Binti Abu Bakar",
+        "Abdullah B. Nasser",
+        "Basheer Al-haimi",
+        "Kamal Z. Zamli"
+      ],
+      "doi": "10.1016/j.infsof.2020.106501",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "1f2429eef59fc1a771f2f8634a4f6faade39c2de",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Efilter: An effective fault localization based on information entropy with unlabelled test cases",
+      "authors": [
+        "Yan Xiaobo",
+        "Liu Bin",
+        "Wang Shihai",
+        "An Dong",
+        "Zhu Feng",
+        "Yang Yelin"
+      ],
+      "doi": "10.1016/j.infsof.2021.106543",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f041ff092079a65146d90d45eb46313b22982b3b",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Boundary sampling to boost mutation testing for deep learning models",
+      "authors": [
+        "Weijun Shen",
+        "Yanhui Li",
+        "Yuanlei Han",
+        "Lin Chen",
+        "Di Wu",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1016/j.infsof.2020.106413",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "31a9c139c5b3eb5c26a9d11788743b5425bdb383",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Leveraging developer information for efficient effort-aware bug prediction",
+      "authors": [
+        "Yu Qu",
+        "Jianlei Chi",
+        "Heng Yin"
+      ],
+      "doi": "10.1016/j.infsof.2021.106605",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b819eb16cf11c3ba8ada2c29f9280cf651bb9e06",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Analyzing the sensitivity of multi-objective software architecture refactoring to configuration characteristics",
+      "authors": [
+        "Vittorio Cortellessa",
+        "Daniele Di Pompeo"
+      ],
+      "doi": "10.1016/j.infsof.2021.106568",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5ea00d650b667e967b4098b2a01a465173d2c5d1",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    75,
+    {
+      "title": "From a Scrum Reference Ontology to the Integration of Applications for Data-Driven Software Development",
+      "authors": [
+        "Paulo S\u00e9rgio Santos J\u00fanior",
+        "Monalessa Perini Barcellos",
+        "Ricardo de Almeida Falbo",
+        "Jo\u00e3o Paulo A. Almeida"
+      ],
+      "doi": "10.1016/j.infsof.2021.106570",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b96e9921d52ffd197c6480b6bd54df6646e243ef",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Multifaceted infrastructure for self-adaptive IoT systems",
+      "authors": [
+        "Rossana M.C. Andrade",
+        "Belmondo R. Arag\u00e3o",
+        "Pedro Almir M. Oliveira",
+        "Marcio E.F. Maia",
+        "Windson Viana",
+        "Tales P. Nogueira"
+      ],
+      "doi": "10.1016/j.infsof.2020.106505",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "50342dc868cf6577bf8f17dfd1ba722596b26f1f",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Community detection in software ecosystem by comprehensively evaluating developer cooperation intensity",
+      "authors": [
+        "Tingting Hou",
+        "Xiangjuan Yao",
+        "Dunwei Gong"
+      ],
+      "doi": "10.1016/j.infsof.2020.106451",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e4f6c44cf81e5a4cb00a9f55a556e7130d607fd2",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Predicting long-time contributors for GitHub projects using machine learning",
+      "authors": [
+        "Vijaya Kumar Eluri",
+        "Thomas A. Mazzuchi",
+        "Shahram Sarkani"
+      ],
+      "doi": "10.1016/j.infsof.2021.106616",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e9821ad8e54e2a6c39b51730814ec765cc0f8384",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Insights on the relationship between decision-making style and personality in software engineering",
+      "authors": [
+        "Fabiana Mendes",
+        "Em\u00edlia Mendes",
+        "Norsaremah Salleh",
+        "Markku Oivo"
+      ],
+      "doi": "10.1016/j.infsof.2021.106586",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b30055676afb40d50587c4b98a917510e895e48c",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Spectral clustering based mutant reduction for mutation testing",
+      "authors": [
+        "Changqing Wei",
+        "Xiangjuan Yao",
+        "Dunwei Gong",
+        "Huai Liu"
+      ],
+      "doi": "10.1016/j.infsof.2020.106502",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "567ec076ee623d7d1870f4dd83e4bae1c87a0cad",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    81,
+    {
+      "title": "An automatic methodology for the quality enhancement of requirements using genetic algorithms",
+      "authors": [
+        "Daniel Adanza Dopazo",
+        "Valent\u00edn Moreno Pelayo",
+        "Gonzalo G\u00e9nova Fuster"
+      ],
+      "doi": "10.1016/j.infsof.2021.106696",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2bd756a9c19aaa9436053f4878cfdc9ee8cbf16f",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Statement frequency coverage: A code coverage criterion for assessing test suite effectiveness",
+      "authors": [
+        "Alireza Aghamohammadi",
+        "Seyed-Hassan Mirian-Hosseinabadi",
+        "Sajad Jalali"
+      ],
+      "doi": "10.1016/j.infsof.2020.106426",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "27c159d87fb896bb9efceb0992c49c60b9f53923",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Test case generation for agent-based models: A systematic literature review",
+      "authors": [
+        "Andrew G. Clark",
+        "Neil Walkinshaw",
+        "Robert M. Hierons"
+      ],
+      "doi": "10.1016/j.infsof.2021.106567",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a739edaa831f78ea77b8d552c479b402a36a62b8",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Crowdsourced test report prioritization considering bug severity",
+      "authors": [
+        "Yao Tong",
+        "Xiaofang Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2021.106668",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6765bbe8cfd7c135aa02251ecd2cd422ebed7458",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    85,
+    {
+      "title": "An empirical study of performance using Clone &amp; Own and Software Product Lines in an industrial context",
+      "authors": [
+        "Jorge Echeverr\u00eda",
+        "Francisca P\u00e9rez",
+        "Jos\u00e9 Ignacio Panach",
+        "Carlos Cetina"
+      ],
+      "doi": "10.1016/j.infsof.2020.106444",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5ae0bcf0af407b16cedf6464f2961d8d2fa6d083",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    86,
+    {
+      "title": "A longitudinal study of the impact of refactoring in android applications",
+      "authors": [
+        "Oumayma Hamdi",
+        "Ali Ouni",
+        "Mel \u00d3 Cinn\u00e9ide",
+        "Mohamed Wiem Mkaouer"
+      ],
+      "doi": "10.1016/j.infsof.2021.106699",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0a4ecdcf5cd5a0cf83f240453d238b0990d3881c",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Multi-objective software performance optimisation at the architecture level using randomised search rules",
+      "authors": [
+        "Youcong Ni",
+        "Xin Du",
+        "Peng Ye",
+        "Leandro L. Minku",
+        "Xin Yao",
+        "Mark Harman",
+        "Ruliang Xiao"
+      ],
+      "doi": "10.1016/j.infsof.2021.106565",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a1ca9280f132b82273d42f6be1f8c5c5d6028b58",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Governance and Management of Green IT: A Multi-Case Study",
+      "authors": [
+        "J. David Pat\u00f3n-Romero",
+        "Maria Teresa Baldassarre",
+        "Mois\u00e9s Rodr\u00edguez",
+        "Per Runeson",
+        "Martin H\u00f6st",
+        "Mario Piattini"
+      ],
+      "doi": "10.1016/j.infsof.2020.106414",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f30cf7fa5ffe9400a4ed948259c8e28f4a0a4287",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    89,
+    {
+      "title": "On the practitioners\u2019 understanding of coupling smells \u2014 A grey literature based Grounded-Theory study",
+      "authors": [
+        "Apitchaka Singjai",
+        "Georg Simhandl",
+        "Uwe Zdun"
+      ],
+      "doi": "10.1016/j.infsof.2021.106539",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0f2c830417a95eec56383a345946ac0d2684427f",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Visual Resume: Exploring developers\u2019 online contributions for hiring",
+      "authors": [
+        "Sandeep Kaur Kuttal",
+        "Xiaofan Chen",
+        "Zhendong Wang",
+        "Sogol Balali",
+        "Anita Sarma"
+      ],
+      "doi": "10.1016/j.infsof.2021.106633",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8ab24f233c8e4bee522a798e3ff102576e5e8df8",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Improving requirements specification use by transferring attention with eye tracking data",
+      "authors": [
+        "Maike Ahrens",
+        "Kurt Schneider"
+      ],
+      "doi": "10.1016/j.infsof.2020.106483",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ca4be034dfb763e46f755f21cf7922074309cd7a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Processes, challenges and recommendations of Gray Literature Review: An experience report",
+      "authors": [
+        "He Zhang",
+        "Runfeng Mao",
+        "Huang Huang",
+        "Qiming Dai",
+        "Xin Zhou",
+        "Haifeng Shen",
+        "Guoping Rong"
+      ],
+      "doi": "10.1016/j.infsof.2021.106607",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "235a29a1dde76805281ab245d77e456ba2a90810",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    93,
+    {
+      "title": "HYDRA: Feedback-driven black-box exploitation of injection vulnerabilities",
+      "authors": [
+        "Manuel Leithner",
+        "Bernhard Garn",
+        "Dimitris E. Simos"
+      ],
+      "doi": "10.1016/j.infsof.2021.106703",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "fa40e8570e173274528911692f9bbed097828b62",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    94,
+    {
+      "title": "iMER: Iterative process of entity relationship and business process model extraction from the requirements",
+      "authors": [
+        "Muhammad Javed",
+        "Yuqing Lin"
+      ],
+      "doi": "10.1016/j.infsof.2021.106558",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "aa75a0042bf393e0952ff320f50d644d4636e46a",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    95,
+    {
+      "title": "An empirical study on clone consistency prediction based on machine learning",
+      "authors": [
+        "Fanlong Zhang",
+        "Siau-cheng Khoo"
+      ],
+      "doi": "10.1016/j.infsof.2021.106573",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "77182eddea115c246793a899b7eeb7716f034f1e",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Icon2Code: Recommending code implementations for Android GUI components",
+      "authors": [
+        "Yanjie Zhao",
+        "Li Li",
+        "Xiaoyu Sun",
+        "Pei Liu",
+        "John Grundy"
+      ],
+      "doi": "10.1016/j.infsof.2021.106619",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "31bd68e5a58720227b24da7e1a3917ef926c4414",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    97,
+    {
+      "title": "RLTCP: A reinforcement learning approach to prioritizing automated user interface tests",
+      "authors": [
+        "Vu Nguyen",
+        "Bach Le"
+      ],
+      "doi": "10.1016/j.infsof.2021.106574",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "358ba1fefc506e1b576993bd1c157b46eaac9f2f",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Automatic patch linkage detection in code review using textual content and file location features",
+      "authors": [
+        "Dong Wang",
+        "Raula Gaikovina Kula",
+        "Takashi Ishio",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1016/j.infsof.2021.106637",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "1612d4d2f6d69f33432a0925c9faa00815ace794",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Feature selection and embedding based cross project framework for identifying crashing fault residence",
+      "authors": [
+        "Zhou Xu",
+        "Tao Zhang",
+        "Jacky Keung",
+        "Meng Yan",
+        "Xiapu Luo",
+        "Xiaohong Zhang",
+        "Ling Xu",
+        "Yutian Tang"
+      ],
+      "doi": "10.1016/j.infsof.2020.106452",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "cf6b5fe61e67abf15ff55bf0531a606608154f2a",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    100,
+    {
+      "title": "A methodology to automatically translate user requirements into visualizations: Experimental validation",
+      "authors": [
+        "Ana Lavalle",
+        "Alejandro Mat\u00e9",
+        "Juan Trujillo",
+        "Miguel A. Teruel",
+        "Stefano Rizzi"
+      ],
+      "doi": "10.1016/j.infsof.2021.106592",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "be3032b64ad70c51839edbfee3aeb885f5827b29",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Alignment and granularity of requirements and architecture in agile development: A functional perspective",
+      "authors": [
+        "Tjerk Spijkman",
+        "Sabine Molenaar",
+        "Fabiano Dalpiaz",
+        "Sjaak Brinkkemper"
+      ],
+      "doi": "10.1016/j.infsof.2021.106535",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "95bf359ca5c5083fbc157cdc14ba1665a451588f",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Leveraging Small Sample Learning for Business Process Management",
+      "authors": [
+        "Martin K\u00e4ppel",
+        "Stefan Sch\u00f6nig",
+        "Stefan Jablonski"
+      ],
+      "doi": "10.1016/j.infsof.2020.106472",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "50b2baee269b1885860b724087649eb4e8876230",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Social network analysis of open source software: A review and categorisation",
+      "authors": [
+        "Kelvin McClean",
+        "Des Greer",
+        "Anna Jurek-Loughrey"
+      ],
+      "doi": "10.1016/j.infsof.2020.106442",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ed66536783edbdd3d005b3ba4592f5c9132f4fd7",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Exploring the communication functions of comments during bug fixing in Open Source Software projects",
+      "authors": [
+        "Sandra L. Ram\u00edrez-Mora",
+        "Hanna Oktaba",
+        "Helena G\u00f3mez-Adorno",
+        "Gerardo Sierra"
+      ],
+      "doi": "10.1016/j.infsof.2021.106584",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "72180531af95ac3c2e6f4e361789e2046c2cc047",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    105,
+    {
+      "title": "A decentralized blockchain oriented framework for automated bug assignment",
+      "authors": [
+        "Chetna Gupta",
+        "M\u00e1rio M Freire"
+      ],
+      "doi": "10.1016/j.infsof.2021.106540",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b2a348f7084b4e8a9a1c6fc18e0c9e7af0c0cc12",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Do users care about ad\u2019s performance costs? Exploring the effects of the performance costs of in-app ads on user experience",
+      "authors": [
+        "Cuiyun Gao",
+        "Jichuan Zeng",
+        "Federica Sarro",
+        "David Lo",
+        "Irwin King",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1016/j.infsof.2020.106471",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a25dd2124b509921b70fd8b3f07800e2e0042f12",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Validating class integration test order generation systems with Metamorphic Testing",
+      "authors": [
+        "Miao Zhang",
+        "Jacky Wai Keung",
+        "Tsong Yueh Chen",
+        "Yan Xiao"
+      ],
+      "doi": "10.1016/j.infsof.2020.106507",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0deb4564e5507a807391d53565ad990aa77b2e6a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Topic modeling for feature location in software models: Studying both code generation and interpreted models",
+      "authors": [
+        "Francisca P\u00e9rez",
+        "Ra\u00fal Lape\u00f1a",
+        "Ana C. Marc\u00e9n",
+        "Carlos Cetina"
+      ],
+      "doi": "10.1016/j.infsof.2021.106676",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "eebb56b5a4d35f7a5ea783b843c4c111e1f58a6c",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Fast and curious: A model for building efficient monitoring- and decision-making frameworks based on quantitative data",
+      "authors": [
+        "Iris Figalist",
+        "Christoph Elsner",
+        "Jan Bosch",
+        "Helena Holmstr\u00f6m Olsson"
+      ],
+      "doi": "10.1016/j.infsof.2020.106458",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6d597e5a964ace835c0a7b54113c6dc3805b53b5",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Exploring the software repositories of embedded systems: An industrial experience",
+      "authors": [
+        "Jakub Polaczek",
+        "Janusz Sosnowski"
+      ],
+      "doi": "10.1016/j.infsof.2020.106489",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "306009f7f2e3225bcfe75764cdf52f9550f07c8e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Architectural decision-making as a financial investment: An industrial case study",
+      "authors": [
+        "Areti Ampatzoglou",
+        "Elvira-Maria Arvanitou",
+        "Apostolos Ampatzoglou",
+        "Paris Avgeriou",
+        "Angeliki-Agathi Tsintzira",
+        "Alexander Chatzigeorgiou"
+      ],
+      "doi": "10.1016/j.infsof.2020.106412",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "cea749eeae21c43b076cf963024ced7ad92565a1",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Metamorphic testing of OpenStreetMap",
+      "authors": [
+        "Jes\u00fas M. Almendros-Jim\u00e9nez",
+        "Antonio Becerra-Ter\u00f3n",
+        "Mercedes G. Merayo",
+        "Manuel N\u00fa\u00f1ez"
+      ],
+      "doi": "10.1016/j.infsof.2021.106631",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "061b57f5030c873ca70073738dfe887b11431dce",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+      "authors": [
+        "Andrey Saltan",
+        "Kari Smolander"
+      ],
+      "doi": "10.1016/j.infsof.2021.106510",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4bbea4595f3bb66bd868e3db1825bf6167b73a48",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    114,
+    {
+      "title": "A Method to Estimate Software Strategic Indicators in Software Development: An Industrial Application",
+      "authors": [
+        "Mart\u00ed Manzano",
+        "Claudia Ayala",
+        "Cristina G\u00f3mez",
+        "Antonin Abherve",
+        "Xavier Franch",
+        "Emilia Mendes"
+      ],
+      "doi": "10.1016/j.infsof.2020.106433",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ca0c618eafe55101f7e82e730be6051d6cd09749",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Two-level clustering of UML class diagrams based on semantics and structure",
+      "authors": [
+        "Zongmin Ma",
+        "Zhongchen Yuan",
+        "Li Yan"
+      ],
+      "doi": "10.1016/j.infsof.2020.106456",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "d7655dd4fb81d26387577cc231570bba85a5e859",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    116,
+    {
+      "title": "ALBFL: A novel neural ranking model for software fault localization via combining static and dynamic features",
+      "authors": [
+        "Xi Xiao",
+        "Yuqing Pan",
+        "Bin Zhang",
+        "Guangwu Hu",
+        "Qing Li",
+        "Runiu Lu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106653",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "745a7665ed238073696c0bcc9f1dc07fcb0f0aa9",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Runtime testing of context-aware variability in adaptive systems",
+      "authors": [
+        "Erick Barros dos Santos",
+        "Rossana M.C. Andrade",
+        "Ismayle de Sousa Santos"
+      ],
+      "doi": "10.1016/j.infsof.2020.106482",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3afd768f33fc0ce8010ddd06b09a66ab98a1d667",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Using mutual information to test from Finite State Machines: Test suite selection",
+      "authors": [
+        "Alfredo Ibias",
+        "Manuel N\u00fa\u00f1ez",
+        "Robert M. Hierons"
+      ],
+      "doi": "10.1016/j.infsof.2020.106498",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "fe0f9b75b07f8e05a26298ec07617f3cafa141bd",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    119,
+    {
+      "title": "On the prediction of long-lived bugs: An analysis and comparative study using FLOSS projects",
+      "authors": [
+        "Luiz Alberto Ferreira Gomes",
+        "Ricardo da Silva Torres",
+        "Mario L\u00facio C\u00f4rtes"
+      ],
+      "doi": "10.1016/j.infsof.2020.106508",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "21970814fe2e76bf12cb6f769a88182aa89cc4ea",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Feature-based insight for forks in social coding platforms",
+      "authors": [
+        "Hamzeh Eyal\u00a0Salman"
+      ],
+      "doi": "10.1016/j.infsof.2021.106679",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f52affe2bf7b64ce39539b03d555e1e0c0486501",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Rigorous code review by reverse engineering",
+      "authors": [
+        "Shaoying Liu",
+        "Honghui Li",
+        "Zhouxian Jiang",
+        "Xiuru Li",
+        "Feng Liu",
+        "Yan Zhong"
+      ],
+      "doi": "10.1016/j.infsof.2020.106503",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "7baa13c3737a99286d973a53f18e26cd3091395f",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    122,
+    {
+      "title": "A methodical framework for service oriented architecture adoption: Guidelines, building blocks, and method fragments",
+      "authors": [
+        "Supriya Pulparambil",
+        "Youcef Baghdadi",
+        "Camille Salinesi"
+      ],
+      "doi": "10.1016/j.infsof.2020.106487",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "dee4b16128c54341858d2bc109400dc41ea88dec",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    123,
+    {
+      "title": "BCI-CFI: A context-sensitive control-flow integrity method based on branch correlation integrity",
+      "authors": [
+        "Ye Wang",
+        "Qingbao Li",
+        "Zhifeng Chen",
+        "Ping Zhang",
+        "Guimin Zhang",
+        "Zhihui Shi"
+      ],
+      "doi": "10.1016/j.infsof.2021.106572",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "47a5a90c9dcf74dba3ae4df636562d75f5f87ff0",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Evaluating the effects of similar-class combination on class integration test order generation",
+      "authors": [
+        "Miao Zhang",
+        "Jacky Wai Keung",
+        "Yan Xiao",
+        "Md Alamgir Kabir"
+      ],
+      "doi": "10.1016/j.infsof.2020.106438",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "34114a321609f09be95abe5654fa88ab785abd89",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    125,
+    {
+      "title": "A comprehensive empirical evaluation of generating test suites for mobile applications with diversity",
+      "authors": [
+        "Thomas Vogel",
+        "Chinh Tran",
+        "Lars Grunske"
+      ],
+      "doi": "10.1016/j.infsof.2020.106436",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f6f0b8b1c556be209ddc0e8c8b1cc64455d7613a",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    126,
+    {
+      "title": "On the influence of model fragment properties on a machine learning-based approach for feature location",
+      "authors": [
+        "Manuel Ballar\u00edn",
+        "Ana C. Marc\u00e9n",
+        "Vicente Pelechano",
+        "Carlos Cetina"
+      ],
+      "doi": "10.1016/j.infsof.2020.106430",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "978a97c0e92e75808f73773940983b4bddd2d9ab",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Sequential coding patterns: How to use them effectively in code recommendation",
+      "authors": [
+        "Luiz Laerte Nunes da Silva",
+        "Troy Costa Kohwalter",
+        "Alexandre Plastino",
+        "Leonardo Gresta Paulino Murta"
+      ],
+      "doi": "10.1016/j.infsof.2021.106690",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "acff6b6c2ab5cf5a2c5a3d73e04c5684aa177b0b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Generating feasible protocol test sequences from EFSM models using Monte Carlo tree search",
+      "authors": [
+        "Ting Shu",
+        "Yechao Huang",
+        "Zuohua Ding",
+        "Jinsong Xia",
+        "Mingyue Jiang"
+      ],
+      "doi": "10.1016/j.infsof.2021.106557",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8b440d30a02d08c867ae624522aa4edd15999868",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Archetypes of delay: An analysis of online developer conversations on delayed work items in IBM Jazz",
+      "authors": [
+        "Abdoul-Djawadou Salaou",
+        "Daniela Damian",
+        "Casper Lassenius",
+        "Drago\u015f Voda",
+        "Pierre Gan\u00e7arski"
+      ],
+      "doi": "10.1016/j.infsof.2020.106435",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b595f8d328fd6a5202256065d95f99e229499ee0",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    130,
+    {
+      "title": "Introduction to the special issue on engineering context-aware software systems",
+      "authors": [
+        "Domenico Amalfitano",
+        "Santiago Matalonga",
+        "Guilherme Horta Travassos"
+      ],
+      "doi": "10.1016/j.infsof.2020.106509",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ae7015103a063c8d7486e2605ce7df612afc55f0",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    131,
+    {
+      "title": "A field experiment on trialsourcing and the effect of contract types on outsourced software development",
+      "authors": [
+        "Magne J\u00f8rgensen",
+        "Jon Grov"
+      ],
+      "doi": "10.1016/j.infsof.2021.106559",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3712feb8abbc3f255988171650bb9c6963a60fea",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    132,
+    {
+      "title": "RBAC protection-impacting changes identification: A case study of the security evolution of two PHP applications",
+      "authors": [
+        "Marc-Andr\u00e9 Laverdi\u00e8re",
+        "Karl Julien",
+        "Ettore Merlo"
+      ],
+      "doi": "10.1016/j.infsof.2021.106630",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "06437e834288fa4886689470fb4dd174caf7fa14",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Test data generation using genetic programming",
+      "authors": [
+        "M. Nosrati",
+        "H. Haghighi",
+        "M. Vahidi Asl"
+      ],
+      "doi": "10.1016/j.infsof.2020.106446",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8d5c14a366bffc26060e600367f93050045180e2",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Prioritizing code documentation effort: Can we do it simpler but better?",
+      "authors": [
+        "Shiran Liu",
+        "Zhaoqiang Guo",
+        "Yanhui Li",
+        "Hongmin Lu",
+        "Lin Chen",
+        "Lei Xu",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106686",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0dacf9fd1395d75ef84954ab148e4f48b085d892",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    135,
+    {
+      "title": "MS-QuAAF: A generic evaluation framework for monitoring software architecture quality",
+      "authors": [
+        "Salim Kadri",
+        "Sofiane Aouag",
+        "Djalal Hedjazi"
+      ],
+      "doi": "10.1016/j.infsof.2021.106713",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "74a1148e5e8b915e028f3db322ccbeb3da929f1e",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Blurring boundaries: Toward the collective empathic understanding of product requirements",
+      "authors": [
+        "Robert C. Fuller",
+        "Philippe Kruchten"
+      ],
+      "doi": "10.1016/j.infsof.2021.106670",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "59149b4cf53b13b12db9afff631792735edb4d6c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    137,
+    {
+      "title": "TIDY: A PBE-based framework supporting smart transformations for entity consistency in PowerPoint",
+      "authors": [
+        "Shuguan Liu",
+        "Huiyan Wang",
+        "Chang Xu"
+      ],
+      "doi": "10.1016/j.infsof.2021.106611",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6ad4eb766d2589e53136ab78f5a76658027a6e36",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    138,
+    {
+      "title": "A unified framework for declarative debugging and testing",
+      "authors": [
+        "Rafael Caballero",
+        "Enrique Martin-Martin",
+        "Adri\u00e1n Riesco",
+        "Salvador Tamarit"
+      ],
+      "doi": "10.1016/j.infsof.2020.106427",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "50c7dec86ad7cdbaace29d8cab293ec076f03868",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    139,
+    {
+      "title": "A decentralized approach for discovering runtime software architectural models of distributed software systems",
+      "authors": [
+        "Jason Porter",
+        "Daniel A. Menasc\u00e9",
+        "Hassan Gomaa"
+      ],
+      "doi": "10.1016/j.infsof.2020.106476",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "95c87cd41c1a6ae04280bf7096dfc87aa31d4f0e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    140,
+    {
+      "title": "Source Code Transformations for Improving Security of Time-bounded K-variant Systems",
+      "authors": [
+        "Berk Bekiroglu",
+        "Bogdan Korel"
+      ],
+      "doi": "10.1016/j.infsof.2021.106601",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "12076bf37d57a21f8f51916511b51976fc8f39ba",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Does shortening the release cycle affect refactoring activities: A case study of the JDT Core, Platform SWT, and UI projects",
+      "authors": [
+        "Olivier Nourry",
+        "Yutaro Kashiwa",
+        "Yasutaka Kamei",
+        "Naoyasu Ubayashi"
+      ],
+      "doi": "10.1016/j.infsof.2021.106623",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "48f2c9d9ccb3d9fdd677620ea309c3f515b511db",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00162-2",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Evaluating the influence of scope on feature location",
+      "authors": [
+        "\u00c1frica Domingo",
+        "Jorge Echeverr\u00eda",
+        "\u00d3scar Pastor",
+        "Carlos Cetina"
+      ],
+      "doi": "10.1016/j.infsof.2021.106674",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "329d4e85d64606f32ae37bca622986087f64b95a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    144,
+    {
+      "title": "A practical algorithm for learning disjunctive abstraction heuristics in static program analysis",
+      "authors": [
+        "Donghoon Jeon",
+        "Minseok Jeon",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1016/j.infsof.2021.106564",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b663d981ab49f5cb7e64bab23fc15c0a760fa73b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00120-8",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Software engineering and advanced applications conference 2019 \u2013 selected papers",
+      "authors": [
+        "Rafael Capilla",
+        "Miroslaw Staron"
+      ],
+      "doi": "10.1016/j.infsof.2020.106439",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "7862a99cb4dc8c303f1d112bf9a8a4927c17b18f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Special Section on the 2019 Symposium on Search-Based Software Engineering",
+      "authors": [
+        "Gregory Gay",
+        "Shiva Nejati"
+      ],
+      "doi": "10.1016/j.infsof.2020.106440",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "52ebef56d880f86999098054c7c242e717ce39b6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00174-9",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    149,
+    {
+      "title": "The impact of using biased performance metrics on software defect prediction research",
+      "authors": [
+        "Jingxiu Yao",
+        "Martin Shepperd"
+      ],
+      "doi": "10.1016/j.infsof.2021.106664",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    150,
+    {
+      "title": "Requirements engineering: Foundation for software quality (REFSQ2020)",
+      "authors": [
+        "Alessio Ferrari",
+        "Nazim H. Madhavji",
+        "Liliana Pasquale"
+      ],
+      "doi": "10.1016/j.infsof.2021.106636",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Phase-wise migration of multiple legacy applications\u2013A graph-theoretic approach",
+      "authors": [
+        "Rohit Punnoose",
+        "Supriya Kumar De"
+      ],
+      "doi": "10.1016/j.infsof.2021.106606",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "fffae974f515234e12c8e3c418f78cfcfc6b7f95",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    152,
+    {
+      "title": "Guest editor's introduction to the special issue of best papers from the 15th International conference on predictive models and data analytics in software engineering (PROMISE 2019)",
+      "authors": [],
+      "doi": "10.1016/j.infsof.2021.106621",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "137ecfcaebc5b2257d7e6aa1e9913adaab90f4e6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00015-x",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "388370a51e3f72e8b5b8c9a31ad689b80ba394c3",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00033-1",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f17602506c3f02496127418da4592b88b001ac22",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    155,
+    {
+      "title": "The organization of software teams in the quest for continuous delivery: A grounded theory approach",
+      "authors": [
+        "Leonardo Leite",
+        "Gustavo Pinto",
+        "Fabio Kon",
+        "Paulo Meirelles"
+      ],
+      "doi": "10.1016/j.infsof.2021.106672",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    156,
+    {
+      "title": "On the value of encouraging gender tolerance and inclusiveness in software engineering communities",
+      "authors": [
+        "Elijah Zolduoarrati",
+        "Sherlock A. Licorish"
+      ],
+      "doi": "10.1016/j.infsof.2021.106667",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Evaluating and comparing memory error vulnerability detectors",
+      "authors": [
+        "Yu Nong",
+        "Haipeng Cai",
+        "Pengfei Ye",
+        "Li Li",
+        "Feng Chen"
+      ],
+      "doi": "10.1016/j.infsof.2021.106614",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(20)30235-4",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2d2f156673f5141534e0cea82735d2fbdd0bbf92",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00109-9",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "78120a3ede22931c08295904b4ef5dbc3afb292e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00141-5",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00076-8",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c2349dbe3ba2cf8c35d0c80578a5e4167c26f99c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    162,
+    {
+      "title": "Architectural design decisions that incur technical debt \u2014 An industrial case study",
+      "authors": [
+        "Mohamed Soliman",
+        "Paris Avgeriou",
+        "Yikun Li"
+      ],
+      "doi": "10.1016/j.infsof.2021.106669",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    163,
+    {
+      "title": "Investigation on the stability of SMOTE-based oversampling techniques in software defect prediction",
+      "authors": [
+        "Shuo Feng",
+        "Jacky Keung",
+        "Xiao Yu",
+        "Yan Xiao",
+        "Miao Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2021.106662",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00062-8",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ba05b7dd45f38a1ae6358ec72d565b45494a19c4",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(20)30208-1",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "06881d5deb037cbae446b4d4a2336b4b44200380",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(21)00007-0",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "1fb5808066918e7df566531668fa9faaff007fde",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ]
+]

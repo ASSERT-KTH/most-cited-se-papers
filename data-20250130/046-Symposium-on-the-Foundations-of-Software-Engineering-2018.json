@@ -1,0 +1,2450 @@
+[
+  [
+    1,
+    {
+      "title": "PyDriller: Python framework for mining software repositories",
+      "authors": [
+        "Davide Spadini",
+        "Maur\u00edcio Aniche",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1145/3236024.3264598",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7b5f909e1ab4d076116d11e1e7754b3c12471db8",
+        "citationCount": 278,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    2,
+    {
+      "title": "DLFuzz: differential fuzzing testing of deep learning systems",
+      "authors": [
+        "Jianmin Guo",
+        "Yu Jiang",
+        "Yue Zhao",
+        "Quan Chen",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1145/3236024.3264835",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1935ad0dbc42578347b19807d6c8d6d76692d2d7",
+        "citationCount": 257,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    3,
+    {
+      "title": "DeepSim: deep learning code functional similarity",
+      "authors": [
+        "Gang Zhao",
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/3236024.3236068",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bbe8c5e53ca6e4db115afeaaad2be268f039f10d",
+        "citationCount": 237,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Deep learning type inference",
+      "authors": [
+        "Vincent J. Hellendoorn",
+        "Christian Bird",
+        "Earl T. Barr",
+        "Miltiadis Allamanis"
+      ],
+      "doi": "10.1145/3236024.3236051",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ea1b62a03ab16c4acca6f7041c6f096bedec244b",
+        "citationCount": 192,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Does ACM\u2019s code of ethics change ethical decision making in software development?",
+      "authors": [
+        "Andrew McNamara",
+        "Justin Smith",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1145/3236024.3264833",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ac3d4c9f6308f77fa8711fa15e5275905c3f60d3",
+        "citationCount": 189,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    6,
+    {
+      "title": "MODE: automated neural network model debugging via state differential analysis and input selection",
+      "authors": [
+        "Shiqing Ma",
+        "Yingqi Liu",
+        "Wen-Chuan Lee",
+        "Xiangyu Zhang",
+        "Ananth Grama"
+      ],
+      "doi": "10.1145/3236024.3236082",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "07a1e6d26028b28185b7a3eee86752c240a24261",
+        "citationCount": 188,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Identifying impactful service system problems via log analysis",
+      "authors": [
+        "Shilin He",
+        "Qingwei Lin",
+        "Jian-Guang Lou",
+        "Hongyu Zhang",
+        "Michael R. Lyu",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1145/3236024.3236083",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a49ca34cc757514795dc30976a34fa94a4542140",
+        "citationCount": 153,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Oreo: detection of clones in the twilight zone",
+      "authors": [
+        "Vaibhav Saini",
+        "Farima Farmahinifarahani",
+        "Yadong Lu",
+        "Pierre Baldi",
+        "Cristina V. Lopes"
+      ],
+      "doi": "10.1145/3236024.3236026",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cb580b86ed801b9d8c2749a78d397c78f9697c09",
+        "citationCount": 152,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Ecosystem-level determinants of sustained activity in open-source projects: a case study of the PyPI ecosystem",
+      "authors": [
+        "Marat Valiev",
+        "Bogdan Vasilescu",
+        "James Herbsleb"
+      ],
+      "doi": "10.1145/3236024.3236062",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e8eb4dc83c7f74848c331005aa7c124dc13cf6a9",
+        "citationCount": 120,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Software fairness",
+      "authors": [
+        "Yuriy Brun",
+        "Alexandra Meliou"
+      ],
+      "doi": "10.1145/3236024.3264838",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a62d648d2426ae4feea8ac6c8cc3b5845d06f77c",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Predicting Node failure in cloud service systems",
+      "authors": [
+        "Qingwei Lin",
+        "Ken Hsieh",
+        "Yingnong Dang",
+        "Hongyu Zhang",
+        "Kaixin Sui",
+        "Yong Xu",
+        "Jian-Guang Lou",
+        "Chenggang Li",
+        "Youjiang Wu",
+        "Randolph Yao",
+        "Murali Chintalapati",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1145/3236024.3236060",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "31ae9d6824938eb05478edba5870b7d65894bd71",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    12,
+    {
+      "title": "The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale",
+      "authors": [
+        "James C. Davis",
+        "Christy A. Coghlan",
+        "Francisco Servant",
+        "Dongyoon Lee"
+      ],
+      "doi": "10.1145/3236024.3236027",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "09358b41bb76914592691fa8e9391d2a1889c138",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    13,
+    {
+      "title": "A formal verification tool for Ethereum VM bytecode",
+      "authors": [
+        "Daejun Park",
+        "Yi Zhang",
+        "Manasvi Saxena",
+        "Philip Daian",
+        "Grigore Ro\u015fu"
+      ],
+      "doi": "10.1145/3236024.3264591",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2b46049b43839cac6276d00e0898060883c5904d",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Improving IR-based bug localization with context-aware query reformulation",
+      "authors": [
+        "Mohammad Masudur Rahman",
+        "Chanchal K. Roy"
+      ],
+      "doi": "10.1145/3236024.3236065",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5576770dfe1f9dba5f0ee733054cce87a17cd674",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Do Android taint analysis tools keep their promises?",
+      "authors": [
+        "Felix Pauck",
+        "Eric Bodden",
+        "Heike Wehrheim"
+      ],
+      "doi": "10.1145/3236024.3236029",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "701b5d86e9626dd1f5f80194009c7a30356bdbd7",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Towards a theory of software development expertise",
+      "authors": [
+        "Sebastian Baltes",
+        "Stephan Diehl"
+      ],
+      "doi": "10.1145/3236024.3236061",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b628098c9843d352be4ce256bb3376b88eb6b9f1",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    17,
+    {
+      "title": "FraudDroid: automated ad fraud detection for Android apps",
+      "authors": [
+        "Feng Dong",
+        "Haoyu Wang",
+        "Li Li",
+        "Yao Guo",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Tianming Liu",
+        "Guoai Xu",
+        "Jacques Klein"
+      ],
+      "doi": "10.1145/3236024.3236045",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ba395665b41010675206a9d06a958241eaf84e02",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Themis: automatically testing software for discrimination",
+      "authors": [
+        "Rico Angell",
+        "Brittany Johnson",
+        "Yuriy Brun",
+        "Alexandra Meliou"
+      ],
+      "doi": "10.1145/3236024.3264590",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "080d10d34134d2155a5e9655969a68570a632a0a",
+        "citationCount": 78,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    19,
+    {
+      "title": "AppFlow: using machine learning to synthesize robust, reusable UI tests",
+      "authors": [
+        "Gang Hu",
+        "Linjie Zhu",
+        "Junfeng Yang"
+      ],
+      "doi": "10.1145/3236024.3236055",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ed47797b294991262d7ce88b212fb47d28d21d8f",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Code vectors: understanding programs through embedded abstracted symbolic traces",
+      "authors": [
+        "Jordan Henkel",
+        "Shuvendu K. Lahiri",
+        "Ben Liblit",
+        "Thomas Reps"
+      ],
+      "doi": "10.1145/3236024.3236085",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3302cbc5a3d1b79d4aebf6b8ba2f841fd4eabe33",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Learning to sample: exploiting similarities across environments to learn performance models for configurable systems",
+      "authors": [
+        "Pooyan Jamshidi",
+        "Miguel Velez",
+        "Christian K\u00e4stner",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1145/3236024.3236074",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8e598e31568b88ce222be09e65e3564b1d55321b",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Visual web test repair",
+      "authors": [
+        "Andrea Stocco",
+        "Rahulkrishna Yandrapally",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1145/3236024.3236063",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "29dac11063b65c5582f43591c7dce4717bc97a08",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Operationalizing human values in software: a research roadmap",
+      "authors": [
+        "Davoud Mougouei",
+        "Harsha Perera",
+        "Waqar Hussain",
+        "Rifat Shams",
+        "Jon Whittle"
+      ],
+      "doi": "10.1145/3236024.3264843",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d5f03f72510f974e12ee1e70b7914bc93bc9bacd",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    24,
+    {
+      "title": "PAFL: extend fuzzing optimizations of single mode to industrial parallel mode",
+      "authors": [
+        "Jie Liang",
+        "Yu Jiang",
+        "Yuanliang Chen",
+        "Mingzhe Wang",
+        "Chijin Zhou",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1145/3236024.3275525",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "144ed24686cb3ca73af984ba4cc46482892e9419",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Do the dependency conflicts in my project matter?",
+      "authors": [
+        "Ying Wang",
+        "Ming Wen",
+        "Zhenwei Liu",
+        "Rongxin Wu",
+        "Rui Wang",
+        "Bo Yang",
+        "Hai Yu",
+        "Zhiliang Zhu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1145/3236024.3236056",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b8c3f9d805fcc5582dd4ae9a060650fa394fb59b",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Are mobile banking apps secure? what can be improved?",
+      "authors": [
+        "Sen Chen",
+        "Ting Su",
+        "Lingling Fan",
+        "Guozhu Meng",
+        "Minhui Xue",
+        "Yang Liu",
+        "Lihua Xu"
+      ],
+      "doi": "10.1145/3236024.3275523",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5451d6b1f6bab824854f0f61b378986d42955e1c",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Scalability-first pointer analysis with self-tuning context-sensitivity",
+      "authors": [
+        "Yue Li",
+        "Tian Tan",
+        "Anders M\u00f8ller",
+        "Yannis Smaragdakis"
+      ],
+      "doi": "10.1145/3236024.3236041",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8dfca4cdc763ad79f305bf90722d8fe1a35adb9b",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Path-based function embedding and its application to error-handling specification mining",
+      "authors": [
+        "Daniel DeFreez",
+        "Aditya V. Thakur",
+        "Cindy Rubio-Gonz\u00e1lez"
+      ],
+      "doi": "10.1145/3236024.3236059",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2bee616220c9525165c19c22f803166703d14dca",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Bug synthesis: challenging bug-finding tools with deep faults",
+      "authors": [
+        "Subhajit Roy",
+        "Awanish Pandey",
+        "Brendan Dolan-Gavitt",
+        "Yu Hu"
+      ],
+      "doi": "10.1145/3236024.3236084",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "de0cc446e881637a24f45d02d67899079e2f1b25",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Optimizing test prioritization via test distribution analysis",
+      "authors": [
+        "Junjie Chen",
+        "Yiling Lou",
+        "Lingming Zhang",
+        "Jianyi Zhou",
+        "Xiaoleng Wang",
+        "Dan Hao",
+        "Lu Zhang"
+      ],
+      "doi": "10.1145/3236024.3236053",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "09e3d7589a6b82f9d36afe05e79117cfa0491aae",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    31,
+    {
+      "title": "An empirical study on crash recovery bugs in large-scale distributed systems",
+      "authors": [
+        "Yu Gao",
+        "Wensheng Dou",
+        "Feng Qin",
+        "Chushu Gao",
+        "Dong Wang",
+        "Jun Wei",
+        "Ruirui Huang",
+        "Li Zhou",
+        "Yongming Wu"
+      ],
+      "doi": "10.1145/3236024.3236030",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c6fe902952241174c6b951b1302c3b2ecc90c3b5",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Testing probabilistic programming systems",
+      "authors": [
+        "Saikat Dutta",
+        "Owolabi Legunsen",
+        "Zixin Huang",
+        "Sasa Misailovic"
+      ],
+      "doi": "10.1145/3236024.3236057",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "20f7f95a62c9ca279786aeed9e9456522f6e35c5",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    33,
+    {
+      "title": "MemFix: static analysis-based repair of memory deallocation errors for C",
+      "authors": [
+        "Junhee Lee",
+        "Seongjoon Hong",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1145/3236024.3236079",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c590b6e4d09112afc786d73e4d30d289616d2f8b",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    34,
+    {
+      "title": "What makes a code change easier to review: an empirical investigation on code change reviewability",
+      "authors": [
+        "Achyudh Ram",
+        "Anand Ashok Sawant",
+        "Marco Castelluccio",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1145/3236024.3236080",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "16fe5d15f2261ec4648eb4794332fe1369bc5b67",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Syntax-guided synthesis of Datalog programs",
+      "authors": [
+        "Xujie Si",
+        "Woosuk Lee",
+        "Richard Zhang",
+        "Aws Albarghouthi",
+        "Paraschos Koutris",
+        "Mayur Naik"
+      ],
+      "doi": "10.1145/3236024.3236034",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "632a5e11e5b129230691116ee1c9728bae7080ff",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Applications of psychological science for actionable analytics",
+      "authors": [
+        "Di Chen",
+        "Wei Fu",
+        "Rahul Krishna",
+        "Tim Menzies"
+      ],
+      "doi": "10.1145/3236024.3236050",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d4a6297f71921b9bf3a0f1b8ec18e368da0a7c4f",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    37,
+    {
+      "title": "NAR-miner: discovering negative association rules from code for bug detection",
+      "authors": [
+        "Pan Bian",
+        "Bin Liang",
+        "Wenchang Shi",
+        "Jianjun Huang",
+        "Yan Cai"
+      ],
+      "doi": "10.1145/3236024.3236032",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "542cc8f46f6c55afef2d20e4db8757188424f3ea",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    38,
+    {
+      "title": "The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds",
+      "authors": [
+        "Md Tajmilur Rahman",
+        "Peter C. Rigby"
+      ],
+      "doi": "10.1145/3236024.3275529",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bf614d966d683d7f226284d8d6836a5fc5b95360",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Detecting speech act types in developer question/answer conversations during bug repair",
+      "authors": [
+        "Andrew Wood",
+        "Paige Rodeghero",
+        "Ameer Armaly",
+        "Collin McMillan"
+      ],
+      "doi": "10.1145/3236024.3236031",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4cb6d3e163918601f0bf2652366bc791cf405b3b",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    40,
+    {
+      "title": "One size does not fit all: an empirical study of containerized continuous deployment workflows",
+      "authors": [
+        "Yang Zhang",
+        "Bogdan Vasilescu",
+        "Huaimin Wang",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1145/3236024.3236033",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fae808435f09ec37ac6d0c183a422260175cb446",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Adversarial symbolic execution for detecting concurrency-related cache timing leaks",
+      "authors": [
+        "Shengjian Guo",
+        "Meng Wu",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/3236024.3236028",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ecd8fab5cfa2754f1c819c421aee715d31b19619",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    42,
+    {
+      "title": "SketchFix: a tool for automated program repair approach using lazy candidate generation",
+      "authors": [
+        "Jinru Hua",
+        "Mengshi Zhang",
+        "Kaiyuan Wang",
+        "Sarfraz Khurshid"
+      ],
+      "doi": "10.1145/3236024.3264600",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ae2b830560efe3e4d69596539f62fe27dce8ad9c",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Singularity: pattern fuzzing for worst case complexity",
+      "authors": [
+        "Jiayi Wei",
+        "Jia Chen",
+        "Yu Feng",
+        "Kostas Ferles",
+        "Isil Dillig"
+      ],
+      "doi": "10.1145/3236024.3236039",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ff32c958cb85d45ac5db45353791e05a7c8a1d6a",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Be careful of when: an empirical study on time-related misuse of issue tracking data",
+      "authors": [
+        "Feifei Tu",
+        "Jiaxin Zhu",
+        "Qimu Zheng",
+        "Minghui Zhou"
+      ],
+      "doi": "10.1145/3236024.3236054",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "32a47b9f3fc790b0b5d41c38937c775e85ab348f",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Parameterized model counting for string and numeric constraints",
+      "authors": [
+        "Abdulbaki Aydin",
+        "William Eiers",
+        "Lucas Bang",
+        "Tegan Brennan",
+        "Miroslav Gavrilov",
+        "Tevfik Bultan",
+        "Fang Yu"
+      ],
+      "doi": "10.1145/3236024.3236064",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1ef60c15b5b63287374667a76eedfae2d486f154",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    46,
+    {
+      "title": "How should compilers explain problems to developers?",
+      "authors": [
+        "Titus Barik",
+        "Denae Ford",
+        "Emerson Murphy-Hill",
+        "Chris Parnin"
+      ],
+      "doi": "10.1145/3236024.3236040",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0dfef27d777569d92965c2dfa2b3c6f1b355ca2e",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Darwinian data structure selection",
+      "authors": [
+        "Michail Basios",
+        "Lingbo Li",
+        "Fan Wu",
+        "Leslie Kanthan",
+        "Earl T. Barr"
+      ],
+      "doi": "10.1145/3236024.3236043",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a36d63768df69e6167a448ed62106b9abc8787b3",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Symbolic execution with existential second-order constraints",
+      "authors": [
+        "Sergey Mechtaev",
+        "Alberto Griggio",
+        "Alessandro Cimatti",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3236024.3236049",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2c8f70b2603bdca22b73ca6232fe69363a386736",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Efficient static checking of library updates",
+      "authors": [
+        "Darius Foo",
+        "Hendy Chua",
+        "Jason Yeo",
+        "Ming Yi Ang",
+        "Asankhaya Sharma"
+      ],
+      "doi": "10.1145/3236024.3275535",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5b6bd8760b70fdfb7b63dabcfaec331383faad88",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    50,
+    {
+      "title": "RefiNym: using names to refine types",
+      "authors": [
+        "Santanu Kumar Dash",
+        "Miltiadis Allamanis",
+        "Earl T. Barr"
+      ],
+      "doi": "10.1145/3236024.3236042",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "15f638a1ab7a77c92027732b99cbe9ffcfb74658",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Feedback-directed differential testing of interactive debuggers",
+      "authors": [
+        "Daniel Lehmann",
+        "Michael Pradel"
+      ],
+      "doi": "10.1145/3236024.3236037",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3662068bd6b14eaff45094b3fb6ce1c1babd1c6e",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    52,
+    {
+      "title": "VulSeeker-pro: enhanced semantic learning based binary vulnerability seeker with emulation",
+      "authors": [
+        "Jian Gao",
+        "Xin Yang",
+        "Ying Fu",
+        "Yu Jiang",
+        "Heyuan Shi",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1145/3236024.3275524",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4a173c1aa3ff5de1ba2e7cc5bf62fb115f5a3dce",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    53,
+    {
+      "title": "EClone: detect semantic clones in Ethereum via symbolic transaction sketch",
+      "authors": [
+        "Han Liu",
+        "Zhiqiang Yang",
+        "Chao Liu",
+        "Yu Jiang",
+        "Wenqi Zhao",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1145/3236024.3264596",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fc52a48a13ae3b479d80840cc7d4c63e1c21c515",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    54,
+    {
+      "title": "How well are regular expressions tested in the wild?",
+      "authors": [
+        "Peipei Wang",
+        "Kathryn T. Stolee"
+      ],
+      "doi": "10.1145/3236024.3236072",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ee4adca156f8420906407af830c0d8eb08aceb81",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    55,
+    {
+      "title": "CloudRaid: hunting concurrency bugs in the cloud via log-mining",
+      "authors": [
+        "Jie Lu",
+        "Feng Li",
+        "Lian Li",
+        "Xiaobing Feng"
+      ],
+      "doi": "10.1145/3236024.3236071",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "375c0cb63d67834202db281814a59a2075f88585",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    56,
+    {
+      "title": "FOT: a versatile, configurable, extensible fuzzing framework",
+      "authors": [
+        "Hongxu Chen",
+        "Yuekang Li",
+        "Bihuan Chen",
+        "Yinxing Xue",
+        "Yang Liu"
+      ],
+      "doi": "10.1145/3236024.3264593",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "52e18b748dc162530f482dfdeabfcdd1d2f1d03a",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    57,
+    {
+      "title": "PowerStation: automatically detecting and fixing inefficiencies of database-backed web applications in IDE",
+      "authors": [
+        "Junwen Yang",
+        "Cong Yan",
+        "Pranav Subramaniam",
+        "Shan Lu",
+        "Alvin Cheung"
+      ],
+      "doi": "10.1145/3236024.3264589",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f7e199a1c438d96a42d2d1498ff7fafd197d7c53",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Using finite-state models for log differencing",
+      "authors": [
+        "Hen Amar",
+        "Lingfeng Bao",
+        "Nimrod Busany",
+        "David Lo",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1145/3236024.3236069",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "088e703aa256cacc8082480954f5e5914700d5e7",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Bugs in the wild: examining the effectiveness of static analyzers at finding real-world bugs",
+      "authors": [
+        "David A. Tomassi"
+      ],
+      "doi": "10.1145/3236024.3275439",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6ddf2bd013de3740864cc53c5a7a5c816fe73866",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Modeling and testing a family of surgical robots: an experience report",
+      "authors": [
+        "Niloofar Mansoor",
+        "Jonathan A. Saddler",
+        "Bruno Silva",
+        "Hamid Bagheri",
+        "Myra B. Cohen",
+        "Shane Farritor"
+      ],
+      "doi": "10.1145/3236024.3275534",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "129ddbbed0e14b42193722981897b5e7d3014172",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Salient-class location: help developers understand code change in code review",
+      "authors": [
+        "Yuan Huang",
+        "Nan Jia",
+        "Xiangping Chen",
+        "Kai Hong",
+        "Zibin Zheng"
+      ],
+      "doi": "10.1145/3236024.3264841",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9410761abf0533459bcbe2bfaf841417cb60b666",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Practical AJAX race detection for JavaScript web applications",
+      "authors": [
+        "Christoffer Quist Adamsen",
+        "Anders M\u00f8ller",
+        "Saba Alimadadi",
+        "Frank Tip"
+      ],
+      "doi": "10.1145/3236024.3236038",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e97da8137a1b1e81f0b226b388939aede36fdf59",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Complementing global and local contexts in representing API descriptions to improve API retrieval tasks",
+      "authors": [
+        "Thanh Nguyen",
+        "Ngoc Tran",
+        "Hung Phan",
+        "Trong Nguyen",
+        "Linh Truong",
+        "Anh Tuan Nguyen",
+        "Hoan Anh Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/3236024.3236036",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "65a139d7f368bafdb043fb4ddc0c499b611361fd",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Model transformation languages under a magnifying glass: a controlled experiment with Xtend, ATL, and QVT",
+      "authors": [
+        "Regina Hebig",
+        "Christoph Seidl",
+        "Thorsten Berger",
+        "John Kook Pedersen",
+        "Andrzej W\u0105sowski"
+      ],
+      "doi": "10.1145/3236024.3236046",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f7a7b7c529d25f8ae9b9da1e73e4d15578b5662b",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    65,
+    {
+      "title": "BigSift: automated debugging of big data analytics in data-intensive scalable computing",
+      "authors": [
+        "Muhammad Ali Gulzar",
+        "Siman Wang",
+        "Miryung Kim"
+      ],
+      "doi": "10.1145/3236024.3264586",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7c536691c6853e36fb805682faf239acf7da85d5",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Stochastic energy optimization for mobile GPS applications",
+      "authors": [
+        "Anthony Canino",
+        "Yu David Liu",
+        "Hidehiko Masuhara"
+      ],
+      "doi": "10.1145/3236024.3236076",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8e1f8d7de4e43e911eeb4a549ddb6463562df5cc",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Winning the app production rally",
+      "authors": [
+        "Ehsan Noei",
+        "Daniel Alencar Da Costa",
+        "Ying Zou"
+      ],
+      "doi": "10.1145/3236024.3236044",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "368474e0f00f77bc41bf2d9b1292c349ee599957",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Neural-augmented static analysis of Android communication",
+      "authors": [
+        "Jinman Zhao",
+        "Aws Albarghouthi",
+        "Vaibhav Rastogi",
+        "Somesh Jha",
+        "Damien Octeau"
+      ],
+      "doi": "10.1145/3236024.3236066",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6de321c11eddd5349a842899bcadc05a4b5f2bf5",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    69,
+    {
+      "title": "A novel automated approach for software effort estimation based on data augmentation",
+      "authors": [
+        "Liyan Song",
+        "Leandro L. Minku",
+        "Xin Yao"
+      ],
+      "doi": "10.1145/3236024.3236052",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bff7f84578286cc0bb3a59a4c455a2cef26867dd",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Phys: probabilistic physical unit assignment and inconsistency detection",
+      "authors": [
+        "Sayali Kate",
+        "John-Paul Ore",
+        "Xiangyu Zhang",
+        "Sebastian Elbaum",
+        "Zhaogui Xu"
+      ],
+      "doi": "10.1145/3236024.3236035",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b4c41894472efcbf6e09af1420012810ab46a9f6",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    71,
+    {
+      "title": "INFAR: insight extraction from app reviews",
+      "authors": [
+        "Cuiyun Gao",
+        "Jichuan Zeng",
+        "David Lo",
+        "Chin-Yew Lin",
+        "Michael R. Lyu",
+        "Irwin King"
+      ],
+      "doi": "10.1145/3236024.3264595",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5a02be67ef38194f193c73bf0de2dbd5be677cc5",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Augmenting stack overflow with API usage patterns mined from GitHub",
+      "authors": [
+        "Anastasia Reinhardt",
+        "Tianyi Zhang",
+        "Mihir Mathur",
+        "Miryung Kim"
+      ],
+      "doi": "10.1145/3236024.3264585",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5f3ec1d1488d5126cfa63eac791a32d7f06b6b0d",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Testing multithreaded programs via thread speed control",
+      "authors": [
+        "Dongjie Chen",
+        "Yanyan Jiang",
+        "Chang Xu",
+        "Xiaoxing Ma",
+        "Jian Lu"
+      ],
+      "doi": "10.1145/3236024.3236077",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "21e9e4125ecfe8986db32e1a52c2ee51b0e8880c",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Data race detection on compressed traces",
+      "authors": [
+        "Dileep Kini",
+        "Umang Mathur",
+        "Mahesh Viswanathan"
+      ],
+      "doi": "10.1145/3236024.3236025",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "893600ad8e83ed5b10c0f76f8d1bea90fb9597e9",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Building lean continuous integration and delivery pipelines by applying DevOps principles: a case study at Varidesk",
+      "authors": [
+        "Vidroha Debroy",
+        "Senecca Miller",
+        "Lance Brimble"
+      ],
+      "doi": "10.1145/3236024.3275528",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "876e73af83f109808a43b63939337ca1a3d407d6",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    76,
+    {
+      "title": "WarningsGuru: integrating statistical bug models with static analysis to provide timely and specific bug warnings",
+      "authors": [
+        "Louis-Philippe Querel",
+        "Peter C. Rigby"
+      ],
+      "doi": "10.1145/3236024.3264599",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "43ef77b4265d89a4016814076d95327bac0a1f92",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Design and validation of precooked developer dashboards",
+      "authors": [
+        "Vladimir Ivanov",
+        "Vladislav Pischulin",
+        "Alan Rogers",
+        "Giancarlo Succi",
+        "Jooyong Yi",
+        "Vasilii Zorin"
+      ],
+      "doi": "10.1145/3236024.3275530",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c2bdf79cde84613cac04bb0e5aabfdca7b35f2b1",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    78,
+    {
+      "title": "On the naturalness of proofs",
+      "authors": [
+        "Vincent J. Hellendoorn",
+        "Premkumar T. Devanbu",
+        "Mohammad Amin Alipour"
+      ],
+      "doi": "10.1145/3236024.3264832",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b0ee5634055741ee5efe6d4371e60d71b88c1390",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Behind every great deep learning framework is an even greater programming languages concept (keynote)",
+      "authors": [
+        "Erik Meijer"
+      ],
+      "doi": "10.1145/3236024.3280855",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "aaf88a4d63909b6567dface4843ce55bdc758590",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Beyond testing configurable systems: applying variational execution to automatic program repair and higher order mutation testing",
+      "authors": [
+        "Chu-Pan Wong",
+        "Jens Meinicke",
+        "Christian K\u00e4stner"
+      ],
+      "doi": "10.1145/3236024.3264837",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8b638ef409b92642d653100c629fbc01b05268eb",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Automated refactoring of nested-IF formulae in spreadsheets",
+      "authors": [
+        "Jie Zhang",
+        "Shi Han",
+        "Dan Hao",
+        "Lu Zhang",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1145/3236024.3275532",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0d70040604e55ce5f0a029aa5fe035075600ed35",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Modify, enhance, select: co-evolution of combinatorial models and test plans",
+      "authors": [
+        "Rachel Tzoref-Brill",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1145/3236024.3236067",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "24d97b2fa4bbe2dcdf845a02fdabaf4a9be8851b",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Putback-based bidirectional model transformations",
+      "authors": [
+        "Xiao He",
+        "Zhenjiang Hu"
+      ],
+      "doi": "10.1145/3236024.3236070",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "29a60a6c0718bb4bcb4fceda9a86ffaad1a9eafa",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Intelligent bug fixing with software bug knowledge graph",
+      "authors": [
+        "Cheng Zhou"
+      ],
+      "doi": "10.1145/3236024.3275428",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c08d4935c922726b81c5ec34a704b93a1520f7a4",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    85,
+    {
+      "title": "ASketch: a sketching framework for Alloy",
+      "authors": [
+        "Kaiyuan Wang",
+        "Allison Sullivan",
+        "Darko Marinov",
+        "Sarfraz Khurshid"
+      ],
+      "doi": "10.1145/3236024.3264594",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0a170fcd0f276425aa2015a9444196eab864af0e",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Moving towards objective measures of program comprehension",
+      "authors": [
+        "Sarah Fakhoury"
+      ],
+      "doi": "10.1145/3236024.3275426",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "14e38f3f75f5a8940252178814d10f8e5add74a7",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Verifying the long-run behavior of probabilistic system models in the presence of uncertainty",
+      "authors": [
+        "Yamilet R. Serrano Llerena",
+        "Marcel B\u00f6hme",
+        "Marc Br\u00fcnink",
+        "Guoxin Su",
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1145/3236024.3236078",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7c3873aa539552388eaa179f7221057899fe80c6",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Gamifying static analysis",
+      "authors": [
+        "Lisa Nguyen Quang Do",
+        "Eric Bodden"
+      ],
+      "doi": "10.1145/3236024.3264830",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fc5a12cc8b73f8ddbb505e5096fdb2afb1a7869e",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    89,
+    {
+      "title": "DSM: a specification mining tool using recurrent neural network based language model",
+      "authors": [
+        "Tien-Duy B. Le",
+        "Lingfeng Bao",
+        "David Lo"
+      ],
+      "doi": "10.1145/3236024.3264597",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2d7eb51df20c146af2508404df6915e4b18c0864",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Diversity and decorum in open source communities",
+      "authors": [
+        "Neill Robson"
+      ],
+      "doi": "10.1145/3236024.3275441",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "20e6577cfa04cd3a53e045ec1a1cf843564ca74b",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Detection of energy inefficiencies in Android wear watch faces",
+      "authors": [
+        "Hailong Zhang",
+        "Haowei Wu",
+        "Atanas Rountev"
+      ],
+      "doi": "10.1145/3236024.3236073",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6f8ddb093268e04e9a662f66fab40dbed91f4dfb",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Regression test selection for TizenRT",
+      "authors": [
+        "Ahmet Celik",
+        "Young Chul Lee",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1145/3236024.3275527",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ad67e66f0c87d654c5e395717b966eedddf99d5e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes",
+      "authors": [
+        "Masatomo Hashimoto",
+        "Akira Mori",
+        "Tomonori Izumida"
+      ],
+      "doi": "10.1145/3236024.3236047",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9cd33bb9b6d3f0561371b97bf6a1e17e7db96175",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    94,
+    {
+      "title": "FACTS: automated black-box testing of FinTech systems",
+      "authors": [
+        "Qingshun Wang",
+        "Lintao Gu",
+        "Minhui Xue",
+        "Lihua Xu",
+        "Wenyu Niu",
+        "Liang Dou",
+        "Liang He",
+        "Tao Xie"
+      ],
+      "doi": "10.1145/3236024.3275533",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "671181e585d580d0bcc0e86dfc881e8514d5f985",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Vista: web test repair using computer vision",
+      "authors": [
+        "Andrea Stocco",
+        "Rahulkrishna Yandrapally",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1145/3236024.3264592",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "29b1f30277da1e640cfd8c94384f012952cbb978",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    96,
+    {
+      "title": "How do developers resolve merge conflicts? an investigation into the processes, tools, and improvements",
+      "authors": [
+        "Caius Brindescu"
+      ],
+      "doi": "10.1145/3236024.3275430",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "22a064993263e625d634b2dd05b47629246aa168",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Performance comprehension at WiredTiger",
+      "authors": [
+        "Alexandra Fedorova",
+        "Craig Mustard",
+        "Ivan Beschastnikh",
+        "Julia Rubin",
+        "Augustine Wong",
+        "Svetozar Miucin",
+        "Louis Ye"
+      ],
+      "doi": "10.1145/3236024.3236081",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2f8ff2b563b45a3713901f3d5724b43e7511a018",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    98,
+    {
+      "title": "On the adoption of neural networks in modeling software reliability",
+      "authors": [
+        "Kamill Gusmanov"
+      ],
+      "doi": "10.1145/3236024.3275433",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4e36414635109f10c6c5cca1d4ee50587a8464b4",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    99,
+    {
+      "title": "AlloyInEcore: embedding of first-order relational logic into meta-object facility for automated model reasoning",
+      "authors": [
+        "Ferhat Erata",
+        "Arda Goknil",
+        "Ivan Kurtev",
+        "Bedir Tekinerdogan"
+      ],
+      "doi": "10.1145/3236024.3264588",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5ccf6e354bd709544f3c5550c2ba082113410560",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Large-scale study of substitutability in the presence of effects",
+      "authors": [
+        "Jackson Maddox",
+        "Yuheng Long",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3236024.3236075",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cc1b7e7828dd40d93d24dc17c7c855191d906aa4",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Towards quantifying the development value of code contributions",
+      "authors": [
+        "Jinglei Ren",
+        "Hezheng Yin",
+        "Qingda Hu",
+        "Armando Fox",
+        "Wojciech Koszek"
+      ],
+      "doi": "10.1145/3236024.3264842",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "fd3bb445b30ea032693679eca7f4ef949c1577f1",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Towards counterexample-guided k-induction for fast bug detection",
+      "authors": [
+        "Mikhail R. Gadelha",
+        "Felipe R. Monteiro",
+        "Lucas C. Cordeiro",
+        "Denis A. Nicole"
+      ],
+      "doi": "10.1145/3236024.3264840",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2860fdd43374b2adb1ba7117399b484ddcd19f4f",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Semantic inference from natural language privacy policies and Android code",
+      "authors": [
+        "Mitra Bokaei Hosseini"
+      ],
+      "doi": "10.1145/3236024.3275427",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9d7355de4b7d1d8471c927f2d274763fa72c2d52",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Concurrency verification with maximal path causality",
+      "authors": [
+        "Qiuping Yi",
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/3236024.3236048",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "70575097549649e78139acf254c3be6ff5448d03",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Practices and tools for better software testing",
+      "authors": [
+        "Davide Spadini"
+      ],
+      "doi": "10.1145/3236024.3275424",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "40b6742861fe3e6199c2e2e2b31d93ce003ad1d1",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Towards data-driven vulnerability prediction for requirements",
+      "authors": [
+        "Sayem Mohammad Imtiaz",
+        "Tanmay Bhowmik"
+      ],
+      "doi": "10.1145/3236024.3264836",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "564a01078a7ed5bb52a6191f29582058ab461d01",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Towards learning-augmented languages",
+      "authors": [
+        "Xinyuan Sun"
+      ],
+      "doi": "10.1145/3236024.3275432",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "88f211686e55db55e7cb94c89882d9eb2f80620b",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Feature-interaction aware configuration prioritization",
+      "authors": [
+        "Son Nguyen"
+      ],
+      "doi": "10.1145/3236024.3275437",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7a889e3b91383731ad8676b536b886e2939af003",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Software development challenges with air-gap isolation",
+      "authors": [
+        "Sunny Wong",
+        "Anne Woepse"
+      ],
+      "doi": "10.1145/3236024.3275526",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "51c137c427450bfffc96fa17b70a6ffbf2dfa56a",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    110,
+    {
+      "title": "VT-revolution: interactive programming tutorials made possible",
+      "authors": [
+        "Lingfeng Bao",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "David Lo",
+        "Shanping Li"
+      ],
+      "doi": "10.1145/3236024.3264587",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "36297b5a4b06f1722bf130b2c0d2720ec020ab9c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Testing and validating end user programmed calculated fields",
+      "authors": [
+        "V\u00edctor Braberman",
+        "Diego Garbervetsky",
+        "Javier Godoy",
+        "Sebastian Uchitel",
+        "Guido de Caso",
+        "Ignacio Perez",
+        "Santiago Perez"
+      ],
+      "doi": "10.1145/3236024.3275531",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "dcfd4d429277160410a229450c87d5de7fa6c6b7",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Automated scenario-based integration testing of distributed systems",
+      "authors": [
+        "Bruno Lima"
+      ],
+      "doi": "10.1145/3236024.3275431",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ba1d410dd2d7ba8892e18625f7026f4a35f08abf",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    113,
+    {
+      "title": "How are spreadsheet templates used in practice: a case study on Enron",
+      "authors": [
+        "Liang Xu",
+        "Wensheng Dou",
+        "Jiaxin Zhu",
+        "Chushu Gao",
+        "Jun Wei",
+        "Tao Huang"
+      ],
+      "doi": "10.1145/3236024.3264834",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "37e7cd21738fd164d0140b68e6bb92a36ac4f7f3",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Dara: hybrid model checking of distributed systems",
+      "authors": [
+        "Vaastav Anand"
+      ],
+      "doi": "10.1145/3236024.3275438",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "002514e52e8480bf17ff6ba8f28a6ef3a6f229f1",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Software engineering collaboratories (SEClabs) and collaboratories as a service (CaaS)",
+      "authors": [
+        "Elena Sherman",
+        "Robert Dyer"
+      ],
+      "doi": "10.1145/3236024.3264839",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "66dc89c717bf4e18cd8b278e33e5fe037a3a6b56",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Type migration in large-scale code bases",
+      "authors": [
+        "Ameya Ketkar"
+      ],
+      "doi": "10.1145/3236024.3275434",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e1df955dc9b57b85f9421e1909c59d6b36fb3f49",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF",
+      "authors": [
+        "Mijung Kim",
+        "Shing-Chi Cheung",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1145/3236024.3236058",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1c24e64ca84a496c3c380497c3b946713433b5ea",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Automated support for mobile application testing and maintenance",
+      "authors": [
+        "Mattia Fazzini"
+      ],
+      "doi": "10.1145/3236024.3275425",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3d5f6e262cea1e5f01f4acc92380279af74106e8",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    119,
+    {
+      "title": "How Dance(Sport) can help to produce better software",
+      "authors": [
+        "Irina Erofeeva"
+      ],
+      "doi": "10.1145/3236024.3275436",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0002d894bfe4737b636d964710e91dd8abf2d200",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Ten years of hunting for similar code for fun and profit (keynote)",
+      "authors": [
+        "St\u00e9phane Glondu",
+        "Lingxiao Jiang",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/3236024.3280856",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "278fe9a61b0e79a4bf8965c5b065e13875ce9681",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Reshaping distributed agile and adaptive development environment",
+      "authors": [
+        "Francesco Nocera"
+      ],
+      "doi": "10.1145/3236024.3275435",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8647a6f4cf48a1ec9c6c68d2566ef03f51bb471f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Quality assurance automation in autonomous systems",
+      "authors": [
+        "Afsoon Afzal"
+      ],
+      "doi": "10.1145/3236024.3275429",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f5905709407caced0f2d0ce9eb2b203febf04626",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    123,
+    {
+      "title": "The case for experiment-oriented computing",
+      "authors": [
+        "Paulo Salem"
+      ],
+      "doi": "10.1145/3236024.3264831",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5f0a1d1b6776b59cf17822d14e28e55e0cf15a8b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Mining error-handling specifications for systems software",
+      "authors": [
+        "Daniel DeFreez"
+      ],
+      "doi": "10.1145/3236024.3275440",
+      "venue": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "citations": {
+        "paperId": "099082d4b05a8c9a78d9272468ec3d24fe50f1e7",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ]
+]

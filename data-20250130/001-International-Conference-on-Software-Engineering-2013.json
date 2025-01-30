@@ -1,0 +1,4709 @@
+[
+  [
+    1,
+    {
+      "title": "Expectations, outcomes, and challenges of modern code review",
+      "authors": [
+        "Alberto Bacchelli",
+        "Christian Bird"
+      ],
+      "doi": "10.1109/icse.2013.6606617",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3ad467fe13ffa8ee705d62d8228a2c254a96f5bd",
+        "citationCount": 689,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    2,
+    {
+      "title": "SemFix: Program repair via semantic analysis",
+      "authors": [
+        "Hoang Duong Thien Nguyen",
+        "Dawei Qi",
+        "Abhik Roychoudhury",
+        "Satish Chandra"
+      ],
+      "doi": "10.1109/icse.2013.6606623",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "05607111cf79330d56164a10d351dbf94e2cfa44",
+        "citationCount": 661,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Why don't software developers use static analysis tools to find bugs?",
+      "authors": [
+        "Brittany Johnson",
+        "Yoonki Song",
+        "Emerson Murphy-Hill",
+        "Robert Bowdidge"
+      ],
+      "doi": "10.1109/icse.2013.6606613",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "060cc5c0fa6bed9a39bdb6f9c995586f4709006e",
+        "citationCount": 626,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Transfer defect learning",
+      "authors": [
+        "Jaechang Nam",
+        "Sinno Jialin Pan",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1109/icse.2013.6606584",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "09aa40d09924cc9d23830cbb4c5a1d78cfa1d70c",
+        "citationCount": 476,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    5,
+    {
+      "title": "It's not a bug, it's a feature: How misclassification impacts bug prediction",
+      "authors": [
+        "Kim Herzig",
+        "Sascha Just",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1109/icse.2013.6606585",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "86a0e7286fb27d8e817c3831982d50cadddc498f",
+        "citationCount": 418,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Boa: A language and infrastructure for analyzing ultra-large-scale software repositories",
+      "authors": [
+        "Robert Dyer",
+        "Hoan Anh Nguyen",
+        "Hridesh Rajan",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2013.6606588",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "20379f1cc87c9bf20ff18f976bc1f7dcbfa920cd",
+        "citationCount": 378,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    7,
+    {
+      "title": "RERAN: Timing- and touch-sensitive record and replay for Android",
+      "authors": [
+        "Lorenzo Gomez",
+        "Iulian Neamtiu",
+        "Tanzirul Azim",
+        "Todd Millstein"
+      ],
+      "doi": "10.1109/icse.2013.6606553",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0195f5034ce011da2d38cdd60dfc68f4b3c52784",
+        "citationCount": 326,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Analysis of user comments: An approach for software requirements evolution",
+      "authors": [
+        "Laura V. Galvis Carreno",
+        "Kristina Winbladh"
+      ],
+      "doi": "10.1109/icse.2013.6606604",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "319f029db50f8805bfc6836ade88198d4ff6f402",
+        "citationCount": 323,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    9,
+    {
+      "title": "How, and why, process metrics are better",
+      "authors": [
+        "Foyzur Rahman",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1109/icse.2013.6606589",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ef8ab10e584500052ab909b649c5e50f12c09994",
+        "citationCount": 322,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    10,
+    {
+      "title": "How to effectively use topic models for software engineering tasks? An approach based on Genetic Algorithms",
+      "authors": [
+        "Annibale Panichella",
+        "Bogdan Dit",
+        "Rocco Oliveto",
+        "Massimilano Di Penta",
+        "Denys Poshynanyk",
+        "Andrea De Lucia"
+      ],
+      "doi": "10.1109/icse.2013.6606598",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5ed409e2bee9203af02f63b0a57aa139f9ea2cc3",
+        "citationCount": 319,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Estimating mobile application energy consumption using program analysis",
+      "authors": [
+        "Shuai Hao",
+        "Ding Li",
+        "William G. J. Halfond",
+        "Ramesh Govindan"
+      ],
+      "doi": "10.1109/icse.2013.6606555",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "207c712404b256fe5e71114c480571f99725f345",
+        "citationCount": 307,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    12,
+    {
+      "title": "UML in practice",
+      "authors": [
+        "Marian Petre"
+      ],
+      "doi": "10.1109/icse.2013.6606618",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3befaef04ff0c435cb0a31e7a35d5229bc122c43",
+        "citationCount": 270,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Automatic query reformulations for text retrieval in software engineering",
+      "authors": [
+        "Sonia Haiduc",
+        "Gabriele Bavota",
+        "Andrian Marcus",
+        "Rocco Oliveto",
+        "Andrea De Lucia",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/icse.2013.6606630",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e62a8afbe6018540c60d9dcce1ff6bd98f2e404",
+        "citationCount": 243,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    14,
+    {
+      "title": "On the value of user preferences in search-based software engineering: A case study in software product lines",
+      "authors": [
+        "Abdel Salam Sayyad",
+        "Tim Menzies",
+        "Hany Ammar"
+      ],
+      "doi": "10.1109/icse.2013.6606595",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e708fe09fcbcebba443db826c6f0d6c839137cb0",
+        "citationCount": 236,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Reducing human effort and improving quality in peer code reviews using automatic static analysis and reviewer recommendation",
+      "authors": [
+        "Vipin Balachandran"
+      ],
+      "doi": "10.1109/icse.2013.6606642",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e14e7e645fe8be40a5f3e3b8f150271e8a5d3b84",
+        "citationCount": 233,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Lase: Locating and applying systematic edits by learning from examples",
+      "authors": [
+        "Na Meng",
+        "Miryung Kim",
+        "Kathryn S. McKinley"
+      ],
+      "doi": "10.1109/icse.2013.6606596",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8861403d6062f28e6172317bf8b84b1d0a32b7bb",
+        "citationCount": 232,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Exploring the impact of inter-smell relations on software maintainability: An empirical study",
+      "authors": [
+        "Aiko Yamashita",
+        "Leon Moonen"
+      ],
+      "doi": "10.1109/icse.2013.6606614",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e18944245819cfc6905af89dd4bc93268f7e5558",
+        "citationCount": 196,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Scaling agile methods to regulated environments: An industry case study",
+      "authors": [
+        "Brian Fitzgerald",
+        "Klaas-Jan Stol",
+        "Ryan O'Sullivan",
+        "Donal O'Brien"
+      ],
+      "doi": "10.1109/icse.2013.6606635",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "916661695eeb268d1743120233e77530290dd65a",
+        "citationCount": 186,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Strategies for product-line verification: Case studies and experiments",
+      "authors": [
+        "Sven Apel",
+        "Alexander von Rhein",
+        "Philipp Wendler",
+        "Armin Groslinger",
+        "Dirk Beyer"
+      ],
+      "doi": "10.1109/icse.2013.6606594",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "414a8f32963ad0f4f4c66c7d94901562d9822481",
+        "citationCount": 179,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Billions and billions of constraints: Whitebox fuzz testing in production",
+      "authors": [
+        "Ella Bounimova",
+        "Patrice Godefroid",
+        "David Molnar"
+      ],
+      "doi": "10.1109/icse.2013.6606558",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8b7059862ca5fec5eec758ce9e49854df296b5ba",
+        "citationCount": 175,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Assisting developers of Big Data Analytics Applications when deploying on Hadoop clouds",
+      "authors": [
+        "Weiyi Shang",
+        "Zhen Ming Jiang",
+        "Hadi Hemmati",
+        "Brain Adams",
+        "Ahmed E. Hassan",
+        "Patrick Martin"
+      ],
+      "doi": "10.1109/icse.2013.6606586",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a50289628b9f2661413f37fd42b0bc57185aa6ea",
+        "citationCount": 174,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Discovering essential code elements in informal documentation",
+      "authors": [
+        "Peter C. Rigby",
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1109/icse.2013.6606629",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5fd3029b5fcbbaa55b17466c476dc7b41897d9c2",
+        "citationCount": 163,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Toddler: Detecting performance problems via similar memory-access patterns",
+      "authors": [
+        "Adrian Nistor",
+        "Linhai Song",
+        "Darko Marinov",
+        "Shan Lu"
+      ],
+      "doi": "10.1109/icse.2013.6606602",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fc538e9c8923177c69b56cd6f58abe3156a21ebd",
+        "citationCount": 159,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Bridging the gap between the total and additional test-case prioritization strategies",
+      "authors": [
+        "Lingming Zhang",
+        "Dan Hao",
+        "Lu Zhang",
+        "Gregg Rothermel",
+        "Hong Mei"
+      ],
+      "doi": "10.1109/icse.2013.6606565",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2276303fccf3f8d44eab4214dbb584a43cd436ad",
+        "citationCount": 155,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Does bug prediction support human developers? Findings from a Google case study",
+      "authors": [
+        "Chris Lewis",
+        "Zhongpeng Lin",
+        "Caitlin Sadowski",
+        "Xiaoyan Zhu",
+        "Rong Ou",
+        "E. James Whitehead"
+      ],
+      "doi": "10.1109/icse.2013.6606583",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a2bc9b5fb533f349aace8ee1f7dac3d7a2b8a558",
+        "citationCount": 153,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Creating a shared understanding of testing culture on a social coding site",
+      "authors": [
+        "Raphael Pham",
+        "Leif Singer",
+        "Olga Liskin",
+        "Fernando Figueira Filho",
+        "Kurt Schneider"
+      ],
+      "doi": "10.1109/icse.2013.6606557",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aa71290dd29d51a583d4edf029485c6eb492404c",
+        "citationCount": 138,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Reliability analysis in Symbolic PathFinder",
+      "authors": [
+        "Antonio Filieri",
+        "Corina S. Pasareanu",
+        "Willem Visser"
+      ],
+      "doi": "10.1109/icse.2013.6606608",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "eeadc9c055329d2fc41bd8dda3409009a192a2e0",
+        "citationCount": 132,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    28,
+    {
+      "title": "An empirical study on the developers' perception of software coupling",
+      "authors": [
+        "Gabriele Bavota",
+        "Bogdan Dit",
+        "Rocco Oliveto",
+        "Massimilano Di Penta",
+        "Denys Poshyvanyk",
+        "Andrea De Lucia"
+      ],
+      "doi": "10.1109/icse.2013.6606615",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "464fae2fabb0346adda8634e2062616c94e3efe3",
+        "citationCount": 130,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Automated diagnosis of software configuration errors",
+      "authors": [
+        "Sai Zhang",
+        "Michael D. Ernst"
+      ],
+      "doi": "10.1109/icse.2013.6606577",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "922b5e10f66d248b2f18c3f4ff5cd573e8273a14",
+        "citationCount": 128,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Efficient construction of approximate call graphs for JavaScript IDE services",
+      "authors": [
+        "Asger Feldthaus",
+        "Max Schafer",
+        "Manu Sridharan",
+        "Julian Dolby",
+        "Frank Tip"
+      ],
+      "doi": "10.1109/icse.2013.6606621",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c866a930fe71b77c8c99ec59088fd3cdf5af8558",
+        "citationCount": 124,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Seahawk: Stack Overflow in the IDE",
+      "authors": [
+        "Luca Ponzanelli",
+        "Alberto Bacchelli",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/icse.2013.6606701",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "218f9e89f2f585b184d928b08636d300e1307c7f",
+        "citationCount": 123,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    32,
+    {
+      "title": "User involvement in software evolution practice: A case study",
+      "authors": [
+        "Dennis Pagano",
+        "Bernd Bruegge"
+      ],
+      "doi": "10.1109/icse.2013.6606645",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e77b096d415899320e1b5b5d07b77a5dbd1eddc3",
+        "citationCount": 123,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Search-based genetic optimization for deployment and reconfiguration of software in the cloud",
+      "authors": [
+        "Soren Frey",
+        "Florian Fittkau",
+        "Wilhelm Hasselbring"
+      ],
+      "doi": "10.1109/icse.2013.6606597",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7edadc5a2960fa4c5fdf57601315fcda7c0a90ea",
+        "citationCount": 123,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Categorizing bugs with social networks: A case study on four open source software communities",
+      "authors": [
+        "Marcelo Serrano Zanetti",
+        "Ingo Scholtes",
+        "Claudio Juan Tessone",
+        "Frank Schweitzer"
+      ],
+      "doi": "10.1109/icse.2013.6606653",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "520ba085756492bbd45361fc0d87bf396eef5134",
+        "citationCount": 120,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Teaching and learning programming and software engineering via interactive gaming",
+      "authors": [
+        "Nikolai Tillmann",
+        "Jonathan de Halleux",
+        "Tao Xie",
+        "Sumit Gulwani",
+        "Judith Bishop"
+      ],
+      "doi": "10.1109/icse.2013.6606662",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "56115dad23524f1e74dee9831983f81b0d7af2c6",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    36,
+    {
+      "title": "X-PERT: Accurate identification of cross-browser issues in web applications",
+      "authors": [
+        "Shauvik Roy Choudhary",
+        "Mukul R. Prasad",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1109/icse.2013.6606616",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fc0c087c5f99a9cf4b7ff641fb3969c4aa6a36d3",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Safe software updates via multi-version execution",
+      "authors": [
+        "Petr Hosek",
+        "Cristian Cadar"
+      ],
+      "doi": "10.1109/icse.2013.6606607",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b96d3c730c9fd31c637d7a91e65d987dcffbd006",
+        "citationCount": 106,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Automatic recovery from runtime failures",
+      "authors": [
+        "Antonio Carzaniga",
+        "Alessandra Gorla",
+        "Andrea Mattavelli",
+        "Nicolo Perino",
+        "Mauro Pezze"
+      ],
+      "doi": "10.1109/icse.2013.6606624",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9e2412c9d11d19ed9c16651ef06c26372e7b86f6",
+        "citationCount": 104,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Managing non-functional uncertainty via model-driven adaptivity",
+      "authors": [
+        "Carlo Ghezzi",
+        "Leandro Sales Pinto",
+        "Paola Spoletini",
+        "Giordano Tamburrelli"
+      ],
+      "doi": "10.1109/icse.2013.6606549",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4b1a124a8a8cedb542e69a2fa4f2ae7f17079f01",
+        "citationCount": 103,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Mining SQL injection and cross site scripting vulnerabilities using hybrid program analysis",
+      "authors": [
+        "Lwin Khin Shar",
+        "Hee Beng Kuan Tan",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1109/icse.2013.6606610",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7d3da428cc54e1eb0a8ad4ee14fa03d94541b23d",
+        "citationCount": 102,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Automatic detection of performance deviations in the load testing of Large Scale Systems",
+      "authors": [
+        "Haroon Malik",
+        "Hadi Hemmati",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/icse.2013.6606651",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bf70bb664f9aec1e62f5c62b61e1a794db8a4a66",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Cassandra: Proactive conflict minimization through optimized task scheduling",
+      "authors": [
+        "Bakhtiar Khan Kasi",
+        "Anita Sarma"
+      ],
+      "doi": "10.1109/icse.2013.6606619",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61423b1a0920ede7d54595469b4d644e2a3a62bc",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Beyond Boolean product-line model checking: Dealing with feature attributes and multi-features",
+      "authors": [
+        "Maxime Cordy",
+        "Pierre-Yves Schobbens",
+        "Patrick Heymans",
+        "Axel Legay"
+      ],
+      "doi": "10.1109/icse.2013.6606593",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "58b742b7f1769721016ec0b4f04bff4ea00648c3",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Dual ecological measures of focus in software development",
+      "authors": [
+        "Daryl Posnett",
+        "Raissa D'Souza",
+        "Premkumar Devanbu",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1109/icse.2013.6606591",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e237a1a8603cfec4913d803bed612743fef95e9a",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Not going to take this anymore: Multi-objective overtime planning for Software Engineering projects",
+      "authors": [
+        "Filomena Ferrucci",
+        "Mark Harman",
+        "Jian Ren",
+        "Federica Sarro"
+      ],
+      "doi": "10.1109/icse.2013.6606592",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de2aa1b58c49e78fd2b5758ccd67540d65947582",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Path sensitive static analysis of web applications for remote code execution vulnerability detection",
+      "authors": [
+        "Yunhui Zheng",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1109/icse.2013.6606611",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "27795283b6e8f98d7d06defc4478442ee959eb16",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Program transformations to fix C integers",
+      "authors": [
+        "Zack Coker",
+        "Munawar Hafiz"
+      ],
+      "doi": "10.1109/icse.2013.6606625",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2589116010980cdf36b7efec9a91eb4da6279210",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    48,
+    {
+      "title": "GuideArch: Guiding the exploration of architectural solution space under uncertainty",
+      "authors": [
+        "Naeem Esfahani",
+        "Sam Malek",
+        "Kaveh Razavi"
+      ],
+      "doi": "10.1109/icse.2013.6606550",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6f8dd7aec246248ba65ca374e124747d6f12be71",
+        "citationCount": 74,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Aluminum: Principled scenario exploration through minimality",
+      "authors": [
+        "Tim Nelson",
+        "Salman Saghafi",
+        "Daniel J. Dougherty",
+        "Kathi Fisler",
+        "Shriram Krishnamurthi"
+      ],
+      "doi": "10.1109/icse.2013.6606569",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "eee93129eead6f1ac7989d5834bdcd1c20313764",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    50,
+    {
+      "title": "A framework for managing cloned product variants",
+      "authors": [
+        "Julia Rubin",
+        "Marsha Chechik"
+      ],
+      "doi": "10.1109/icse.2013.6606686",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6bd3a4fee45e883790275266fbf1a1cf28819980",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Automated software architecture security risk analysis using formalized signatures",
+      "authors": [
+        "Mohamed Almorsy",
+        "John Grundy",
+        "Amani S. Ibrahim"
+      ],
+      "doi": "10.1109/icse.2013.6606612",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8c65f837d4af3725c7709f32c6b61fd4b370b98f",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    52,
+    {
+      "title": "The design of bug fixes",
+      "authors": [
+        "Emerson Murphy-Hill",
+        "Thomas Zimmermann",
+        "Christian Bird",
+        "Nachiappan Nagappan"
+      ],
+      "doi": "10.1109/icse.2013.6606579",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "37f0b5d6e334cd1d28b5a7c21fa3c37772482284",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Supporting swift reaction: Automatically uncovering performance problems by systematic experiments",
+      "authors": [
+        "Alexander Wert",
+        "Jens Happe",
+        "Lucia Happe"
+      ],
+      "doi": "10.1109/icse.2013.6606601",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c1ed4d9414c979f7bc073bdcf4226876d2b1ec42",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    54,
+    {
+      "title": "On identifying user complaints of iOS apps",
+      "authors": [
+        "Hammad Khalid"
+      ],
+      "doi": "10.1109/icse.2013.6606749",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "83073bd83fc58d9219c05e6039c389f735de02dd",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Software requirement patterns",
+      "authors": [
+        "Xavier Franch"
+      ],
+      "doi": "10.1109/icse.2013.6606758",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bbd15ef4d1e8a83949342d88d8542d12bea645d4",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Data clone detection and visualization in spreadsheets",
+      "authors": [
+        "Felienne Hermans",
+        "Ben Sedee",
+        "Martin Pinzger",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/icse.2013.6606575",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "315312bff5a0ac1261450ce1b68637907194bfc7",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Teaching students global software engineering skills using distributed Scrum",
+      "authors": [
+        "Maria Paasivaara",
+        "Casper Lassenius",
+        "Daniela Damian",
+        "Petteri Raty",
+        "Adrian Schroter"
+      ],
+      "doi": "10.1109/icse.2013.6606664",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e100d6a98ba2dfeb38b0d82cfb995dafbfa669d7",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Engineering adaptive privacy: On the role of privacy awareness requirements",
+      "authors": [
+        "Inah Omoronyia",
+        "Luca Cavallaro",
+        "Mazeiar Salehie",
+        "Liliana Pasquale",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/icse.2013.6606609",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "98df9905eb89265f5082be4028732151ccb2f7bf",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Learning revised models for planning in adaptive systems",
+      "authors": [
+        "Daniel Sykes",
+        "Domenico Corapi",
+        "Jeff Magee",
+        "Jeff Kramer",
+        "Alessandra Russo",
+        "Katsumi Inoue"
+      ],
+      "doi": "10.1109/icse.2013.6606552",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "81a3b9d174e7337309a8420e7a0b335b3c51f7d6",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Why did this code change?",
+      "authors": [
+        "Sarah Rastkar",
+        "Gail C. Murphy"
+      ],
+      "doi": "10.1109/icse.2013.6606676",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e52ac1c0ce96d409afc60894c6e72702e1188442",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Partition-based regression verification",
+      "authors": [
+        "Marcel Bohme",
+        "Bruno C. D. S. Oliveira",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/icse.2013.6606576",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "064b79ea7254df88805b489b9493d71b6a8b3dad",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Observable modified condition/decision coverage",
+      "authors": [
+        "Michael Whalen",
+        "Gregory Gay",
+        "Dongjiang You",
+        "Mats P. E. Heimdahl",
+        "Matt Staats"
+      ],
+      "doi": "10.1109/icse.2013.6606556",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bf4ce8840409eb8dcc4135e7972df6c49b5e820c",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Guided test generation for web applications",
+      "authors": [
+        "Suresh Thummalapenta",
+        "K. Vasanta Lakshmi",
+        "Saurabh Sinha",
+        "Nishant Sinha",
+        "Satish Chandra"
+      ],
+      "doi": "10.1109/icse.2013.6606562",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ee1a8dd914f9c961ce84a35de19bed03421088b1",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Automatic synthesis of modular connectors via composition of protocol mediation patterns",
+      "authors": [
+        "Paola Inverardi",
+        "Massimo Tivoli"
+      ],
+      "doi": "10.1109/icse.2013.6606546",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "620069e18e287dda5aba75b8856baabbb355d4e0",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Unifying FSM-inference algorithms through declarative specification",
+      "authors": [
+        "Ivan Beschastnikh",
+        "Yuriy Brun",
+        "Jenny Abrahamson",
+        "Michael D. Ernst",
+        "Arvind Krishnamurthy"
+      ],
+      "doi": "10.1109/icse.2013.6606571",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "efe5f6e7e137664abdc5bbec93e49030717c0567",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    66,
+    {
+      "title": "JST: An automatic test generation tool for industrial Java applications with strings",
+      "authors": [
+        "Indradeep Ghosh",
+        "Nastaran Shafiei",
+        "Guodong Li",
+        "Wei-Fan Chiang"
+      ],
+      "doi": "10.1109/icse.2013.6606649",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bcb9df1a59de225d50e9eb5e8b41bf8021564bae",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Inferring likely mappings between APIs",
+      "authors": [
+        "Amruta Gokhale",
+        "Vinod Ganapathy",
+        "Yogesh Padmanaban"
+      ],
+      "doi": "10.1109/icse.2013.6606554",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4c0ef5534f6130a988d593fd63f751ffbd068642",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Expositor: Scriptable time-travel debugging with first-class traces",
+      "authors": [
+        "Khoo Yit Phang",
+        "Jeffrey S. Foster",
+        "Michael Hicks"
+      ],
+      "doi": "10.1109/icse.2013.6606581",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f77a5baa789810f26dc570a23ea2c9be4662d5f7",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Measuring architecture quality by structure plus history analysis",
+      "authors": [
+        "Robert Schwanke",
+        "Lu Xiao",
+        "Yuanfang Cai"
+      ],
+      "doi": "10.1109/icse.2013.6606638",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "378fec9d72fd0e65a87f85614b2fac06c0a79fbd",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Chronicler: Lightweight recording to reproduce field failures",
+      "authors": [
+        "Jonathan Bell",
+        "Nikhil Sarda",
+        "Gail Kaiser"
+      ],
+      "doi": "10.1109/icse.2013.6606582",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "63db90d54aa3c1d1ad4eac6e884c639473e33806",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Drag-and-drop refactoring: Intuitive and efficient program transformation",
+      "authors": [
+        "Yun Young Lee",
+        "Nicholas Chen",
+        "Ralph E. Johnson"
+      ],
+      "doi": "10.1109/icse.2013.6606548",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "37a581d4fa39d2bf1e216364690959fbc9cdd8e3",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Evaluating usefulness of software metrics: An industrial experience report",
+      "authors": [
+        "Eric Bouwers",
+        "Arie van Deursen",
+        "Joost Visser"
+      ],
+      "doi": "10.1109/icse.2013.6606641",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "13df37c95cd794cb9cfff444d0555de637fa579b",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Improving feature location practice with multi-faceted interactive exploration",
+      "authors": [
+        "Jinshui Wang",
+        "Xin Peng",
+        "Zhenchang Xing",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1109/icse.2013.6606622",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9f827723fd20decba2add5eecc738c62a36c334f",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    74,
+    {
+      "title": "What good are strong specifications?",
+      "authors": [
+        "Nadia Polikarpova",
+        "Carlo A. Furia",
+        "Yu Pei",
+        "Yi Wei",
+        "Bertrand Meyer"
+      ],
+      "doi": "10.1109/icse.2013.6606572",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0174f21aa1c5bf05529e66ac3ca8c44df2622ef7",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    75,
+    {
+      "title": "LambdaFicator: From imperative to functional programming through automated refactoring",
+      "authors": [
+        "Lyle Franklin",
+        "Alex Gyori",
+        "Jan Lahoda",
+        "Danny Dig"
+      ],
+      "doi": "10.1109/icse.2013.6606699",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2d3d2c0b5a6cb96dc22cfb3601444ebfb3435d10",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Feedback-directed unit test generation for C/C&amp;#x002B;&amp;#x002B; using concolic execution",
+      "authors": [
+        "Pranav Garg",
+        "Franjo Ivancic",
+        "Gogul Balakrishnan",
+        "Naoto Maeda",
+        "Aarti Gupta"
+      ],
+      "doi": "10.1109/icse.2013.6606559",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a28e44220884f347fcec4c7a5f37e5f857b5cc28",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Robust reconfigurations of component assemblies",
+      "authors": [
+        "Fabienne Boyer",
+        "Olivier Gruber",
+        "Damien Pous"
+      ],
+      "doi": "10.1109/icse.2013.6606547",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dac7964606df8c855224df6ab2e8b735e7481ec7",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Comparative causality: Explaining the differences between executions",
+      "authors": [
+        "William N. Sumner",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1109/icse.2013.6606573",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dde727e42e60a44978055425fbaf951140bb3a27",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Reverb: Recommending code-related web pages",
+      "authors": [
+        "Nicholas Sawadsky",
+        "Gail C. Murphy",
+        "Rahul Jiresal"
+      ],
+      "doi": "10.1109/icse.2013.6606627",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4e329df88c36143800eaa418c2e68e1085518331",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Example-Driven Modeling: Model &amp;#x003D; Abstractions &amp;#x002B; Examples",
+      "authors": [
+        "Kacper Bak",
+        "Dina Zayan",
+        "Krzysztof Czarnecki",
+        "Michal Antkiewicz",
+        "Zinovy Diskin",
+        "Andrzej Wasowski",
+        "Derek Rayside"
+      ],
+      "doi": "10.1109/icse.2013.6606696",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0f8ff8a9a5d9b39b88fb292dc9954dde6be60f13",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Efficient and change-resilient test automation: An industrial case study",
+      "authors": [
+        "Suresh Thummalapenta",
+        "Pranavadatta Devaki",
+        "Saurabh Sinha",
+        "Satish Chandra",
+        "Sivagami Gnanasundaram",
+        "Deepa D. Nagaraj",
+        "Sampath Kumar",
+        "Sathish Kumar"
+      ],
+      "doi": "10.1109/icse.2013.6606650",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e84e3cce066594a7bca4a1bc8f4ffedef5e4fcde",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Towards automated testing and fixing of re-engineered Feature Models",
+      "authors": [
+        "Christopher Henard",
+        "Mike Papadakis",
+        "Gilles Perrouin",
+        "Jacques Klein",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1109/icse.2013.6606689",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "db51ccdcbb97e5dc24f672235b7ef4bb775acc70",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Interaction-based test-suite minimization",
+      "authors": [
+        "Dale Blue",
+        "Itai Segall",
+        "Rachel Tzoref-Brill",
+        "Aviad Zlotnick"
+      ],
+      "doi": "10.1109/icse.2013.6606564",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "248cdfe56549342e85393a51d194ba138f70172c",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    84,
+    {
+      "title": "A characteristic study on failures of production distributed data-parallel programs",
+      "authors": [
+        "Sihan Li",
+        "Hucheng Zhou",
+        "Haoxiang Lin",
+        "Tian Xiao",
+        "Haibo Lin",
+        "Wei Lin",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/icse.2013.6606646",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1621223141d7763046b8df7d5f4bb902e581b080",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    85,
+    {
+      "title": "A study of enabling factors for rapid fielding combined practices to balance speed and stability",
+      "authors": [
+        "Stephany Bellomo",
+        "Robert L. Nord",
+        "Ipek Ozkaya"
+      ],
+      "doi": "10.1109/icse.2013.6606648",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3c76cb7c13d8cf78a8c175f7c5215b58d30d1bb0",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    86,
+    {
+      "title": "The role of domain knowledge and cross-functional communication in socio-technical coordination",
+      "authors": [
+        "Daniela Damian",
+        "Remko Helms",
+        "Irwin Kwan",
+        "Sabrina Marczak",
+        "Benjamin Koelewijn"
+      ],
+      "doi": "10.1109/icse.2013.6606590",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c3e6f8cd1dabcb8993bd056a1f7710c65a1eba39",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    87,
+    {
+      "title": "JITTAC: A Just-in-Time tool for architectural consistency",
+      "authors": [
+        "Jim Buckley",
+        "Sean Mooney",
+        "Jacek Rosik",
+        "Nour Ali"
+      ],
+      "doi": "10.1109/icse.2013.6606700",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9a6d5306a85bfbd913c2951d5cdfadabe7e1e262",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Authentic assessment in Software Engineering education based on PBL principles a case study in the telecom market",
+      "authors": [
+        "Simone C. dos Santos",
+        "Felipe S. F. Soares"
+      ],
+      "doi": "10.1109/icse.2013.6606655",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2e4c4be46b93e1b24f468cd7bc4eb0dfbe1c7993",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    89,
+    {
+      "title": "PorchLight: A tag-based approach to bug triaging",
+      "authors": [
+        "Gerald Bortis",
+        "Andre van der Hoek"
+      ],
+      "doi": "10.1109/icse.2013.6606580",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "33d0576a10475a4aa81823e027ee3830bb0903f4",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Studios in software engineering education: Towards an evaluable model",
+      "authors": [
+        "Christopher N. Bull",
+        "Jon Whittle",
+        "Leon Cruickshank"
+      ],
+      "doi": "10.1109/icse.2013.6606656",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2ed87756928573cc7d5773b4244e330b5b85aa90",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Distributed development considered harmful?",
+      "authors": [
+        "Ekrem Kocaguneli",
+        "Thomas Zimmermann",
+        "Christian Bird",
+        "Nachiappan Nagappan",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/icse.2013.6606637",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2aaf1ce19637e467975e594652343e819dd1f50e",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Departures from optimality: Understanding human analyst's information foraging in assisted requirements tracing",
+      "authors": [
+        "Nan Niu",
+        "Anas Mahmoud",
+        "Zhangji Chen",
+        "Gary Bradshaw"
+      ],
+      "doi": "10.1109/icse.2013.6606603",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "507f87f9e1d0b8540d7ea61d32c499ba17a2b765",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Agility at scale: Economic governance, measured improvement, and disciplined delivery",
+      "authors": [
+        "Alan W. Brown",
+        "Scott Ambler",
+        "Walker Royce"
+      ],
+      "doi": "10.1109/icse.2013.6606636",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb289a81df5d57d0cfa213727c7046c0937867b3",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Studying the effect of co-change dispersion on software quality",
+      "authors": [
+        "Ehsan Kouroshfar"
+      ],
+      "doi": "10.1109/icse.2013.6606741",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a9b3996154d192df32a757b7033102e5e32db45f",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Teaching software process modeling",
+      "authors": [
+        "Marco Kuhrmann",
+        "Daniel Mendez Fernandez",
+        "Jurgen Munch"
+      ],
+      "doi": "10.1109/icse.2013.6606665",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "945d051a41f0282bd3bb1dc0a09fefc97cedd195",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Controller synthesis: From modelling to enactment",
+      "authors": [
+        "Victor Braberman",
+        "Nicolas D'Ippolito",
+        "Nir Piterman",
+        "Daniel Sykes",
+        "Sebastian Ucriitel"
+      ],
+      "doi": "10.1109/icse.2013.6606714",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5dfda6c4a0eb1c1438fc6960255f4f4d4d769aba",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Detecting deadlock in programs with data-centric synchronization",
+      "authors": [
+        "Daniel Marino",
+        "Christian Hammer",
+        "Julian Dolby",
+        "Mandana Vaziri",
+        "Frank Tip",
+        "Jan Vitek"
+      ],
+      "doi": "10.1109/icse.2013.6606578",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7db854590f4bea965cc98a63e3f1042898a121db",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Dynamic synthesis of local time requirement for service composition",
+      "authors": [
+        "Tian Huat Tan",
+        "Etienne Andre",
+        "Jun Sun",
+        "Yang Liu",
+        "Jin Song Dong",
+        "Manman Chen"
+      ],
+      "doi": "10.1109/icse.2013.6606600",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5fc1c4f8af8213453fbb78b23682c65607208554",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Teaching developer skills in the first software engineering course",
+      "authors": [
+        "Vaclav Rajlich"
+      ],
+      "doi": "10.1109/icse.2013.6606661",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a0267832137cf0878973c33b962be6cea14cc897",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Requirements modelling by synthesis of deontic input-output automata",
+      "authors": [
+        "Emmanuel Letier",
+        "William Heaven"
+      ],
+      "doi": "10.1109/icse.2013.6606605",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a0db1994d9a5080fad5a8e6f977ffc1021cbf10c",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Green Streams for data-intensive software",
+      "authors": [
+        "Thomas W. Bartenstein",
+        "Yu David Liu"
+      ],
+      "doi": "10.1109/icse.2013.6606599",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "257b6045e6907e16892fcf94d79cb1eecbdfbd8a",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Situational awareness: Personalizing issue tracking systems",
+      "authors": [
+        "Olga Baysal",
+        "Reid Holmes",
+        "Michael W. Godfrey"
+      ],
+      "doi": "10.1109/icse.2013.6606674",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bdedfc06fcb6b65a6c2ca988ef2bcf1aa41c8424",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Comparing Multi-Point Stride Coverage and dataflow coverage",
+      "authors": [
+        "Mohammad Mahdi Hassan",
+        "James H. Andrews"
+      ],
+      "doi": "10.1109/icse.2013.6606563",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "84c7b7f7a71c1aadca4b393054cc83b227928df8",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Normalizing source code vocabulary to support program comprehension and software quality",
+      "authors": [
+        "Latifa Guerrouj"
+      ],
+      "doi": "10.1109/icse.2013.6606723",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e650ce2925a596ecfc490d5112d2b03ead1ec2b3",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Bottom-up model-driven development",
+      "authors": [
+        "Hamid Bagheri",
+        "Kevin Sullivan"
+      ],
+      "doi": "10.1109/icse.2013.6606683",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0b8235fef621319a005ed06930c229de263e5e14",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Query quality prediction and reformulation for source code search: The Refoqus tool",
+      "authors": [
+        "Sonia Haiduc",
+        "Giuseppe De Rosa",
+        "Gabriele Bavota",
+        "Rocco Oliveto",
+        "Andrea de Lucia",
+        "Andrian Marcus"
+      ],
+      "doi": "10.1109/icse.2013.6606704",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "56290e8f41a372607c7f139e8993b88ae9acacc0",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Automatic testing of sequential and concurrent substitutability",
+      "authors": [
+        "Michael Pradel",
+        "Thomas R. Gross"
+      ],
+      "doi": "10.1109/icse.2013.6606574",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7ee5f2e8456a4713bf9a71cf921942fbd884964b",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Using mutation analysis for a model-clone detector comparison framework",
+      "authors": [
+        "Matthew Stephan",
+        "Manar H. Alafi",
+        "Andrew Stevenson",
+        "James R. Cordy"
+      ],
+      "doi": "10.1109/icse.2013.6606693",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "38a740814511552297d1120b76fe4335caa9f743",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Hunting for smells in natural language tests",
+      "authors": [
+        "Benedikt Hauptmann",
+        "Lars Heinemann",
+        "Rudolf Vaas",
+        "Peter Braun"
+      ],
+      "doi": "10.1109/icse.2013.6606682",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87616ac4b82af2e2cc2d082d74d00d4b1877e8d9",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Towards recognizing and rewarding efficient developer work patterns",
+      "authors": [
+        "Will Snipes",
+        "Vinay Augustine",
+        "Anil R. Nair",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1109/icse.2013.6606697",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "04147d895fcafcc707938a0de8bc86015af6c961",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Broken sets in software repository evolution",
+      "authors": [
+        "Jerome Vouillon",
+        "Roberto Di Cosmo"
+      ],
+      "doi": "10.1109/icse.2013.6606587",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "181e5a9e2ecfd2654155fd79790d876fa42a8613",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Practical semantic test simplification",
+      "authors": [
+        "Sai Zhang"
+      ],
+      "doi": "10.1109/icse.2013.6606671",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a71eb624c5252fdad6eb7d4c8ae184c385ab8ea9",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Building test suites in social coding sites by leveraging drive-by commits",
+      "authors": [
+        "Raphael Pham",
+        "Leif Singer",
+        "Kurt Schneider"
+      ],
+      "doi": "10.1109/icse.2013.6606680",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87169faa2a8984a22a4148585060762d255081f9",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Coupling software architecture and human architecture for collaboration-aware system adaptation",
+      "authors": [
+        "Christoph Dorn",
+        "Richard N. Taylor"
+      ],
+      "doi": "10.1109/icse.2013.6606551",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "947dc02496304bd891c0b3a4543047cae261047b",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    115,
+    {
+      "title": "RADAR: A tool for debugging regression problems in C/C&amp;#x002B;&amp;#x002B; Software",
+      "authors": [
+        "Fabrizio Pastore",
+        "Leonardo Mariani",
+        "Alberto Goffi"
+      ],
+      "doi": "10.1109/icse.2013.6606711",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "52dedf9f1b0ad55d79f2687ecfc292241e181fc4",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Decision theoretic requirements prioritization A two-step approach for sliding towards value realization",
+      "authors": [
+        "Nupul Kukreja"
+      ],
+      "doi": "10.1109/icse.2013.6606746",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7d7f446a1717af1995392b486d3076e35a53cdaf",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Quantitative program slicing: Separating statements by relevance",
+      "authors": [
+        "Raul Santelices",
+        "Yiji Zhang",
+        "Siyuan Jiang",
+        "Haipeng Cai",
+        "Ying-jie Zhang"
+      ],
+      "doi": "10.1109/icse.2013.6606695",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c2e5544ccfecdfc906651e0cda3037a48f40f8ad",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Counter play-out: Executing unrealizable scenario-based specifications",
+      "authors": [
+        "Shahar Maoz",
+        "Yaniv Sa'ar"
+      ],
+      "doi": "10.1109/icse.2013.6606570",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "edebdc8b82d339911deaec9b17f422bcf2f6f954",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Is time-zone proximity an advantage for software development? The case of the Brazilian IT industry",
+      "authors": [
+        "Rafael Prikladnicki",
+        "Erran Carmel"
+      ],
+      "doi": "10.1109/icse.2013.6606647",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2877c88002d880a373d47e2f00a7688b8229c667",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    120,
+    {
+      "title": "POPT: A Problem-Oriented Programming and Testing approach for novice students",
+      "authors": [
+        "Vicente Lustosa Neto",
+        "Roberta Coelho",
+        "Larissa Leite",
+        "Dalton S. Guerrero",
+        "Andrea P. Mendonca"
+      ],
+      "doi": "10.1109/icse.2013.6606660",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3d97be6b48da9bf6c7d7429306cc30b2fd1bbede",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    121,
+    {
+      "title": "ConfDiagnoser: An automated configuration error diagnosis tool for Java software",
+      "authors": [
+        "Sai Zhang"
+      ],
+      "doi": "10.1109/icse.2013.6606737",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c83f4709a00351689f174b92d2cb86c24882914c",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Segmented symbolic analysis",
+      "authors": [
+        "Wei Le"
+      ],
+      "doi": "10.1109/icse.2013.6606567",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fe769df3a0f40e32740b3f4b90c20f9aca5cb9da",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    123,
+    {
+      "title": "GROPG: A graphical on-phone debugger",
+      "authors": [
+        "Tuan Anh Nguyen",
+        "Christoph Csallner",
+        "Nikolai Tillmann"
+      ],
+      "doi": "10.1109/icse.2013.6606675",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e7c1ec8f4b2e6df7be33475162918b09d44dbed9",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Are your incoming aliases really necessary? Counting the cost of object ownership",
+      "authors": [
+        "Alex Potanin",
+        "Monique Damitio",
+        "James Noble"
+      ],
+      "doi": "10.1109/icse.2013.6606620",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e0ff5b7ced8c9c15d10aa6ca019ebc03739d029e",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Detecting spurious counterexamples efficiently in abstract model checking",
+      "authors": [
+        "Cong Tian",
+        "Zhenhua Duan"
+      ],
+      "doi": "10.1109/icse.2013.6606566",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2c24b7a75932f8783e3411c6a433f1556c636689",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    126,
+    {
+      "title": "Identifying failure inducing developer pairs within developer networks",
+      "authors": [
+        "Jordan Ell"
+      ],
+      "doi": "10.1109/icse.2013.6606748",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2fc5c095757fddc3f5abd24ed2c657f9c588cba8",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Temporal code completion and navigation",
+      "authors": [
+        "Yun Young Lee",
+        "Sam Harwell",
+        "Sarfraz Khurshid",
+        "Darko Marinov"
+      ],
+      "doi": "10.1109/icse.2013.6606673",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e98c5429573ebb79c7c3d75a9518829439eafaf5",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Energy aware self-adaptation in mobile systems",
+      "authors": [
+        "Luca Ardito"
+      ],
+      "doi": "10.1109/icse.2013.6606736",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d3a31bfdd763c8c4de1811b1b8f599ed38d97dd3",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    129,
+    {
+      "title": "A roadmap for software maintainability measurement",
+      "authors": [
+        "Juliana Saraiva"
+      ],
+      "doi": "10.1109/icse.2013.6606742",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5c1d6f973bdfbf610c26925865e0d977d0cffa47",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    130,
+    {
+      "title": "A large scale Linux-Kernel based benchmark for feature location research",
+      "authors": [
+        "Zhenchang Xing",
+        "Yinxing Xue",
+        "Stan Jarzabek"
+      ],
+      "doi": "10.1109/icse.2013.6606705",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e8deceee8d627a0a5762c0b61b6d9a4e052378b7",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Selecting checkpoints along the time line: A novel temporal checkpoint selection strategy for monitoring a batch of parallel business processes",
+      "authors": [
+        "Xiao Liu",
+        "Yun Yang",
+        "Dahai Cao",
+        "Dong Yuan"
+      ],
+      "doi": "10.1109/icse.2013.6606698",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ea7667c7d34f929f02b949d95883457c035f3d8d",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Memoise: A tool for memoized symbolic execution",
+      "authors": [
+        "Guowei Yang",
+        "Sarfraz Khurshid",
+        "Corina S. Pasareanu"
+      ],
+      "doi": "10.1109/icse.2013.6606713",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ad8bf134dd274eab117954aaad7cb49c95cfbbca",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    133,
+    {
+      "title": "V:Issue:lizer: Exploring requirements clarification in online communication over time",
+      "authors": [
+        "Eric Knauss",
+        "Daniela Damian"
+      ],
+      "doi": "10.1109/icse.2013.6606709",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "89974acdcc392add31a5ed0cdec22f8ab153032d",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Sketching software in the wild",
+      "authors": [
+        "David Socha",
+        "Josh Tenenberg"
+      ],
+      "doi": "10.1109/icse.2013.6606687",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "587e3c151c0979e5c62c49687ef82b4bbe69f234",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Liberating pair programming research from the oppressive driver/observer regime",
+      "authors": [
+        "Stephan Salinger",
+        "Franz Zieris",
+        "Lutz Prechelt"
+      ],
+      "doi": "10.1109/icse.2013.6606678",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9b8236e533874fa3f93a0d7f118353a5850b7884",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Enabling a classroom design studio with a collaborative sketch design tool",
+      "authors": [
+        "Dastyni Loksa",
+        "Nicolas Mangano",
+        "Thomas D. LaToza",
+        "Andre van der Hoek"
+      ],
+      "doi": "10.1109/icse.2013.6606657",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3781d5741d2fdab1898e41df704a0453826e0d29",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    137,
+    {
+      "title": "A framework for self-healing software systems",
+      "authors": [
+        "Nicolo Perino"
+      ],
+      "doi": "10.1109/icse.2013.6606726",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7cd4f3a41a752deb697c1ab06f02f3b55e8ae1e3",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    138,
+    {
+      "title": "An evaluation of interactive test-driven labs with WebIDE in CS0",
+      "authors": [
+        "David S. Janzen",
+        "John Clements",
+        "Michael Hilton"
+      ],
+      "doi": "10.1109/icse.2013.6606659",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7bbb1d86dd19cd0836de3cf95e40a963db314fd2",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Estimating software-intensive projects in the absence of historical data",
+      "authors": [
+        "Aldo Dagnino"
+      ],
+      "doi": "10.1109/icse.2013.6606643",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "77865826aecbf60473fc4204cc705bb40d8731d9",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    140,
+    {
+      "title": "1st International workshop on live programming (LIVE 2013)",
+      "authors": [
+        "Brian Burg",
+        "Adrian Kuhn",
+        "Chris Parnin"
+      ],
+      "doi": "10.1109/icse.2013.6606771",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e633bf7df083e07a37fb7b29e3e31308b629ee7d",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    141,
+    {
+      "title": "A case for human-driven software development",
+      "authors": [
+        "Emilie Balland",
+        "Charles Consel",
+        "Bernard N'Kaoua",
+        "Helene Sauzeon"
+      ],
+      "doi": "10.1109/icse.2013.6606685",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de1fc5eb2b46e45caf417a20292bc9d0abe9db5c",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    142,
+    {
+      "title": "YODA: Young and newcOmer Developer Assistant",
+      "authors": [
+        "Gerardo Canfora",
+        "Massimiliano Di Penta",
+        "Stefano Giannantonio",
+        "Rocco Oliveto",
+        "Sebastiano Panichella"
+      ],
+      "doi": "10.1109/icse.2013.6606710",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f70d9bdb09d04971ce7f4b77853d6ec77b322a51",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    143,
+    {
+      "title": "TestEvol: A tool for analyzing test-suite evolution",
+      "authors": [
+        "Leandro Sales Pinto",
+        "Saurabh Sinha",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1109/icse.2013.6606703",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e3f27d1a2b3039c45291ba309e6de2ff852c4c74",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    144,
+    {
+      "title": "An approach to documenting and evolving architectural design decisions",
+      "authors": [
+        "Meiru Che"
+      ],
+      "doi": "10.1109/icse.2013.6606720",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "04bfd3b0e20015f3472427ecdf1070de299fb12f",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Deciphering the story of software development through frequent pattern mining",
+      "authors": [
+        "Nicolas Bettenburg",
+        "Andrew Begel"
+      ],
+      "doi": "10.1109/icse.2013.6606677",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "588e4a2d7ff6a7989c233894aa7f8c80c2c46c21",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Automated reliability estimation over partial systematic explorations",
+      "authors": [
+        "Esteban Pavese",
+        "Victor Braberman",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1109/icse.2013.6606606",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0956fc0261d32b32be00e5bd41946a8aedd52587",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Explicating symbolic execution (xSymExe): An evidence-based verification framework",
+      "authors": [
+        "John Hatcliff",
+        " Robby",
+        "Patrice Chalin",
+        "Jason Belt"
+      ],
+      "doi": "10.1109/icse.2013.6606568",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7452da3ce09f89bbd170edbc93ee3f6eba75513f",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Dynamic injection of sketching features into GEF based diagram editors",
+      "authors": [
+        "Andreas Scharf",
+        "Till Amma"
+      ],
+      "doi": "10.1109/icse.2013.6606628",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "19b2fde1204e3719309befab74e1e6244df6e724",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    149,
+    {
+      "title": "Data science for software engineering",
+      "authors": [
+        "Tim Menzies",
+        "Ekrem Kocaguneli",
+        "Fayola Peters",
+        "Burak Turhan",
+        "Leandro L. Minku"
+      ],
+      "doi": "10.1109/icse.2013.6606752",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4cd9c9a6dcd8831c6db4915a43126c60b0c7a987",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    150,
+    {
+      "title": "1&lt;sup&gt;st&lt;/sup&gt; International workshop on assurance cases for software-intensive systems (ASSURE 2013)",
+      "authors": [
+        "Ewen Denney",
+        "Ganesh Pai",
+        "Ibrahim Habli",
+        "Tim Kelly",
+        "John Knight"
+      ],
+      "doi": "10.1109/icse.2013.6606759",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2c94ace1f6056b00a401b51ab81fe5795766aaca",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    151,
+    {
+      "title": "A hands-on Java Pathfinder tutorial",
+      "authors": [
+        "Peter Mehlitz",
+        "Neha Rungta",
+        "Willem Visser"
+      ],
+      "doi": "10.1109/icse.2013.6606756",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3e60e2a874743f5682ab95a71e815d5916adf6c9",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    152,
+    {
+      "title": "Exploring the internal state of user interfaces by combining computer vision techniques with grammatical inference",
+      "authors": [
+        "Paul Givens",
+        "Aleksandar Chakarov",
+        "Sriram Sankaranarayanan",
+        "Tom Yeh"
+      ],
+      "doi": "10.1109/icse.2013.6606669",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2183c765cbb7237b924f25f32a1dfebc39946a28",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Software analytics: Achievements and challenges",
+      "authors": [
+        "Dongmei Zhang",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/icse.2013.6606753",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5517461b8780bb6424ce708312036d5265647666",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Increasing anomaly handling efficiency in large organizations using applied machine learning",
+      "authors": [
+        "Leif Jonsson"
+      ],
+      "doi": "10.1109/icse.2013.6606717",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b6c2557241e977e6a284a269b59121835718ed59",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    155,
+    {
+      "title": "A proposal for the improvement of project's cost predictability using EVM and historical data of cost",
+      "authors": [
+        "Adler Diniz de Souza"
+      ],
+      "doi": "10.1109/icse.2013.6606740",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "78ba7586427568f3be4664b51ac659a4c819ca9c",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    156,
+    {
+      "title": "Changeset based developer communication to detect software failures",
+      "authors": [
+        "Braden Simpson"
+      ],
+      "doi": "10.1109/icse.2013.6606747",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "79b92ad97e39be7c38ee91ca6e3445dce407b78d",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Vulnerability of the Day: Concrete demonstrations for software engineering undergraduates",
+      "authors": [
+        "Andrew Meneely",
+        "Samuel Lucidi"
+      ],
+      "doi": "10.1109/icse.2013.6606667",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "489cb99bda94a80e5a6c6dada7826860a29c0bb2",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Understanding regression failures through test-passing and test-failing code changes",
+      "authors": [
+        "Roykrong Sukkerd",
+        "Ivan Beschastnikh",
+        "Jochen Wuttke",
+        "Sai Zhang",
+        "Yuriy Brun"
+      ],
+      "doi": "10.1109/icse.2013.6606672",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cefc874b255968f9c5c6095d3b66af369903e817",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Industry involvement in ICT curriculum: A comparative survey",
+      "authors": [
+        "Chris J. Pilgrim"
+      ],
+      "doi": "10.1109/icse.2013.6606666",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e723757e83f0c7fecf5fe990570942533b8cf819",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Measuring the forensic-ability of audit logs for nonrepudiation",
+      "authors": [
+        "Jason King"
+      ],
+      "doi": "10.1109/icse.2013.6606732",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "56845909d7b2666b7c8cdead9e499efb34d102c4",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    161,
+    {
+      "title": "CEL: Modeling everywhere",
+      "authors": [
+        "Remo Lemma",
+        "Michele Lanza",
+        "Fernando Olivero"
+      ],
+      "doi": "10.1109/icse.2013.6606708",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0dbcde7e89484e39c8c4b42bdb6c6184c2194fc2",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    162,
+    {
+      "title": "An ontology toolkit for problem domain concept location in program comprehension",
+      "authors": [
+        "Nuno Ramos Carvalho"
+      ],
+      "doi": "10.1109/icse.2013.6606731",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2a71691f64c37258a5ff35e64a23c742d3c6f24b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    163,
+    {
+      "title": "2&lt;sup&gt;nd&lt;/sup&gt; SEMAT workshop on a general theory of software engineering (GTSE 2013)",
+      "authors": [
+        "Pontus Johnson",
+        "Michael Goedicke",
+        "Ivar Jacobson",
+        "Mira Kajko-Mattsson"
+      ],
+      "doi": "10.1109/icse.2013.6606769",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8440d34108b5c92e2bcdf195d6aad8a7ea55e69f",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    164,
+    {
+      "title": "DRC: A detection tool for dangling references in PHP-based web applications",
+      "authors": [
+        "Hung Viet Nguyen",
+        "Hoan Anh Nguyen",
+        "Tung Thanh Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2013.6606702",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0cea3b9e3ace8ce8dce2fceb32cab5e679e0f12e",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    165,
+    {
+      "title": "NavClus: A graphical recommender for assisting code exploration",
+      "authors": [
+        "Seonah Lee",
+        "Sungwon Kang",
+        "Matt Staats"
+      ],
+      "doi": "10.1109/icse.2013.6606706",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "173241770d47c77c8f8cdf8e697f4e6ad653d580",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Does scale really matter? Ultra-Large-Scale Systems seven years after the study (Keynote)",
+      "authors": [
+        "Linda Northrop"
+      ],
+      "doi": "10.1109/icse.2013.6606633",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ea9631cdb53bcbb639e88e3a290cc246f64af5c3",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    167,
+    {
+      "title": "Informing development decisions: From data to information",
+      "authors": [
+        "Olga Baysal"
+      ],
+      "doi": "10.1109/icse.2013.6606729",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0f1c46ca3d7901419db635c8a54972729b3758d5",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    168,
+    {
+      "title": "Fostering software quality assessment",
+      "authors": [
+        "Martin Brandtner"
+      ],
+      "doi": "10.1109/icse.2013.6606725",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "201ff17aba4a7da5f1a49107bc812b55e8e32395",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    169,
+    {
+      "title": "Pathways to technology transfer and adoption: Achievements and challenges (mini-tutorial)",
+      "authors": [
+        "Dongmei Zhang",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/icse.2013.6606644",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "619e02e528ecad6c0297f90dde3acef23f594447",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    170,
+    {
+      "title": "Understanding and simulating software evolution",
+      "authors": [
+        "Zhongpeng Lin"
+      ],
+      "doi": "10.1109/icse.2013.6606730",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8fe07a0055e4a7387607860192740df03af4b2b1",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    171,
+    {
+      "title": "SNIPR: Complementing code search with code retargeting capabilities",
+      "authors": [
+        "Huascar A. Sanchez"
+      ],
+      "doi": "10.1109/icse.2013.6606733",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f7160e9173aded61bc352591206f8c577b66fe7c",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    172,
+    {
+      "title": "Semantic smells and errors in access control models: A case study in PHP",
+      "authors": [
+        "Francois Gauthier",
+        "Ettore Merlo"
+      ],
+      "doi": "10.1109/icse.2013.6606670",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "560cbbf1da9d649b3330dafdd06b0d6282551343",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    173,
+    {
+      "title": "On extracting unit tests from interactive live programming sessions",
+      "authors": [
+        "Adrian Kuhn"
+      ],
+      "doi": "10.1109/icse.2013.6606688",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de6b194ec0c9c0ea97757bc7ccb91b35e6740b13",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    174,
+    {
+      "title": "Build your own model checker in one month",
+      "authors": [
+        "Jin Song Dong",
+        "Jun Sun",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse.2013.6606751",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "98f2eb238fb16625b41da360eedf22066040e982",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    175,
+    {
+      "title": "Supporting maintenance tasks on transformational code generation environments",
+      "authors": [
+        "Victor Guana"
+      ],
+      "doi": "10.1109/icse.2013.6606719",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "375257c1253bb7b6354c49b5837b9604de90be8a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    176,
+    {
+      "title": "Implementing database access control policy from unconstrained natural language text",
+      "authors": [
+        "John Slankas"
+      ],
+      "doi": "10.1109/icse.2013.6606716",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7a383d26403b3420d784920e2793f3cad7edecfb",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    177,
+    {
+      "title": "Supporting application development with structured queries in the cloud",
+      "authors": [
+        "Michael Smit",
+        "Bradley Simmons",
+        "Mark Shtern",
+        "Marin Litoiu"
+      ],
+      "doi": "10.1109/icse.2013.6606681",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "831e1586f15ca066deb2ab2687c571226bce9b52",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    178,
+    {
+      "title": "Analyzing the change-proneness of service-oriented systems from an industrial perspective",
+      "authors": [
+        "Daniele Romano"
+      ],
+      "doi": "10.1109/icse.2013.6606718",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "07c8ceae68bfa75d6687dc288230338a1bc0210c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    179,
+    {
+      "title": "An approach for restructuring text content",
+      "authors": [
+        "Lerina Aversano",
+        "Gerardo Canfora",
+        "Giuseppe De Ruvo",
+        "Maria Tortorella"
+      ],
+      "doi": "10.1109/icse.2013.6606684",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6e2f5193c9aeba986a4f732f39c2e99b2a7e5fb8",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    180,
+    {
+      "title": "Technical Debt: Past, present, and future (Panel)",
+      "authors": [
+        "Steven Fraser",
+        "Judith Bishop",
+        "Barry Boehm",
+        "Pradeep Kathail",
+        "Philippe Kruchten",
+        "Ipek Ozkaya",
+        "Alexandra Szynkarski"
+      ],
+      "doi": "10.1109/icse.2013.6606634",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d25a65c2d0d1e382ed510d45ce7afa42289d71a0",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    181,
+    {
+      "title": "6&lt;sup&gt;th&lt;/sup&gt; International workshop on cooperative and human aspects of software engineering (CHASE 2013)",
+      "authors": [
+        "Rafael Prikladnicki",
+        "Helen Sharp",
+        "Rashina Hoda",
+        "Yvonne Dittrich",
+        "Marcelo Cataldo",
+        "Cleidson R. B. de Souza"
+      ],
+      "doi": "10.1109/icse.2013.6606762",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1cfdf3651cf7ec1b5b016ef422901f326db4ea5d",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    182,
+    {
+      "title": "1&lt;sup&gt;st&lt;/sup&gt; International workshop on the engineering of mobile-enabled systems (MOBS 2013)",
+      "authors": [
+        "Grace A. Lewis",
+        "Henry Muccini",
+        "David Rosenblum",
+        "Jeff Gray",
+        "Nachiappan Nagappan",
+        "Emad Shihab"
+      ],
+      "doi": "10.1109/icse.2013.6606773",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dfbac2178bed8489b969c3876202dfde826f939d",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    183,
+    {
+      "title": "A study of variability spaces in open source software",
+      "authors": [
+        "Sarah Nadi"
+      ],
+      "doi": "10.1109/icse.2013.6606715",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "77279d2117a0b90de3f8b6bda4c60533b49ebebc",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    184,
+    {
+      "title": "Software metrics: Pitfalls and best practices",
+      "authors": [
+        "Eric Bouwers",
+        "Arie van Deursen",
+        "Joost Visser"
+      ],
+      "doi": "10.1109/icse.2013.6606755",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b385baa9fc072940a82bb387e953059caab6aa7c",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    185,
+    {
+      "title": "2nd International workshop on green and sustainable software (GREENS 2013)",
+      "authors": [
+        "Patricia Lago",
+        "Niklaus Meyer",
+        "Maurizio Morisio",
+        "Hausi A. Muller",
+        "Giuseppe Scanniello"
+      ],
+      "doi": "10.1109/icse.2013.6606768",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7001168963f0d408387309986b2babcb06535736",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    186,
+    {
+      "title": "An observable and controllable testing framework for modern systems",
+      "authors": [
+        "Tingting Yu"
+      ],
+      "doi": "10.1109/icse.2013.6606721",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3041b78433ee7870098d88fecbfee31b014da3bf",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    187,
+    {
+      "title": "1st International Workshop on Release Engineering (RELENG 2013)",
+      "authors": [
+        "Bram Adams",
+        "Christian Bird",
+        "Foutse Khomh",
+        "Kim Moir"
+      ],
+      "doi": "10.1109/icse.2013.6606779",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af456877aa90dbf88e9d79dd5696ed9d763fcf98",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    188,
+    {
+      "title": "Service networks for development communities",
+      "authors": [
+        "Damian A. Tamburri",
+        "Patricia Lago",
+        "Hans van Vliet"
+      ],
+      "doi": "10.1109/icse.2013.6606691",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5fe580475767ccb47340869050c58e1177cf5b29",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    189,
+    {
+      "title": "1st International workshop on combining modelling and search-based software engineering (CMSBSE 2013)",
+      "authors": [
+        "Mark Harman",
+        "Richard F. Paige",
+        "James R. Williams"
+      ],
+      "doi": "10.1109/icse.2013.6606763",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "93aacac2b3f91bff8b5de86619aeaa99048e57be",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    190,
+    {
+      "title": "Mitigating the obsolescence of specification models of service-based systems",
+      "authors": [
+        "Romina Torres"
+      ],
+      "doi": "10.1109/icse.2013.6606745",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "437aa3f93419e9415ccde26924b2a8300c259227",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    191,
+    {
+      "title": "Computational alignment of goals and scenarios for complex systems",
+      "authors": [
+        "Dalai Alrajeh",
+        "Alessandra Russo",
+        "James Lockerbie",
+        "Neil Maiden",
+        "Alistair Mavin",
+        "Mark Novak"
+      ],
+      "doi": "10.1109/icse.2013.6606690",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "76ae03b63c6488dac6dd86f472939b70c5e58f0c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    192,
+    {
+      "title": "A framework to evaluate software engineering student contests: Evaluation and integration with academic programs",
+      "authors": [
+        "Amir Zeid"
+      ],
+      "doi": "10.1109/icse.2013.6606658",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "557d80c56cf022862f8b89b1292d7a70795c1042",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    193,
+    {
+      "title": "Reasoning with qualitative preferences to develop optimal component-based systems",
+      "authors": [
+        "Zachary J. Oster"
+      ],
+      "doi": "10.1109/icse.2013.6606743",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d92a9b11f39d63ecf56daf3b2ae2749d5f03c77c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    194,
+    {
+      "title": "Toward a software product line for affective-driven self-adaptive systems",
+      "authors": [
+        "Javier Gonzalez-Sanchez"
+      ],
+      "doi": "10.1109/icse.2013.6606722",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3bdc284c54216c4e03aaa8a86894c7a889d482f7",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    195,
+    {
+      "title": "Reproducing and debugging field failures in house",
+      "authors": [
+        "Wei Jin"
+      ],
+      "doi": "10.1109/icse.2013.6606738",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3d805128164dda05738d99d0dc23c3547dfb6284",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    196,
+    {
+      "title": "Systematically selecting a software module during opportunistic reuse",
+      "authors": [
+        "Naveen Kulkarni"
+      ],
+      "doi": "10.1109/icse.2013.6606728",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "326bbf427086d494cd6a684a480a20df832bb285",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    197,
+    {
+      "title": "Fault comprehension for concurrent programs",
+      "authors": [
+        "Sangmin Park"
+      ],
+      "doi": "10.1109/icse.2013.6606739",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cd4dedc42b63906579ddf4295d47154857306192",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    198,
+    {
+      "title": "7th International Workshop on Software Clones (IWSC 2013)",
+      "authors": [
+        "Rainer Koschke",
+        "Elmar Juergens",
+        "Juergen Rilling"
+      ],
+      "doi": "10.1109/icse.2013.6606770",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9e6d32b84ae2a6197d6f82ec337f426598224c48",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    199,
+    {
+      "title": "2nd International workshop on user evaluations for software engineering researchers (USER 2013)",
+      "authors": [
+        "Andrew Begel",
+        "Caitlin Sadowski"
+      ],
+      "doi": "10.1109/icse.2013.6606786",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "93e76b89a89cc419e79611667297c6eadabeb466",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    200,
+    {
+      "title": "From models to code and back: Correct-by-construction code from UML and ALF",
+      "authors": [
+        "Federico Ciccozzi"
+      ],
+      "doi": "10.1109/icse.2013.6606744",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3392a42b08885f3beb39dc9ccef8ab0f52ad5ea2",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    201,
+    {
+      "title": "4th International Workshop on Product LinE Approaches in Software Engineering (PLEASE 2013)",
+      "authors": [
+        "Julia Rubin",
+        "Andreas Pleuss",
+        "Goetz Botterweck",
+        "David M. Weiss"
+      ],
+      "doi": "10.1109/icse.2013.6606777",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b8ed3fefa5124550b6bd28960fff266a76716f74",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    202,
+    {
+      "title": "2nd International workshop on realizing artificial intelligence synergies in software engineering (RAISE 2013)",
+      "authors": [
+        "Rachel Harrison",
+        "Marjan Mernik",
+        "Pedro Henriques",
+        "Daniela da Cruz",
+        "Tim Menzies",
+        "Daniel Rodriguez"
+      ],
+      "doi": "10.1109/icse.2013.6606778",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7bca4e2bcce1db76bb7d8b4822227511a11da74",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    203,
+    {
+      "title": "The connection between movie making and software development (Keynote)",
+      "authors": [
+        "Tony DeRose"
+      ],
+      "doi": "10.1109/icse.2013.6606632",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1b8ab64035cb1940039e039d28f5059df45dae58",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    204,
+    {
+      "title": "1st International workshop on data analysis patterns in software engineering (DAPSE 2013)",
+      "authors": [
+        "Christian Bird",
+        "Tim Menzies",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1109/icse.2013.6606765",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c8fdb700dcae042758e3f056dc511bd80218644c",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    205,
+    {
+      "title": "Efficient quality assurance of variability-intensive systems",
+      "authors": [
+        "Patrick Heymans",
+        "Axel Legay",
+        "Maxime Cordy"
+      ],
+      "doi": "10.1109/icse.2013.6606757",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b70d774581d9bb5f144f4c1f9307ee854c6cef9d",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    206,
+    {
+      "title": "5th International workshop on software engineering for Computational Science and Engineering (SE-CSE 2013)",
+      "authors": [
+        "Jeffrey C. Carver",
+        "Thomas Epperly",
+        "Lorin Hochstein",
+        "Valerie Maxville",
+        "Dietmar Pfahl",
+        "Jonathan Sillito"
+      ],
+      "doi": "10.1109/icse.2013.6606780",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "362170c31cec593fce77f8799f6deee52bc0b31f",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    207,
+    {
+      "title": "5th International workshop on Modeling in Software Engineering (MiSE 2013)",
+      "authors": [
+        "Joanne M. Atlee",
+        "Robert B. France",
+        "Robert Baillargeon",
+        "Jeff Gray",
+        "Bernhard Rumpe",
+        "Marsha Chechik",
+        "Richard F. Paige"
+      ],
+      "doi": "10.1109/icse.2013.6606772",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bae820c0a772ef18399a00581dc34ddc8cbd9382",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    208,
+    {
+      "title": "[Front matter]",
+      "authors": [],
+      "doi": "10.1109/icse.2013.6606541",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    209,
+    {
+      "title": "Supporting incremental programming with ghosts",
+      "authors": [
+        "Oscar Callau"
+      ],
+      "doi": "10.1109/icse.2013.6606734",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f0596bee686da71ebc2fc5f16ef7b66f0849e012",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    210,
+    {
+      "title": "Contents",
+      "authors": [],
+      "doi": "10.1109/icse.2013.6606542",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    211,
+    {
+      "title": "Message from the chairs",
+      "authors": [
+        "David Notkin",
+        "Betty H.C. Cheng",
+        "Klaus Pohl"
+      ],
+      "doi": "10.1109/icse.2013.6606543",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    212,
+    {
+      "title": "5th International workshop on principles of engineering service-oriented systems (PESOS 2013)",
+      "authors": [
+        "Domenico Bianculli",
+        "Grace A. Lewis",
+        "Patricia Lago",
+        "Hye-Young Paik"
+      ],
+      "doi": "10.1109/icse.2013.6606776",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e77f32d7c750f2f9492fce34ff53b5de34571993",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    213,
+    {
+      "title": "Pricing crowdsourcing-based software development tasks",
+      "authors": [
+        "Ke Mao",
+        "Ye Yang",
+        "Mingshu Li",
+        "Mark Harman"
+      ],
+      "doi": "10.1109/icse.2013.6606679",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    214,
+    {
+      "title": "Developing verified programs with Dafny",
+      "authors": [
+        "K. Rustan M. Leino"
+      ],
+      "doi": "10.1109/icse.2013.6606754",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    215,
+    {
+      "title": "4&lt;sup&gt;th&lt;/sup&gt; International Workshop on Software Engineering for sensor network applications (SESENA 2013)",
+      "authors": [
+        "Christine Julien",
+        "Klaus Wehrle"
+      ],
+      "doi": "10.1109/icse.2013.6606782",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    216,
+    {
+      "title": "Sponsors and supporters",
+      "authors": [],
+      "doi": "10.1109/icse.2013.6606545",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bf6b849dec4e2421d88a5c019dcdfdb9ef989611",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    217,
+    {
+      "title": "On the relationships between domain-based coupling and code clones: An exploratory study",
+      "authors": [
+        "Md Saidur Rahman",
+        "Amir Aryani",
+        "Chanchal K. Roy",
+        "Fabrizio Perin"
+      ],
+      "doi": "10.1109/icse.2013.6606694",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    218,
+    {
+      "title": "2nd International Workshop on Software Engineering Challenges for the Smart Grid (SE4SG 2013)",
+      "authors": [
+        "Ian Gorton",
+        "Heiko Koziolek",
+        "Yan Liu",
+        "Anne Koziolek",
+        "Mazeiar Salehie"
+      ],
+      "doi": "10.1109/icse.2013.6606783",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c1c3ae06b309dd918706ba82745ce7807915a2fc",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    219,
+    {
+      "title": "A learning-based method for combining testing techniques",
+      "authors": [
+        "Domenico Cotroneo",
+        "Roberto Pietrantuono",
+        "Stefano Russo"
+      ],
+      "doi": "10.1109/icse.2013.6606560",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    220,
+    {
+      "title": "3rd International workshop on games and software engineering: Engineering computer games to Enable Positive, Progressive Change (GAS 2013)",
+      "authors": [
+        "Kendra M. L. Cooper",
+        "Walt Scacchi",
+        "Alf Inge Wang"
+      ],
+      "doi": "10.1109/icse.2013.6606767",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    221,
+    {
+      "title": "Detecting inconsistencies in wrappers: A case study",
+      "authors": [
+        "Henning Femmer",
+        "Dharmalingam Ganesan",
+        "Mikael Lindvall",
+        "David McComas"
+      ],
+      "doi": "10.1109/icse.2013.6606652",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    222,
+    {
+      "title": "MIDAS: A design quality assessment method for industrial software",
+      "authors": [
+        "Ganesh Samarthyam",
+        "Girish Suryanarayana",
+        "Tushar Sharma",
+        "Shrinath Gupta"
+      ],
+      "doi": "10.1109/icse.2013.6606640",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    223,
+    {
+      "title": "4th International workshop on managing technical debt (MTD 2013)",
+      "authors": [
+        "Philippe Kruchten",
+        "Robert L. Nord",
+        "Ipek Ozkaya"
+      ],
+      "doi": "10.1109/icse.2013.6606774",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    224,
+    {
+      "title": "1&lt;sup&gt;st&lt;/sup&gt; International workshop on conducting empirical studies in industry (CESI 2013)",
+      "authors": [
+        "Xavier Franch",
+        "Nazim H. Madhavji",
+        "Bill Curtis",
+        "Larry Votta"
+      ],
+      "doi": "10.1109/icse.2013.6606761",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    225,
+    {
+      "title": "Human performance regression testing",
+      "authors": [
+        "Amanda Swearngin",
+        "Myra B. Cohen",
+        "Bonnie E. John",
+        "Rachel K. E. Bellamy"
+      ],
+      "doi": "10.1109/icse.2013.6606561",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    226,
+    {
+      "title": "1&lt;sup&gt;st&lt;/sup&gt; International workshop on natural language analysis in software engineering (NaturaLiSE 2013)",
+      "authors": [
+        "Lori Pollock",
+        "David Binkley",
+        "Dawn Lawrie",
+        "Emily Hill",
+        "Rocco Oliveto",
+        "Gabriele Bavota",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1109/icse.2013.6606775",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0ddbe47ee8fb7945d3cadc7d8f9ea592124c27cd",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    227,
+    {
+      "title": "Novice understanding of program analysis tool notifications",
+      "authors": [
+        "Brittany Johnson"
+      ],
+      "doi": "10.1109/icse.2013.6606735",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "94b34e987debdcf08b45bbfef0d2527cd2d2f62e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    228,
+    {
+      "title": "Formal specifications better than function points for code sizing",
+      "authors": [
+        "Mark Staples",
+        "Rafal Kolanski",
+        "Gerwin Klein",
+        "Corey Lewis",
+        "June Andronick",
+        "Toby Murray",
+        "Ross Jeffery",
+        "Len Bass"
+      ],
+      "doi": "10.1109/icse.2013.6606692",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    229,
+    {
+      "title": "Building high assurance secure applications using security patterns for capability-based platforms",
+      "authors": [
+        "Paul Rimba"
+      ],
+      "doi": "10.1109/icse.2013.6606727",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    230,
+    {
+      "title": "4th International workshop on Emerging Trends in Software Metrics (WETSoM 2013)",
+      "authors": [
+        "Steven Counsell",
+        "Ewan Tempero",
+        "Michele L. Marchesi",
+        "Aaron Visaggio"
+      ],
+      "doi": "10.1109/icse.2013.6606787",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f4a0f72dd8e0bc8d1e287606fee21f639e980af0",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    231,
+    {
+      "title": "2nd International workshop on the twin peaks of requirements and architecture (TwinPeaks 2013)",
+      "authors": [
+        "Paris Avgeriou",
+        "Xavier Franch",
+        "Janet E. Burge",
+        "Matthias Galster",
+        "Roshanak Roshandel",
+        "Jane Cleland-Huang",
+        "Mehdi Mirakhorli"
+      ],
+      "doi": "10.1109/icse.2013.6606785",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e8204516528cf9c315495a67b116be1c6feb77c2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    232,
+    {
+      "title": "Are software patents bad? (Keynote)",
+      "authors": [
+        "Pamela Samuelson"
+      ],
+      "doi": "10.1109/icse.2013.6606631",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "caf3738208cc1dc5b472e74fe05e1110052ba31b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    233,
+    {
+      "title": "3rd International workshop on collaborative teaching of globally distributed software development (CTGDSD 2013)",
+      "authors": [
+        "Stuart Faulk",
+        "Michal Young",
+        "Rafael Prikladnicki",
+        "David M. Weiss",
+        "Lian Yu"
+      ],
+      "doi": "10.1109/icse.2013.6606764",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    234,
+    {
+      "title": "Eliminative induction: A basis for arguing system confidence",
+      "authors": [
+        "John B. Goodenough",
+        "Charles B. Weinstock",
+        "Ari Z. Klein"
+      ],
+      "doi": "10.1109/icse.2013.6606668",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    235,
+    {
+      "title": "Predicting bug-fixing time: An empirical study of commercial software projects",
+      "authors": [
+        "Hongyu Zhang",
+        "Liang Gong",
+        "Steve Versteeg"
+      ],
+      "doi": "10.1109/icse.2013.6606654",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    236,
+    {
+      "title": "5th International workshop on Software Engineering in Health Care (SEHC 2013)",
+      "authors": [
+        "Craig E. Kuziemsky",
+        "John Knight"
+      ],
+      "doi": "10.1109/icse.2013.6606781",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    237,
+    {
+      "title": "Obtaining ground-truth software architectures",
+      "authors": [
+        "Joshua Garcia",
+        "Ivo Krka",
+        "Chris Mattmann",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1109/icse.2013.6606639",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    238,
+    {
+      "title": "Town hall discussion of SE 2004 revisions (panel)",
+      "authors": [
+        "Mark Ardis",
+        "David Budgen",
+        "Gregory W. Hislop",
+        "Jeff Offutt",
+        "Mark Sebern",
+        "Willem Visser"
+      ],
+      "doi": "10.1109/icse.2013.6606663",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "772da9821e1b3ce94b07463a1dfc09c1af7b7cb6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    239,
+    {
+      "title": "[Front cover]",
+      "authors": [],
+      "doi": "10.1109/icse.2013.6606540",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    240,
+    {
+      "title": "Automated testing of GUI applications: Models, tools, and controlling flakiness",
+      "authors": [
+        "Atif M. Memon",
+        "Myra B. Cohen"
+      ],
+      "doi": "10.1109/icse.2013.6606750",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    241,
+    {
+      "title": "MCT: A tool for commenting programs by multimedia comments",
+      "authors": [
+        "Yiyang Hao",
+        "Ge Li",
+        "Lili Mou",
+        "Lu Zhang",
+        "Zhi Jin"
+      ],
+      "doi": "10.1109/icse.2013.6606712",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    242,
+    {
+      "title": "Organization committee",
+      "authors": [],
+      "doi": "10.1109/icse.2013.6606544",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    243,
+    {
+      "title": "3rd International workshop on developing tools as plug-ins (TOPI 2013)",
+      "authors": [
+        "Michael Barnett",
+        "Martin Nordio",
+        "Judith Bishop",
+        "Karin K. Breitman",
+        "Diego Garbervetsky"
+      ],
+      "doi": "10.1109/icse.2013.6606784",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "97e5eff88d35273c170e8e2b27fb9255d9d38041",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    244,
+    {
+      "title": "Integrating Systematic exploration, analysis, and maintenance in software development",
+      "authors": [
+        "Kivanc Muslu"
+      ],
+      "doi": "10.1109/icse.2013.6606724",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    245,
+    {
+      "title": "LASE: An example-based program transformation tool for locating and applying systematic edits",
+      "authors": [
+        "John Jacobellis",
+        "Na Meng",
+        "Miryung Kim"
+      ],
+      "doi": "10.1109/icse.2013.6606707",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    246,
+    {
+      "title": "1st FME workshop on formal methods in software engineering (FormaliSE 2013)",
+      "authors": [
+        "Stefania Gnesi",
+        "Nico Plat"
+      ],
+      "doi": "10.1109/icse.2013.6606766",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    247,
+    {
+      "title": "Automatic patch generation learned from human-written patches",
+      "authors": [
+        "Dongsun Kim",
+        "Jaechang Nam",
+        "Jaewoo Song",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1109/icse.2013.6606626",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    248,
+    {
+      "title": "8th International Workshop on Automation of Software Test (AST 2013)",
+      "authors": [
+        "Hong Zhu",
+        "Henry Muccini",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/icse.2013.6606760",
+      "venue": "2013 35th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b56a0e79087e325f33878d0637a3a6d086e79657",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ]
+]

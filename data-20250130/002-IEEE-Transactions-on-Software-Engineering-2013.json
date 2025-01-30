@@ -1,0 +1,1973 @@
+[
+  [
+    1,
+    {
+      "title": "A large-scale empirical study of just-in-time quality assurance",
+      "authors": [
+        "Yasutaka Kamei",
+        "Emad Shihab",
+        "Bram Adams",
+        "Ahmed E. Hassan",
+        "Audris Mockus",
+        "Anand Sinha",
+        "Naoyasu Ubayashi"
+      ],
+      "doi": "10.1109/tse.2012.70",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "04eb410c0a59fc08a4648af43f7de323cc7d06c2",
+        "citationCount": 569,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Whole Test Suite Generation",
+      "authors": [
+        "Gordon Fraser",
+        "Andrea Arcuri"
+      ],
+      "doi": "10.1109/tse.2012.14",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "39e6029da19a357449b48e2f6d9c8b35a802e7c4",
+        "citationCount": 552,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Data Quality: Some Comments on the NASA Software Defect Datasets",
+      "authors": [
+        "Martin Shepperd",
+        "Qinbao Song",
+        "Zhongbin Sun",
+        "Carolyn Mair"
+      ],
+      "doi": "10.1109/tse.2013.11",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2ad27a03e7c120c3d1fe31368a7a897960afd8cb",
+        "citationCount": 477,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Software Architecture Optimization Methods: A Systematic Literature Review",
+      "authors": [
+        "Aldeida Aleti",
+        "Barbora Buhnova",
+        "Lars Grunske",
+        "Anne Koziolek",
+        "Indika Meedeniya"
+      ],
+      "doi": "10.1109/tse.2012.64",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d30eb0b4cf2606989b0715a27499f8292e2f1462",
+        "citationCount": 318,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    5,
+    {
+      "title": "What Industry Needs from Architectural Languages: A Survey",
+      "authors": [
+        "Ivano Malavolta",
+        "Patricia Lago",
+        "Henry Muccini",
+        "Patrizio Pelliccione",
+        "Antony Tang"
+      ],
+      "doi": "10.1109/tse.2012.74",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "388f2b36ba8255a56597fca18c02913d4699738d",
+        "citationCount": 313,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Quantifying the Effect of Code Smells on Maintenance Effort",
+      "authors": [
+        "Dag I.K. Sjoberg",
+        "Aiko Yamashita",
+        "Bente C.D. Anda",
+        "Audris Mockus",
+        "Tore Dyba"
+      ],
+      "doi": "10.1109/tse.2012.89",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8b0197d7c528c72c2997ec09091956de29783da6",
+        "citationCount": 308,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Self-Organizing Roles on Agile Software Development Teams",
+      "authors": [
+        "Rashina Hoda",
+        "James Noble",
+        "Stuart Marshall"
+      ],
+      "doi": "10.1109/tse.2012.30",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "994c600f3f0284ff0b8289620aa005761a8685ee",
+        "citationCount": 271,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Local versus Global Lessons for Defect Prediction and Effort Estimation",
+      "authors": [
+        "Tim Menzies",
+        "Andrew Butcher",
+        "David Cok",
+        "Andrian Marcus",
+        "Lucas Layman",
+        "Forrest Shull",
+        "Burak Turhan",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1109/tse.2012.83",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "e276b9ac466baa14de30d8f67a4a631176cf55a6",
+        "citationCount": 245,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Featured Transition Systems: Foundations for Verifying Variability-Intensive Systems and Their Application to LTL Model Checking",
+      "authors": [
+        "Andreas Classen",
+        "Maxime Cordy",
+        "Pierre-Yves Schobbens",
+        "Patrick Heymans",
+        "Axel Legay",
+        "Jean-Francois Raskin"
+      ],
+      "doi": "10.1109/tse.2012.86",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "05929ed8deb33a4cd816e093f81379ac30feebec",
+        "citationCount": 237,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Reducing Features to Improve Code Change-Based Bug Prediction",
+      "authors": [
+        "S. Shivaji",
+        "E. James Whitehead",
+        "R. Akella",
+        " Sunghun Kim"
+      ],
+      "doi": "10.1109/tse.2012.43",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "cc12164696097a7606372aa541248a5fdb47a9f6",
+        "citationCount": 235,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Ranking and Clustering Software Cost Estimation Models through a Multiple Comparisons Algorithm",
+      "authors": [
+        "Nikolaos Mittas",
+        "Lefteris Angelis"
+      ],
+      "doi": "10.1109/tse.2012.45",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "14bd8ee801fd95d329547bfbef4ffd338b3e5f0e",
+        "citationCount": 217,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Automated API Property Inference Techniques",
+      "authors": [
+        "Martin P. Robillard",
+        "Eric Bodden",
+        "David Kawrykow",
+        "Mira Mezini",
+        "Tristan Ratchford"
+      ],
+      "doi": "10.1109/tse.2012.63",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "cfc10d808c906700da96d057e3f832c262fd2811",
+        "citationCount": 202,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    13,
+    {
+      "title": "On Fault Representativeness of Software Fault Injection",
+      "authors": [
+        "Roberto Natella",
+        "Domenico Cotroneo",
+        "Joao A. Duraes",
+        "Henrique S. Madeira"
+      ],
+      "doi": "10.1109/tse.2011.124",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8fe92592b60f4d233de3d08ede52ea78116be633",
+        "citationCount": 190,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Ant Colony Optimization for Software Project Scheduling and Staffing with an Event-Based Scheduler",
+      "authors": [
+        "Wei-Neng Chen",
+        "Jun Zhang"
+      ],
+      "doi": "10.1109/tse.2012.17",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "a87811015060e882e673f2e650a165742d5df8c2",
+        "citationCount": 183,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Toward Comprehensible Software Fault Prediction Models Using Bayesian Network Classifiers",
+      "authors": [
+        "Karel Dejaeger",
+        "Thomas Verbraken",
+        "Bart Baesens"
+      ],
+      "doi": "10.1109/tse.2012.20",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "53f6d03b0e6735fb2f53c9220b61a1152e754bb0",
+        "citationCount": 181,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Where Should We Fix This Bug? A Two-Phase Recommendation Model",
+      "authors": [
+        " Dongsun Kim",
+        " Yida Tao",
+        " Sunghun Kim",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1109/tse.2013.24",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5c1957cf3e7d421f63d5c6f2debbea4bdbb51f1a",
+        "citationCount": 175,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    17,
+    {
+      "title": "A Study of Variability Models and Languages in the Systems Software Domain",
+      "authors": [
+        "Thorsten Berger",
+        "Steven She",
+        "Rafael Lotufo",
+        "Andrzej Wasowski",
+        "Krzysztof Czarnecki"
+      ],
+      "doi": "10.1109/tse.2013.34",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "00d22499a51d54df544800d503b157df6466175b",
+        "citationCount": 166,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Patterns of Knowledge in API Reference Documentation",
+      "authors": [
+        "Walid Maalej",
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1109/tse.2013.12",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2efce46aec8766435c0e5d6c77daea7d97d7632b",
+        "citationCount": 166,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    19,
+    {
+      "title": "A Machine Learning Approach to Software Requirements Prioritization",
+      "authors": [
+        "Anna Perini",
+        "Angelo Susi",
+        "Paolo Avesani"
+      ],
+      "doi": "10.1109/tse.2012.52",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d0f95a9ae047ca69ca30b0ca88be7387b2074c23",
+        "citationCount": 158,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    20,
+    {
+      "title": "How Programmers Debug, Revisited: An Information Foraging Theory Perspective",
+      "authors": [
+        "Joseph Lawrance",
+        "Christopher Bogart",
+        "Margaret Burnett",
+        "Rachel Bellamy",
+        "Kyle Rector",
+        "Scott D. Fleming"
+      ],
+      "doi": "10.1109/tse.2010.111",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f0f48153d3ecded63c79605e0862263f0d905d79",
+        "citationCount": 150,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Coordination Breakdowns and Their Impact on Development Productivity and Software Failures",
+      "authors": [
+        "Marcelo Cataldo",
+        "James D. Herbsleb"
+      ],
+      "doi": "10.1109/tse.2012.32",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "cc8512ef12dbc37951a46ad8bdfa45921497c494",
+        "citationCount": 140,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Balancing Privacy and Utility in Cross-Company Defect Prediction",
+      "authors": [
+        "Fayola Peters",
+        "Tim Menzies",
+        "Liang Gong",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/tse.2013.6",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "bcd1a65fba2962b44255acce537a6456fa66cd2c",
+        "citationCount": 128,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Generating Test Data from OCL Constraints with Search Techniques",
+      "authors": [
+        "Shaukat Ali",
+        "Muhammad Zohaib Iqbal",
+        "Andrea Arcuri",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1109/tse.2013.17",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "474191f0c11596e88c2cacab261b14ab36fce2ed",
+        "citationCount": 127,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Language-Independent and Automated Software Composition: The FeatureHouse Experience",
+      "authors": [
+        "Sven Apel",
+        "Christian Kastner",
+        "Christian Lengauer"
+      ],
+      "doi": "10.1109/tse.2011.120",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "a4636c80d4481eaa041a08bfc647f4b0a90e53fc",
+        "citationCount": 122,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Event Logs for the Analysis of Software Failures: A Rule-Based Approach",
+      "authors": [
+        "Marcello Cinque",
+        "Domenico Cotroneo",
+        "Antonio Pecchia"
+      ],
+      "doi": "10.1109/tse.2012.67",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "87bb5be2e9336938450e340e3e24e20f2ef79adf",
+        "citationCount": 118,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    26,
+    {
+      "title": "The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis",
+      "authors": [
+        "Yahya Rafique",
+        "Vojislav B. Misic"
+      ],
+      "doi": "10.1109/tse.2012.28",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7a0b5586669a4ba9c0ac5b2fe59f58c4e8330f58",
+        "citationCount": 118,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    27,
+    {
+      "title": "A decentralized self-adaptation mechanism for service-based applications in the cloud",
+      "authors": [
+        "Vivek Nallur",
+        "Rami Bahsoon"
+      ],
+      "doi": "10.1109/tse.2012.53",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d79d7b367d3d7ca9a6b3df3770785197d152ad6e",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    28,
+    {
+      "title": "A Learning-Based Framework for Engineering Feature-Oriented Self-Adaptive Software Systems",
+      "authors": [
+        "Naeem Esfahani",
+        "Ahmed Elkhodary",
+        "Sam Malek"
+      ],
+      "doi": "10.1109/tse.2013.37",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "dfc0379d3273e8f1df74b6e899c75a1327058382",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Empirical Principles and an Industrial Case Study in Retrieving Equivalent Requirements via Natural Language Processing Techniques",
+      "authors": [
+        "Davide Falessi",
+        "Giovanni Cantone",
+        "Gerardo Canfora"
+      ],
+      "doi": "10.1109/tse.2011.122",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "391476fb07d482bf0d3816290bf81bb636d47038",
+        "citationCount": 112,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    30,
+    {
+      "title": "A Second Replicated Quantitative Analysis of Fault Distributions in Complex Software Systems",
+      "authors": [
+        "Tihana Galinac Grbac",
+        "Per Runeson",
+        "Darko Huljenic"
+      ],
+      "doi": "10.1109/tse.2012.46",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "ff89fbcde6bf3faf0b01c0e5c2a65a5c21db1153",
+        "citationCount": 109,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Trustrace: Mining Software Repositories to Improve the Accuracy of Requirement Traceability Links",
+      "authors": [
+        "Nasir Ali",
+        "Yann-Gael Gueneuc",
+        "Giuliano Antoniol"
+      ],
+      "doi": "10.1109/tse.2012.71",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "b6195f77be2e48ba5724cc9dcf4846884ce503ed",
+        "citationCount": 107,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Supporting Domain Analysis through Mining and Recommending Features from Online Product Listings",
+      "authors": [
+        "Negar Hariri",
+        "Carlos Castro-Herrera",
+        "Mehdi Mirakhorli",
+        "Jane Cleland-Huang",
+        "Bamshad Mobasher"
+      ],
+      "doi": "10.1109/tse.2013.39",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "0d18537da89fbfee8b01260db1f7c53f6547fa89",
+        "citationCount": 102,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Active learning and effort estimation: Finding the essential content of software effort estimation data",
+      "authors": [
+        "Ekrem Kocaguneli",
+        "Tim Menzies",
+        "Jacky Keung",
+        "David Cok",
+        "Ray Madachy"
+      ],
+      "doi": "10.1109/tse.2012.88",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "e6951c6c4bfaf85cef74101d2d25ef6e1018f511",
+        "citationCount": 96,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    34,
+    {
+      "title": "The Role of the Tester's Knowledge in Exploratory Software Testing",
+      "authors": [
+        "Juha Itkonen",
+        "Mika V. Mantyla",
+        "Casper Lassenius"
+      ],
+      "doi": "10.1109/tse.2012.55",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "05ac3f528f51a28140d966752fada7164067bf24",
+        "citationCount": 92,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    35,
+    {
+      "title": "The Impact of Classifier Configuration and Classifier Combination on Bug Localization",
+      "authors": [
+        "Stephen W. Thomas",
+        "Meiyappan Nagappan",
+        "Dorothea Blostein",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/tse.2013.27",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5631f082f4ede4ece40c6a3d066eb1b2b9b9ded2",
+        "citationCount": 92,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Early Detection of Collaboration Conflicts and Risks",
+      "authors": [
+        "Yuriy Brun",
+        "Reid Holmes",
+        "Michael D. Ernst",
+        "David Notkin"
+      ],
+      "doi": "10.1109/tse.2013.28",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "07015c50d2d714ecba3748d91d640f4a1e6bca06",
+        "citationCount": 90,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    37,
+    {
+      "title": "An Empirical Evaluation of Mutation Testing for Improving the Test Quality of Safety-Critical Software",
+      "authors": [
+        "Richard Baker",
+        "Ibrahim Habli"
+      ],
+      "doi": "10.1109/tse.2012.56",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "83c761dc4e87eff085386586a67c5fa8625d8301",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Using Dependency Structures for Prioritization of Functional Test Suites",
+      "authors": [
+        "Shifa-e-Zehra Haidry",
+        "Tim Miller"
+      ],
+      "doi": "10.1109/tse.2012.26",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "c6d1ff655f443b34fc664ce2f25a2e5c88397c58",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Pair Programming and Software Defects--A Large, Industrial Case Study",
+      "authors": [
+        "Enrico di Bella",
+        "Ilenia Fronza",
+        "Nattakarn Phaphoom",
+        "Alberto Sillitti",
+        "Giancarlo Succi",
+        "Jelena Vlasenko"
+      ],
+      "doi": "10.1109/tse.2012.68",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "831742881413bc4f7664e64b785526ce75aa1955",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Assessing the Effectiveness of Sequence Diagrams in the Comprehension of Functional Requirements: Results from a Family of Five Experiments",
+      "authors": [
+        "Silvia Abrahao",
+        "Carmine Gravino",
+        "Emilio Insfran",
+        "Giuseppe Scanniello",
+        "Genoveffa Tortora"
+      ],
+      "doi": "10.1109/tse.2012.27",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "e843175629468ff515b08d7b26cf2ad745f6612b",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Identifying and Summarizing Systematic Code Changes via Rule Inference",
+      "authors": [
+        "Miryung Kim",
+        "David Notkin",
+        "Dan Grossman",
+        "Gary Wilson"
+      ],
+      "doi": "10.1109/tse.2012.16",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "18d00fd23f634546f295875d8c0a0a1489c14ec4",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Assessing the Cost Effectiveness of Fault Prediction in Acceptance Testing",
+      "authors": [
+        "Akito Monden",
+        "Takuma Hayashi",
+        "Shoji Shinoda",
+        "Kumiko Shirai",
+        "Junichi Yoshida",
+        "Mike Barker",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1109/tse.2013.21",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "4e136e5849360af9dd58dfabce6cd398271b2d3b",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Usability through Software Design",
+      "authors": [
+        "Laura Carvajal",
+        "Ana M. Moreno",
+        "Maria-Isabel Sanchez-Segura",
+        "Ahmed Seffah"
+      ],
+      "doi": "10.1109/tse.2013.29",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f4aa5057619eb154dcef28a77654c3dfb5d229fd",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Centroidal Voronoi Tessellations- A New Approach to Random Testing",
+      "authors": [
+        "A. Shahbazi",
+        "A. F. Tappenden",
+        "J. Miller"
+      ],
+      "doi": "10.1109/tse.2012.18",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "169722816a0a71470067d24373d99f21e76669e4",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Model-Based Test Oracle Generation for Automated Unit Testing of Agent Systems",
+      "authors": [
+        "L. Padgham",
+        " Zhiyong Zhang",
+        "J. Thangarajah",
+        "T. Miller"
+      ],
+      "doi": "10.1109/tse.2013.10",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "093dbbf2c9c7c98fc8349112df491a6de4c21496",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    46,
+    {
+      "title": "A Uniform Representation of Hybrid Criteria for Regression Testing",
+      "authors": [
+        "Sreedevi Sampath",
+        "Renee Bryce",
+        "Atif M. Memon"
+      ],
+      "doi": "10.1109/tse.2013.16",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "6bb2e7f527e2569215d2297b2d9d4ae69ec5996d",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    47,
+    {
+      "title": "TACO: Efficient SAT-Based Bounded Verification Using Symmetry Breaking and Tight Bounds",
+      "authors": [
+        "Juan P. Galeotti",
+        "Nicolas Rosner",
+        "Carlos G. Lopez Pombo",
+        "Marcelo F. Frias"
+      ],
+      "doi": "10.1109/tse.2013.15",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "61a53c988ea52459452aae39b0bcb7b0a6d7d228",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Monitor-Based Instant Software Refactoring",
+      "authors": [
+        "Hui Liu",
+        "Xue Guo",
+        "Weizhong Shao"
+      ],
+      "doi": "10.1109/tse.2013.4",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5a23aaceaa30752f947b52cb04eb47d399e6cccc",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Compositional Verification for Hierarchical Scheduling of Real-Time Systems",
+      "authors": [
+        "Laura Carnevali",
+        "Alessandro Pinzuti",
+        "Enrico Vicario"
+      ],
+      "doi": "10.1109/tse.2012.54",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7de6b9420f47b9ab703e2476865c4d5f91e27521",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Generating Domain-Specific Visual Language Tools from Abstract Visual Specifications",
+      "authors": [
+        "John C. Grundy",
+        "John Hosking",
+        "Karen Na Li",
+        "Norhayati Mohd Ali",
+        "Jun Huh",
+        "Richard Lei Li"
+      ],
+      "doi": "10.1109/tse.2012.33",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "e9789007b4ebd674080d79a1a1199b08b3b263aa",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Test Case-Aware Combinatorial Interaction Testing",
+      "authors": [
+        "Cemal Yilmaz"
+      ],
+      "doi": "10.1109/tse.2012.65",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "26946108d17a95a89f07bf56e4adb2fd04670df5",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    52,
+    {
+      "title": "A fluid model for layered queueing networks",
+      "authors": [
+        "Mirco Tribastone"
+      ],
+      "doi": "10.1109/tse.2012.66",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "52538895fa1ce20969050147ea54c994c6d04631",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Validating Second-Order Mutation at System Level",
+      "authors": [
+        "Pedro Reales Mateo",
+        "Macario Polo Usaola",
+        "Jose Luis Fernandez Aleman"
+      ],
+      "doi": "10.1109/tse.2012.39",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "980ab9fc433e5ac0def92003936cc1f9f46d7c48",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Determining the Cause of a Design Model Inconsistency",
+      "authors": [
+        "Alexander Reder",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1109/tse.2013.30",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "c845d3cf0c73531ccb0be1ea8c8c9ab2d50cf6cd",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Self-Management of Adaptable Component-Based Applications",
+      "authors": [
+        "Liliana Rosa",
+        "Luis Rodrigues",
+        "Antonia Lopes",
+        "Matti Hiltunen",
+        "Richard Schlichting"
+      ],
+      "doi": "10.1109/tse.2012.29",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "9b70d25a07e5fdddedc9d65ae43b5cf38fa10cd0",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Elaborating Requirements Using Model Checking and Inductive Learning",
+      "authors": [
+        "Dalal Alrajeh",
+        "Jeff Kramer",
+        "Alessandra Russo",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1109/tse.2012.41",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8e659b9de90f4e9714d7c827adfdf7ece3d76d49",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Task Environment Complexity, Global Team Dispersion, Process Capabilities, and Coordination in Software Development",
+      "authors": [
+        " Gwanhoo Lee",
+        "J. Alberto Espinosa",
+        "William H. DeLone"
+      ],
+      "doi": "10.1109/tse.2013.40",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "339998056e5689ae1096bd8688f27719d3dcdaa3",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Proactive Self-Adaptation for Improving the Reliability of Mission-Critical, Embedded, and Mobile Software",
+      "authors": [
+        "Deshan Cooray",
+        "Ehsan Kouroshfar",
+        "Sam Malek",
+        "Roshanak Roshandel"
+      ],
+      "doi": "10.1109/tse.2013.36",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "affc68cbe2e3158aa1d6f31d944c2d26934f56c5",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Resource Management for Complex, Dynamic Environments",
+      "authors": [
+        "Mohammad S. Raunak",
+        "Leon J. Osterweil"
+      ],
+      "doi": "10.1109/tse.2012.31",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "6d229180e04a88ee720787d19ae54e15a3bf8ded",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Systematic Elaboration of Scalability Requirements through Goal-Obstacle Analysis",
+      "authors": [
+        "Leticia Duboc",
+        "Emmanuel Letier",
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1109/tse.2012.12",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "52120204dc709024bc60e75ad986f71a5597bc9e",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Abstracting runtime heaps for program understanding",
+      "authors": [
+        "Mark Marron",
+        "Cesar Sanchez",
+        "Zhendong Su",
+        "Manuel Fahndrich"
+      ],
+      "doi": "10.1109/tse.2012.69",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "3ac5edbbe2c5baed87783ee13f84cd252e3a7ae3",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Whitening SOA Testing via Event Exposure",
+      "authors": [
+        " Chunyang Ye",
+        "Hans-Arno Jacobsen"
+      ],
+      "doi": "10.1109/tse.2013.20",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "b3e8f25d0858d5d111b5d382816cda3b5a2b23a1",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Performance Specification and Evaluation with Unified Stochastic Probes and Fluid Analysis",
+      "authors": [
+        "Richard A. Hayden",
+        "Jeremy T. Bradley",
+        "Allan Clark"
+      ],
+      "doi": "10.1109/tse.2012.1",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "a463bb2cd9b3fb0bdae49742d7963c620e2edbe7",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Optimizing Ordered Throughput Using Autonomic Cloud Bursting Schedulers",
+      "authors": [
+        "Sriram Kailasam",
+        "Nathan Gnanasambandam",
+        "Janakiram Dharanipragada",
+        "Naveen Sharma"
+      ],
+      "doi": "10.1109/tse.2013.26",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "b6fb65a28cd9557c970d39bc3abf0ccea195fe34",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Using Timed Automata for Modeling Distributed Systems with Clocks: Challenges and Solutions",
+      "authors": [
+        "G. Rodriguez-Navas",
+        "J. Proenza"
+      ],
+      "doi": "10.1109/tse.2012.73",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "0b1ba825fe7567d3ebc55c89fc79790a3dc0f62f",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Monitoring Data Usage in Distributed Systems",
+      "authors": [
+        "David Basin",
+        "Matus Harvan",
+        "Felix Klaedtke",
+        "Eugen Zalinescu"
+      ],
+      "doi": "10.1109/tse.2013.18",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "9d95b96953e61ef439cc91885222a720335add03",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    67,
+    {
+      "title": "MADMatch: Many-to-Many Approximate Diagram Matching for Design Comparison",
+      "authors": [
+        "Segla Kpodjedo",
+        "Filippo Ricca",
+        "Philippe Galinier",
+        "Giuliano Antoniol",
+        "Yann-Gael Gueheneuc"
+      ],
+      "doi": "10.1109/tse.2013.9",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "655707e709804081cbdfb1cdb680cf83cfef5445",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Verifying Linearizability via Optimized Refinement Checking",
+      "authors": [
+        "Yang Liu",
+        "Wei Chen",
+        "Yanhong A. Liu",
+        "Jun Sun",
+        "Shao Jie Zhang",
+        "Jin Song Dong"
+      ],
+      "doi": "10.1109/tse.2012.82",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5de528f09dd2933a5aec6ed738398122dddfd628",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Identifying Code of Individual Features in Client-Side Web Applications",
+      "authors": [
+        "Josip Maras",
+        "Maja Stula",
+        "Jan Carlson",
+        "Ivica Crnkovic"
+      ],
+      "doi": "10.1109/tse.2013.38",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "76de7225fd4eccdebc48a94a876bdd7c34ecf7b8",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Trends in the Quality of Human-Centric Software Engineering Experiments--A Quasi-Experiment",
+      "authors": [
+        "Barbara Kitchenham",
+        "Dag I.K. Sjoberg",
+        "Tore Dyba",
+        "O. Pearl Brereton",
+        "David Budgen",
+        "Martin Host",
+        "Per Runeson"
+      ],
+      "doi": "10.1109/tse.2012.76",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "0427b00fa54e5d356b8a02c83670ef867d4719c1",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Amorphous Slicing of Extended Finite State Machines",
+      "authors": [
+        "Kelly Androutsopoulos",
+        "David Clark",
+        "Mark Harman",
+        "Robert M. Hierons",
+        "Zheng Li",
+        "Laurence Tratt"
+      ],
+      "doi": "10.1109/tse.2012.72",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5956372341500dfd31b7724dad209381910fb625",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Identification, Impact, and Refactoring of Smells in Pipe-Like Web Mashups",
+      "authors": [
+        "Kathryn T. Stolee",
+        "Sebastian Elbaum"
+      ],
+      "doi": "10.1109/tse.2013.42",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8c6729787cdb173ba8443a104c4ff06aae319587",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Software Reliability Modeling with Software Metrics Data via Gaussian Processes",
+      "authors": [
+        "Nuria Torrado",
+        "Michael P. Wiper",
+        "Rosa E. Lillo"
+      ],
+      "doi": "10.1109/tse.2012.87",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "44ba30ba6b5449e8d3c890ae9d958c4952cb7803",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    74,
+    {
+      "title": "EDZL Schedulability Analysis in Real-Time Multicore Scheduling",
+      "authors": [
+        "Jinkyu Lee",
+        "Insik Shin"
+      ],
+      "doi": "10.1109/tse.2012.75",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "86a82e2ee9de500f2ec14b846c063e63d6540ed7",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Generating Test Cases for Real-Time Systems Based on Symbolic Models",
+      "authors": [
+        "Wilkerson L. Andrade",
+        "Patricia D.L. Machado"
+      ],
+      "doi": "10.1109/tse.2013.13",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "802aff5f847a216964b7b10c5193900dcb8fd642",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Name-Based Analysis of Equally Typed Method Arguments",
+      "authors": [
+        "Michael Pradel",
+        "Thomas R. Gross"
+      ],
+      "doi": "10.1109/tse.2013.7",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f47f7dbb3c95f30fa02f6139e699f8c265f005f5",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Class Schema Evolution for Persistent Object-Oriented Software: Model, Empirical Study, and Automated Support",
+      "authors": [
+        "Marco Piccioni",
+        "Manuel Oriol",
+        "Bertrand Meyer"
+      ],
+      "doi": "10.1109/tse.2011.123",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "4c45383cf3a82c5128462bf003c9161ceb29e48b",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Conservative Bounds for the pfd of a 1-out-of-2 Software-Based System Based on an Assessor's Subjective Probability of \"Not Worse Than Independence\"",
+      "authors": [
+        "Bev Littlewood",
+        "Andrey Povyakalo"
+      ],
+      "doi": "10.1109/tse.2013.31",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "78a57fe75cd5d20ebcad6958a57570ee3d70344f",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    79,
+    {
+      "title": "A Taxonomy and Mapping of Computer-Based Critiquing Tools",
+      "authors": [
+        "Norhayati Mohd Ali",
+        "John Hosking",
+        "John Grundy"
+      ],
+      "doi": "10.1109/tse.2013.32",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "0074cd2b5b2eee7cd2ef1b35c61533842aee1364",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Session Reliability of Web Systems under Heavy-Tailed Workloads: An Approach Based on Design and Analysis of Experiments",
+      "authors": [
+        "Nikola Janevski",
+        "Katerina Goseva-Popstojanova"
+      ],
+      "doi": "10.1109/tse.2013.3",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "4566869a3b68d34caa2a535c65a9b252fd2a3f02",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Locating Need-to-Externalize Constant Strings for Software Internationalization with Generalized String-Taint Analysis",
+      "authors": [
+        "Xiaoyin Wang",
+        "Lu Zhang",
+        "Tao Xie",
+        "Hong Mei",
+        "Jiasu Sun"
+      ],
+      "doi": "10.1109/tse.2012.40",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "03e60ee013e58056992fcbf6fc11ce17a593a94b",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Embedding Polychrony into Synchrony",
+      "authors": [
+        "Jens Brandt",
+        "Mike Gemunde",
+        "Klaus Schneider",
+        "Sandeep K. Shukla",
+        "Jean-Pierre Talpin"
+      ],
+      "doi": "10.1109/tse.2012.85",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8df1a27e282c5f261ecfebaee3d0c8de73a23182",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Verifying Protocol Conformance Using Software Model Checking for the Model-Driven Development of Embedded Systems",
+      "authors": [
+        "Yann Moffett",
+        "Juergen Dingel",
+        "Alain Beaulieu"
+      ],
+      "doi": "10.1109/tse.2013.14",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "18f390158f7d6096faf68c2a827aac55cb222041",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    84,
+    {
+      "title": "OBEY: Optimal Batched Refactoring Plan Execution for Class Responsibility Redistribution",
+      "authors": [
+        "H. C. Jiau",
+        " Lee Wei Mar",
+        "J. C. Chen"
+      ],
+      "doi": "10.1109/tse.2013.19",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d742d7f62ab5d8cf97ffbfffbbd2e88092ce8c60",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Learning Project Management Decisions: A Case Study with Case-Based Reasoning versus Data Farming",
+      "authors": [
+        "Tim Menzies",
+        "Adam Brady",
+        "Jacky Keung",
+        "Jairus Hihn",
+        "Steven Williams",
+        "Oussama El-Rawas",
+        "Phillip Green",
+        "Barry Boehm"
+      ],
+      "doi": "10.1109/tse.2013.43",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8e33a3f13b1e4634c04f0875f81f0476866d3a28",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Conservative Reasoning about the Probability of Failure on Demand of a 1-out-of-2 Software-Based System in Which One Channel Is \"Possibly Perfect\"",
+      "authors": [
+        "Bev Littlewood",
+        "Andrey Povyakalo"
+      ],
+      "doi": "10.1109/tse.2013.35",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "30c9e22bc0be89f9f1d7433d5915d853f139e01c",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Equality to Equals and Unequals: A Revisit of the Equivalence and Nonequivalence Criteria in Class-Level Testing of Object-Oriented Software",
+      "authors": [
+        "Huo Yan Chen",
+        "T.H. Tse"
+      ],
+      "doi": "10.1109/tse.2013.33",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2e0746e552141fc46994148ebb37f3cde4242d40",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Alloy Meets the Algebra of Programming: A Case Study",
+      "authors": [
+        "Jose N. Oliveira",
+        "Miguel A. Ferreira"
+      ],
+      "doi": "10.1109/tse.2012.15",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "3844b3f83dcd1289ff140af2a0ac2514991a3381",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Synthesizing Modal Transition Systems from Triggered Scenarios",
+      "authors": [
+        "German Emir Sibay",
+        "Victor Braberman",
+        "Sebastian Uchitel",
+        "Jeff Kramer"
+      ],
+      "doi": "10.1109/tse.2012.62",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "b6a79465ea23d57f11d5738d724f9e420c922364",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    90,
+    {
+      "title": "A Quantitative Approach to Input Generation in Real-Time Testing of Stochastic Systems",
+      "authors": [
+        "Laura Carnevali",
+        "Lorenzo Ridi",
+        "Enrico Vicario"
+      ],
+      "doi": "10.1109/tse.2012.42",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "10b4f61b260091a3ee36400825d410e941bf839e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Capsule-Based User Interface Modeling for Large-Scale Applications",
+      "authors": [
+        "Dragan Milicev",
+        "Zarko Mijailovic"
+      ],
+      "doi": "10.1109/tse.2013.8",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "38a5dbad3e1189a3ee20b94140e806ecfbd369d7",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Integer Linear Programming-Based Property Checking for Asynchronous Reactive Systems",
+      "authors": [
+        "Stefan Leue",
+        "Wei Wei"
+      ],
+      "doi": "10.1109/tse.2011.1",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "0d95f53acf4738d828eac1041fc4a0d5d9287d78",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Coverage Estimation in Model Checking with Bitstate Hashing",
+      "authors": [
+        "Satoshi Ikeda",
+        "Masahiro Jibiki",
+        "Yasushi Kuno"
+      ],
+      "doi": "10.1109/tse.2012.44",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "527c40ab9347358cae261250ed8943279f9dec94",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    94,
+    {
+      "title": "In Memoriam - David Notkin (1953-2013)",
+      "authors": [
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/tse.2013.25",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d9b376a3fa7fe38c7022930f8f243b84a9b5cf86",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    95,
+    {
+      "title": "2012 Reviewers List",
+      "authors": [],
+      "doi": "10.1109/tse.2013.2",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Editorial",
+      "authors": [
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/tse.2013.41",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7d48e6954791a18f4fe7faabbf2357f9754a1ee5",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Proactive and Reactive Runtime Service Discovery: A Framework and Its Evaluation",
+      "authors": [
+        "Andrea Zisman",
+        "George Spanoudakis",
+        "James Dooley",
+        "Igor Siveroni"
+      ],
+      "doi": "10.1109/tse.2012.84",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    98,
+    {
+      "title": "E-ditorial: State of the Journal",
+      "authors": [
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/tse.2013.5",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    99,
+    {
+      "title": "2012 Annual Index",
+      "authors": [],
+      "doi": "10.1109/tse.2013.1",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    100,
+    {
+      "title": "In Memoriam: Mary Jean Harrold (1947-2013)",
+      "authors": [
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/tse.2013.51",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "12aed3616cdda96d016b3ac55a7c98b8b40803d2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Editorial [new associate editors]",
+      "authors": [
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/tse.2013.22",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "e0e48ed3e055c8760d573b84e2fa8949a5262b15",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Automated Behavioral Testing of Refactoring Engines",
+      "authors": [
+        "Gustavo Soares",
+        "Rohit Gheyi",
+        "Tiago Massoni"
+      ],
+      "doi": "10.1109/tse.2012.19",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ]
+]

@@ -1,0 +1,2431 @@
+[
+  [
+    1,
+    {
+      "title": "Fairness testing: testing software for discrimination",
+      "authors": [
+        "Sainyam Galhotra",
+        "Yuriy Brun",
+        "Alexandra Meliou"
+      ],
+      "doi": "10.1145/3106237.3106277",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8807d0b75adf5aa6beb02ff4b9fbbc8335c46ad6",
+        "citationCount": 354,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Are deep neural networks the best choice for modeling source code?",
+      "authors": [
+        "Vincent J. Hellendoorn",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1145/3106237.3106290",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b4a26011eb7c26d71cd074f182c4f093da24308b",
+        "citationCount": 314,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Guided, stochastic model-based GUI testing of Android apps",
+      "authors": [
+        "Ting Su",
+        "Guozhu Meng",
+        "Yuting Chen",
+        "Ke Wu",
+        "Weiming Yang",
+        "Yao Yao",
+        "Geguang Pu",
+        "Yang Liu",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/3106237.3106298",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cfb1f25a91eee93ecfcc2693c7b4e096fa10f3ac",
+        "citationCount": 314,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Steelix: program-state based binary fuzzing",
+      "authors": [
+        "Yuekang Li",
+        "Bihuan Chen",
+        "Mahinthan Chandramohan",
+        "Shang-Wei Lin",
+        "Yang Liu",
+        "Alwen Tiu"
+      ],
+      "doi": "10.1145/3106237.3106295",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d9b98ccc75ec1a464e84121916fb39838dc61862",
+        "citationCount": 275,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    5,
+    {
+      "title": "S3: syntax- and semantic-guided repair synthesis via programming by examples",
+      "authors": [
+        "Xuan-Bach D. Le",
+        "Duc-Hiep Chu",
+        "David Lo",
+        "Claire Le Goues",
+        "Willem Visser"
+      ],
+      "doi": "10.1145/3106237.3106309",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "28c9a3a83c83590972e46f88e1934437cce098e0",
+        "citationCount": 239,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Easy over hard: a case study on deep learning",
+      "authors": [
+        "Wei Fu",
+        "Tim Menzies"
+      ],
+      "doi": "10.1145/3106237.3106256",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b0f6f8a3239fccc2c40c6d5728da5e4304d03f6f",
+        "citationCount": 190,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Automatic inference of code transforms for patch generation",
+      "authors": [
+        "Fan Long",
+        "Peter Amidon",
+        "Martin Rinard"
+      ],
+      "doi": "10.1145/3106237.3106253",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bef6f21fccdcac24ebcd6b4287801ff1c9734966",
+        "citationCount": 185,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Trade-offs in continuous integration: assurance, security, and flexibility",
+      "authors": [
+        "Michael Hilton",
+        "Nicholas Nelson",
+        "Timothy Tunnell",
+        "Darko Marinov",
+        "Danny Dig"
+      ],
+      "doi": "10.1145/3106237.3106270",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "04494499b8846b26738d7abdf67a3d5817f95164",
+        "citationCount": 180,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Serverless computing: economic and architectural impact",
+      "authors": [
+        "Gojko Adzic",
+        "Robert Chatley"
+      ],
+      "doi": "10.1145/3106237.3117767",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "13f0bd79b4b31c6dedd885b622ee16f3ca63debc",
+        "citationCount": 164,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Automated identification of security issues from commit messages and bug reports",
+      "authors": [
+        "Yaqin Zhou",
+        "Asankhaya Sharma"
+      ],
+      "doi": "10.1145/3106237.3117771",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "89c6a8c77284e2453efbd3f4c5f494f7b693cb6a",
+        "citationCount": 163,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Why modern open source projects fail",
+      "authors": [
+        "Jailton Coelho",
+        "Marco Tulio Valente"
+      ],
+      "doi": "10.1145/3106237.3106246",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ad4e70a92f0a65264cff032218208a5bbf5488ac",
+        "citationCount": 161,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Why do developers use trivial packages? an empirical case study on npm",
+      "authors": [
+        "Rabe Abdalkareem",
+        "Olivier Nourry",
+        "Sultan Wehaibi",
+        "Suhaib Mujahid",
+        "Emad Shihab"
+      ],
+      "doi": "10.1145/3106237.3106267",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7af8a7cff59902ddfe8fb845ff4eda639c486f5f",
+        "citationCount": 133,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Better test cases for better automated program repair",
+      "authors": [
+        "Jinqiu Yang",
+        "Alexey Zhikhartsev",
+        "Yuefei Liu",
+        "Lin Tan"
+      ],
+      "doi": "10.1145/3106237.3106274",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f178cfca42c44c0da62269a747b7b610fb3734c3",
+        "citationCount": 132,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Detecting missing information in bug descriptions",
+      "authors": [
+        "Oscar Chaparro",
+        "Jing Lu",
+        "Fiorella Zampetti",
+        "Laura Moreno",
+        "Massimiliano Di Penta",
+        "Andrian Marcus",
+        "Gabriele Bavota",
+        "Vincent Ng"
+      ],
+      "doi": "10.1145/3106237.3106285",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e38e4cde8a32df4047174054157b43d9023e44b8",
+        "citationCount": 131,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Finding near-optimal configurations in product lines by random sampling",
+      "authors": [
+        "Jeho Oh",
+        "Don Batory",
+        "Margaret Myers",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1145/3106237.3106273",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ad279740c5a7bddb0b9364e6fa91eeb2c160c42e",
+        "citationCount": 129,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Revisiting unsupervised learning for defect prediction",
+      "authors": [
+        "Wei Fu",
+        "Tim Menzies"
+      ],
+      "doi": "10.1145/3106237.3106257",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1b857f8fb239180efa533d3856d43dea99202180",
+        "citationCount": 122,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Using bad learners to find good configurations",
+      "authors": [
+        "Vivek Nair",
+        "Tim Menzies",
+        "Norbert Siegmund",
+        "Sven Apel"
+      ],
+      "doi": "10.1145/3106237.3106238",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bcdc23c039c2bdeb74792a7cb752a28ad17e25a4",
+        "citationCount": 119,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Measuring neural efficiency of program comprehension",
+      "authors": [
+        "Janet Siegmund",
+        "Norman Peitek",
+        "Chris Parnin",
+        "Sven Apel",
+        "Johannes Hofmeister",
+        "Christian K\u00e4stner",
+        "Andrew Begel",
+        "Anja Bethmann",
+        "Andr\u00e9 Brechmann"
+      ],
+      "doi": "10.1145/3106237.3106268",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "19390972b9126d716f53d756148287d43be9d3ea",
+        "citationCount": 118,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    19,
+    {
+      "title": "A feasibility study of using automated program repair for introductory programming assignments",
+      "authors": [
+        "Jooyong Yi",
+        "Umair Z. Ahmed",
+        "Amey Karkare",
+        "Shin Hwei Tan",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3106237.3106262",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6e5f3c4507aeb175da8712cff43cb8b2e60b5a12",
+        "citationCount": 111,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Where is the bug and how is it fixed? an experiment with practitioners",
+      "authors": [
+        "Marcel B\u00f6hme",
+        "Ezekiel O. Soremekun",
+        "Sudipta Chattopadhyay",
+        "Emamurho Ugherughe",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1145/3106237.3106255",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cedf2cc20266d9e52fd4bd7e7c55b4a14d4e0c81",
+        "citationCount": 110,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Applying deep learning based automatic bug triager to industrial projects",
+      "authors": [
+        "Sun-Ro Lee",
+        "Min-Jae Heo",
+        "Chan-Gun Lee",
+        "Milhan Kim",
+        "Gaeul Jeong"
+      ],
+      "doi": "10.1145/3106237.3117776",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "677865dbed96d58a6d545f0fb7164928c960fe0f",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Cimplifier: automatically debloating containers",
+      "authors": [
+        "Vaibhav Rastogi",
+        "Drew Davidson",
+        "Lorenzo De Carli",
+        "Somesh Jha",
+        "Patrick McDaniel"
+      ],
+      "doi": "10.1145/3106237.3106271",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6624f210e36afd4a7cd393eeae63f98d3888d33d",
+        "citationCount": 88,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Measuring the cost of regression testing in practice: a study of Java projects using continuous integration",
+      "authors": [
+        "Adriaan Labuschagne",
+        "Laura Inozemtseva",
+        "Reid Holmes"
+      ],
+      "doi": "10.1145/3106237.3106288",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "93911454a4d27000f8c3b17602412f67b4c5ad02",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Is there a mismatch between real-world feature models and product-line research?",
+      "authors": [
+        "Alexander Kn\u00fcppel",
+        "Thomas Th\u00fcm",
+        "Stephan Mennicke",
+        "Jens Meinicke",
+        "Ina Schaefer"
+      ],
+      "doi": "10.1145/3106237.3106252",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9f665be30d4618d72495a87c08b1ac78817915d4",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Understanding the impact of refactoring on smells: a longitudinal study of 23 software projects",
+      "authors": [
+        "Diego Cedrim",
+        "Alessandro Garcia",
+        "Melina Mongiovi",
+        "Rohit Gheyi",
+        "Leonardo Sousa",
+        "Rafael de Mello",
+        "Baldoino Fonseca",
+        "M\u00e1rcio Ribeiro",
+        "Alexander Ch\u00e1vez"
+      ],
+      "doi": "10.1145/3106237.3106259",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f20999bc89428c7ef428eaf8ad0ef39f91de8940",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Enabling mutation testing for Android apps",
+      "authors": [
+        "Mario Linares-V\u00e1squez",
+        "Gabriele Bavota",
+        "Michele Tufano",
+        "Kevin Moran",
+        "Massimiliano Di Penta",
+        "Christopher Vendome",
+        "Carlos Bernal-C\u00e1rdenas",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/3106237.3106275",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "293e08c0b716ab932eebab270d44df624d2f227c",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Automatically diagnosing and repairing error handling bugs in C",
+      "authors": [
+        "Yuchi Tian",
+        "Baishakhi Ray"
+      ],
+      "doi": "10.1145/3106237.3106300",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cce926d9a3a1b0091459478c12acfde7baf03cd1",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    28,
+    {
+      "title": "\u00b5Droid: an energy-aware mutation testing framework for Android",
+      "authors": [
+        "Reyhaneh Jabbarvand",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/3106237.3106244",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f1b1b7f4c9b89db00895ddad85de84171af8b34c",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Recovering clear, natural identifiers from obfuscated JS names",
+      "authors": [
+        "Bogdan Vasilescu",
+        "Casey Casalnuovo",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1145/3106237.3106289",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "53da3749987b3a4d166449e32af7b474ce776096",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    30,
+    {
+      "title": "QTEP: quality-aware test case prioritization",
+      "authors": [
+        "Song Wang",
+        "Jaechang Nam",
+        "Lin Tan"
+      ],
+      "doi": "10.1145/3106237.3106258",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "95eb6bc8355baf273e2f90feb096f47a54d083f4",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Reflections on the REST architectural style and \"principled design of the modern web architecture\" (impact paper award)",
+      "authors": [
+        "Roy T. Fielding",
+        "Richard N. Taylor",
+        "Justin R. Erenkrantz",
+        "Michael M. Gorlick",
+        "Jim Whitehead",
+        "Rohit Khare",
+        "Peyman Oreizy"
+      ],
+      "doi": "10.1145/3106237.3121282",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4412e1abee64c7847f55094c0f3fb0125745cce5",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Understanding misunderstandings in source code",
+      "authors": [
+        "Dan Gopstein",
+        "Jake Iannacone",
+        "Yu Yan",
+        "Lois DeLong",
+        "Yanyan Zhuang",
+        "Martin K.-C. Yeh",
+        "Justin Cappos"
+      ],
+      "doi": "10.1145/3106237.3106264",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e7231f1b144537a069b570e82c09bcc8e1dbb7f2",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    33,
+    {
+      "title": "The care and feeding of wild-caught mutants",
+      "authors": [
+        "David Bingham Brown",
+        "Michael Vaughn",
+        "Ben Liblit",
+        "Thomas Reps"
+      ],
+      "doi": "10.1145/3106237.3106280",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "82c72dda7aa7e8061094cfd30ef09dd153f07904",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Modeling and verification of evolving cyber-physical spaces",
+      "authors": [
+        "Christos Tsigkanos",
+        "Timo Kehrer",
+        "Carlo Ghezzi"
+      ],
+      "doi": "10.1145/3106237.3106299",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "22cb9831036ffb5388a6cc728ae5e99995c4da70",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Bayesian specification learning for finding API usage errors",
+      "authors": [
+        "Vijayaraghavan Murali",
+        "Swarat Chaudhuri",
+        "Chris Jermaine"
+      ],
+      "doi": "10.1145/3106237.3106284",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "041114c827e0ad062b4523cee24327d30efb0836",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Automated control of multiple software goals using multiple actuators",
+      "authors": [
+        "Martina Maggio",
+        "Alessandro Vittorio Papadopoulos",
+        "Antonio Filieri",
+        "Henry Hoffmann"
+      ],
+      "doi": "10.1145/3106237.3106247",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c01eec0a469a63d27e8019ef03e5db49dca8c065",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Counterexample-guided approach to finding numerical invariants",
+      "authors": [
+        "ThanhVu Nguyen",
+        "Timos Antonopoulos",
+        "Andrew Ruef",
+        "Michael Hicks"
+      ],
+      "doi": "10.1145/3106237.3106281",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "10dd8b29247a6be1619297ddca7fae1a57ca9ea7",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    38,
+    {
+      "title": "CodeMatch: obfuscation won't conceal your repackaged app",
+      "authors": [
+        "Leonid Glanz",
+        "Sven Amann",
+        "Michael Eichberg",
+        "Michael Reif",
+        "Ben Hermann",
+        "Johannes Lerch",
+        "Mira Mezini"
+      ],
+      "doi": "10.1145/3106237.3106305",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b9c56043a49f8ed0281deef6be2ed5c9c3717970",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Attributed variability models: outside the comfort zone",
+      "authors": [
+        "Norbert Siegmund",
+        "Stefan Sobernig",
+        "Sven Apel"
+      ],
+      "doi": "10.1145/3106237.3106251",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c39f067bd8e946fca2df5e310685b4de93fb41d6",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    40,
+    {
+      "title": "PATDroid: permission-aware GUI testing of Android",
+      "authors": [
+        "Alireza Sadeghi",
+        "Reyhaneh Jabbarvand",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/3106237.3106250",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e30dbee5500f47e7baa3c8cdadf450f742758bd9",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    41,
+    {
+      "title": "On the scalability of Linux kernel maintainers' work",
+      "authors": [
+        "Minghui Zhou",
+        "Qingying Chen",
+        "Audris Mockus",
+        "Fengguang Wu"
+      ],
+      "doi": "10.1145/3106237.3106287",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d34614f6e4d0d5c20d0ce85b542035b5a3dd034f",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Regression test selection across JVM boundaries",
+      "authors": [
+        "Ahmet Celik",
+        "Marko Vasic",
+        "Aleksandar Milicevic",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1145/3106237.3106297",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f6ab4267421f480e21c4d9709b62637bcbae45c5",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    43,
+    {
+      "title": "What do software engineers care about? gaps between research and practice",
+      "authors": [
+        "Vladimir Ivanov",
+        "Alan Rogers",
+        "Giancarlo Succi",
+        "Jooyong Yi",
+        "Vasilii Zorin"
+      ],
+      "doi": "10.1145/3106237.3117778",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7d0033a9e1cb3eb3285ade72457a6e9a4f5f680f",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Automated testing of hybrid Simulink/Stateflow controllers: industrial case studies",
+      "authors": [
+        "Reza Matinnejad",
+        "Shiva Nejati",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1145/3106237.3117770",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8acb320db954862509fe90c720fcec4cea45b745",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Record and replay for Android: are we there yet in industrial cases?",
+      "authors": [
+        "Wing Lam",
+        "Zhengkai Wu",
+        "Dengfeng Li",
+        "Wenyu Wang",
+        "Haibing Zheng",
+        "Hui Luo",
+        "Peng Yan",
+        "Yuetang Deng",
+        "Tao Xie"
+      ],
+      "doi": "10.1145/3106237.3117769",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9cade517b7a1b73bbee4f7d6b927fec0326fb1a1",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Symbolic execution of programmable logic controller code",
+      "authors": [
+        "Shengjian Guo",
+        "Meng Wu",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/3106237.3106245",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4db1a1c35f3f570f1a8b43813866e6e88c3cc0cf",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    47,
+    {
+      "title": "The power of \"why\" and \"why not\": enriching scenario exploration with provenance",
+      "authors": [
+        "Tim Nelson",
+        "Natasha Danas",
+        "Daniel J. Dougherty",
+        "Shriram Krishnamurthi"
+      ],
+      "doi": "10.1145/3106237.3106272",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f3098ae35bea5e1415ef91baea5bf9d51f640988",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    48,
+    {
+      "title": "OASIS: prioritizing static analysis warnings for Android apps based on app user reviews",
+      "authors": [
+        "Lili Wei",
+        "Yepang Liu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1145/3106237.3106294",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6fa9aff46e9ea1b9fdcde66fd24528839a57c2d3",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Automatic generation of inter-component communication exploits for Android applications",
+      "authors": [
+        "Joshua Garcia",
+        "Mahmoud Hammad",
+        "Negar Ghorbani",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/3106237.3106286",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "24f542daa36ee7e2d6bf1cf63e81a92820f53b05",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Model-level, platform-independent debugging in the context of the model-driven development of real-time systems",
+      "authors": [
+        "Mojtaba Bagherzadeh",
+        "Nicolas Hili",
+        "Juergen Dingel"
+      ],
+      "doi": "10.1145/3106237.3106278",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "60ddb4022dbef6114b89d1875374932474962bc3",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    51,
+    {
+      "title": "File-level vs. module-level regression test selection for .NET",
+      "authors": [
+        "Marko Vasic",
+        "Zuhair Parvez",
+        "Aleksandar Milicevic",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1145/3106237.3117763",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3befd8e48abae5dd6ba6ff053823c1db82e7e6a0",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Kmax: finding all configurations of Kbuild makefiles statically",
+      "authors": [
+        "Paul Gazzillo"
+      ],
+      "doi": "10.1145/3106237.3106283",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3995f2439f9b21f7dfd97efcb4cd173602a0b5bc",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    53,
+    {
+      "title": "CodeCarbonCopy",
+      "authors": [
+        "Stelios Sidiroglou-Douskos",
+        "Eric Lahtinen",
+        "Anthony Eden",
+        "Fan Long",
+        "Martin Rinard"
+      ],
+      "doi": "10.1145/3106237.3106269",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a54c5f0fd04734cd9150ddb22813070c2edcd4f0",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    54,
+    {
+      "title": "ARTINALI: dynamic invariant detection for cyber-physical system security",
+      "authors": [
+        "Maryam Raiyat Aliabadi",
+        "Amita Ajith Kamath",
+        "Julien Gascon-Samson",
+        "Karthik Pattabiraman"
+      ],
+      "doi": "10.1145/3106237.3106282",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c391b22710eefe91c5dca53544ff97d1eb0c2d96",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Toward full elasticity in distributed static analysis: the case of callgraph analysis",
+      "authors": [
+        "Diego Garbervetsky",
+        "Edgardo Zoppi",
+        "Benjamin Livshits"
+      ],
+      "doi": "10.1145/3106237.3106261",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "10e7f753944d450f4c3ce50b16a645c895b98220",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Understanding the impact of support for iteration on code search",
+      "authors": [
+        "Lee Martie",
+        "Andr\u00e9 van der Hoek",
+        "Thomas Kwak"
+      ],
+      "doi": "10.1145/3106237.3106293",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c590b28e5c27716b2725d1be5e387e249df8b31e",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    57,
+    {
+      "title": "A symbolic justice violations transition system for unrealizable GR(1) specifications",
+      "authors": [
+        "Aviv Kuvent",
+        "Shahar Maoz",
+        "Jan Oliver Ringert"
+      ],
+      "doi": "10.1145/3106237.3106240",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3eaabc4b318fea8004fc488fc123e45d9966a73c",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Model-based privacy and security analysis with CARiSMA",
+      "authors": [
+        "Amir Shayan Ahmadian",
+        "Sven Peldszus",
+        "Qusai Ramadan",
+        "Jan J\u00fcrjens"
+      ],
+      "doi": "10.1145/3106237.3122823",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "eec7f04f54b44198ea80b814cd8805afdfdf4640",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    59,
+    {
+      "title": "A compiler and verifier for page access oblivious computation",
+      "authors": [
+        "Rohit Sinha",
+        "Sriram Rajamani",
+        "Sanjit A. Seshia"
+      ],
+      "doi": "10.1145/3106237.3106248",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "42a6743a304f5ca1a327781766b5b0607fd7d88f",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Constraint normalization and parameterized caching for quantitative program analysis",
+      "authors": [
+        "Tegan Brennan",
+        "Nestan Tsiskaridze",
+        "Nicol\u00e1s Rosner",
+        "Abdulbaki Aydin",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/3106237.3106303",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8445c8366141097f79c13abc91f649f8bb38749b",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    61,
+    {
+      "title": "NoFAQ: synthesizing command repairs from examples",
+      "authors": [
+        "Loris D'Antoni",
+        "Rishabh Singh",
+        "Michael Vaughn"
+      ],
+      "doi": "10.1145/3106237.3106241",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "83dfcbf6bff90ccc22e7eadc179d37c798310093",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Guidelines for adopting frontend architectures and patterns in microservices-based systems",
+      "authors": [
+        "Holger Harms",
+        "Collin Rogowski",
+        "Luigi Lo Iacono"
+      ],
+      "doi": "10.1145/3106237.3117775",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "805a8ab9a0ee45e9403d3b2b7f89eff840d2f49d",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    63,
+    {
+      "title": "LAMP: data provenance for graph based machine learning algorithms through derivative computation",
+      "authors": [
+        "Shiqing Ma",
+        "Yousra Aafer",
+        "Zhaogui Xu",
+        "Wen-Chuan Lee",
+        "Juan Zhai",
+        "Yingqi Liu",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1145/3106237.3106291",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "38d77f8d2a8d5d33fcdbccdf3cdfd1e0ac026e13",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Automatically analyzing groups of crashes for finding correlations",
+      "authors": [
+        "Marco Castelluccio",
+        "Carlo Sansone",
+        "Luisa Verdoliva",
+        "Giovanni Poggi"
+      ],
+      "doi": "10.1145/3106237.3106306",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8bc424c35ac144147a1d57c2ef5be20797bae7e0",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Reproducing concurrency failures from crash stacks",
+      "authors": [
+        "Francesco A. Bianchi",
+        "Mauro Pezz\u00e8",
+        "Valerio Terragni"
+      ],
+      "doi": "10.1145/3106237.3106292",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7d8a6d0ee817115848d1fb569208a6f23eb046cc",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Synergistic debug-repair of heap manipulations",
+      "authors": [
+        "Sahil Verma",
+        "Subhajit Roy"
+      ],
+      "doi": "10.1145/3106237.3106263",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a4bc30d69fde2ffa9656ff33c76beea42aacc111",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    67,
+    {
+      "title": "DESCRY: reproducing system-level concurrency failures",
+      "authors": [
+        "Tingting Yu",
+        "Tarannum S. Zaman",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/3106237.3106266",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "78f74a460a30603461793a61bc7597dba7edbc9b",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    68,
+    {
+      "title": "On evidence preservation requirements for forensic-ready systems",
+      "authors": [
+        "Dalal Alrajeh",
+        "Liliana Pasquale",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1145/3106237.3106308",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c1d945b5c9b0270b7f1188386bd51a9bfcd5d2a4",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Failure-directed program trimming",
+      "authors": [
+        "Kostas Ferles",
+        "Valentin W\u00fcstholz",
+        "Maria Christakis",
+        "Isil Dillig"
+      ],
+      "doi": "10.1145/3106237.3106249",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "27cfb7b07272ac1aa03d5e39d257557a24ac8d10",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Thread-modular static analysis for relaxed memory models",
+      "authors": [
+        "Markus Kusano",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/3106237.3106243",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "06dfabcf4e4b2f5887b404a8776ca6609fb4a44c",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Recommender system for model driven software development",
+      "authors": [
+        "Stefan K\u00f6gel"
+      ],
+      "doi": "10.1145/3106237.3119874",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "54fd79c0183e5f34e8c8c0b667ff7f2276681114",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    72,
+    {
+      "title": "DynAlloy analyzer: a tool for the specification and analysis of alloy models with dynamic behaviour",
+      "authors": [
+        "Germ\u00e1n Regis",
+        "C\u00e9sar Cornejo",
+        "Sim\u00f3n Guti\u00e9rrez Brida",
+        "Mariano Politano",
+        "Fernando Raverta",
+        "Pablo Ponzio",
+        "Nazareno Aguirre",
+        "Juan Pablo Galeotti",
+        "Marcelo Frias"
+      ],
+      "doi": "10.1145/3106237.3122826",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7903dd66c73e6de0d7d02f5499b4e373e43b945a",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    73,
+    {
+      "title": "A fast causal profiler for task parallel programs",
+      "authors": [
+        "Adarsh Yoga",
+        "Santosh Nagarakatte"
+      ],
+      "doi": "10.1145/3106237.3106254",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "25a8f0feba41119734ba9c68ff2224d93360513c",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    74,
+    {
+      "title": "QEMU-based framework for non-intrusive virtual machine instrumentation and introspection",
+      "authors": [
+        "Pavel Dovgalyuk",
+        "Natalia Fursova",
+        "Ivan Vasiliev",
+        "Vladimir Makarov"
+      ],
+      "doi": "10.1145/3106237.3122817",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8ecfd64647997341fcb9bdcf75a07adc52402e45",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Discovering relational specifications",
+      "authors": [
+        "Calvin Smith",
+        "Gabriel Ferns",
+        "Aws Albarghouthi"
+      ],
+      "doi": "10.1145/3106237.3106279",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a6910db8b398fb178fbc577114105658efa4bc54",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Summarizing software engineering communication artifacts from different sources",
+      "authors": [
+        "Verena K\u00e4fer"
+      ],
+      "doi": "10.1145/3106237.3119877",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6b81b1dfdf5a0bfb60463eb2c9e711e3806dee63",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    77,
+    {
+      "title": "The MONDO collaboration framework: secure collaborative modeling over existing version control systems",
+      "authors": [
+        "Csaba Debreceni",
+        "G\u00e1bor Bergmann",
+        "M\u00e1rton B\u00far",
+        "Istv\u00e1n R\u00e1th",
+        "D\u00e1niel Varr\u00f3"
+      ],
+      "doi": "10.1145/3106237.3122829",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d42d152fa0c6cd6e2860b3f7d59d59d2064c0fad",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Strong agile metrics: mining log data to determine predictive power of software metrics for continuous delivery teams",
+      "authors": [
+        "Hennie Huijgens",
+        "Robert Lamping",
+        "Dick Stevens",
+        "Hartger Rothengatter",
+        "Georgios Gousios",
+        "Daniele Romano"
+      ],
+      "doi": "10.1145/3106237.3117779",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b220e71e023c001b0c84e4364dc6b6a120e8367a",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Model-based dynamic software project scheduling",
+      "authors": [
+        "Natasha Nigar"
+      ],
+      "doi": "10.1145/3106237.3119879",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0e1a75116b9cc002754900e7bd0d26ac1cf6a1b6",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Adaptively generating high quality fixes for atomicity violations",
+      "authors": [
+        "Yan Cai",
+        "Lingwei Cao",
+        "Jing Zhao"
+      ],
+      "doi": "10.1145/3106237.3106239",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a2c557be770b997c3876619a140a88513916c199",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    81,
+    {
+      "title": "JoanAudit: a tool for auditing common injection vulnerabilities",
+      "authors": [
+        "Julian Thom\u00e9",
+        "Lwin Khin Shar",
+        "Domenico Bianculli",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1145/3106237.3122822",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9d76e453671e473b7efe8e917ef6624ed607dab0",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Craig vs. Newton in software model checking",
+      "authors": [
+        "Daniel Dietsch",
+        "Matthias Heizmann",
+        "Betim Musa",
+        "Alexander Nutz",
+        "Andreas Podelski"
+      ],
+      "doi": "10.1145/3106237.3106307",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7c3d7ead3b8118596f9608ed700b32a8b6feda71",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Automating traceability link recovery through classification",
+      "authors": [
+        "Chris Mills"
+      ],
+      "doi": "10.1145/3106237.3121280",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2b27a781b622d8ca8704ea3fb6aef2b2a19c514d",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Loopster: static loop termination analysis",
+      "authors": [
+        "Xiaofei Xie",
+        "Bihuan Chen",
+        "Liang Zou",
+        "Shang-Wei Lin",
+        "Yang Liu",
+        "Xiaohong Li"
+      ],
+      "doi": "10.1145/3106237.3106260",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "83a028e09894efc148031c9528493e624c54c084",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    85,
+    {
+      "title": "RunDroid: recovering execution call graphs for Android applications",
+      "authors": [
+        "Yujie Yuan",
+        "Lihua Xu",
+        "Xusheng Xiao",
+        "Andy Podgurski",
+        "Huibiao Zhu"
+      ],
+      "doi": "10.1145/3106237.3122821",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4036433b80e8817d2990834af8bdd5a28c8a83f4",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Cooperative kernels: GPU multitasking for blocking algorithms",
+      "authors": [
+        "Tyler Sorensen",
+        "Hugues Evrard",
+        "Alastair F. Donaldson"
+      ],
+      "doi": "10.1145/3106237.3106265",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "50f6d38ca7e1a783d69806d988e755f7755a9056",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    87,
+    {
+      "title": "More accurate recommendations for method-level changes",
+      "authors": [
+        "Georg Dotzler",
+        "Marius Kamp",
+        "Patrick Kreutzer",
+        "Michael Philippsen"
+      ],
+      "doi": "10.1145/3106237.3106276",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3b013205b07c88cde2dc78853727b84bca479f5e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Reasons and drawbacks of using trivial npm packages: the developers' perspective",
+      "authors": [
+        "Rabe Abdalkareem"
+      ],
+      "doi": "10.1145/3106237.3121278",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "01a06804d77bd3a2cf1c86b159a8e6865cb5155a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    89,
+    {
+      "title": "When program analysis meets mobile security: an industrial study of misusing Android internet sockets",
+      "authors": [
+        "Wenqi Bu",
+        "Minhui Xue",
+        "Lihua Xu",
+        "Yajin Zhou",
+        "Zhushou Tang",
+        "Tao Xie"
+      ],
+      "doi": "10.1145/3106237.3117764",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a749fef9b655a6864eda14a610fad749a8b7a9b2",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    90,
+    {
+      "title": "AtexRace: across thread and execution sampling for in-house race detection",
+      "authors": [
+        "Yu Guo",
+        "Yan Cai",
+        "Zijiang Yang"
+      ],
+      "doi": "10.1145/3106237.3106242",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c7cdde14a5a9d1ba5952d27bdd338342acd50ec1",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Detecting wearable app permission mismatches: a case study on Android wear",
+      "authors": [
+        "Suhaib Mujahid"
+      ],
+      "doi": "10.1145/3106237.3121279",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "18cb9173b46fa19862386da35a92e33c1043d221",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Probabilistic model checking of perturbed MDPs with applications to cloud computing",
+      "authors": [
+        "Yamilet R. Serrano Llerena",
+        "Guoxin Su",
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1145/3106237.3106301",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9a224849a3db898e7d23bfa3a344b1e040575598",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    93,
+    {
+      "title": "RGSE: a regular property guided symbolic executor for Java",
+      "authors": [
+        "Hengbiao Yu",
+        "Zhenbang Chen",
+        "Yufeng Zhang",
+        "Ji Wang",
+        "Wei Dong"
+      ],
+      "doi": "10.1145/3106237.3122830",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "434ca039053e545f64d6ed85e07d0b11d2a94454",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    94,
+    {
+      "title": "User- and analysis-driven context aware software development in mobile computing",
+      "authors": [
+        "Mai Abusair"
+      ],
+      "doi": "10.1145/3106237.3119873",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5deeb227fe04a4506e167d8a01a3504fb5089c3c",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    95,
+    {
+      "title": "ARCC: assistant for repetitive code comprehension",
+      "authors": [
+        "Wilberto Z. Nunez",
+        "Victor J. Marin",
+        "Carlos R. Rivero"
+      ],
+      "doi": "10.1145/3106237.3122824",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "811d575a10df56dd3979c8fd27a07227393b67af",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    96,
+    {
+      "title": "System performance optimization via design and configuration space exploration",
+      "authors": [
+        "Chong Tang"
+      ],
+      "doi": "10.1145/3106237.3119880",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "52cb4bd5d17122291343aadc1cf177a5e17ea492",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Natural language querying in SAP-ERP platform",
+      "authors": [
+        "Diptikalyan Saha",
+        "Neelamadhav Gantayat",
+        "Senthil Mani",
+        "Barry Mitchell"
+      ],
+      "doi": "10.1145/3106237.3117765",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a571cefe05a46a8e55629c927a0823e7dc70d135",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Continuous variable-specific resolutions of feature interactions",
+      "authors": [
+        "M. Hadi Zibaeenejad",
+        "Chi Zhang",
+        "Joanne M. Atlee"
+      ],
+      "doi": "10.1145/3106237.3106302",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d33304696a30f6381bb0085da13fb80e08828c06",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Improving performance of automatic program repair using learned heuristics",
+      "authors": [
+        "Liam Schramm"
+      ],
+      "doi": "10.1145/3106237.3121281",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b189f9b2ce99f13798a7ff15db94bed7652dc483",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Improving understanding of dynamically typed software developed by agile practitioners",
+      "authors": [
+        "Jair Garc\u00eda",
+        "Kelly Garc\u00e9s"
+      ],
+      "doi": "10.1145/3106237.3117772",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "55b7bfc4fe368774a9c671fe4225bfa5d8893eee",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    101,
+    {
+      "title": "A tool for automated reasoning about traces based on configurable formal semantics",
+      "authors": [
+        "Ferhat Erata",
+        "Arda Goknil",
+        "Bedir Tekinerdogan",
+        "Geylani Kardas"
+      ],
+      "doi": "10.1145/3106237.3122825",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2007643054f0311e676988cbb3956941f9ddac67",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    102,
+    {
+      "title": "XSearch: a domain-specific cross-language relevant question retrieval tool",
+      "authors": [
+        "Bowen Xu",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "David Lo",
+        "Xuan-Bach D. Le"
+      ],
+      "doi": "10.1145/3106237.3122820",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c10bea831b1cc98d84ad6bcd0059a7d4dc0f5922",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    103,
+    {
+      "title": "BDCI: behavioral driven conflict identification",
+      "authors": [
+        "Fabrizio Pastore",
+        "Leonardo Mariani",
+        "Daniela Micucci"
+      ],
+      "doi": "10.1145/3106237.3106296",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cb789bbd1652c2bbc92db8e33008e32c152749e1",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Cherry-picking of code commits in long-running, multi-release software",
+      "authors": [
+        "Panuchart Bunyakiati",
+        "Chadarat Phipathananunth"
+      ],
+      "doi": "10.1145/3106237.3122818",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "aa91561afffa236759f9442ade1aba8e1fc6bce5",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    105,
+    {
+      "title": "From scenario modeling to scenario programming for reactive systems with dynamic topology",
+      "authors": [
+        "Joel Greenyer",
+        "Daniel Gritzner",
+        "Florian K\u00f6nig",
+        "Jannik Dahlke",
+        "Jianwei Shi",
+        "Eric Wete"
+      ],
+      "doi": "10.1145/3106237.3122827",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "427c1346bf42a0c1d012644cb0a4f8a0e9f49bc4",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Static analysis for optimizing big data queries",
+      "authors": [
+        "Diego Garbervetsky",
+        "Zvonimir Pavlinovic",
+        "Michael Barnett",
+        "Madanlal Musuvathi",
+        "Todd Mytkowicz",
+        "Edgardo Zoppi"
+      ],
+      "doi": "10.1145/3106237.3117774",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8fbaf01fbf463d5671ed5e40dd2e23df0dab4edf",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    107,
+    {
+      "title": "LaChouTi: kernel vulnerability responding framework for the fragmented Android devices",
+      "authors": [
+        "Jingzheng Wu",
+        "Mutian Yang"
+      ],
+      "doi": "10.1145/3106237.3117768",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "68af355b3abd930e2d516bed44725d4c45aeda1d",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Reference architectures and Scrum: friends or foes?",
+      "authors": [
+        "Matthias Galster",
+        "Samuil Angelov",
+        "Silverio Mart\u00ednez-Fern\u00e1ndez",
+        "Dan Tofan"
+      ],
+      "doi": "10.1145/3106237.3117773",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3600afe875ce8e20ad319c590de977e5d64ea273",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Using search-based software engineering to handle the changes with uncertainties for self-adaptive systems",
+      "authors": [
+        "Lu Wang"
+      ],
+      "doi": "10.1145/3106237.3119871",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "80a582ae93a47539454bb27341ab21b804ebb553",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Screening heuristics for project gating systems",
+      "authors": [
+        "Zahy Volf",
+        "Edi Shmueli"
+      ],
+      "doi": "10.1145/3106237.3117766",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "642006a0e8c1cb73e0ec5dc47bb42802217d0e4d",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    111,
+    {
+      "title": "DRACO: discovering refactorings that improve architecture using fine-grained co-change dependencies",
+      "authors": [
+        "Marcos C\u00e9sar de Oliveira"
+      ],
+      "doi": "10.1145/3106237.3119872",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "50f9cf9f6e4455408e72ee54ce2e29778951fe20",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Suggesting meaningful variable names for decompiled code: a machine translation approach",
+      "authors": [
+        "Alan Jaffe"
+      ],
+      "doi": "10.1145/3106237.3121274",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "44673a5ec512a81e0c366226135d1ce363d782e6",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Model-driven software engineering in practice: privacy-enhanced filtering of network traffic",
+      "authors": [
+        "Roel van Dijk",
+        "Christophe Creeten",
+        "Jeroen van der Ham",
+        "Jeroen van den Bos"
+      ],
+      "doi": "10.1145/3106237.3117777",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "601729f786ea34d744594484a03fc380e82deb34",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    114,
+    {
+      "title": "DecisionDroid: a supervised learning-based system to identify cloned Android applications",
+      "authors": [
+        "Ayush Kohli"
+      ],
+      "doi": "10.1145/3106237.3121277",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "04f11ddd84b70531554ea9534aa601c6144b1533",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    115,
+    {
+      "title": "On the similarity of software development documentation",
+      "authors": [
+        "Mathias Ellmann"
+      ],
+      "doi": "10.1145/3106237.3119875",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8ae37ea533cf29e977cc183f0138175f9d132027",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Application of search-based software engineering methodologies for test suite optimization and evolution in mission critical mobile application development",
+      "authors": [
+        "Andreas Schuler"
+      ],
+      "doi": "10.1145/3106237.3119876",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ba5c999e4290453f49dede258a577afa6d2e1bcc",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    117,
+    {
+      "title": "VART: a tool for the automatic detection of regression faults",
+      "authors": [
+        "Fabrizio Pastore",
+        "Leonardo Mariani"
+      ],
+      "doi": "10.1145/3106237.3122819",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "85eab7643c3422681b5acc8ebb18c57681964d9c",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    118,
+    {
+      "title": "FOSS version differentiation as a benchmark for static analysis security testing tools",
+      "authors": [
+        "Ivan Pashchenko"
+      ],
+      "doi": "10.1145/3106237.3121276",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f403ca007f5c7cea4c9436be05718e4a7afddc57",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Software engineering research results in industrial practice: a tale of two projects (invited talk)",
+      "authors": [
+        "Wolfgang Emmerich"
+      ],
+      "doi": "10.1145/3106237.3121273",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9874eccea28f4bcc0291793f5b67bea791562385",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    120,
+    {
+      "title": "The rising tide lifts all boats: the advancement of science in cyber security (invited talk)",
+      "authors": [
+        "Laurie Williams"
+      ],
+      "doi": "10.1145/3106237.3121272",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ee2b66f0e339b3dd6201bc72efad0039a9ce4ef1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Practical symbolic verification of regular properties",
+      "authors": [
+        "Hengbiao Yu"
+      ],
+      "doi": "10.1145/3106237.3121275",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "973014f799660d97f9948fe254980d1b97b36ce8",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Verifying the forecast: how climate models are developed and tested (invited talk)",
+      "authors": [
+        "Steve Easterbrook"
+      ],
+      "doi": "10.1145/3106237.3121271",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "67875cf6440c47bb2d9eadca2b40f6237e09ea10",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    123,
+    {
+      "title": "CLTSA: labelled transition system analyser with counting fluent support",
+      "authors": [
+        "Germ\u00e1n Regis",
+        "Renzo Degiovanni",
+        "Nicolas D'Ippolito",
+        "Nazareno Aguirre"
+      ],
+      "doi": "10.1145/3106237.3122828",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "18f57e1e40425c136949ec3bf9a555acc74624de",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Generalized observational slicing for tree-represented modelling languages",
+      "authors": [
+        "Nicolas E. Gold",
+        "David Binkley",
+        "Mark Harman",
+        "Syed Islam",
+        "Jens Krinke",
+        "Shin Yoo"
+      ],
+      "doi": "10.1145/3106237.3106304",
+      "venue": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ]
+]

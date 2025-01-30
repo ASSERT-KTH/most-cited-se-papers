@@ -1,0 +1,3526 @@
+[
+  [
+    1,
+    {
+      "title": "Log-based Anomaly Detection Without Log Parsing",
+      "authors": [
+        "Van-Hoang Le",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678773",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7c93c88260829ea01429a6944f4525440817896c",
+        "citationCount": 155,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    2,
+    {
+      "title": "SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses",
+      "authors": [
+        "Jaeseung Choi",
+        "Doyeon Kim",
+        "Soomin Kim",
+        "Gustavo Grieco",
+        "Alex Groce",
+        "Sang Kil Cha"
+      ],
+      "doi": "10.1109/ase51524.2021.9678888",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f35acf9b076551cf871778f42b411b1a4608dd98",
+        "citationCount": 109,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    3,
+    {
+      "title": "What do pre-trained code models know about code?",
+      "authors": [
+        "Anjan Karmakar",
+        "Romain Robbes"
+      ],
+      "doi": "10.1109/ase51524.2021.9678927",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "70087677fd1a6309829b42968934575d05a95f92",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Finding A Needle in a Haystack: Automated Mining of Silent Vulnerability Fixes",
+      "authors": [
+        "Jiayuan Zhou",
+        "Michael Pacheco",
+        "Zhiyuan Wan",
+        "Xin Xia",
+        "David Lo",
+        "Yuan Wang",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678720",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "26f460cd1d160a8068347e58fb44260be3dddcca",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    5,
+    {
+      "title": "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization",
+      "authors": [
+        "Jia Allen Li",
+        "Yongmin Li",
+        "Ge Li",
+        "Xing Hu",
+        "Xin Xia",
+        "Zhi Jin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678724",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "aa84beaf7d94f09e0fdcb899c7fbc97822050546",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings",
+      "authors": [
+        "Hanzhang Wang",
+        "Zhengkai Wu",
+        "Huai Jiang",
+        "Yichao Huang",
+        "Jiamu Wang",
+        "Selcuk Kopru",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/ase51524.2021.9678708",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0b6f7318de058c5133bbb89b718eb94ef0c86101",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    7,
+    {
+      "title": "On Multi-Modal Learning of Editing Source Code",
+      "authors": [
+        "Saikat Chakraborty",
+        "Baishakhi Ray"
+      ],
+      "doi": "10.1109/ase51524.2021.9678559",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "07b3a1677ab6a0d662157a6469419aba66b02135",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    8,
+    {
+      "title": "PyExplainer: Explaining the Predictions of Just-In-Time Defect Models",
+      "authors": [
+        "Chanathip Pornprasit",
+        "Chakkrit Tantithamthavorn",
+        "Jirayus Jiarpakdee",
+        "Michael Fu",
+        "Patanamon Thongtanunam"
+      ],
+      "doi": "10.1109/ase51524.2021.9678763",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "57bd11987f7c2cf5117686157ce0c22713adfa31",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Explainable AI for Software Engineering",
+      "authors": [
+        "Chakkrit Kla Tantithamthavorn",
+        "Jirayus Jiarpakdee"
+      ],
+      "doi": "10.1109/ase51524.2021.9678580",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "73bb47d973d2c8aca4f697c83a99af0e9edba68f",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    10,
+    {
+      "title": "DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning",
+      "authors": [
+        "Triet Huynh Minh Le",
+        "David Hin",
+        "Roland Croft",
+        "M. Ali Babar"
+      ],
+      "doi": "10.1109/ase51524.2021.9678622",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ac7053c2f056c3ea0b48b2519ebac88b5a22e05a",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Muskit: A Mutation Analysis Tool for Quantum Software Testing",
+      "authors": [
+        "Enaut Mendiluze",
+        "Shaukat Ali",
+        "Paolo Arcaini",
+        "Tao Yue"
+      ],
+      "doi": "10.1109/ase51524.2021.9678563",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "765f15c34d95e54d3d6be579d3d11d53db84f7ca",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Bugs4Q: A Benchmark of Real Bugs for Quantum Programs",
+      "authors": [
+        "Pengzhan Zhao",
+        "Jianjun Zhao",
+        "Zhongtao Miao",
+        "Shuhan Lan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678908",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7e165d44d76c3aa9a11a6416538b9ef2be179d0f",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    13,
+    {
+      "title": "QDiff: Differential Testing of Quantum Software Stacks",
+      "authors": [
+        "Jiyuan Wang",
+        "Qian Zhang",
+        "Guoqing Harry Xu",
+        "Miryung Kim"
+      ],
+      "doi": "10.1109/ase51524.2021.9678792",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "72c43dbc795728f21369e46b3af6037609b1e9e4",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Testing Your Question Answering Software via Asking Recursively",
+      "authors": [
+        "Songqiang Chen",
+        "Shuo Jin",
+        "Xiaoyuan Xie"
+      ],
+      "doi": "10.1109/ase51524.2021.9678670",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e30351fa6e99c93af0e54b58dbe3aca20f23283b",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    15,
+    {
+      "title": "RULF: Rust Library Fuzzing via API Dependency Graph Traversal",
+      "authors": [
+        "Jianfeng Jiang",
+        "Hui Xu",
+        "Yangfan Zhou"
+      ],
+      "doi": "10.1109/ase51524.2021.9678813",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "62ee70ad73897eacfaf2bd09d6ec62fe0008a95a",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    16,
+    {
+      "title": "DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score",
+      "authors": [
+        "Vincenzo Riccio",
+        "Nargiz Humbatova",
+        "Gunel Jahangirova",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1109/ase51524.2021.9678764",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0f718a28bb9981edcb8eeca7829f6e63fb272251",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    17,
+    {
+      "title": "An Empirical Study of Bugs in WebAssembly Compilers",
+      "authors": [
+        "Alan Romano",
+        "Xinyue Liu",
+        "Yonghwi Kwon",
+        "Weihang Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678776",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "86445e516829ecdc1da08c57ba92f7cf2f62149a",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Targeting Requirements Violations of Autonomous Driving Systems by Dynamic Evolutionary Search",
+      "authors": [
+        "Yixing Luo",
+        "Xiao-Yi Zhang",
+        "Paolo Arcaini",
+        "Zhi Jin",
+        "Haiyan Zhao",
+        "Fuyuki Ishikawa",
+        "Rongxin Wu",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/ase51524.2021.9678883",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fb256b84267141985bd1fff77ff49270bb028faa",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code",
+      "authors": [
+        "Matteo Paltenghi",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/ase51524.2021.9678712",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b22d0ab847f56ed7ff66ac60eb994503fa851702",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    20,
+    {
+      "title": "UI Test Migration Across Mobile Platforms",
+      "authors": [
+        "Saghar Talebipour",
+        "Yixue Zhao",
+        "Luka Dojcilovic",
+        "Chenggang Li",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1109/ase51524.2021.9678643",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3577c1067230b5a2baaeb94d229635bf2ab34e32",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Quito: a Coverage-Guided Test Generator for Quantum Programs",
+      "authors": [
+        "Xinyi Wang",
+        "Paolo Arcaini",
+        "Tao Yue",
+        "Shaukat Ali"
+      ],
+      "doi": "10.1109/ase51524.2021.9678798",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2b58cd089526774728747141bb7a415be51e5dda",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    22,
+    {
+      "title": "PyNose: A Test Smell Detector For Python",
+      "authors": [
+        "Tongjie Wang",
+        "Yaroslav Golubev",
+        "Oleg Smirnov",
+        "Jiawei Li",
+        "Timofey Bryksin",
+        "Iftekhar Ahmed"
+      ],
+      "doi": "10.1109/ase51524.2021.9678615",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "05463f53b67305ad8da7b8f3d5e4cfab28c7d125",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations",
+      "authors": [
+        "Leonhard Applis",
+        "Annibale Panichella",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/ase51524.2021.9678706",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "80dada74cc8b974d92f2b1be0dd4cde47fedc1d3",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Deep GUI: Black-box GUI Input Generation with Deep Learning",
+      "authors": [
+        "Faraz YazdaniBanafsheDaragh",
+        "Sam Malek"
+      ],
+      "doi": "10.1109/ase51524.2021.9678778",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c11771409b2aa3248e95001df813a424b08da93f",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Improving Test Case Generation for REST APIs Through Hierarchical Clustering",
+      "authors": [
+        "Dimitri Stallenberg",
+        "Mitchell Olsthoorn",
+        "Annibale Panichella"
+      ],
+      "doi": "10.1109/ase51524.2021.9678586",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8d6e80364c6cb37809d3060f29f9a010420e6722",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Towards Exploring the Limitations of Active Learning: An Empirical Study",
+      "authors": [
+        "Qiang Hu",
+        "Yuejun Guo",
+        "Maxime Cordy",
+        "Xiaofei Xie",
+        "Wei Ma",
+        "Mike Papadakis",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1109/ase51524.2021.9678672",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "22c6fcb85a75b48d275533ed87eb00b32847b704",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification",
+      "authors": [
+        "Yun Tang",
+        "Yuan Zhou",
+        "Tianwei Zhang",
+        "Fenghua Wu",
+        "Yang Liu",
+        "Gang Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678735",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5b7f4f967e626ee6f1119d46ac54434de28a7aa1",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Empowering Web Applications with WebAssembly: Are We There Yet?",
+      "authors": [
+        "Weihang Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678831",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7b2c240aee5f12ba2c9b65c4fabf4d378ae1e916",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    29,
+    {
+      "title": "AST-Transformer: Encoding Abstract Syntax Trees Efficiently for Code Summarization",
+      "authors": [
+        "Ze Tang",
+        "Chuanyi Li",
+        "Jidong Ge",
+        "Xiaoyu Shen",
+        "Zheling Zhu",
+        "Bin Luo"
+      ],
+      "doi": "10.1109/ase51524.2021.9678882",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5ef4e013ce7bf0c19873c83ffd6898ce33ffd542",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Subtle Bugs Everywhere: Generating Documentation for Data Wrangling Code",
+      "authors": [
+        "Chenyang Yang",
+        "Shurui Zhou",
+        "Jin L.C. Guo",
+        "Christian Kastner"
+      ],
+      "doi": "10.1109/ase51524.2021.9678520",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "637fe2b74170b8617bd304e84098bf4a4fcfa571",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Human-in-the-Loop XAI-enabled Vulnerability Detection, Investigation, and Mitigation",
+      "authors": [
+        "Tien N. Nguyen",
+        "Raymond Choo"
+      ],
+      "doi": "10.1109/ase51524.2021.9678840",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d4b2e08c4880452535824b6f49ff7aa10851e804",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    32,
+    {
+      "title": "On the Real-World Effectiveness of Static Bug Detectors at Finding Null Pointer Exceptions",
+      "authors": [
+        "David A. Tomassi",
+        "Cindy Rubio-Gonzalez"
+      ],
+      "doi": "10.1109/ase51524.2021.9678535",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "19ae640a861e7b8f55a25fbcd3f293c2536d9b06",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Automated Repair of Size-Based Inaccessibility Issues in Mobile Applications",
+      "authors": [
+        "Ali S. Alotaibi",
+        "Paul T. Chiou",
+        "William G.J. Halfond"
+      ],
+      "doi": "10.1109/ase51524.2021.9678625",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4a1ceafed2c0d0d8c0dfdf34a6dec0a0f9618df6",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    34,
+    {
+      "title": "AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems",
+      "authors": [
+        "Tianyi Yang",
+        "Jiacheng Shen",
+        "Yuxin Su",
+        "Xiao Ling",
+        "Yongqiang Yang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678534",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fb6b0477130e3a6a09d283edc41bb9cdc7f1c0bf",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Did You Do Your Homework? Raising Awareness on Software Fairness and Discrimination",
+      "authors": [
+        "Max Hort",
+        "Federica Sarro"
+      ],
+      "doi": "10.1109/ase51524.2021.9678568",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0f98f7772ffb5c0de686cbc1014800c4a28aedd7",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    36,
+    {
+      "title": "A Mocktail of Source Code Representations",
+      "authors": [
+        "Dheeraj Vagavolu",
+        "Karthik Chandra Swarna",
+        "Sridhar Chimalakonda"
+      ],
+      "doi": "10.1109/ase51524.2021.9678551",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7941c3331e311d677ef813a8371925b9e5b0628f",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Graph-based Incident Aggregation for Large-Scale Online Service Systems",
+      "authors": [
+        "Zhuangbin Chen",
+        "Jinyang Liu",
+        "Yuxin Su",
+        "Hongyu Zhang",
+        "Xuemin Wen",
+        "Xiao Ling",
+        "Yongqiang Yang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678746",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "09b86be4f530db5a81893c03cdb6a26ba918b572",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Gas Estimation and Optimization for Smart Contracts on Ethereum",
+      "authors": [
+        "Chunmiao Li"
+      ],
+      "doi": "10.1109/ase51524.2021.9678932",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "af29164050a40eed62ad8964eece9df5b1bf9e07",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts",
+      "authors": [
+        "Lu Liu",
+        "Lili Wei",
+        "Wuqi Zhang",
+        "Ming Wen",
+        "Yepang Liu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1109/ase51524.2021.9678597",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b168c72e290bd2545b0b45594707dffd54d92450",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Adversarial Attacks to API Recommender Systems: Time to Wake Up and Smell the Coffee?",
+      "authors": [
+        "Phuong T. Nguyen",
+        "Claudio Di Sipio",
+        "Juri Di Rocco",
+        "Massimiliano Di Penta",
+        "Davide Di Ruscio"
+      ],
+      "doi": "10.1109/ase51524.2021.9678946",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e950d83880100308825691bd5e89fa5f0ea4037c",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    41,
+    {
+      "title": "REPFINDER: Finding Replacements for Missing APIs in Library Update",
+      "authors": [
+        "Kaifeng Huang",
+        "Bihuan Chen",
+        "Linghao Pan",
+        "Shuai Wu",
+        "Xin Peng"
+      ],
+      "doi": "10.1109/ase51524.2021.9678905",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d420f9639f87564b713444f5fbcd83f0c39d1576",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    42,
+    {
+      "title": "IFIZZ: Deep-State and Efficient Fault-Scenario Generation to Test IoT Firmware",
+      "authors": [
+        "Peiyu Liu",
+        "Shouling Ji",
+        "Xuhong Zhang",
+        "Qinming Dai",
+        "Kangjie Lu",
+        "Lirong Fu",
+        "Wenzhi Chen",
+        "Peng Cheng",
+        "Wenhai Wang",
+        "Raheem Beyah"
+      ],
+      "doi": "10.1109/ase51524.2021.9678785",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "134df565c1f8df18e236a25adf5112fbdf37edb2",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    43,
+    {
+      "title": "ISPY: Automatic Issue-Solution Pair Extraction from Community Live Chats",
+      "authors": [
+        "Lin Shi",
+        "Ziyou Jiang",
+        "Ye Yang",
+        "Xiao Chen",
+        "Yumin Zhang",
+        "Fangwen Mu",
+        "Hanzhi Jiang",
+        "Qing Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678894",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9ba615bb905f07d3b776c136ff6e8fae7dffb9b8",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Automating User Notice Generation for Smart Contract Functions",
+      "authors": [
+        "Xing Hu",
+        "Zhipeng Gao",
+        "Xin Xia",
+        "David Lo",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678552",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "aa47b6c3d8481d963fa2ae3dd9e948d97367d899",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    45,
+    {
+      "title": "HyperGI: Automated Detection and Repair of Information Flow Leakage",
+      "authors": [
+        "Ibrahim Mesecan",
+        "Daniel Blackwell",
+        "David Clark",
+        "Myra B. Cohen",
+        "Justyna Petke"
+      ],
+      "doi": "10.1109/ase51524.2021.9678758",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "85a7df022a726a5cae8af54ac3bad7d0d1e45108",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Automating Developer Chat Mining",
+      "authors": [
+        "Shengyi Pan",
+        "Lingfeng Bao",
+        "Xiaoxue Ren",
+        "Xin Xia",
+        "David Lo",
+        "Shanping Li"
+      ],
+      "doi": "10.1109/ase51524.2021.9678923",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "70e69dc7c5fd3cba3691170c3cfa0e1964c9575c",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Detecting TensorFlow Program Bugs in Real-World Industrial Environment",
+      "authors": [
+        "Chen Liu",
+        "Jie Lu",
+        "Guangwei Li",
+        "Ting Yuan",
+        "Lian Li",
+        "Feng Tan",
+        "Jun Yang",
+        "Liang You",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/ase51524.2021.9678891",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "647e849930652cab98af13b714e063426a2a6733",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    48,
+    {
+      "title": "IncBL: Incremental Bug Localization",
+      "authors": [
+        "Zhou Yang",
+        "Jieke Shi",
+        "Shaowei Wang",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase51524.2021.9678546",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "edb402d9c99b5e879bb7ec6c57604711949f5394",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Can Neural Clone Detection Generalize to Unseen Functionalities\u0192",
+      "authors": [
+        "Chenyao Liu",
+        "Zeqi Lin",
+        "Jian-Guang Lou",
+        "Lijie Wen",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678907",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "65881907eafc7b40bd199011342ad5da25b8d80e",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph",
+      "authors": [
+        "Yanqi Su",
+        "Zhenchang Xing",
+        "Xin Peng",
+        "Xin Xia",
+        "Chong Wang",
+        "Xiwei Xu",
+        "Liming Zhu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678574",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "10ad53f029f12e68573b36cf01d14bc85a9d1bce",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Learning Highly Recursive Input Grammars",
+      "authors": [
+        "Neil Kulkarni",
+        "Caroline Lemieux",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/ase51524.2021.9678879",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8a0972683bf7f5b7ff561e36e9d86caf8b42fb94",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Characterizing and Detecting Configuration Compatibility Issues in Android Apps",
+      "authors": [
+        "Huaxun Huang",
+        "Ming Wen",
+        "Lili Wei",
+        "Yepang Liu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1109/ase51524.2021.9678556",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d2d812f5d6fa55625d2be2f60d0c9a19db59d70e",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Is Historical Data an Appropriate Benchmark for Reviewer Recommendation Systems? : A Case Study of the Gerrit Community",
+      "authors": [
+        "Ian X. Gauthier",
+        "Maxime Lamothe",
+        "Gunter Mussbacher",
+        "Shane McIntosh"
+      ],
+      "doi": "10.1109/ase51524.2021.9678640",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e303c4479e16d08f038053499498086fd24b0077",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    54,
+    {
+      "title": "DEVIATE: A Deep Learning Variance Testing Framework",
+      "authors": [
+        "Hung Viet Pham",
+        "Mijung Kim",
+        "Lin Tan",
+        "Yaoliang Yu",
+        "Nachiappan Nagappan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678540",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "22fba1a763ac2b8c7a5d335fe2bb9d7d134d95c7",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    55,
+    {
+      "title": "FRUGAL: Unlocking Semi-Supervised Learning for Software Analytics",
+      "authors": [
+        "Huy Tu",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/ase51524.2021.9678617",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a33d10166804a4a81fcf007aeff42d073886b77a",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    56,
+    {
+      "title": "APIzation: Generating Reusable APIs from StackOverflow Code Snippets",
+      "authors": [
+        "Valerio Terragni",
+        "Pasquale Salza"
+      ],
+      "doi": "10.1109/ase51524.2021.9678576",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1601a4b1af2c22e047790ab189861368a5008f5f",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    57,
+    {
+      "title": "A Compositional Deadlock Detector for Android Java",
+      "authors": [
+        "James Brotherston",
+        "Paul Brunet",
+        "Nikos Gorogiannis",
+        "Max Kanovich"
+      ],
+      "doi": "10.1109/ase51524.2021.9678572",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d5d5eb22cf32ae2e7a4c88449ef6e6775e01a353",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Automated Verification of Go Programs via Bounded Model Checking",
+      "authors": [
+        "Nicolas Dilley",
+        "Julien Lange"
+      ],
+      "doi": "10.1109/ase51524.2021.9678571",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "28946b5c41c396716a2c936ef3c2dcc1b77401b3",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Using Static Analysis to Address Microservice Architecture Reconstruction",
+      "authors": [
+        "Vincent Bushong",
+        "Dipta Das",
+        "Abdullah Al Maruf",
+        "Tomas Cerny"
+      ],
+      "doi": "10.1109/ase51524.2021.9678749",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "087279034b45c47ddb88466d0fd85d6609c26e5b",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    60,
+    {
+      "title": "FirmGuide: Boosting the Capability of Rehosting Embedded Linux Kernels through Model-Guided Kernel Execution",
+      "authors": [
+        "Qiang Liu",
+        "Cen Zhang",
+        "Lin Ma",
+        "Muhui Jiang",
+        "Yajin Zhou",
+        "Lei Wu",
+        "Wenbo Shen",
+        "Xiapu Luo",
+        "Yang Liu",
+        "Kui Ren"
+      ],
+      "doi": "10.1109/ase51524.2021.9678653",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c2d8a2a7049468776e431b5be7f3af55762a3a62",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    61,
+    {
+      "title": "FIGCPS: Effective Failure-inducing Input Generation for Cyber-Physical Systems with Deep Reinforcement Learning",
+      "authors": [
+        "Shaohua Zhang",
+        "Shuang Liu",
+        "Jun Sun",
+        "Yuqi Chen",
+        "Wenzhi Huang",
+        "Jinyi Liu",
+        "Jian Liu",
+        "Jianye Hao"
+      ],
+      "doi": "10.1109/ase51524.2021.9678832",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5cc6ff3e80bbabfe2985895dd36b953a9dee370c",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Context Debloating for Object-Sensitive Pointer Analysis",
+      "authors": [
+        "Dongjie He",
+        "Jingbo Lu",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/ase51524.2021.9678880",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8e24be115f764cf35c4fd25806a60c84d0025d69",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Restoring the Executability of Jupyter Notebooks by Automatic Upgrade of Deprecated APIs",
+      "authors": [
+        "Chenguang Zhu",
+        "Ripon K. Saha",
+        "Mukul R. Prasad",
+        "Sarfraz Khurshid"
+      ],
+      "doi": "10.1109/ase51524.2021.9678889",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "67665408fc1160755187e6326b206b68be35594c",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    64,
+    {
+      "title": "FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt",
+      "authors": [
+        "Saranphon Phaithoon",
+        "Supakarn Wongnil",
+        "Patiphol Pussawong",
+        "Morakot Choetkiertikul",
+        "Chaiyong Ragkhitwetsagul",
+        "Thanwadee Sunetnanta",
+        "Rungroj Maipradit",
+        "Hideaki Hata",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1109/ase51524.2021.9678680",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a150f4c7d6267dde2dccd06026bec18eb92c6c53",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Metamorphic Testing on Multi-module UAV Systems",
+      "authors": [
+        "Rui Li",
+        "Huai Liu",
+        "Guannan Lou",
+        "Xi Zheng",
+        "Xiao Liu",
+        "Tsong Yueh Chen"
+      ],
+      "doi": "10.1109/ase51524.2021.9678841",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "99dc76b1ba806bbc19464ac190800b3219f5acec",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Towards Systematic and Dynamic Task Allocation for Collaborative Parallel Fuzzing",
+      "authors": [
+        "Van-Thuan Pham",
+        "Manh-Dung Nguyen",
+        "Quang-Trung Ta",
+        "Toby Murray",
+        "Benjamin I.P. Rubinstein"
+      ],
+      "doi": "10.1109/ase51524.2021.9678810",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ba5386b2b3c3637f4832b5e4ab6452e017893446",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Refactorings and Technical Debt in Docker Projects: An Empirical Study",
+      "authors": [
+        "Emna Ksontini",
+        "Marouane Kessentini",
+        "Thiago do N. Ferreira",
+        "Foyzul Hassan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678585",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8ed3345683127ae31e051696d1504f8901b05563",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Where to Start: Studying Type Annotation Practices in Python",
+      "authors": [
+        "Wuxia Jin",
+        "Dinghong Zhong",
+        "Zifan Ding",
+        "Ming Fan",
+        "Ting Liu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678947",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "10baebd2264a34b9d14428bcb6baa73fece71eb0",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Automated Testing for Machine Translation via Constituency Invariance",
+      "authors": [
+        "Pin Ji",
+        "Yang Feng",
+        "Jia Liu",
+        "Zhihong Zhao",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678715",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0565ea0407d20ca248ca712c37daccb17a3c2303",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Log Anomaly to Resolution: AI Based Proactive Incident Remediation",
+      "authors": [
+        "Ruchi Mahindru",
+        "Harshit Kumar",
+        "Sahil Bansal"
+      ],
+      "doi": "10.1109/ase51524.2021.9678815",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e54c0f3e8079ee41925a1d102da5263f2e164ee8",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Faster Mutation Analysis with Fewer Processes and Smaller Overheads",
+      "authors": [
+        "Bo Wang",
+        "Sirui Lu",
+        "Yingfei Xiong",
+        "Feng Liu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678827",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "55c9147b12679bc8c6f30adef8992879a5c1f064",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Scalable Fuzzing of Program Binaries with E9AFL",
+      "authors": [
+        "Xiang Gao",
+        "Gregory J. Duck",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/ase51524.2021.9678913",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d60febd4bfe361f2c107401145ee9ad7941de78e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Revisiting Textual Feature of Bug-Triage Approach",
+      "authors": [
+        "Zexuan Li",
+        "Hao Zhong"
+      ],
+      "doi": "10.1109/ase51524.2021.9678863",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e65169c35fb51d3eb8b002a8329eaafbf5f4de22",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Binary Code Similarity Detection",
+      "authors": [
+        "Zian Liu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678518",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8f11ef19cb46a093af41811c670cacbdf4fad0e8",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    75,
+    {
+      "title": "py2src: Towards the Automatic (and Reliable) Identification of Sources for PyPI Package",
+      "authors": [
+        "Duc-Ly Vu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678526",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "65e9647ae0c996e8ab23c3d0296bdf0ad5e548f0",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    76,
+    {
+      "title": "VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks",
+      "authors": [
+        "Rohan Bavishi",
+        "Shadaj Laddad",
+        "Hiroaki Yoshida",
+        "Mukul R. Prasad",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/ase51524.2021.9678696",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "02b4f06bcaead27c38154aedbb9ffb610455dcd2",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Understanding and Detecting Performance Bugs in Markdown Compilers",
+      "authors": [
+        "Penghui Li",
+        "Yinxi Liu",
+        "Wei Meng"
+      ],
+      "doi": "10.1109/ase51524.2021.9678611",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "941d6bae460942e7c9c4af3bae2feefb4f4b2731",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Performance Testing for Cloud Computing with Dependent Data Bootstrapping",
+      "authors": [
+        "Sen He",
+        "Tianyi Liu",
+        "Palden Lama",
+        "Jaewoo Lee",
+        "In Kee Kim",
+        "Wei Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678687",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2f65e60dfd8a05f6dfeec8a237507b029386b1eb",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Lessons learned from hyper-parameter tuning for microservice candidate identification",
+      "authors": [
+        "Rahul Yedida",
+        "Rahul Krishna",
+        "Anup Kalia",
+        "Tim Menzies",
+        "Jin Xiao",
+        "Maja Vukovic"
+      ],
+      "doi": "10.1109/ase51524.2021.9678704",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4640f20951a11a268441f1050923ff9f35175656",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Finding the Missing Piece: Permission Specification Analysis for Android NDK",
+      "authors": [
+        "Hao Zhou",
+        "Haoyu Wang",
+        "Shuohan Wu",
+        "Xiapu Luo",
+        "Yajin Zhou",
+        "Ting Chen",
+        "Ting Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678843",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "86d2aa7fe56989ef03a588956a8d0dca4f44e0bd",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    81,
+    {
+      "title": "BIFF: Practical Binary Fuzzing Framework for Programs of IoT and Mobile Devices",
+      "authors": [
+        "Cen Zhang",
+        "Yuekang Li",
+        "Hongxu Chen",
+        "Xiaoxing Luo",
+        "Miaohua Li",
+        "Anh Quynh Nguyen",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678910",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1007fb7d1af3ff464cfb3aa7e9e99535f0fcbee9",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    82,
+    {
+      "title": "SATune: A Study-Driven Auto-Tuning Approach for Configurable Software Verification Tools",
+      "authors": [
+        "Ugur Koc",
+        "Austin Mordahl",
+        "Shiyi Wei",
+        "Jeffrey S. Foster",
+        "Adam A. Porter"
+      ],
+      "doi": "10.1109/ase51524.2021.9678761",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e4397a60f0470a3ee13c59943418d1c6f5e1155b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Semi-automated Cross-Component Issue Management and Impact Analysis",
+      "authors": [
+        "Sandro Speth"
+      ],
+      "doi": "10.1109/ase51524.2021.9678830",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3a3d9307fc134835c84d5a4fc8c6194282a7a3d5",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    84,
+    {
+      "title": "RefactorInsight: Enhancing IDE Representation of Changes in Git with Refactorings Information",
+      "authors": [
+        "Zarina Kurbatova",
+        "Vladimir Kovalenko",
+        "Ioana Savu",
+        "Bob Brockbernd",
+        "Dan Andreescu",
+        "Matei Anton",
+        "Roman Venediktov",
+        "Elena Tikhomirova",
+        "Timofey Bryksin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678646",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "11e4f8e00f05cbfb70a8f2d089cf9cdc4f3833a4",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Learning Patterns in Configuration",
+      "authors": [
+        "Ranjita Bhagwan",
+        "Sonu Mehta",
+        "Arjun Radhakrishna",
+        "Sahil Garg"
+      ],
+      "doi": "10.1109/ase51524.2021.9678525",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "737365d5891ea311dbd2b6f879fa05c3102fb60e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Unsupervised Labeling and Extraction of Phrase-based Concepts in Vulnerability Descriptions",
+      "authors": [
+        "Sofonias Yitagesu",
+        "Zhenchang Xing",
+        "Xiaowang Zhang",
+        "Zhiyong Feng",
+        "Xiaohong Li",
+        "Linyi Han"
+      ],
+      "doi": "10.1109/ase51524.2021.9678638",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9c0f714744c91c2650cb80bc7e4d3a8fcfa5442e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    87,
+    {
+      "title": "DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models",
+      "authors": [
+        "Derui Zhu",
+        "Jinfu Chen",
+        "Weiyi Shang",
+        "Xuebing Zhou",
+        "Jens Grossklags",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678871",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "487abb8c36480671c76fe083423db8369c735c10",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Efficient state synchronisation in model-based testing through reinforcement learning",
+      "authors": [
+        "Uraz Cengiz Turker",
+        "Robert M. Hierons",
+        "Mohammad Reza Mousavi",
+        "Ivan Y. Tyukin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678566",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2d994d172d9b0a1c4c52daa4cb118eb9b023adeb",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    89,
+    {
+      "title": "BeeSwarm: Enabling Parallel Scaling Performance Measurement in Continuous Integration for HPC Applications",
+      "authors": [
+        "Jake Tronge",
+        "Jieyang Chen",
+        "Patricia Grubel",
+        "Tim Randles",
+        "Rusty Davis",
+        "Quincy Wofford",
+        "Steven Anaya",
+        "Qiang Guan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678805",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2474862a74c1b6a951a278486cd18c1bae11a439",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Race Detection for Event-Driven Node.js Applications",
+      "authors": [
+        "Xiaoning Chang",
+        "Wensheng Dou",
+        "Jun Wei",
+        "Tao Huang",
+        "Jinhui Xie",
+        "Yuetang Deng",
+        "Jianbo Yang",
+        "Jiaheng Yang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678814",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ce129e5e2e9df07935e3583f8f47a86eba9e8ce7",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers",
+      "authors": [
+        "Xutong Ma",
+        "Jiwei Yan",
+        "Wei Wang",
+        "Jun Yan",
+        "Jian Zhang",
+        "Zongyan Qiu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678836",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a0123044d133b55561075d406144c7da62743a79",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    92,
+    {
+      "title": "InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing",
+      "authors": [
+        "Yuwei Liu",
+        "Yanhao Wang",
+        "Purui Su",
+        "Yuanping Yu",
+        "Xiangkun Jia"
+      ],
+      "doi": "10.1109/ase51524.2021.9678671",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3beea7f9a382df6e4f6ed211cee107035f008059",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    93,
+    {
+      "title": "An Empirical Study on Obsolete Issue Reports",
+      "authors": [
+        "Zexuan Li",
+        "Hao Zhong"
+      ],
+      "doi": "10.1109/ase51524.2021.9678543",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5e5dc6db5eadc24ab86a0e1821035ff45561e5af",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    94,
+    {
+      "title": "JSTAR: JavaScript Specification Type Analyzer using Refinement",
+      "authors": [
+        "Jihyeok Park",
+        "Seungmin An",
+        "Wonho Shin",
+        "Yusung Sim",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678781",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cb46791a02b3ec31d115de33677e2cedc297d21b",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Leveraging Code Clones and Natural Language Processing for Log Statement Prediction",
+      "authors": [
+        "Sina Gholamian"
+      ],
+      "doi": "10.1109/ase51524.2021.9678596",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d50d4fede6a56327f32d89c6d19d46ff6b7864cf",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    96,
+    {
+      "title": "CorbFuzz: Checking Browser Security Policies with Fuzzing",
+      "authors": [
+        "Chaofan Shou",
+        "Ismet Burak Kadron",
+        "Qi Su",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678636",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5ff2f9520c15a765212ad9096009d9c6efd0e4e7",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Efficient SMT-Based Model Checking for Signal Temporal Logic",
+      "authors": [
+        "Jia Lee",
+        "Geunyeol Yu",
+        "Kyungmin Bae"
+      ],
+      "doi": "10.1109/ase51524.2021.9678719",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "84a9a5a3a6c29c98e7a7c568eb68db528b15dc15",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Interactive Cross-language Code Retrieval with Auto-Encoders",
+      "authors": [
+        "Binger Chen",
+        "Ziawasch Abedjan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678929",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ca5de08ba7cee438edaa03e25327c9b7cb3022f4",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Evolutionary-Guided Synthesis of Verified Pareto-Optimal MDP Policies",
+      "authors": [
+        "Simos Gerasimou",
+        "Javier Camara",
+        "Radu Calinescu",
+        "Naif Alasmari",
+        "Faisal Alhwikem",
+        "Xinwei Fang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678727",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8384c1d66c57f88fa792b323e423985f326b4482",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Why Do Developers Remove Lambda Expressions in Java?",
+      "authors": [
+        "Mingwei Zheng",
+        "Jun Yang",
+        "Ming Wen",
+        "Hengcheng Zhu",
+        "Yepang Liu",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678600",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "970b40600aa43c52d6c43cee76fdfa990d19ee34",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    101,
+    {
+      "title": "SoManyConflicts: Resolve Many Merge Conflicts Interactively and Systematically",
+      "authors": [
+        "Bo Shen",
+        "Wei Zhang",
+        "Ailun Yu",
+        "Yifan Shi",
+        "Haiyan Zhao",
+        "Zhi Jin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678937",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d2616be195f839fef1b34fec02ddfef147b3db21",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Learning GraphQL Query Cost",
+      "authors": [
+        "Georgios Mavroudeas",
+        "Guillaume Baudart",
+        "Alan Cha",
+        "Martin Hirzel",
+        "Jim A. Laredo",
+        "Malik Magdon-Ismail",
+        "Louis Mandel",
+        "Erik Wittern"
+      ],
+      "doi": "10.1109/ase51524.2021.9678513",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3873a894897a4459e7be6dad973c264f8eee16f2",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    103,
+    {
+      "title": "A Prediction Model for Software Requirements Change Impact",
+      "authors": [
+        "Kareshna Zamani"
+      ],
+      "doi": "10.1109/ase51524.2021.9678582",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d267f78217ac7bfab446936d3ea6c1db83fb7668",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Modeling Team Dynamics for the Characterization and Prediction of Delays in User Stories",
+      "authors": [
+        "Elvan Kula",
+        "Arie van Deursen",
+        "Georgios Gousios"
+      ],
+      "doi": "10.1109/ase51524.2021.9678939",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bbe1dd7a53a30afd6f12824ea0d2f624692aa54e",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Reducing Time-To-Fix For Fuzzer Bugs",
+      "authors": [
+        "Rui Abreu",
+        "Franjo Ivancic",
+        "Filip Niksic",
+        "Hadi Ravanbakhsh",
+        "Ramesh Viswanathan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678606",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9bb007273d8bb8a5d89c96e42df7d7d22a1c371f",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    106,
+    {
+      "title": "\"What makes my queries slow?\": Subgroup Discovery for SQL Workload Analysis",
+      "authors": [
+        "Youcef Remil",
+        "Anes Bendimerad",
+        "Romain Mathonat",
+        "Philippe Chaleat",
+        "Mehdi Kaytoue"
+      ],
+      "doi": "10.1109/ase51524.2021.9678915",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a2e51532c799879d9870ceb7d3f87a51fc5b5871",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Distribution Models for Falsification and Verification of DNNs",
+      "authors": [
+        "Felipe Toledo",
+        "David Shriver",
+        "Sebastian Elbaum",
+        "Matthew B. Dwyer"
+      ],
+      "doi": "10.1109/ase51524.2021.9678590",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d87d53a3044c1f334ad1286bc01f95519517d9ea",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Learning Domain-Specific Edit Operations from Model Repositories with Frequent Subgraph Mining",
+      "authors": [
+        "Christof Tinnes",
+        "Timo Kehrer",
+        "Mitchell Joblin",
+        "Uwe Hohenstein",
+        "Andreas Biesdorf",
+        "Sven Apel"
+      ],
+      "doi": "10.1109/ase51524.2021.9678698",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "394b5fe30afb78e000a574dbf6d692ffd458fa05",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Nekara: Generalized Concurrency Testing",
+      "authors": [
+        "Udit Agarwal",
+        "Pantazis Deligiannis",
+        "Cheng Huang",
+        "Kumseok Jung",
+        "Akash Lal",
+        "Immad Naseer",
+        "Matthew Parkinson",
+        "Arun Thangamani",
+        "Jyothi Vedurada",
+        "Yunpeng Xiao"
+      ],
+      "doi": "10.1109/ase51524.2021.9678838",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ba288f792878c57b46336a9b83fc080793e684f2",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning",
+      "authors": [
+        "Yushi Cao",
+        "Yan Zheng",
+        "Shang-Wei Lin",
+        "Yang Liu",
+        "Yon Shin Teo",
+        "Yuxuan Toh",
+        "Vinay Vishnumurthy Adiga"
+      ],
+      "doi": "10.1109/ase51524.2021.9678703",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7bdd2b76fd0257dc929f6b2c04be83ef9d28f9ae",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA",
+      "authors": [
+        "Hanyoung Yoo",
+        "Jingun Hong",
+        "Lucas Bader",
+        "Dong Won Hwang",
+        "Shin Hong"
+      ],
+      "doi": "10.1109/ase51524.2021.9678685",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "39071514a72e507e0ac80e2764bad30c308593b3",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Infrastructure in Code: Towards Developer-Friendly Cloud Applications",
+      "authors": [
+        "Vladislav Tankov",
+        "Dmitriy Valchuk",
+        "Yaroslav Golubev",
+        "Timofey Bryksin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678943",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3435c1e623e72be7ee787de100dc5dfc7702cfff",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Automated Approach for System-level Testing of Unmanned Aerial Systems",
+      "authors": [
+        "Hassan Sartaj"
+      ],
+      "doi": "10.1109/ase51524.2021.9678902",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "83b1d276525d6bbe082b8dce2cd97b549d9088cf",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    114,
+    {
+      "title": "End-to-End Automation of Feedback on Student Assembly Programs",
+      "authors": [
+        "Zikai Liu",
+        "Tingkai Liu",
+        "Qi Li",
+        "Wenqing Luo",
+        "Steven S. Lumetta"
+      ],
+      "doi": "10.1109/ase51524.2021.9678837",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2a4935a1fb38958b7c7851b7bad5cd7d95849708",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Privacy as first-class requirements in software development: A socio-technical approach",
+      "authors": [
+        "Yizhaq Benbenisty",
+        "Irit Hadar",
+        "Gil Luria",
+        "Paola Spoletini"
+      ],
+      "doi": "10.1109/ase51524.2021.9678872",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "17a3121d53516ee36e935c051dda5643c2b96ed7",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Genetic Optimisation of C++ Applications",
+      "authors": [
+        "Rafail Giavrimis",
+        "Alexis Butler",
+        "Constantin Cezar Petrescu",
+        "Michail Basios",
+        "Santanu Kumar Dash"
+      ],
+      "doi": "10.1109/ase51524.2021.9678650",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d8e76ef40f784be5ad93f8e367d208691c1c00f4",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Towards a Serverless Java Runtime",
+      "authors": [
+        "Yifei Zhang",
+        "Tianxiao Gu",
+        "Xiaolin Zheng",
+        "Lei Yu",
+        "Wei Kuai",
+        "Sanhong Li"
+      ],
+      "doi": "10.1109/ase51524.2021.9678709",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "68d84ab49897db588d9e84ea00cce528f95ae7c0",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Dynamic Generation of Python Bindings for HPC Kernels",
+      "authors": [
+        "Steven Zhu",
+        "Nader AlAwar",
+        "Mattan Erez",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1109/ase51524.2021.9678726",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "df9c290795e43b5369f8c732056727c00e3f6657",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    119,
+    {
+      "title": "JTDog: a Gradle Plugin for Dynamic Test Smell Detection",
+      "authors": [
+        "Masayuki Taniguchi",
+        "Shinsuke Matsumoto",
+        "Shinji Kusumoto"
+      ],
+      "doi": "10.1109/ase51524.2021.9678529",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "087ca88397d51dc8bf334172911416e0aed8a474",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    120,
+    {
+      "title": "ASE: A Value Set Decision Procedure for Symbolic Execution",
+      "authors": [
+        "Alireza S. Abyaneh",
+        "Christoph M. Kirsch"
+      ],
+      "doi": "10.1109/ase51524.2021.9678584",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0668c03858bb0c7085faf957d276c8e41c754dcb",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Mining Cross-Domain Apps for Software Evolution: A Feature-based Approach",
+      "authors": [
+        "Md Kafil Uddin",
+        "Qiang He",
+        "Jun Han",
+        "Caslon Chua"
+      ],
+      "doi": "10.1109/ase51524.2021.9678514",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "28d839987424a270cfe7f8dfacc97b8dc673c6d5",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Shaker: a Tool for Detecting More Flaky Tests Faster",
+      "authors": [
+        "Marcello Cordeiro",
+        "Denini Silva",
+        "Leopoldo Teixeira",
+        "Breno Miranda",
+        "Marcelo d'Amorim"
+      ],
+      "doi": "10.1109/ase51524.2021.9678918",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "36f0e6cc582c69d4a66c1da4d1f4163f1b373a63",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Transforming Monolithic Applications to Microservices with Mono2Micro",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678878",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "046bd3f5190ccbb48cf1f38bf81de53f9fb7a57e",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Property-based Test for Part-of-Speech Tagging Tool",
+      "authors": [
+        "Shuo Jin",
+        "Songqiang Chen",
+        "Xiaoyuan Xie"
+      ],
+      "doi": "10.1109/ase51524.2021.9678807",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2232227120063be5b99b9057515fcb247538c2ae",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Binary Diffing as a Network Alignment Problem via Belief Propagation",
+      "authors": [
+        "Elie Mengin",
+        "Fabrice Rossi"
+      ],
+      "doi": "10.1109/ase51524.2021.9678782",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3f12fd347a5f49e2b5fa25a3e9c05c5a5594a3da",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    126,
+    {
+      "title": "CiFi: Versatile Analysis of Class and Field Immutability",
+      "authors": [
+        "Tobias Roth",
+        "Dominik Helm",
+        "Michael Reif",
+        "Mira Mezini"
+      ],
+      "doi": "10.1109/ase51524.2021.9678903",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f4d8d975aacd73243accfc3bd81ab1b3ab1de1ee",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Revizor: A Data-Driven Approach to Automate Frequent Code Changes Based on Graph Matching",
+      "authors": [
+        "Oleg Smirnov",
+        "Artyom Lobanov",
+        "Yaroslav Golubev",
+        "Elena Tikhomirova",
+        "Timofey Bryksin"
+      ],
+      "doi": "10.1109/ase51524.2021.9678635",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7ca9e525334a486be473e17778e1cf20b2ae6d02",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Automated Code Refactoring upon Database-Schema Changes in Web Applications",
+      "authors": [
+        "Sophie Xie",
+        "Junwen Yang",
+        "Shan Lu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678934",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "91b69d414907fc9cb42f78e63c862ca15ee0fdc7",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Adaptation<sup>2</sup>: Adapting Specification Learners in Assured Adaptive Systems",
+      "authors": [
+        "Dalal Alrajeh",
+        "Patrick Benjamin",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1109/ase51524.2021.9678919",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "497dc598bb9bc38fa5c0263f82573b008de53d22",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    130,
+    {
+      "title": "Understanding Code Fragments with Issue Reports",
+      "authors": [
+        "Zexuan Li",
+        "Hao Zhong"
+      ],
+      "doi": "10.1109/ase51524.2021.9678864",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5c5c20f699aa0164a908c9f888ab5708810ae343",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Training Automated Test Oracles to Identify Semantic Bugs",
+      "authors": [
+        "Charaka Geethal"
+      ],
+      "doi": "10.1109/ase51524.2021.9678886",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "97f22fe45ed0b3a65c50a7ccbb445c05c8462e51",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Q&amp;A MAESTRO: Q&amp;A Post Recommendation for Fixing Java Runtime Exceptions",
+      "authors": [
+        "Yusuke Kimura",
+        "Takumi Akazaki",
+        "Shinji Kikuchi",
+        "Sonal Mahajan",
+        "Mukul R. Prasad"
+      ],
+      "doi": "10.1109/ase51524.2021.9678893",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f6a02fd4f20da53307b9ccac1ee2c7fa95249df8",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    133,
+    {
+      "title": "EvoMe: A Software Evolution Management Engine Based on Differential Factbase",
+      "authors": [
+        "Xiuheng Wu",
+        "Mengyang Li",
+        "Yi Li"
+      ],
+      "doi": "10.1109/ase51524.2021.9678795",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b797527285967a76d10481714c3bc63a0900752c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    134,
+    {
+      "title": "How Can Subgroup Discovery Help AIOps?",
+      "authors": [
+        "Youcef Remil"
+      ],
+      "doi": "10.1109/ase51524.2021.9678697",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "60b1d941435486fcf5f648e2f3408c8e6ed79cf2",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    135,
+    {
+      "title": "A Program Synthesis Approach for Adding Architectural Tactics to An Existing Code Base",
+      "authors": [
+        "Ali Shokri"
+      ],
+      "doi": "10.1109/ase51524.2021.9678705",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a10fb7a0ad2a2839c1abaca0aa3024823b09a42f",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Towards Fluid Software Architectures: Bidirectional Human-AI Interaction",
+      "authors": [
+        "Ammar Yasser",
+        "Mervat Abu-Elkhier"
+      ],
+      "doi": "10.1109/ase51524.2021.9678647",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "87cc86ba7b42c45a0b924bffc1ad602dc688648f",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Tackling Flaky Tests: Understanding the Problem and Providing Practical Solutions",
+      "authors": [
+        "Martin Gruber"
+      ],
+      "doi": "10.1109/ase51524.2021.9678701",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7f16884e5c6584c66d6f04bd6f9ab6c5e3e1dd4d",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    138,
+    {
+      "title": "An Automated Pipeline for Privacy Leak Analysis of Android Applications",
+      "authors": [
+        "Yifan Zhou"
+      ],
+      "doi": "10.1109/ase51524.2021.9678875",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c967d011ab7c2a59b937ad7c4684198b49bdb076",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Automatically Deciding on the Integration of Commits Based on Their Descriptions",
+      "authors": [
+        "Samuel C. Fonseca",
+        "Mateus C. Lucena",
+        "Tiago M. Reis",
+        "Pedro F. Cabral",
+        "Walmir A. Silva",
+        "Flavia de S. Santos",
+        "Felipe T. Giuntini",
+        "Juliano Sales"
+      ],
+      "doi": "10.1109/ase51524.2021.9678906",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2e3ceba05cdd1655a54e38ccd0daa441402d823d",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    140,
+    {
+      "title": "BeAFix: An Automated Repair Tool for Faulty Alloy Models",
+      "authors": [
+        "Simon Gutierrez Brida",
+        "German Regis",
+        "Guolong Zheng",
+        "Hamid Bagheri",
+        "ThanhVu Nguyen",
+        "Nazareno Aguirre",
+        "Marcelo Frias"
+      ],
+      "doi": "10.1109/ase51524.2021.9678524",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d5fb723d772240a9c993dd326da94e4341052757",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Automatically Annotating Sentences for Task-specific Bug Report Summarization",
+      "authors": [
+        "Akalanka Galappaththi",
+        "John Anvik",
+        "Rafat Bin Islam"
+      ],
+      "doi": "10.1109/ase51524.2021.9678554",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "85ac8e1e7b1a350ef1d5a74bf0532c4a4e7d23cd",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Defeating Program Analysis Techniques via Ambiguous Translation",
+      "authors": [
+        "Chijung Jung",
+        "Doowon Kim",
+        "Weihang Wang",
+        "Yunhui Zheng",
+        "Kyu Hyung Lee",
+        "Yonghwi Kwon"
+      ],
+      "doi": "10.1109/ase51524.2021.9678912",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ba6c8942c49e88440daffd900cd0940833c996da",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Business Process Extraction Using Static Analysis",
+      "authors": [
+        "Md Rofiqul Islam",
+        "Tomas Cerny"
+      ],
+      "doi": "10.1109/ase51524.2021.9678588",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5b5e0f72b8a35567d26793366da38bb10e7ac509",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Decoupling Server and Client Code Through Cloud-Native Domain-Specific Functions",
+      "authors": [
+        "Jose Miguel Perez-Alvarez",
+        "Adrian Mos",
+        "Benjamin V. Hanrahan",
+        "Iyadunni J. Adenuga"
+      ],
+      "doi": "10.1109/ase51524.2021.9678747",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "537b67d7a08f23793918ac3b1a421e405ef62c16",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Transcode: Detecting Status Code Mapping Errors in Large-Scale Systems",
+      "authors": [
+        "Wensheng Tang",
+        "Yikun Hu",
+        "Gang Fan",
+        "Peisen Yao",
+        "Rongxin Wu",
+        "Guangyuan Bai",
+        "Pengcheng Wang",
+        "Charles Zhang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678823",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ab207ef5424ca4e100cc6ad3d4edde8e472e15c8",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Improving Mutation-Based Fault Localization with Plausible-code Generating Mutation Operators",
+      "authors": [
+        "Juyoung Jeon",
+        "Shin Hong"
+      ],
+      "doi": "10.1109/ase51524.2021.9678577",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "18c0d8b4f269a8a1b82cc17dd416c8b1f7045148",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Data-Driven Design and Evaluation of SMT Meta-Solving Strategies: Balancing Performance, Accuracy, and Cost",
+      "authors": [
+        "Malte Mues",
+        "Falk Howar"
+      ],
+      "doi": "10.1109/ase51524.2021.9678881",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7eb4d5ba57f9870f516222bfa60aeb6e28236cca",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    148,
+    {
+      "title": "API Compatibility Issue Detection, Testing and Analysis for Android Apps",
+      "authors": [
+        "Tarek Mahmud"
+      ],
+      "doi": "10.1109/ase51524.2021.9678812",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c269fb04e5a8656e516b4b80a18f6e2549227612",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    149,
+    {
+      "title": "Using Version Control and Issue Tickets to detect Code Debt and Economical Cost",
+      "authors": [
+        "Abdullah Al Maruf",
+        "Noah Lambaria",
+        "Amr S. Abdelfattah",
+        "Tomas Cerny"
+      ],
+      "doi": "10.1109/ase51524.2021.9678532",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "186ea92bb6ff7596eb661992e0ba5170202151f0",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    150,
+    {
+      "title": "Evaluating Semantic Autocompletion of Business Processes with Domain Experts",
+      "authors": [
+        "Maayan Goldstein",
+        "Cecilia Gonzalez-Alvarez"
+      ],
+      "doi": "10.1109/ase51524.2021.9678821",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "05ef2b76b2f6e3ccf47d747a4fbcb428cefebbdb",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Effectively Analyzing Evolving Software with Differential Facts",
+      "authors": [
+        "Xiuheng Wu"
+      ],
+      "doi": "10.1109/ase51524.2021.9678659",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b63bca87f194da7f671a1f8a687e9b6f09e98d7d",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    152,
+    {
+      "title": "Shake Those System Parameters! On the Need for Parameter Coverage for Decision Systems",
+      "authors": [
+        "Thomas Laurent",
+        "Paolo Arcaini",
+        "Fuyuki Ishikawa",
+        "Anthony Ventresque"
+      ],
+      "doi": "10.1109/ase51524.2021.9678593",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0f17d26a4623f36c9e977935eca6c7958b5652e8",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Cross-Lingual Transfer Learning Framework for Program Analysis",
+      "authors": [
+        "Zhiming Li"
+      ],
+      "doi": "10.1109/ase51524.2021.9678848",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0d01c95a3426b994d87ea8d97c820ea1d961a3ad",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    154,
+    {
+      "title": "GenTree: Inferring Configuration Interactions using Decision Trees",
+      "authors": [
+        "KimHao Nguyen",
+        "ThanhVu Nguyen"
+      ],
+      "doi": "10.1109/ase51524.2021.9678676",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7e785529ba05e8617eee56e4202693d2cb9140c5",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Counterexample Guided Inductive Repair of Reactive Contracts",
+      "authors": [
+        "Soha Hussein",
+        "Vaibhav Sharma",
+        "Stephen McCamant",
+        "Sanjai Rayadurgam",
+        "Mats Heimdahl"
+      ],
+      "doi": "10.1109/ase51524.2021.9678548",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "dc6acce5640de8c2b78bda5351da8056d388238f",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    156,
+    {
+      "title": "Intelligent Change Operators for Multi-Objective Refactoring",
+      "authors": [
+        "Chaima Abid",
+        "James Ivers",
+        "Thiago Do N. Ferreira",
+        "Marouane Kessentini",
+        "Fares E. Kahla",
+        "Ipek Ozkaya"
+      ],
+      "doi": "10.1109/ase51524.2021.9678519",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "817146ae94302867cd881453fcb35537e4269bb4",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Access Control Tree for Testing and Learning",
+      "authors": [
+        "Davrondzhon Gafurov",
+        "Arne Erik Hurum",
+        "Margrete Sunde Grovan"
+      ],
+      "doi": "10.1109/ase51524.2021.9678797",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9e20b55daecc41b6fc170de9bdc19847ca6d0b0e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Learning-based Assistant for Data Migration of Enterprise Information Systems",
+      "authors": [
+        "Sayandeep Mitra",
+        "Debayan Mukherjee",
+        "Atreya Bandyopadhyay",
+        "Rajdip Chowdhury",
+        "Raveendra Kumar Medicherla",
+        "Indrajit Bhattacharya",
+        "Ravindra Naik"
+      ],
+      "doi": "10.1109/ase51524.2021.9678533",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0c0cb9d0ab1e5fc0ded5cb5f4b7eb4ca97e57525",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    159,
+    {
+      "title": "FinFuzzer: One Step Further in Fuzzing Fintech Systems",
+      "authors": [
+        "Qingshun Wang",
+        "Lihua Xu",
+        "Jun Xiao",
+        "Qi Guo",
+        "Haotian Zhang",
+        "Liang Dou",
+        "Liang He",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/ase51524.2021.9678675",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bb3bce341b4c44c36484a2b0d557162b11d48eb2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678658",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Fuzzing Methods Recommendation Based on Feature Vectors",
+      "authors": [
+        "Chi Zhang",
+        "Jinfu Chen"
+      ],
+      "doi": "10.1109/ase51524.2021.9678630",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e3de0504ed8271f797331a24cc8673750ad1d962",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    162,
+    {
+      "title": "Author Index",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678914",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    163,
+    {
+      "title": "Organizing Committee",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678849",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    164,
+    {
+      "title": "A First Look at the Effect of Deep Learning in Coverage-guided Fuzzing",
+      "authors": [
+        "Siqi Li",
+        "Yun Lin",
+        "Xiaofei Xie",
+        "Yuekang Li",
+        "Xiaohong Li",
+        "Weimin Ge",
+        "Yang Liu",
+        "Jinsong Dong"
+      ],
+      "doi": "10.1109/ase51524.2021.9678794",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c65d2a394d0010393e87105110a3d3dc29441e62",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Enhancing Requirements Reuse through Automated Similarity Matching",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678942",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Message from the Chairs",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678694",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    167,
+    {
+      "title": "Quality analysis of mobile applications with special focus on security aspects",
+      "authors": [
+        "Kristiina Rahkema"
+      ],
+      "doi": "10.1109/ase51524.2021.9678681",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4db59091fc5618409f313c2fe012ef06d2754b2b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    168,
+    {
+      "title": "Transforming Monolithic Applications to Microservices with Mono2Micro",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678851",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    169,
+    {
+      "title": "Program Synthesis with Algorithm Pseudocode Guidance",
+      "authors": [
+        "Zihui Wang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678657",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cdef0c881b3995c0c2be7aac959d0dd72f74083b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    170,
+    {
+      "title": "Program Committee",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678614",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    171,
+    {
+      "title": "Sponsors",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678833",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    172,
+    {
+      "title": "DSInfoSearch: Supporting Experimentation Process of Data Scientists",
+      "authors": [
+        "Shangeetha Sivasothy"
+      ],
+      "doi": "10.1109/ase51524.2021.9678873",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d709f036ef1b4d52cd06da982087c7b8a321a636",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    173,
+    {
+      "title": "Towards the generation of machine learning defect reports",
+      "authors": [
+        "Tuan Dung Lai"
+      ],
+      "doi": "10.1109/ase51524.2021.9678592",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0947782f0ea645146ec3b6e02d12ed2828d879b2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    174,
+    {
+      "title": "Enhancing Requirements Reuse through Automated Similarity Matching",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678707",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "be96690dbdfa1faf01ea92af67a80fa422e03ad2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    175,
+    {
+      "title": "FLACK: Localizing Faults in Alloy Models",
+      "authors": [
+        "Guolong Zheng",
+        "ThanhVu Nguyen",
+        "Simon Gutierrez Brida",
+        "German Regis",
+        "Marcelo Frias",
+        "Nazareno Aguirre",
+        "Hamid Bagheri"
+      ],
+      "doi": "10.1109/ase51524.2021.9678740",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0ec54baca88568f0e1bb0183d815a9eafdec83d6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    176,
+    {
+      "title": "[Title page i]",
+      "authors": [],
+      "doi": "10.1109/ase51524.2021.9678739",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    177,
+    {
+      "title": "Detecting Adversarial Samples with Graph-Guided Testing",
+      "authors": [
+        "Zuohui Chen",
+        "Renxuan Wang",
+        "Jingyang Xiang",
+        "Yue Yu",
+        "Xin Xia",
+        "Shouling Ji",
+        "Qi Xuan",
+        "Xiaoniu Yang"
+      ],
+      "doi": "10.1109/ase51524.2021.9678732",
+      "venue": "2021 36th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9200808ce019284790a6d49b8f837dbdb98f6ae7",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ]
+]

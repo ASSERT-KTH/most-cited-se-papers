@@ -1,0 +1,2414 @@
+[
+  [
+    1,
+    {
+      "title": "Learn&amp;Fuzz: Machine learning for input fuzzing",
+      "authors": [
+        "Patrice Godefroid",
+        "Hila Peleg",
+        "Rishabh Singh"
+      ],
+      "doi": "10.1109/ase.2017.8115618",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5bd13e6313008e1555e530dda6d84c5004aa09ed",
+        "citationCount": 356,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Automatically generating commit messages from diffs using neural machine translation",
+      "authors": [
+        "Siyuan Jiang",
+        "Ameer Armaly",
+        "Collin McMillan"
+      ],
+      "doi": "10.1109/ase.2017.8115626",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6bcbe895becdb670027a3e3c1e36ff7d63d3f7b4",
+        "citationCount": 246,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Elixir: Effective object-oriented program repair",
+      "authors": [
+        "Ripon K. Saha",
+        "Yingjun Lyu",
+        "Hiroaki Yoshida",
+        "Mukul R. Prasad"
+      ],
+      "doi": "10.1109/ase.2017.8115675",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f8bfe49b220e4122649231f34ebbef2620281c97",
+        "citationCount": 210,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Leveraging syntax-related code for automated program repair",
+      "authors": [
+        "Qi Xin",
+        "Steven P. Reiss"
+      ],
+      "doi": "10.1109/ase.2017.8115676",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "388f8fcb6456ca33ae3e861c06e8b978ba5914cd",
+        "citationCount": 181,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    5,
+    {
+      "title": "The impact of continuous integration on other software development practices: A large-scale empirical study",
+      "authors": [
+        "Yangyang Zhao",
+        "Alexander Serebrenik",
+        "Yuming Zhou",
+        "Vladimir Filkov",
+        "Bogdan Vasilescu"
+      ],
+      "doi": "10.1109/ase.2017.8115619",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d5ff993a9bcffc9aa0dd49042f842b3b945c8c76",
+        "citationCount": 156,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Contract-based program repair without the contracts",
+      "authors": [
+        "Liushan Chen",
+        "Yu Pei",
+        "Carlo A. Furia"
+      ],
+      "doi": "10.1109/ase.2017.8115674",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "146ae24cea3c510e5698d39cdb7b18fb7e097b75",
+        "citationCount": 143,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Can automated pull requests encourage software developers to upgrade out-of-date dependencies?",
+      "authors": [
+        "Samim Mirhosseini",
+        "Chris Parnin"
+      ],
+      "doi": "10.1109/ase.2017.8115621",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "14515004dd9c5e0fff89223066efde9f4b5044a0",
+        "citationCount": 131,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    8,
+    {
+      "title": "SentiCR: A customized sentiment analysis tool for code review interactions",
+      "authors": [
+        "Toufique Ahmed",
+        "Amiangshu Bosu",
+        "Anindya Iqbal",
+        "Shahram Rahimi"
+      ],
+      "doi": "10.1109/ase.2017.8115623",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "35b414824d1a8c852f4f68d6a5c34d5ec946315b",
+        "citationCount": 129,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    9,
+    {
+      "title": "AnswerBot: Automated generation of answer summary to developers' technical questions",
+      "authors": [
+        "Bowen Xu",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase.2017.8115681",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8c604cdea0411c77d1c9edef944045bba8b77024",
+        "citationCount": 115,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Transfer learning for performance modeling of configurable systems: An exploratory analysis",
+      "authors": [
+        "Pooyan Jamshidi",
+        "Norbert Siegmund",
+        "Miguel Velez",
+        "Christian Kastner",
+        "Akshay Patel",
+        "Yuvraj Agarwal"
+      ],
+      "doi": "10.1109/ase.2017.8115661",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "24b5a87935a435182f902702676dbe8411a2ee82",
+        "citationCount": 113,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    11,
+    {
+      "title": "CogniCrypt: Supporting developers in using cryptography",
+      "authors": [
+        "Stefan Kruger",
+        "Sarah Nadi",
+        "Michael Reif",
+        "Karim Ali",
+        "Mira Mezini",
+        "Eric Bodden",
+        "Florian Gopfert",
+        "Felix Gunther",
+        "Christian Weinert",
+        "Daniel Demmler",
+        "Ram Kamath"
+      ],
+      "doi": "10.1109/ase.2017.8115707",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8d86a4a9ceb9df3cdac87532f74f9ee38bb85a2a",
+        "citationCount": 111,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Automatically assessing code understandability: How far are we?",
+      "authors": [
+        "Simone Scalabrino",
+        "Gabriele Bavota",
+        "Christopher Vendome",
+        "Mario Linares-Vasquez",
+        "Denys Poshyvanyk",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1109/ase.2017.8115654",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "94b97c2500bcd635b425159faddbd6bd4dc80668",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    13,
+    {
+      "title": "A comprehensive study of real-world numerical bug characteristics",
+      "authors": [
+        "Anthony Di Franco",
+        "Hui Guo",
+        "Cindy Rubio-Gonzalez"
+      ],
+      "doi": "10.1109/ase.2017.8115662",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "dac2ad6032a98b716aac85538f72614e451b71a9",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Automatic summarization of API reviews",
+      "authors": [
+        "Gias Uddin",
+        "Foutse Khomh"
+      ],
+      "doi": "10.1109/ase.2017.8115629",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "db27991a86667126702fc72962afef0a984586d5",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    15,
+    {
+      "title": "EHBDroid: Beyond GUI testing for Android applications",
+      "authors": [
+        "Wei Song",
+        "Xiangxing Qian",
+        "Jeff Huang"
+      ],
+      "doi": "10.1109/ase.2017.8115615",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b58d5ec93978c542ece0883611405878cf6fcbac",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    16,
+    {
+      "title": "In-memory fuzzing for binary code similarity analysis",
+      "authors": [
+        "Shuai Wang",
+        "Dinghao Wu"
+      ],
+      "doi": "10.1109/ase.2017.8115645",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "af9faf172ae7327b86ce7d49ce9e3b5e5cc51ce3",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Automatic testing of symbolic execution engines via program generation and differential testing",
+      "authors": [
+        "Timotej Kapus",
+        "Cristian Cadar"
+      ],
+      "doi": "10.1109/ase.2017.8115669",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a9ff49425610c71e81821aa49c1bfede76c966b4",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Testing intermediate representations for binary analysis",
+      "authors": [
+        "Soomin Kim",
+        "Markus Faerevaag",
+        "Minkyu Jung",
+        "Seungll Jung",
+        "DongYeop Oh",
+        "JongHyup Lee",
+        "Sang Kil Cha"
+      ],
+      "doi": "10.1109/ase.2017.8115648",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "18a1de9afebe28dfe1e7f713b336d30dd7dbd989",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Automated cross-platform inconsistency detection for mobile apps",
+      "authors": [
+        "Mattia Fazzini",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1109/ase.2017.8115644",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f3518129e7ccc827e98465468a626b5a0c45c6da",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Detecting fragile comments",
+      "authors": [
+        "Inderjot Kaur Ratol",
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1109/ase.2017.8115624",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8fa1c2b2c3340e7198406eb7942b6f315aa5d1c0",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    21,
+    {
+      "title": "STARTS: STAtic regression test selection",
+      "authors": [
+        "Owolabi Legunsen",
+        "August Shi",
+        "Darko Marinov"
+      ],
+      "doi": "10.1109/ase.2017.8115710",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "518c7cfe8b0f7178540cfac520e3ed2d77a0ffc5",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    22,
+    {
+      "title": "A comprehensive study on real world concurrency bugs in Node.js",
+      "authors": [
+        "Jie Wang",
+        "Wensheng Dou",
+        "Yu Gao",
+        "Chushu Gao",
+        "Feng Qin",
+        "Kang Yin",
+        "Jun Wei"
+      ],
+      "doi": "10.1109/ase.2017.8115663",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9451db9e8534b1482b2cf9f0c201254321106f42",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Crowd intelligence enhances automated mobile testing",
+      "authors": [
+        "Ke Mao",
+        "Mark Harman",
+        "Yue Jia"
+      ],
+      "doi": "10.1109/ase.2017.8115614",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9a1262a0ce3848a900a19b8755a18fd19dab7a2c",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Why and how JavaScript developers use linters",
+      "authors": [
+        "Kristin Fjola Tomasdottir",
+        "Mauricio Aniche",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/ase.2017.8115668",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1d308c678bf3b66ca0e16f2880e63c2329ee882a",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Taco: A tool to generate tensor algebra kernels",
+      "authors": [
+        "Fredrik Kjolstad",
+        "Stephen Chou",
+        "David Lugato",
+        "Shoaib Kamil",
+        "Saman Amarasinghe"
+      ],
+      "doi": "10.1109/ase.2017.8115709",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b35b4bb7275b33e436e25d2849a711d34bec59ac",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Tortoise: Interactive system configuration repair",
+      "authors": [
+        "Aaron Weiss",
+        "Arjun Guha",
+        "Yuriy Brun"
+      ],
+      "doi": "10.1109/ase.2017.8115673",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "36fcfe06d4a6912149784b38d8b3d594cf8c9d41",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    27,
+    {
+      "title": "APIBot: Question answering bot for API documentation",
+      "authors": [
+        "Yuan Tian",
+        "Ferdian Thung",
+        "Abhishek Sharma",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase.2017.8115628",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "039f53f390fdddf2028207b4d2c7cb61fcee8ef5",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Exploring regular expression comprehension",
+      "authors": [
+        "Carl Chapman",
+        "Peipei Wang",
+        "Kathryn T. Stolee"
+      ],
+      "doi": "10.1109/ase.2017.8115653",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "44455d330756a99e874bac4c7dd479b65a3dc341",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    29,
+    {
+      "title": "The rise of the (modelling) bots: Towards assisted modelling via social networks",
+      "authors": [
+        "Sara Perez-Soler",
+        "Esther Guerra",
+        "Juan de Lara",
+        "Francisco Jurado"
+      ],
+      "doi": "10.1109/ase.2017.8115683",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "693a0fa1f62793beded4c138e27d44ac2fc08447",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Synthetic data generation for statistical testing",
+      "authors": [
+        "Ghanem Soltana",
+        "Mehrdad Sabetzadeh",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1109/ase.2017.8115698",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6d63bec482d4c1d12bf10a54b74c466daa96a197",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Detecting information flow by mutating input data",
+      "authors": [
+        "Bjorn Mathis",
+        "Vitalii Avdiienko",
+        "Ezekiel O. Soremekun",
+        "Marcel Bohme",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1109/ase.2017.8115639",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f4a9f65938c2b2ebdbfcb08edbb37a7cbaf0619e",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Automatically reducing tree-structured test inputs",
+      "authors": [
+        "Satia Herfert",
+        "Jibesh Patra",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/ase.2017.8115697",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2b4aaab57d3fd5b3df9c2d08918ebb0f3e834d40",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Floating-point symbolic execution: A case study in N-version programming",
+      "authors": [
+        "Daniel Liew",
+        "Daniel Schemmel",
+        "Cristian Cadar",
+        "Alastair F. Donaldson",
+        "Rafael Zahl",
+        "Klaus Wehrle"
+      ],
+      "doi": "10.1109/ase.2017.8115670",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "891ab18c2ee59898475774f0e1a11c5ec894022f",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Software performance self-adaptation through efficient model predictive control",
+      "authors": [
+        "Emilio Incerto",
+        "Mirco Tribastone",
+        "Catia Trubiani"
+      ],
+      "doi": "10.1109/ase.2017.8115660",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f540a79596af6eb569e65c9af46e89fc2115be1a",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Are developers aware of the architectural impact of their changes?",
+      "authors": [
+        "Matheus Paixao",
+        "Jens Krinke",
+        "DongGyun Han",
+        "Chaiyong Ragkhitwetsagul",
+        "Mark Harman"
+      ],
+      "doi": "10.1109/ase.2017.8115622",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "811de4f32988d76922175d423c7c3f79e4ec728c",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Automatic loop-invariant generation anc refinement through selective sampling",
+      "authors": [
+        "Jiaying Li",
+        "Jun Sun",
+        "Li Li",
+        "Quang Loc Le",
+        "Shang-Wei Lin"
+      ],
+      "doi": "10.1109/ase.2017.8115689",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "05cec88ecebeed5fa90e7746eb0ef1c1c559c80e",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Towards robust instruction-level trace alignment of binary code",
+      "authors": [
+        "Ulf Kargen",
+        "Nahid Shahmehri"
+      ],
+      "doi": "10.1109/ase.2017.8115647",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "35e7321a2f5f00604149ac60d4c17a2691762680",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Opiner: An opinion search and summarization engine for APIs",
+      "authors": [
+        "Gias Uddin",
+        "Foutse Khomh"
+      ],
+      "doi": "10.1109/ase.2017.8115715",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3209b3f1f2c7d0859bca2a44ae613e1a9d21d7b1",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Perceived language complexity in GitHub issue discussions and their effect on issue resolution",
+      "authors": [
+        "David Kavaler",
+        "Sasha Sirovica",
+        "Vincent Hellendoorn",
+        "Raul Aranovich",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1109/ase.2017.8115620",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b603bc55696e099aafa1b254d465b24b4eb3dea4",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Symlnfer: Inferring program invariants using symbolic states",
+      "authors": [
+        "ThanhVu Nguyen",
+        "Matthew B. Dwyer",
+        "Willem Visser"
+      ],
+      "doi": "10.1109/ase.2017.8115691",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6e2717ca7bb35bdb0a5eb1a52604c5457bcfa00f",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    41,
+    {
+      "title": "UNDEAD: Detecting and preventing deadlocks in production software",
+      "authors": [
+        "Jinpeng Zhou",
+        "Sam Silvestro",
+        "Hongyu Liu",
+        "Yan Cai",
+        "Tongping Liu"
+      ],
+      "doi": "10.1109/ase.2017.8115684",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e25f6f5ddc853259ed2a7136d80b948440f89b71",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Test suite parallelization in open-source projects: A study on its usage and impact",
+      "authors": [
+        "Jeanderson Candido",
+        "Luis Melo",
+        "Marcelo d'Amorim"
+      ],
+      "doi": "10.1109/ase.2017.8115695",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6263e3ab615270464d552e873de9713bc6642df0",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Saying \u2018Hi!\u2019 is not enough: Mining inputs for effective test generation",
+      "authors": [
+        "Luca Della Toffola",
+        "Cristian-Alexandru Staicu",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/ase.2017.8115617",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5d5accdba86044ca14d5acb8327c92f3a6aae4f0",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Programming bots by synthesizing natural language expressions into API invocations",
+      "authors": [
+        "Shayan Zamanirad",
+        "Boualem Benatallah",
+        "Moshe Chai Barukh",
+        "Fabio Casati",
+        "Carlos Rodriguez"
+      ],
+      "doi": "10.1109/ase.2017.8115694",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7e33e362d1bdc2cf3abf22e9c67dde18b19a8277",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    45,
+    {
+      "title": "BProVe: A formal verification framework for business process models",
+      "authors": [
+        "Flavio Corradini",
+        "Fabrizio Fornari",
+        "Andrea Polini",
+        "Barbara Re",
+        "Francesco Tiezzi",
+        "Andrea Vandin"
+      ],
+      "doi": "10.1109/ase.2017.8115635",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "487651ffa1a9225f0c063b1cc94dc578b72284ee",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    46,
+    {
+      "title": "FiB: Squeezing loop invariants by interpolation between forward/backward predicate transformers",
+      "authors": [
+        "Shang-Wei Lin",
+        "Jun Sun",
+        "Hao Xiao",
+        "Yang Liu",
+        "David Sanan",
+        "Henri Hansen"
+      ],
+      "doi": "10.1109/ase.2017.8115690",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7614aa1f13a040931ec27ae4c103de1964bc27a2",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Boosting complete-code tool for partial program",
+      "authors": [
+        "Hao Zhong",
+        "Xiaoyin Wang"
+      ],
+      "doi": "10.1109/ase.2017.8115677",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "78fdfc002ae6b2d0bef18dddb43f64d368aeb59a",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Improving software text retrieval using conceptual knowledge in source code",
+      "authors": [
+        "Zeqi Lin",
+        "Yanzhen Zou",
+        "Junfeng Zhao",
+        "Bing Xie"
+      ],
+      "doi": "10.1109/ase.2017.8115625",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7036607427141830b625114cfa952ff876eb06d8",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Mining implicit design templates for actionable code reuse",
+      "authors": [
+        "Yun Lin",
+        "Guozhu Meng",
+        "Yinxing Xue",
+        "Zhenchang Xing",
+        "Jun Sun",
+        "Xin Peng",
+        "Yang Liu",
+        "Wenyun Zhao",
+        "Jinsong Dong"
+      ],
+      "doi": "10.1109/ase.2017.8115652",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8f3f2b007e1b2705e6430824ffb13b5b95d24f15",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Rethinking pointer reasoning in symbolic execution",
+      "authors": [
+        "Emilio Coppa",
+        "Daniele Cono D'Elia",
+        "Camil Demetrescu"
+      ],
+      "doi": "10.1109/ase.2017.8115671",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "df1e90084d6e080aa51b45cf41ae0047b09b3b89",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Understanding feature requests by leveraging fuzzy method and linguistic analysis",
+      "authors": [
+        "Lin Shi",
+        "Celia Chen",
+        "Qing Wang",
+        "Shoubin Li",
+        "Barry Boehm"
+      ],
+      "doi": "10.1109/ase.2017.8115656",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "be33873c5862967610783bbf2bfcf7dafd7962fa",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Renaming and shifted code in structured merging: Looking ahead for precision and performance",
+      "authors": [
+        "Olaf Lessenich",
+        "Sven Apel",
+        "Christian Kastner",
+        "Georg Seibt",
+        "Janet Siegmund"
+      ],
+      "doi": "10.1109/ase.2017.8115665",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4d7359d9d4509156e685837cecd9b6283fc8c20e",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Improving missing issue-commit link recovery using positive and unlabeled data",
+      "authors": [
+        "Yan Sun",
+        "Celia Chen",
+        "Qing Wang",
+        "Barry Boehm"
+      ],
+      "doi": "10.1109/ase.2017.8115627",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cfc8f39a24f452cb0fe005a860c30e5ed5b4b6f6",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Recommending crowdsourced software developers in consideration of skill improvement",
+      "authors": [
+        "Zizhe Wang",
+        "Hailong Sun",
+        "Yang Fu",
+        "Luting Ye"
+      ],
+      "doi": "10.1109/ase.2017.8115682",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "651245ae09660f96876581f1d97c10242e11761d",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Modular verification of interrupt-driven software",
+      "authors": [
+        "Chungha Sung",
+        "Markus Kusano",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/ase.2017.8115634",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "632c9347a12afc8803b49db9675d0984766707e6",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    56,
+    {
+      "title": "A language model for statements of software code",
+      "authors": [
+        "Yixiao Yang",
+        "Yu Jiang",
+        "Ming Gu",
+        "Jiaguang Sun",
+        "Jian Gao",
+        "Han Liu"
+      ],
+      "doi": "10.1109/ase.2017.8115678",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "eb8b995b784a62b562e4f12260fd89051cb2bd37",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Understanding and overcoming parallelism bottlenecks in ForkJoin applications",
+      "authors": [
+        "Gustavo Pinto",
+        "Anthony Canino",
+        "Fernando Castor",
+        "Guoqing Xu",
+        "Yu David Liu"
+      ],
+      "doi": "10.1109/ase.2017.8115687",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d9a759ab74ff5607e3fc662751b799702c77c226",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Generating simpler AST edit scripts by considering copy-and-paste",
+      "authors": [
+        "Yoshiki Higo",
+        "Akio Ohtani",
+        "Shinji Kusumoto"
+      ],
+      "doi": "10.1109/ase.2017.8115664",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "04cf092d3a78b85f390d77b969b5b7c5cf9bec55",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Parallel bug-finding in concurrent programs via reduced interleaving instances",
+      "authors": [
+        "Truc L. Nguyen",
+        "Peter Schrammel",
+        "Bernd Fischer",
+        "Salvatore La Torre",
+        "Gennaro Parlato"
+      ],
+      "doi": "10.1109/ase.2017.8115686",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9bec5c6c79366e99bcfc146915bde92194aa0d1d",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Towards a software vulnerability prediction model using traceable code patterns and software metrics",
+      "authors": [
+        "Kazi Zakia Sultana"
+      ],
+      "doi": "10.1109/ase.2017.8115724",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1e255bbd184168118d30adc4799e588c1016df41",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    61,
+    {
+      "title": "UI driven Android application reduction",
+      "authors": [
+        "Jianjun Huang",
+        "Yousra Aafer",
+        "David Perry",
+        "Xiangyu Zhang",
+        "Chen Tian"
+      ],
+      "doi": "10.1109/ase.2017.8115642",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "00d04c78bc2c3e57727b1489987ae39bbd8127e6",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    62,
+    {
+      "title": "ICoq: Regression proof selection for large-scale verification projects",
+      "authors": [
+        "Ahmet Celik",
+        "Karl Palmskog",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1109/ase.2017.8115630",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a174b52ca780f5c579113de8814ee8c0aa526dcc",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    63,
+    {
+      "title": "IntPTI: Automatic integer error repair with proper-type inference",
+      "authors": [
+        "Xi Cheng",
+        "Min Zhou",
+        "Xiaoyu Song",
+        "Ming Gu",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1109/ase.2017.8115718",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7381835907bb01d91ae02876b69c87a0c8fa60a1",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    64,
+    {
+      "title": "TiQi: A natural language interface for querying software project data",
+      "authors": [
+        "Jinfeng Lin",
+        "Yalin Liu",
+        "Jin Guo",
+        "Jane Cleland-Huang",
+        "William Goss",
+        "Wenchuang Liu",
+        "Sugandha Lohar",
+        "Natawut Monaikul",
+        "Alexander Rasin"
+      ],
+      "doi": "10.1109/ase.2017.8115714",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6b5eb412d52b9eda6a26579b01bc63f58c88d7c1",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Systematically testing background services of mobile apps",
+      "authors": [
+        "Li Lyna Zhang",
+        "Chieh-Jan Mike Liang",
+        "Yunxin Liu",
+        "Enhong Chen"
+      ],
+      "doi": "10.1109/ase.2017.8115613",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4423138df91796b8faa453c2c79e7d0c5efd27d3",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Sketch-guided GUI test generation for mobile applications",
+      "authors": [
+        "Chucheng Zhang",
+        "Haoliang Cheng",
+        "Enyi Tang",
+        "Xin Chen",
+        "Lei Bu",
+        "Xuandong Li"
+      ],
+      "doi": "10.1109/ase.2017.8115616",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "922871e3f349d31d4a3318e9677a98c5ec5aef58",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Proof-based coverage metrics for formal verification",
+      "authors": [
+        "Elaheh Ghassabani",
+        "Andrew Gacek",
+        "Michael W. Whalen",
+        "Mats P. E. Heimdahl",
+        "Lucas Wagner"
+      ],
+      "doi": "10.1109/ase.2017.8115632",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "eaaeadd904720efc90c7bd84dfa629e35c472865",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Detecting unknown inconsistencies in web applications",
+      "authors": [
+        "Frolin S. Ocariza",
+        "Karthik Pattabiraman",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1109/ase.2017.8115667",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "00d724b7671a0c85b67e6e701d7a7dd7083650cb",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Mining constraints for event-based monitoring in systems of systems",
+      "authors": [
+        "Thomas Krismayer",
+        "Rick Rabiser",
+        "Paul GrUnbacher"
+      ],
+      "doi": "10.1109/ase.2017.8115693",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8f2a9befd489d433ee54e007ea7d4832a0cfeb20",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Gremlin-ATL: A scalable model transformation framework",
+      "authors": [
+        "Gwendal Daniel",
+        "Frederic Jouault",
+        "Gerson Sunye",
+        "Jordi Cabot"
+      ],
+      "doi": "10.1109/ase.2017.8115658",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7bbd5889b53c2e68f57f9f51920c873e3e380083",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Model checker execution reports",
+      "authors": [
+        "Rodrigo Castano",
+        "Victor Braberman",
+        "Diego Garbervetsky",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1109/ase.2017.8115633",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b2b1da5abc75902cf3ebe280e6ee62c1c77c3bf4",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    72,
+    {
+      "title": "TrEKer: Tracing error propagation in operating system kernels",
+      "authors": [
+        "Nicolas Coppik",
+        "Oliver Schwahn",
+        "Stefan Winter",
+        "Neeraj Suri"
+      ],
+      "doi": "10.1109/ase.2017.8115650",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "696380ed9ba5a5912a825b1e78ecbde984ffba3d",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Predicting relevance of change recommendations",
+      "authors": [
+        "Thomas Rolfsnes",
+        "Leon Moonen",
+        "David Binkley"
+      ],
+      "doi": "10.1109/ase.2017.8115680",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7b5b06d7c12f79488661b0fd44e1d907526e93d9",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Incrementally slicing editable submodels",
+      "authors": [
+        "Christopher Pietsch",
+        "Manuel Ohrndorf",
+        "Udo Kelter",
+        "Timo Kehrer"
+      ],
+      "doi": "10.1109/ase.2017.8115704",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "44c978563ac80c27e8bfb000b9d70479892359af",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Semantics-assisted code review: An efficient tool chain and a user study",
+      "authors": [
+        "Massimiliano Menarini",
+        "Yan Yan",
+        "William G. Griswold"
+      ],
+      "doi": "10.1109/ase.2017.8115666",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cb6e79583e365099897e069fbe245152fc960a94",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Diagnosing assumption problems in safety-critical products",
+      "authors": [
+        "Mona Rahimi",
+        "Wandi Xiong",
+        "Jane Cleland-Huang",
+        "Robyn Lutz"
+      ],
+      "doi": "10.1109/ase.2017.8115659",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "321368b5e78b86f515bb72d3a2b0b8b8b934888c",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Kobold: Web usability as a service",
+      "authors": [
+        "Julian Grigera",
+        "Alejandra Garrido",
+        "Gustavo Rossi"
+      ],
+      "doi": "10.1109/ase.2017.8115717",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b2d05acb9320756fabc2a30eca03618756877105",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    78,
+    {
+      "title": "DSIbin: Identifying dynamic data structures in C/C++ binaries",
+      "authors": [
+        "Thomas Rupprecht",
+        "Xi Chen",
+        "David H. White",
+        "Jan H. Boockmann",
+        "Gerald Luttgen",
+        "Herbert Bos"
+      ],
+      "doi": "10.1109/ase.2017.8115646",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b462285a3edfddb48129e9af71bf22404ba56f36",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    79,
+    {
+      "title": "SimplyDroid: Efficient event sequence simplification for android application",
+      "authors": [
+        "Bo Jiang",
+        "Yuxuan Wu",
+        "Teng Li",
+        "W. K. Chan"
+      ],
+      "doi": "10.1109/ase.2017.8115643",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9003e6895b58ab2ead668b7d7190ed53c7a22cc5",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    80,
+    {
+      "title": "More effective interpolations in software model checking",
+      "authors": [
+        "Cong Tian",
+        "Zhao Duan",
+        "Zhenhua Duan",
+        "C.-H. Luke Ong"
+      ],
+      "doi": "10.1109/ase.2017.8115631",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "95de9df5af371681c9dd65ce93f374e46b908773",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Visualization support for requirements monitoring in systems of systems",
+      "authors": [
+        "Lisa Maria Kritzinger",
+        "Thomas Krismayer",
+        "Michael Vierhauser",
+        "Rick Rabiser",
+        "Paul Grunbacher"
+      ],
+      "doi": "10.1109/ase.2017.8115700",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5cfff93edb8c8950b86a37af6fa6d46452420bb6",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Towards the automatic classification of traceability links",
+      "authors": [
+        "Chris Mills"
+      ],
+      "doi": "10.1109/ase.2017.8115723",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0d4c092be34a021893ad1b3867043771c3f76eb9",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    83,
+    {
+      "title": "All about activity injection: Threats, semantics, and detection",
+      "authors": [
+        "Sungho Lee",
+        "Sungjae Hwang",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1109/ase.2017.8115638",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e84c1c2930a2e4fe35d38bc5a43ec89713b0ccec",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    84,
+    {
+      "title": "SEALANT: A detection and visualization tool for inter-app security vulnerabilities in androic",
+      "authors": [
+        "Youn Kyu Lee",
+        "Peera Yoodee",
+        "Arman Shahbazian",
+        "Daye Nam",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1109/ase.2017.8115699",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a3b6205099be8a98aef0f2b05328b509420817db",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Quick verification of concurrent programs by iteratively relaxed scheduling",
+      "authors": [
+        "Patrick Metzler",
+        "Habib Saissi",
+        "Peter Bokor",
+        "Neeraj Suri"
+      ],
+      "doi": "10.1109/ase.2017.8115688",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7016102ddda497d7fbd4ac125972bb41587a21d3",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    86,
+    {
+      "title": "ANDROFLEET: Testing WiFi peer-to-peer mobile apps in the large",
+      "authors": [
+        "Lakhdar Meftah",
+        "Maria Gomez",
+        "Romain Rouvoy",
+        "Isabelle Chrisment"
+      ],
+      "doi": "10.1109/ase.2017.8115712",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6f4305b3af3acfd7a4d37ed0a97747178b008840",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Automatically assessing crashes from heap overflows",
+      "authors": [
+        "Liang He",
+        "Yan Cai",
+        "Hong Hu",
+        "Purui Su",
+        "Zhenkai Liang",
+        "Yi Yang",
+        "Huafeng Huang",
+        "Jia Yan",
+        "Xiangkun Jia",
+        "Dengguo Feng"
+      ],
+      "doi": "10.1109/ase.2017.8115640",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ba6c1970b59eddd94bbb6ba46fc9cfda733c899a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Leveraging abstract interpretation for efficient dynamic symbolic execution",
+      "authors": [
+        "Eman Alatawi",
+        "Harald Sondergaard",
+        "Tim Miller"
+      ],
+      "doi": "10.1109/ase.2017.8115672",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fd07830ee3019b4f5870308831b12637dfdfd87a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    89,
+    {
+      "title": "TREM: A tool for mining timed regular specifications from system traces",
+      "authors": [
+        "Lukas Schmidt",
+        "Apurva Narayan",
+        "Sebastian Fischmeister"
+      ],
+      "doi": "10.1109/ase.2017.8115702",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4045fe5b9032b0a1889f9fbbfdbcc22e4437f8f2",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    90,
+    {
+      "title": "ModelWriter: Text and model-synchronized document engineering platform",
+      "authors": [
+        "Ferhat Erata",
+        "Claire Gardent",
+        "Bikash Gyawali",
+        "Anastasia Shimorina",
+        "Yvan Lussaud",
+        "Bedir Tekinerdogan",
+        "Geylani Kardas",
+        "Anne Monceaux"
+      ],
+      "doi": "10.1109/ase.2017.8115703",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "113b7a794c0114bae9e7aa8be0d61d7187f87762",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    91,
+    {
+      "title": "FEMIR: A tool for recommending framework extension examples",
+      "authors": [
+        "Muhammad Asaduzzaman",
+        "Chanchal K. Roy",
+        "Kevin A. Schneider",
+        "Daqing Hou"
+      ],
+      "doi": "10.1109/ase.2017.8115713",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2098fac695ac28800a03065680c172e5e68e9b83",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    92,
+    {
+      "title": "BProVe: Tool support for business process verification",
+      "authors": [
+        "Flavio Corradini",
+        "Fabrizio Fornari",
+        "Andrea Polini",
+        "Barbara Re",
+        "Francesco Tiezzi",
+        "Andrea Vandin"
+      ],
+      "doi": "10.1109/ase.2017.8115708",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b9061077a8b567ec41ae866407accd24f964e01e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    93,
+    {
+      "title": "EventFlowSlicer: A tool for generating realistic goal-driven GUI tests",
+      "authors": [
+        "Jonathan A. Saddler",
+        "Myra B. Cohen"
+      ],
+      "doi": "10.1109/ase.2017.8115711",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8f2e5d1e48bf8b6c99aebd7135635b9c611eff3b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    94,
+    {
+      "title": "DSSynth: An automated digital controller synthesis tool for physical plants",
+      "authors": [
+        "Alessandro Abate",
+        "Iury Bessa",
+        "Dario Cattaruzza",
+        "Lennon Chaves",
+        "Lucas Cordeiro",
+        "Cristina David",
+        "Pascal Kesseli",
+        "Daniel Kroening",
+        "Elizabeth Polgreen"
+      ],
+      "doi": "10.1109/ase.2017.8115705",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f14654f1fb3bf7f2151669f6c3f12493c8c712a6",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    95,
+    {
+      "title": "O2O service composition with social collaboration",
+      "authors": [
+        "Wenyi Qian",
+        "Xin Peng",
+        "Jun Sun",
+        "Yijun Yu",
+        "Bashar Nuseibeh",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1109/ase.2017.8115657",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9484cbc33ee8d6ddfbe6a425b66d49285909796f",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Systematic reduction of GUI test sequences",
+      "authors": [
+        "Lin Cheng",
+        "Zijiang Yang",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/ase.2017.8115696",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ef3f59bf42cd780d205db890a29ba515370dd4f5",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Context-aware integrated development environment command recommender systems",
+      "authors": [
+        "Marko Gasparic",
+        "Tural Gurbanov",
+        "Francesco Ricci"
+      ],
+      "doi": "10.1109/ase.2017.8115679",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ce4d23cdadd58063aafd1a1a650223e69ef3ed25",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Defaultification refactoring: A tool for automatically converting Java methods to default",
+      "authors": [
+        "Raffi Khatchadourian",
+        "Hidehiko Masuhara"
+      ],
+      "doi": "10.1109/ase.2017.8115716",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "644605f541279ea307bd0bcbfded6fb877aff978",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Towards search-based modelling and analysis of requirements and architecture decisions",
+      "authors": [
+        "Saheed A. Busari"
+      ],
+      "doi": "10.1109/ase.2017.8115725",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "001bb6e5baea94d3a36e0b9f968c101a990dd7c0",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    100,
+    {
+      "title": "A static analysis tool with optimizations for reachability determination",
+      "authors": [
+        "Yuexing Wang",
+        "Min Zhou",
+        "Yu Jiang",
+        "Xiaoyu Song",
+        "Ming Gu",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1109/ase.2017.8115706",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "089622d8a92300e52881ec6ce1e001a5aad0dc31",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Learning to share: Engineering adaptive decision-support for online social networks",
+      "authors": [
+        "Yasmin Rafiq",
+        "Luke Dickens",
+        "Alessandra Russo",
+        "Arosha K. Bandara",
+        "Mu Yang",
+        "Avelie Stuart",
+        "Mark Levine",
+        "Gul Calikli",
+        "Blaine A. Price",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/ase.2017.8115641",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7f18df587d366dd8c42b13e788aa505d5c7bb77e",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Promoting secondary orders of event pairs in randomized scheduling using a randomized stride",
+      "authors": [
+        "Mahmoud Abdelrasoul"
+      ],
+      "doi": "10.1109/ase.2017.8115685",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7b91bf2dcd842d8db0582243e0909fec2a50f1ac",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    103,
+    {
+      "title": "PAD: Programming third-party web advertisement censorship",
+      "authors": [
+        "Weihang Wang",
+        "Yonghwi Kwon",
+        "Yunhui Zheng",
+        "Yousra Aafer",
+        "I-Luk Kim",
+        "Wen-Chuan Lee",
+        "Yingqi Liu",
+        "Weijie Meng",
+        "Xiangyu Zhang",
+        "Patrick Eugster"
+      ],
+      "doi": "10.1109/ase.2017.8115637",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bbac0bedf0910e1c0078cd73acb59b919188dad8",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Comprehensive failure characterization",
+      "authors": [
+        "Mitchell J. Gerrard",
+        "Matthew B. Dwyer"
+      ],
+      "doi": "10.1109/ase.2017.8115649",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "102ba96b12c547dddea1cee25ef0233d374eed9f",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Parsimony: An IDE for example-guided synthesis of lexers and parsers",
+      "authors": [
+        "Alan Leung",
+        "Sorin Lerner"
+      ],
+      "doi": "10.1109/ase.2017.8115692",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0724ce0fa68b478a7c7c675f5a46b7b09104f10b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    106,
+    {
+      "title": "RuntimeSearch: Ctrl+F for a running program",
+      "authors": [
+        "Matus Sulir",
+        "Jaroslav Poruban"
+      ],
+      "doi": "10.1109/ase.2017.8115651",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2a672e8d25aa6edd3bc76876b75e4fdd57edf41c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Towards API-specific automatic program repair",
+      "authors": [
+        "Sebastian Nielebock"
+      ],
+      "doi": "10.1109/ase.2017.8115721",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "689f9b5f4e1c26fa4ed64a12d4c805e1430018e6",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Static detection of asymptotic resource side-channel vulnerabilities in web applications",
+      "authors": [
+        "Jia Chen",
+        "Oswaldo Olivo",
+        "Isil Dillig",
+        "Calvin Lin"
+      ],
+      "doi": "10.1109/ase.2017.8115636",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ae5d2bed16ad6d14e81eb607f74d2ee057505b79",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Characterizing and taming non-deterministic bugs in Javascript applications",
+      "authors": [
+        "Jie Wang"
+      ],
+      "doi": "10.1109/ase.2017.8115720",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "445c2a2cf3587945f8786eb7c794ff0448457994",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Managing software evolution through semantic history slicing",
+      "authors": [
+        "Yi Li"
+      ],
+      "doi": "10.1109/ase.2017.8115722",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b8c82eae2a6a5422fe991443d62e316548ebd69f",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Learning effective changes for software projects",
+      "authors": [
+        "Rahul Krishna"
+      ],
+      "doi": "10.1109/ase.2017.8115719",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c054753651f6744be5c8f837be9bea1901d03abd",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Software engineering without borders",
+      "authors": [
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/ase.2017.8115612",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "368c0858ae1b56704a3e63ecb94b17b3efb56a4b",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Author index",
+      "authors": [],
+      "doi": "10.1109/ase.2017.8115605",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Cobra \u2014 An interactive static code analyzer",
+      "authors": [
+        "Gerard Holzmann"
+      ],
+      "doi": "10.1109/ase.2017.8115610",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7bf910f654ab5be2f8457809882ace48d68eaf24",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Mining structures from massive text data: Will it help software engineering?",
+      "authors": [
+        "Jiawei Han"
+      ],
+      "doi": "10.1109/ase.2017.8115611",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "63bebf284becbaf09776f8b1bc6ee1ab3819f3db",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Message from the chairs",
+      "authors": [],
+      "doi": "10.1109/ase.2017.8115607",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Silver sponsors",
+      "authors": [],
+      "doi": "10.1109/ase.2017.8115609",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Organization committee",
+      "authors": [],
+      "doi": "10.1109/ase.2017.8115608",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Contents",
+      "authors": [],
+      "doi": "10.1109/ase.2017.8115606",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    120,
+    {
+      "title": "A demonstration of simultaneous execution and editing in a development environment",
+      "authors": [
+        "Steven P. Reiss",
+        "Qi Xin"
+      ],
+      "doi": "10.1109/ase.2017.8115701",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0a489eba35a2edf38a6dc09a06fe518043c43c0c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Improved query reformulation for concept location using CodeRank and document structures",
+      "authors": [
+        "Mohammad Masudur Rahman",
+        "Chanchal K. Roy"
+      ],
+      "doi": "10.1109/ase.2017.8115655",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    122,
+    {
+      "title": "[Front matter]",
+      "authors": [],
+      "doi": "10.1109/ase.2017.8115604",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Privacy-aware data-intensive applications",
+      "authors": [
+        "Michele Guerriero"
+      ],
+      "doi": "10.1109/ase.2017.8115726",
+      "venue": "2017 32nd IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9e10866433702fe4ee5e339ebe69cbd4719d2a07",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ]
+]

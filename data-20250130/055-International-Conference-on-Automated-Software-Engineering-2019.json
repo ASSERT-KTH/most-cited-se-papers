@@ -1,0 +1,3251 @@
+[
+  [
+    1,
+    {
+      "title": "Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts",
+      "authors": [
+        "Mark Mossberg",
+        "Felipe Manzano",
+        "Eric Hennenfent",
+        "Alex Groce",
+        "Gustavo Grieco",
+        "Josselin Feist",
+        "Trent Brunson",
+        "Artem Dinaburg"
+      ],
+      "doi": "10.1109/ase.2019.00133",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "edef259bc5b64f64c0cc697999496f485a90ce45",
+        "citationCount": 268,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Multi-modal Attention Network Learning for Semantic Source Code Retrieval",
+      "authors": [
+        "Yao Wan",
+        "Jingdong Shu",
+        "Yulei Sui",
+        "Guandong Xu",
+        "Zhou Zhao",
+        "Jian Wu",
+        "Philip Yu"
+      ],
+      "doi": "10.1109/ase.2019.00012",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0998353a6a342143c08e152650c0146adc61d94b",
+        "citationCount": 157,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning",
+      "authors": [
+        "Yan Zheng",
+        "Xiaofei Xie",
+        "Ting Su",
+        "Lei Ma",
+        "Jianye Hao",
+        "Zhaopeng Meng",
+        "Yang Liu",
+        "Ruimin Shen",
+        "Yingfeng Chen",
+        "Changjie Fan"
+      ],
+      "doi": "10.1109/ase.2019.00077",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "70af259ee51166292f485093a1ff0abf3bd6f118",
+        "citationCount": 132,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Humanoid: A Deep Learning-Based Approach to Automated Black-box Android App Testing",
+      "authors": [
+        "Yuanchun Li",
+        "Ziyue Yang",
+        "Yao Guo",
+        "Xiangqun Chen"
+      ],
+      "doi": "10.1109/ase.2019.00104",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c6444cf613633a1d2918c658da678288111d1728",
+        "citationCount": 121,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    5,
+    {
+      "title": "An Empirical Study Towards Characterizing Deep Learning Development and Deployment Across Different Frameworks and Platforms",
+      "authors": [
+        "Qianyu Guo",
+        "Sen Chen",
+        "Xiaofei Xie",
+        "Lei Ma",
+        "Qiang Hu",
+        "Hongtao Liu",
+        "Yang Liu",
+        "Jianjun Zhao",
+        "Xiaohong Li"
+      ],
+      "doi": "10.1109/ase.2019.00080",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9f7d9597012946e777e05fbfc6845943d3fe4c76",
+        "citationCount": 113,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Retrieve and Refine: Exemplar-Based Neural Comment Generation",
+      "authors": [
+        "Bolin Wei"
+      ],
+      "doi": "10.1109/ase.2019.00152",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "594d7e669680e656c807635b9351ac4892d733c3",
+        "citationCount": 109,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    7,
+    {
+      "title": "DIRE: A Neural Approach to Decompiled Identifier Naming",
+      "authors": [
+        "Jeremy Lacomis",
+        "Pengcheng Yin",
+        "Edward Schwartz",
+        "Miltiadis Allamanis",
+        "Claire Le Goues",
+        "Graham Neubig",
+        "Bogdan Vasilescu"
+      ],
+      "doi": "10.1109/ase.2019.00064",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d530a007ae0493ef6a8167c25bd007104623c504",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Automatic Generation of Pull Request Descriptions",
+      "authors": [
+        "Zhongxin Liu",
+        "Xin Xia",
+        "Christoph Treude",
+        "David Lo",
+        "Shanping Li"
+      ],
+      "doi": "10.1109/ase.2019.00026",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5edf3280a2763959dddcb9169d88efef71e14766",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Re-Factoring Based Program Repair Applied to Programming Assignments",
+      "authors": [
+        "Yang Hu",
+        "Umair Z. Ahmed",
+        "Sergey Mechtaev",
+        "Ben Leong",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/ase.2019.00044",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "325aecaa34bcf6e5f0e6683e526dc9946a6c1f4f",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    10,
+    {
+      "title": "DeepMutation++: A Mutation Testing Framework for Deep Learning Systems",
+      "authors": [
+        "Qiang Hu",
+        "Lei Ma",
+        "Xiaofei Xie",
+        "Bing Yu",
+        "Yang Liu",
+        "Jianjun Zhao"
+      ],
+      "doi": "10.1109/ase.2019.00126",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f3c1997c0aeac526212fa00a35e87ff9ea550f66",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Assessing the Generalizability of Code2vec Token Embeddings",
+      "authors": [
+        "Hong Jin Kang",
+        "Tegawende F. Bissyande",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase.2019.00011",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d47f1239d13c153af15a6bb62e67109bcb5beaad",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Continuous Incident Triage for Large-Scale Online Service Systems",
+      "authors": [
+        "Junjie Chen",
+        "Xiaoting He",
+        "Qingwei Lin",
+        "Hongyu Zhang",
+        "Dan Hao",
+        "Feng Gao",
+        "Zhangwei Xu",
+        "Yingnong Dang",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00042",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cceabb876e96ea801068806892ec23824c3e5251",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression",
+      "authors": [
+        "Jinyang Liu",
+        "Jieming Zhu",
+        "Shilin He",
+        "Pinjia He",
+        "Zibin Zheng",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase.2019.00085",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7c27a2d3445dd4de1c82019922d0651655ec24a6",
+        "citationCount": 74,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models",
+      "authors": [
+        "Hao Zhang",
+        "W.K. Chan"
+      ],
+      "doi": "10.1109/ase.2019.00043",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "24868d7fbb1e15580af9dbcf1599c65f3e0108fd",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    15,
+    {
+      "title": "CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation",
+      "authors": [
+        "Kawser Wazed Nafi",
+        "Tonny Shekha Kar",
+        "Banani Roy",
+        "Chanchal K. Roy",
+        "Kevin A. Schneider"
+      ],
+      "doi": "10.1109/ase.2019.00099",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1a195105143918fdb4f64201d6a8e927a2a19aca",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Property Inference for Deep Neural Networks",
+      "authors": [
+        "Divya Gopinath",
+        "Hayes Converse",
+        "Corina Pasareanu",
+        "Ankur Taly"
+      ],
+      "doi": "10.1109/ase.2019.00079",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1da3aab62fc3d4540b36c851df7993c53441d2a7",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Inferring Program Transformations From Singular Examples via Big Code",
+      "authors": [
+        "Jiajun Jiang",
+        "Luyao Ren",
+        "Yingfei Xiong",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00033",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "18e56cf0c5ca2508f8d5e60add41380769580c56",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Test Transfer Across Mobile Apps Through Semantic Mapping",
+      "authors": [
+        "Jun-Wei Lin",
+        "Reyhaneh Jabbarvand",
+        "Sam Malek"
+      ],
+      "doi": "10.1109/ase.2019.00015",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7dc515396468f4207e659912a3f941b8420e19b0",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    19,
+    {
+      "title": "FogWorkflowSim: An Automated Simulation Toolkit for Workflow Performance Evaluation in Fog Computing",
+      "authors": [
+        "Xiao Liu",
+        "Lingmin Fan",
+        "Jia Xu",
+        "Xuejun Li",
+        "Lina Gong",
+        "John Grundy",
+        "Yun Yang"
+      ],
+      "doi": "10.1109/ase.2019.00115",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "22ba845b034ed99fba7b946b149dab3408c445bf",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Experience Paper: Search-Based Testing in Automated Driving Control Applications",
+      "authors": [
+        "Christoph Gladisch",
+        "Thomas Heinz",
+        "Christian Heinzemann",
+        "Jens Oehlerking",
+        "Anne von Vietinghoff",
+        "Tim Pfitzer"
+      ],
+      "doi": "10.1109/ase.2019.00013",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1efb3dd510bd283ba560206184d2c9b9e7709637",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Test Migration Between Mobile Apps with Similar Functionality",
+      "authors": [
+        "Farnaz Behrang",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1109/ase.2019.00016",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "901b924b87c303c092cccf0afe6efdb80a8f781a",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Regexes are Hard: Decision-Making, Difficulties, and Risks in Programming Regular Expressions",
+      "authors": [
+        "Louis G. Michael",
+        "James Donohue",
+        "James C. Davis",
+        "Dongyoon Lee",
+        "Francisco Servant"
+      ],
+      "doi": "10.1109/ase.2019.00047",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bd1b191937954d277559a184407022e7cf081dba",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    23,
+    {
+      "title": "An Image-Inspired and CNN-Based Android Malware Detection Approach",
+      "authors": [
+        "Xusheng Xiao",
+        "Shao Yang"
+      ],
+      "doi": "10.1109/ase.2019.00155",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0bdff3297b20c3b2be26dc69fd636eda4a78ec19",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences",
+      "authors": [
+        "Yuqi Chen",
+        "Christopher M. Poskitt",
+        "Jun Sun",
+        "Sridhar Adepu",
+        "Fan Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00093",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e363f8952599e238e7f59a3ec2828cedc063d588",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    25,
+    {
+      "title": "A Study of Oracle Approximations in Testing Deep Learning Libraries",
+      "authors": [
+        "Mahdi Nejadgholi",
+        "Jinqiu Yang"
+      ],
+      "doi": "10.1109/ase.2019.00078",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7db632f02712dcd1dcb761837b785d5dd449c965",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    26,
+    {
+      "title": "MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis",
+      "authors": [
+        "Yueming Wu",
+        "Xiaodi Li",
+        "Deqing Zou",
+        "Wei Yang",
+        "Xin Zhang",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/ase.2019.00023",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7faa2edeff5a19af28fa66ed6e629803252d51f0",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    27,
+    {
+      "title": "History-Guided Configuration Diversification for Compiler Test-Program Generation",
+      "authors": [
+        "Junjie Chen",
+        "Guancheng Wang",
+        "Dan Hao",
+        "Yingfei Xiong",
+        "Hongyu Zhang",
+        "Lu Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00037",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5844f8f04d914a954f1c3f8ff92d2ca8cc405ee8",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Machine Learning Based Recommendation of Method Names: How Far are We",
+      "authors": [
+        "Lin Jiang",
+        "Hui Liu",
+        "He Jiang"
+      ],
+      "doi": "10.1109/ase.2019.00062",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c6b23fdd783da257399d9f61cdcab678a63c8bbc",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Combining Spectrum-Based Fault Localization and Statistical Debugging: An Empirical Study",
+      "authors": [
+        "Jiajun Jiang",
+        "Ran Wang",
+        "Yingfei Xiong",
+        "Xiangping Chen",
+        "Lu Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00054",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6e7916d4ce3f47dbc48dd08715cef23d401e70a0",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    30,
+    {
+      "title": "MuSC: A Tool for Mutation Testing of Ethereum Smart Contract",
+      "authors": [
+        "Zixin Li",
+        "Haoran Wu",
+        "Jiehui Xu",
+        "Xingya Wang",
+        "Lingming Zhang",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/ase.2019.00136",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "79cc88510f88d7a720f49fe939a51728ba75ff77",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    31,
+    {
+      "title": "AutoFocus: Interpreting Attention-Based Neural Networks by Code Perturbation",
+      "authors": [
+        "Nghi D. Q. Bui",
+        "Yijun Yu",
+        "Lingxiao Jiang"
+      ],
+      "doi": "10.1109/ase.2019.00014",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "80ea9f9cc3814db8c8ccf4ef1110240409122b06",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Goal-Driven Exploration for Android Applications",
+      "authors": [
+        "Duling Lai",
+        "Julia Rubin"
+      ],
+      "doi": "10.1109/ase.2019.00021",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7f20dfd11428b2fd34dceaf768e32d03eb0cb16a",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    33,
+    {
+      "title": "RefBot: Intelligent Software Refactoring Bot",
+      "authors": [
+        "Vahid Alizadeh",
+        "Mohamed Amine Ouali",
+        "Marouane Kessentini",
+        "Meriem Chater"
+      ],
+      "doi": "10.1109/ase.2019.00081",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d2ca94d17213d681e15f6ddfb888ce13bf267d47",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    34,
+    {
+      "title": "A Machine Learning Based Approach to Identify SQL Injection Vulnerabilities",
+      "authors": [
+        "Kevin Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00164",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "32b9708559bddb2e5b0672198a4d164d1672f29c",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Automating App Review Response Generation",
+      "authors": [
+        "Cuiyun Gao",
+        "Jichuan Zeng",
+        "Xin Xia",
+        "David Lo",
+        "Michael R. Lyu",
+        "Irwin King"
+      ],
+      "doi": "10.1109/ase.2019.00025",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4232edf8c3853d6d1c8a239962351c0595d53d7f",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Systematically Covering Input Structure",
+      "authors": [
+        "Nikolas Havrikov",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1109/ase.2019.00027",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e4f9fb4582243c04f234722e0429f94831094907",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    37,
+    {
+      "title": "B2SFinder: Detecting Open-Source Software Reuse in COTS Software",
+      "authors": [
+        "Zimu Yuan",
+        "Muyue Feng",
+        "Feng Li",
+        "Gu Ban",
+        "Yang Xiao",
+        "Shiyang Wang",
+        "Qian Tang",
+        "He Su",
+        "Chendong Yu",
+        "Jiahuan Xu",
+        "Aihua Piao",
+        "Jingling Xuey",
+        "Wei Huo"
+      ],
+      "doi": "10.1109/ase.2019.00100",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f861d1cdf31a6250c4491cda4b1bbb00df8a0e86",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Understanding Exception-Related Bugs in Large-Scale Cloud Systems",
+      "authors": [
+        "Haicheng Chen",
+        "Wensheng Dou",
+        "Yanyan Jiang",
+        "Feng Qin"
+      ],
+      "doi": "10.1109/ase.2019.00040",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "621766079508768f3a1dd2e1d5c63905fcc53a7f",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    39,
+    {
+      "title": "VeriAbs : Verification by Abstraction and Test Generation",
+      "authors": [
+        "Mohammad Afzal",
+        "A. Asia",
+        "Avriti Chauhan",
+        "Bharti Chimdyalwar",
+        "Priyanka Darke",
+        "Advaita Datar",
+        "Shrawan Kumar",
+        "R. Venkatesh"
+      ],
+      "doi": "10.1109/ase.2019.00121",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "da105b962221f58b0176a3b5138516981f724044",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    40,
+    {
+      "title": "The Impact of Structure on Software Merging: Semistructured Versus Structured Merge",
+      "authors": [
+        "Guilherme Cavalcanti",
+        "Paulo Borba",
+        "Georg Seibt",
+        "Sven Apel"
+      ],
+      "doi": "10.1109/ase.2019.00097",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "26e1162c31c58170c9e3e9eee1186c7e1e2183e1",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Root Cause Localization for Unreproducible Builds via Causality Analysis Over System Call Tracing",
+      "authors": [
+        "Zhilei Ren",
+        "Changlin Liu",
+        "Xusheng Xiao",
+        "He Jiang",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/ase.2019.00056",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f3a535777703a0194dd82d552025dc8db604d404",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Lancer: Your Code Tell Me What You Need",
+      "authors": [
+        "Shufan Zhou",
+        "Beijun Shen",
+        "Hao Zhong"
+      ],
+      "doi": "10.1109/ase.2019.00137",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fd6e8b929a32d57d95925b2a820e41b3975a6548",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Empirical Evaluation of the Impact of Class Overlap on Software Defect Prediction",
+      "authors": [
+        "Lina Gong",
+        "Shujuan Jiang",
+        "Rongcun Wang",
+        "Li Jiang"
+      ],
+      "doi": "10.1109/ase.2019.00071",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "24e93b81929b45cfa540e9ee282493b91aa56805",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Performance-Boosting Sparsification of the IFDS Algorithm with Applications to Taint Analysis",
+      "authors": [
+        "Dongjie He",
+        "Haofeng Li",
+        "Lei Wang",
+        "Haining Meng",
+        "Hengjie Zheng",
+        "Jie Liu",
+        "Shuangwei Hu",
+        "Lian Li",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/ase.2019.00034",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8317ba8146a24268cc810128e42491d66d937904",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    45,
+    {
+      "title": "PraPR: Practical Program Repair via Bytecode Mutation",
+      "authors": [
+        "Ali Ghanbari",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00116",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7955339b6f22de7f6657c12a5fd9ef0c69c63e7d",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    46,
+    {
+      "title": "A Qualitative Analysis of Android Taint-Analysis Results",
+      "authors": [
+        "Linghui Luo",
+        "Eric Bodden",
+        "Johannes Spath"
+      ],
+      "doi": "10.1109/ase.2019.00020",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3af02fdc025a7d30f0a7aba6614b53ee0fdca33f",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    47,
+    {
+      "title": "OAUTHLINT: An Empirical Study on OAuth Bugs in Android Applications",
+      "authors": [
+        "Tamjid Al Rahat",
+        "Yu Feng",
+        "Yuan Tian"
+      ],
+      "doi": "10.1109/ase.2019.00036",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3bcc51faac57d6848ba16b3903c162607ecb1264",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Combining Program Analysis and Statistical Language Model for Code Statement Completion",
+      "authors": [
+        "Son Nguyen",
+        "Tien Nguyen",
+        "Yi Li",
+        "Shaohua Wang"
+      ],
+      "doi": "10.1109/ase.2019.00072",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "db8ef808ec93326e865353eeb9f203fd685af6f6",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Learning from Examples to Find Fully Qualified Names of API Elements in Code Snippets",
+      "authors": [
+        "C M Khaled Saifullah",
+        "Muhammad Asaduzzaman",
+        "Chanchal K. Roy"
+      ],
+      "doi": "10.1109/ase.2019.00032",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7a0006cb00bf0f938a98f3632420001171a49c3a",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Targeted Example Generation for Compilation Errors",
+      "authors": [
+        "Umair Z. Ahmed",
+        "Renuka Sindhgatta",
+        "Nisheeth Srivastava",
+        "Amey Karkare"
+      ],
+      "doi": "10.1109/ase.2019.00039",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0c6e2ea3d58b439b0d993d365b986a82c1a4ff7d",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Get Rid of Inline Assembly through Verification-Oriented Lifting",
+      "authors": [
+        "Frederic Recoules",
+        "Sebastien Bardin",
+        "Richard Bonichon",
+        "Laurent Mounier",
+        "Marie-Laure Potet"
+      ],
+      "doi": "10.1109/ase.2019.00060",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6b1e4961393c03c68d0799baf122836cd3eec4bf",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    52,
+    {
+      "title": "CodeKernel: A Graph Kernel Based Approach to the Selection of API Usage Examples",
+      "authors": [
+        "Xiaodong Gu",
+        "Hongyu Zhang",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1109/ase.2019.00061",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1d3325a8d194d4e8f4b30629cc6760b2a62756b7",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    53,
+    {
+      "title": "CoRA: Decomposing and Describing Tangled Code Changes for Reviewer",
+      "authors": [
+        "Min Wang",
+        "Zeqi Lin",
+        "Yanzhen Zou",
+        "Bing Xie"
+      ],
+      "doi": "10.1109/ase.2019.00101",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "27fa11f97213a0ad89dc194820e00cbb64ff9e8b",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    54,
+    {
+      "title": "DaPanda: Detecting Aggressive Push Notifications in Android Apps",
+      "authors": [
+        "Tianming Liu",
+        "Haoyu Wang",
+        "Li Li",
+        "Guangdong Bai",
+        "Yao Guo",
+        "Guoai Xu"
+      ],
+      "doi": "10.1109/ase.2019.00017",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2a90d5806d443e9e9228e806d7a3abf2d74a1f34",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    55,
+    {
+      "title": "LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform",
+      "authors": [
+        "Shengcheng Yu",
+        "Chunrong Fang",
+        "Yang Feng",
+        "Wenyuan Zhao",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/ase.2019.00103",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "223761eebd31dcde360ab72e2b538d18d061f856",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Discovering, Explaining and Summarizing Controversial Discussions in Community Q&amp;A Sites",
+      "authors": [
+        "Xiaoxue Ren",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "Guoqiang Li",
+        "Jianling Sun"
+      ],
+      "doi": "10.1109/ase.2019.00024",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "592843debcee8160a2473be2f57a56c6c30666da",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Semistructured Merge in JavaScript Systems",
+      "authors": [
+        "Alberto Trindade Tavares",
+        "Paulo Borba",
+        "Guilherme Cavalcanti",
+        "Sergio Soares"
+      ],
+      "doi": "10.1109/ase.2019.00098",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e8b876050f4fb9c01588c1c57054c8c0d32f5e29",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    58,
+    {
+      "title": "An Experience Report of Generating Load Tests Using Log-Recovered Workloads at Varying Granularities of User Behaviour",
+      "authors": [
+        "Jinfu Chen",
+        "Weiyi Shang",
+        "Ahmed E. Hassan",
+        "Yong Wang",
+        "Jiangbin Lin"
+      ],
+      "doi": "10.1109/ase.2019.00068",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "de55dcae8770234df1385b374414fbe1364d9b82",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Automating CUDA Synchronization via Program Transformation",
+      "authors": [
+        "Mingyuan Wu",
+        "Lingming Zhang",
+        "Cong Liu",
+        "Shin Hwei Tan",
+        "Yuqun Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00075",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d585d4d3fdf23061028c4f5e26a0cad765954d3b",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Characterizing Android App Signing Issues",
+      "authors": [
+        "Haoyu Wang",
+        "Hongxuan Liu",
+        "Xusheng Xiao",
+        "Guozhu Meng",
+        "Yao Guo"
+      ],
+      "doi": "10.1109/ase.2019.00035",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bbdd2be7524b872f1d609017c772560161946efd",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    61,
+    {
+      "title": "V2: Fast Detection of Configuration Drift in Python",
+      "authors": [
+        "Eric Horton",
+        "Chris Parnin"
+      ],
+      "doi": "10.1109/ase.2019.00052",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "087d35d5f581b7a3317a9b8c9ce82f4b4f3b1837",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Understanding Automatically-Generated Patches Through Symbolic Invariant Differences",
+      "authors": [
+        "Padraic Cashin",
+        "Carianne Martinez",
+        "Westley Weimer",
+        "Stephanie Forrest"
+      ],
+      "doi": "10.1109/ase.2019.00046",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0c935d9d14f811e5953d51cd4076b7a3aabfc077",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    63,
+    {
+      "title": "PeASS: A Tool for Identifying Performance Changes at Code Level",
+      "authors": [
+        "David Georg Reichelt",
+        "Stefan Kuhne",
+        "Wilhelm Hasselbring"
+      ],
+      "doi": "10.1109/ase.2019.00123",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "242c143eeb779609ea005a24d5607d7c4d7f27a7",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    64,
+    {
+      "title": "ACTGAN: Automatic Configuration Tuning for Software Systems with Generative Adversarial Networks",
+      "authors": [
+        "Liang Bao",
+        "Xin Liu",
+        "Fangzheng Wang",
+        "Baoyin Fang"
+      ],
+      "doi": "10.1109/ase.2019.00051",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ba0408a6f37359929b1c12af152139507e5963c4",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Detecting Error-Handling Bugs without Error Specification Input",
+      "authors": [
+        "Zhouyang Jia",
+        "Shanshan Li",
+        "Tingting Yu",
+        "Xiangke Liao",
+        "Ji Wang",
+        "Xiaodong Liu",
+        "Yunhuai Liu"
+      ],
+      "doi": "10.1109/ase.2019.00029",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "91a84dd6a18f031c0b4119062bfb46deb95ee4a5",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Crowdsourced Report Generation via Bug Screenshot Understanding",
+      "authors": [
+        "Shengcheng Yu"
+      ],
+      "doi": "10.1109/ase.2019.00161",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "69d26fc61c75d285c52c9cf11b9530b9bffd1515",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Testing Regex Generalizability And Its Implications: A Large-Scale Many-Language Measurement Study",
+      "authors": [
+        "James C Davis",
+        "Daniel Moyer",
+        "Ayaan M Kazerouni",
+        "Dongyoon Lee"
+      ],
+      "doi": "10.1109/ase.2019.00048",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b589da71c4821d8f733daed360b4d46b6d22e007",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    68,
+    {
+      "title": "MARBLE: Mining for Boilerplate Code to Identify API Usability Problems",
+      "authors": [
+        "Daye Nam",
+        "Amber Horvath",
+        "Andrew Macvean",
+        "Brad Myers",
+        "Bogdan Vasilescu"
+      ],
+      "doi": "10.1109/ase.2019.00063",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1ccd1cace479f5019ea94412acd0368a5183452f",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Coverage-Guided Fuzzing for Feedforward Neural Networks",
+      "authors": [
+        "Xiaofei Xie",
+        "Hongxu Chen",
+        "Yi Li",
+        "Lei Ma",
+        "Yang Liu",
+        "Jianjun Zhao"
+      ],
+      "doi": "10.1109/ase.2019.00127",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a48113d2fd8be43401ab49db609705016ffeb3b5",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    70,
+    {
+      "title": "TestCov: Robust Test-Suite Execution and Coverage Measurement",
+      "authors": [
+        "Dirk Beyer",
+        "Thomas Lemberger"
+      ],
+      "doi": "10.1109/ase.2019.00105",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d6448482611c7c1aa1d91cf4f1b30486cf6c103d",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    71,
+    {
+      "title": "NeuralVis: Visualizing and Interpreting Deep Learning Models",
+      "authors": [
+        "Xufan Zhang",
+        "Ziyue Yin",
+        "Yang Feng",
+        "Qingkai Shi",
+        "Jia Liu",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/ase.2019.00113",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "63357ec7c157be9388fb9b22f628125395cea142",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    72,
+    {
+      "title": "FPChecker: Detecting Floating-Point Exceptions in GPU Applications",
+      "authors": [
+        "Ignacio Laguna"
+      ],
+      "doi": "10.1109/ase.2019.00118",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ac448c7615fd6aff36004db15bf77df92d4d76d9",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Accurate Modeling of Performance Histories for Evolving Software Systems",
+      "authors": [
+        "Stefan Muhlbauer",
+        "Sven Apel",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1109/ase.2019.00065",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bae318d823a9856009f06c24195d17ff5d767579",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    74,
+    {
+      "title": "RANDR: Record and Replay for Android Applications via Targeted Runtime Instrumentation",
+      "authors": [
+        "Onur Sahin",
+        "Assel Aliyeva",
+        "Hariharan Mathavan",
+        "Ayse Coskun",
+        "Manuel Egele"
+      ],
+      "doi": "10.1109/ase.2019.00022",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7cd499ea947666b50dd5f2d26563ac455a147c72",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    75,
+    {
+      "title": "RENN: Efficient Reverse Execution with Neural-Network-Assisted Alias Analysis",
+      "authors": [
+        "Dongliang Mu",
+        "Wenbo Guo",
+        "Alejandro Cuevas",
+        "Yueqi Chen",
+        "Jinxuan Gai",
+        "Xinyu Xing",
+        "Bing Mao",
+        "Chengyu Song"
+      ],
+      "doi": "10.1109/ase.2019.00090",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "24bb3e67af9a4a2fb4fd6d89ae607694b4e52c8a",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Tackling Build Failures in Continuous Integration",
+      "authors": [
+        "Foyzul Hassan"
+      ],
+      "doi": "10.1109/ase.2019.00150",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6fb428399dac16ec597d28a3e5d3e33548933391",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Empirical Study of Python Call Graph",
+      "authors": [
+        "Li Yu"
+      ],
+      "doi": "10.1109/ase.2019.00160",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7a213c71df723540d5986f0a57eb87b2dd72122f",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Statistical Log Differencing",
+      "authors": [
+        "Lingfeng Bao",
+        "Nimrod Busany",
+        "David Lo",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1109/ase.2019.00084",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8bd34336516408846e1aa9822fb60c31b1daf1a8",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Batch Alias Analysis",
+      "authors": [
+        "Jyothi Vedurada",
+        "V. Krishna Nandivada"
+      ],
+      "doi": "10.1109/ase.2019.00091",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ececd4fbb351c84b39cc4b02cee8ccff9b1a2fdc",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Active Hotspot: An Issue-Oriented Model to Monitor Software Evolution and Degradation",
+      "authors": [
+        "Qiong Feng",
+        "Yuanfang Cai",
+        "Rick Kazman",
+        "Di Cui",
+        "Ting Liu",
+        "Hongzhou Fang"
+      ],
+      "doi": "10.1109/ase.2019.00095",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cb12be9cfa1a1946ee3f2c85429f7ef4cc41a377",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    81,
+    {
+      "title": "InFix: Automatically Repairing Novice Program Inputs",
+      "authors": [
+        "Madeline Endres",
+        "Georgios Sakkas",
+        "Benjamin Cosman",
+        "Ranjit Jhala",
+        "Westley Weimer"
+      ],
+      "doi": "10.1109/ase.2019.00045",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c06c90acb638aa33928a3eacae0fbca957de8ac6",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Automatic Generation of Graphical User Interface Prototypes from Unrestricted Natural Language Requirements",
+      "authors": [
+        "Kristian Kolthoff"
+      ],
+      "doi": "10.1109/ase.2019.00148",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b37dcd6fea85e60d2688e7a7861c506e20c0638d",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Cautious Adaptation of Defiant Components",
+      "authors": [
+        "Paulo Henrique Maia",
+        "Lucas Vieira",
+        "Matheus Chagas",
+        "Yijun Yu",
+        "Andrea Zisman",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/ase.2019.00094",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b26e4a021f598ad7e3b652a3a3bd1e7f4010ec19",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    84,
+    {
+      "title": "iFeedback: Exploiting User Feedback for Real-Time Issue Detection in Large-Scale Online Service Systems",
+      "authors": [
+        "Wujie Zheng",
+        "Haochuan Lu",
+        "Yangfan Zhou",
+        "Jianming Liang",
+        "Haibing Zheng",
+        "Yuetang Deng"
+      ],
+      "doi": "10.1109/ase.2019.00041",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d405b4159f4b2a7ddbec858e22ca6039c63ce58b",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Emotions Extracted from Text vs. True Emotions\u2013An Empirical Evaluation in SE Context",
+      "authors": [
+        "Yi Wang"
+      ],
+      "doi": "10.1109/ase.2019.00031",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c815ac9e6f15fa5fe34c2d52d94b68113576e7e4",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Feature-Interaction Aware Configuration Prioritization for Configurable Code",
+      "authors": [
+        "Son Nguyen",
+        "Hoan Nguyen",
+        "Ngoc Tran",
+        "Hieu Tran",
+        "Tien Nguyen"
+      ],
+      "doi": "10.1109/ase.2019.00053",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "502d62d7aabf60984ee85b533d447d4a604fa9ed",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Pangolin: An SFL-Based Toolset for Feature Localization",
+      "authors": [
+        "Bruno Castro",
+        "Alexandre Perez",
+        "Rui Abreu"
+      ],
+      "doi": "10.1109/ase.2019.00119",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2ce1f6e3fad4e020506bb77eb85509a948332305",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    88,
+    {
+      "title": "A Quantitative Analysis Framework for Recurrent Neural Network",
+      "authors": [
+        "Xiaoning Du",
+        "Xiaofei Xie",
+        "Yi Li",
+        "Lei Ma",
+        "Yang Liu",
+        "Jianjun Zhao"
+      ],
+      "doi": "10.1109/ase.2019.00102",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5c297029575d5ce3ebe5a18edc31c63bc84e1076",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Improving the Decision-Making Process of Self-Adaptive Systems by Accounting for Tactic Volatility",
+      "authors": [
+        "Jeffrey Palmerino",
+        "Qi Yu",
+        "Travis Desell",
+        "Daniel Krutz"
+      ],
+      "doi": "10.1109/ase.2019.00092",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d708500e283314a754eb7b6624dfd94b21c29498",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Subformula Caching for Model Counting and Quantitative Program Analysis",
+      "authors": [
+        "William Eiers",
+        "Seemanta Saha",
+        "Tegan Brennan",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1109/ase.2019.00050",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8420af9cb720e04ef6630cd39075912c5c49d77d",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Demystifying Application Performance Management Libraries for Android",
+      "authors": [
+        "Yutian Tang",
+        "Xian Zhan",
+        "Hao Zhou",
+        "Xiapu Luo",
+        "Zhou Xu",
+        "Yajin Zhou",
+        "Qiben Yan"
+      ],
+      "doi": "10.1109/ase.2019.00069",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "265957bed32065b986cca02e81e7dee60380bf96",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Verifying Arithmetic in Cryptographic C Programs",
+      "authors": [
+        "Jiaxiang Liu",
+        "Xiaomu Shi",
+        "Ming-Hsien Tsai",
+        "Bow-Yaw Wang",
+        "Bo-Yin Yang"
+      ],
+      "doi": "10.1109/ase.2019.00058",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0980b90bf533d3c96c36832e94493c0fda70cf95",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Debreach: Mitigating Compression Side Channels via Static Analysis and Transformation",
+      "authors": [
+        "Brandon Paulsen",
+        "Chungha Sung",
+        "Peter A.H. Peterson",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/ase.2019.00088",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d4b4c2047d7504706f0f7eb35463fbd6cfadb774",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Trusted Software Supply Chain",
+      "authors": [
+        "Kapil Singi",
+        "Jagadeesh Chandra Bose R P",
+        "Sanjay Podder",
+        "Adam P. Burden"
+      ],
+      "doi": "10.1109/ase.2019.00141",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9eaea924ccf995e2c5fdf776895d6ca23f66adaa",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Developer Reputation Estimator (DRE)",
+      "authors": [
+        "Sadika Amreen",
+        "Andrey Karnauch",
+        "Audris Mockus"
+      ],
+      "doi": "10.1109/ase.2019.00107",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "078b7993b74ad3ed6d3dc6cf7d416b88e8e75026",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    96,
+    {
+      "title": "SCMiner: Localizing System-Level Concurrency Faults from Large System Call Traces",
+      "authors": [
+        "Tarannum Shaila Zaman",
+        "Xue Han",
+        "Tingting Yu"
+      ],
+      "doi": "10.1109/ase.2019.00055",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2580cda31e39a1c305a81bfeee4af022bb8c1374",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    97,
+    {
+      "title": "SWAN_ASSIST: Semi-Automated Detection of Code-Specific, Security-Relevant Methods",
+      "authors": [
+        "Goran Piskachev",
+        "Lisa Nguyen Quang Do",
+        "Oshando Johnson",
+        "Eric Bodden"
+      ],
+      "doi": "10.1109/ase.2019.00110",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bc063b89c853444950650bf2dab602c143d68331",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Boosting Neural Commit Message Generation with Code Semantic Analysis",
+      "authors": [
+        "Shuyao Jiang"
+      ],
+      "doi": "10.1109/ase.2019.00162",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2bf6d2512cb0d49a880d8e86f30dee5b46f2306b",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    99,
+    {
+      "title": "ReduKtor: How We Stopped Worrying About Bugs in Kotlin Compiler",
+      "authors": [
+        "Daniil Stepanov",
+        "Marat Akhin",
+        "Mikhail Belyaev"
+      ],
+      "doi": "10.1109/ase.2019.00038",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ef7ce4364fe2a60ac0ab6217e60cffa1db3432f8",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    100,
+    {
+      "title": "MutAPK: Source-Codeless Mutant Generation for Android Apps",
+      "authors": [
+        "Camilo Escobar-Velasquez",
+        "Michael Osorio-Riano",
+        "Mario Linares-Vasquez"
+      ],
+      "doi": "10.1109/ase.2019.00109",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a773918f44d6d6a19b95fff3aa9b4aa374f12f13",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    101,
+    {
+      "title": "MAP-Coverage: A Novel Coverage Criterion for Testing Thread-Safe Classes",
+      "authors": [
+        "Zan Wang",
+        "Yingquan Zhao",
+        "Shuang Liu",
+        "Jun Sun",
+        "Xiang Chen",
+        "Huarui Lin"
+      ],
+      "doi": "10.1109/ase.2019.00073",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a3b2681b96a4eaab22d7c4c698171aa678947417",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    102,
+    {
+      "title": "How Do API Selections Affect the Runtime Performance of Data Analytics Tasks?",
+      "authors": [
+        "Yida Tao",
+        "Shan Tang",
+        "Yepang Liu",
+        "Zhiwu Xu",
+        "Shengchao Qin"
+      ],
+      "doi": "10.1109/ase.2019.00067",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "03a71ecf68cddf1d9c520a09c3b4230c40d0360e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Kotless: A Serverless Framework for Kotlin",
+      "authors": [
+        "Vladislav Tankov",
+        "Yaroslav Golubev",
+        "Timofey Bryksin"
+      ],
+      "doi": "10.1109/ase.2019.00114",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7a2b86b93a55f2a262a796603961d95d5056902c",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Code-First Model-Driven Engineering: On the Agile Adoption of MDE Tooling",
+      "authors": [
+        "Artur Boronat"
+      ],
+      "doi": "10.1109/ase.2019.00086",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fd4a53ca9c9b3db3b3cfba268c0be882d0ace701",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    105,
+    {
+      "title": "An Industrial Experience Report on Performance-Aware Refactoring on a Database-Centric Web Application",
+      "authors": [
+        "Boyuan Chen",
+        "Zhen Ming Jiang",
+        "Paul Matos",
+        "Michael Lacaria"
+      ],
+      "doi": "10.1109/ase.2019.00066",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "16160cf93b9990a575f17d31be7bba87c11351bd",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Improving Patch Quality by Enhancing Key Components of Automatic Program Repair",
+      "authors": [
+        "Mauricio Soto"
+      ],
+      "doi": "10.1109/ase.2019.00147",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "339432842df0811d18ee290846a82db04681c78e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Visual Analytics for Concurrent Java Executions",
+      "authors": [
+        "Cyrille Artho",
+        "Monali Pande",
+        "Qiyi Tang"
+      ],
+      "doi": "10.1109/ase.2019.00112",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3c117f1be860fbcfd08af9510bc9ad07d88ca5a5",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Automated Refactoring to Reactive Programming",
+      "authors": [
+        "Mirko Kohler",
+        "Guido Salvaneschi"
+      ],
+      "doi": "10.1109/ase.2019.00082",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1e9782a34edbbc535be1d7c999e0470ceda092e6",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Predicting Licenses for Changed Source Code",
+      "authors": [
+        "Xiaoyu Liu",
+        "LiGuo Huang",
+        "Jidong Ge",
+        "Vincent Ng"
+      ],
+      "doi": "10.1109/ase.2019.00070",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "07a7a4a65091dcab8e5dededc918d0602134dabd",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    110,
+    {
+      "title": "CONVUL: An Effective Tool for Detecting Concurrency Vulnerabilities",
+      "authors": [
+        "Ruijie Meng",
+        "Biyun Zhu",
+        "Hao Yun",
+        "Haicheng Li",
+        "Yan Cai",
+        "Zijiang Yang"
+      ],
+      "doi": "10.1109/ase.2019.00125",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "35b01d0d79890ccc11209b52d2160c8268606495",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    111,
+    {
+      "title": "VisFuzz: Understanding and Intervening Fuzzing with Interactive Visualization",
+      "authors": [
+        "Chijin Zhou",
+        "Mingzhe Wang",
+        "Jie Liang",
+        "Zhe Liu",
+        "Chengnian Sun",
+        "Yu Jiang"
+      ],
+      "doi": "10.1109/ase.2019.00106",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "86f76111b86ddce5722585e66da2ba12fa659e96",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Ares: Inferring Error Specifications through Static Analysis",
+      "authors": [
+        "Chi Li",
+        "Min Zhou",
+        "Zuxing Gu",
+        "Ming Gu",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00130",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "761ed9f3a435061eea0521c3464129cecf8886c5",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    113,
+    {
+      "title": "XRaSE: Towards Virtually Tangible Software using Augmented Reality",
+      "authors": [
+        "Rohit Mehra",
+        "Vibhu Saujanya Sharma",
+        "Vikrant Kaulgud",
+        "Sanjay Podder"
+      ],
+      "doi": "10.1109/ase.2019.00135",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8a0b1d6408eda7f37d6905d298343fdb5bf0796b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    114,
+    {
+      "title": "mCUTE: A Model-Level Concolic Unit Testing Engine for UML State Machines",
+      "authors": [
+        "Reza Ahmadi",
+        "Karim Jahed",
+        "Juergen Dingel"
+      ],
+      "doi": "10.1109/ase.2019.00132",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cf02b8698aa942f51355fc9f9ec127e7ee3e4ba2",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    115,
+    {
+      "title": "BuRRiTo: A Framework to Extract, Specify, Verify and Analyze Business Rules",
+      "authors": [
+        "Pavan Kumar Chittimalli",
+        "Kritika Anand",
+        "Shrishti Pradhan",
+        "Sayandeep Mitra",
+        "Chandan Prakash",
+        "Rohit Shere",
+        "Ravindra Naik"
+      ],
+      "doi": "10.1109/ase.2019.00134",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "679e757f8eaaa257fec9f4ba835371f12cb68156",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Improving Collaboration Efficiency in Fork-Based Development",
+      "authors": [
+        "Shurui Zhou"
+      ],
+      "doi": "10.1109/ase.2019.00144",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ea1e24f264ff87c894bf2b4babab74fb7cd6804f",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    117,
+    {
+      "title": "A Journey Towards Providing Intelligence and Actionable Insights to Development Teams in Software Delivery",
+      "authors": [
+        "Vibhu Saujanya Sharma",
+        "Rohit Mehra",
+        "Sanjay Podder",
+        "Adam P. Burden"
+      ],
+      "doi": "10.1109/ase.2019.00142",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3fd95b54ab382a3d809ae55bc8d43f2cae3d7c51",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Enabling Continuous Improvement of a Continuous Integration Process",
+      "authors": [
+        "Carmine Vassallo"
+      ],
+      "doi": "10.1109/ase.2019.00151",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "60eae686dd5ba4fd178cae726cea7fb39a6026b2",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Mutation Analysis for Coq",
+      "authors": [
+        "Ahmet Celik",
+        "Karl Palmskog",
+        "Marinela Parovic",
+        "Emilio Jesus Gallego Arias",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1109/ase.2019.00057",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b7cb64152a2210993f5430a353c35649baf22ccd",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs",
+      "authors": [
+        "Ernest Pobee",
+        "Xiupei Mei",
+        "W.K. Chan"
+      ],
+      "doi": "10.1109/ase.2019.00076",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f45f3bc97d796e3c7ff726246f4edb9c9b790c64",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    121,
+    {
+      "title": "PMExec: An Execution Engine of Partial UML-RT Models",
+      "authors": [
+        "Mojtaba Bagherzadeh",
+        "Karim Jahed",
+        "Nafiseh Kahani",
+        "Juergen Dingel"
+      ],
+      "doi": "10.1109/ase.2019.00131",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "61ec10f894cf6e088b52fbc78411826f0c60cf9c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    122,
+    {
+      "title": "TsmartGP: A Tool for Finding Memory Defects with Pointer Analysis",
+      "authors": [
+        "Yuexing Wang",
+        "Guang Chen",
+        "Min Zhou",
+        "Ming Gu",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1109/ase.2019.00129",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "36c73b8a7bf83ea2285539b717af788bd29b6a92",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Automated Trainability Evaluation for Smart Software Functions",
+      "authors": [
+        "Ilias Gerostathopoulos",
+        "Stefan Kugele",
+        "Christoph Segler",
+        "Tomas Bures",
+        "Alois Knoll"
+      ],
+      "doi": "10.1109/ase.2019.00096",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "867b3bade011039d90abd8b1177c785aa390d0e3",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Automatic Self-Validation for Code Coverage Profilers",
+      "authors": [
+        "Yibiao Yang",
+        "Yanyan Jiang",
+        "Zhiqiang Zuo",
+        "Yang Wang",
+        "Hao Sun",
+        "Hongmin Lu",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/ase.2019.00018",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1380f91f3a0fede1b11cecb526a4b94dc8432467",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Accurate String Constraints Solution Counting with Weighted Automata",
+      "authors": [
+        "Elena Sherman",
+        "Andrew Harris"
+      ],
+      "doi": "10.1109/ase.2019.00049",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0975a8223506f309c60c8283b608fed5a14966c6",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    126,
+    {
+      "title": "PTracer: A Linux Kernel Patch Trace Bot",
+      "authors": [
+        "Yang Wen",
+        "Jicheng Cao",
+        "Shengyu Cheng"
+      ],
+      "doi": "10.1109/ase.2019.00140",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6124deef582fe094b591f87a70b508e3f71493f3",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    127,
+    {
+      "title": "CocoQa: Question Answering for Coding Conventions Over Knowledge Graphs",
+      "authors": [
+        "Tianjiao Du",
+        "Junming Cao",
+        "Qinyue Wu",
+        "Wei Li",
+        "Beijun Shen",
+        "Yuting Chen"
+      ],
+      "doi": "10.1109/ase.2019.00108",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d3e6eb74478b30a2cc2e4003b4fa7b6ca0576f84",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Sip4J: Statically Inferring Access Permission Contracts for Parallelising Sequential Java Programs",
+      "authors": [
+        "Ayesha Sadiq",
+        "Li Li",
+        "Yuan-Fang Li",
+        "Ijaz Ahmed",
+        "Sea Ling"
+      ],
+      "doi": "10.1109/ase.2019.00111",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e575cfc1cd56a66659b092e7b6a8cae75d60d99a",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Fine-Grain Memory Object Representation in Symbolic Execution",
+      "authors": [
+        "Martin Nowack"
+      ],
+      "doi": "10.1109/ase.2019.00089",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f70cedfc5caaf8bed95463b0822024c48d62a7f1",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    130,
+    {
+      "title": "Grading-Based Test Suite Augmentation",
+      "authors": [
+        "Jonathan Osei-Owusu",
+        "Angello Astorga",
+        "Liia Butler",
+        "Tao Xie",
+        "Geoffrey Challen"
+      ],
+      "doi": "10.1109/ase.2019.00030",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a201f99804ada363101a6b6827b3f6d457280447",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Model Checking Embedded Control Software using OS-in-the-Loop CEGAR",
+      "authors": [
+        "Dongwoo Kim",
+        "Yunja Choi"
+      ],
+      "doi": "10.1109/ase.2019.00059",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2aab5bc3acdc2903708573608368358779e7d013",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Size and Accuracy in Model Inference",
+      "authors": [
+        "Nimrod Busany",
+        "Shahar Maoz",
+        "Yehonatan Yulazari"
+      ],
+      "doi": "10.1109/ase.2019.00087",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "95f5daac2deb8f76743a287ed994d87cd782aa37",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Test Automation and Its Limitations: A Case Study",
+      "authors": [
+        "Ahyoung Sung",
+        "Sangjun Kim",
+        "Yangsu Kim",
+        "Younggun Jang",
+        "Jongin Kim"
+      ],
+      "doi": "10.1109/ase.2019.00139",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "89f4e12123063c694875f99a742777fe6bc83e4a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    134,
+    {
+      "title": "SGUARD: A Feature-Based Clustering Tool for Effective Spreadsheet Defect Detection",
+      "authors": [
+        "Da Li",
+        "Huiyan Wang",
+        "Chang Xu",
+        "Ruiqing Zhang",
+        "Shing-Chi Cheung",
+        "Xiaoxing Ma"
+      ],
+      "doi": "10.1109/ase.2019.00122",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f48795f665b45d1a916a756ea5f3e6b5e791ad36",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    135,
+    {
+      "title": "SPrinter: A Static Checker for Finding Smart Pointer Errors in C++ Programs",
+      "authors": [
+        "Xutong Ma",
+        "Jiwei Yan",
+        "Yaqi Li",
+        "Jun Yan",
+        "Jian Zhang"
+      ],
+      "doi": "10.1109/ase.2019.00117",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "35c0acd032b0217c040e3dc7611e6fa8eb8a616b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    136,
+    {
+      "title": "An Approach for Investigating Emotion Dynamics in Software Development",
+      "authors": [
+        "Krishna Neupane"
+      ],
+      "doi": "10.1109/ase.2019.00158",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "edb053e57820b82298ee967d13635f780b89877a",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Toward Practical Automatic Program Repair",
+      "authors": [
+        "Ali Ghanbari"
+      ],
+      "doi": "10.1109/ase.2019.00156",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c5931ec84a6e6f12638efad2ecfcfee686e0e13f",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    138,
+    {
+      "title": "Empirical Study of Programming to an Interface",
+      "authors": [
+        "Benoit Verhaeghe",
+        "Christopher Fuhrman",
+        "Latifa Guerrouj",
+        "Nicolas Anquetil",
+        "Stephane Ducasse"
+      ],
+      "doi": "10.1109/ase.2019.00083",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c3e1a61586f316e031cb2df7a382d42436c746be",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    139,
+    {
+      "title": "VeriSmart 2.0: Swarm-Based Bug-Finding for Multi-threaded Programs with Lazy-CSeq",
+      "authors": [
+        "Bernd Fischer",
+        "Salvatore La Torre",
+        "Gennaro Parlato"
+      ],
+      "doi": "10.1109/ase.2019.00124",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ab13a815d8b248253229b9f71314e105741fa6a6",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    140,
+    {
+      "title": "SiMPOSE - Configurable N-Way Program Merging Strategies for Superimposition-Based Analysis of Variant-Rich Software",
+      "authors": [
+        "Dennis Reuling",
+        "Udo Kelter",
+        "Sebastian Ruland",
+        "Malte Lochau"
+      ],
+      "doi": "10.1109/ase.2019.00120",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "eb9df89a72f89e2745dfc0f5555c94e2e0cbee78",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Better Development of Safety Critical Systems: Chinese High Speed Railway System Development Experience Report",
+      "authors": [
+        "ZhiWei Wu",
+        "Jing Liu",
+        "Xiang Chen"
+      ],
+      "doi": "10.1109/ase.2019.00143",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "64ab4382b9058c3a63a63d8cf450f89d3c954acb",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Prema: A Tool for Precise Requirements Editing, Modeling and Analysis",
+      "authors": [
+        "Yihao Huang",
+        "Jincao Feng",
+        "Hanyue Zheng",
+        "Jiayi Zhu",
+        "Shang Wang",
+        "Siyuan Jiang",
+        "Weikai Miao",
+        "Geguang Pu"
+      ],
+      "doi": "10.1109/ase.2019.00128",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f89903ba3105aeaa0626d70e30fc11c7a4ec3125",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Automating Non-Blocking Synchronization In Concurrent Data Abstractions",
+      "authors": [
+        "Jiange Zhang",
+        "Qing Yi",
+        "Damian Dechev"
+      ],
+      "doi": "10.1109/ase.2019.00074",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b6dbaaadf72f6d369c4219df223aa92a77588a41",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Towards Comprehensible Representation of Controllers using Machine Learning",
+      "authors": [
+        "Gargi Balasubramaniam"
+      ],
+      "doi": "10.1109/ase.2019.00163",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5e31b41621684fb2439d2060002162a7adb0ae55",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Generating Tests to Analyse Dynamically-Typed Programs",
+      "authors": [
+        "Stephan Lukasczyk"
+      ],
+      "doi": "10.1109/ase.2019.00146",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "714751285dec4aa9d0d292b3c04c4dfc23e733e9",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    146,
+    {
+      "title": "API Design Implications of Boilerplate Client Code",
+      "authors": [
+        "Daye Nam"
+      ],
+      "doi": "10.1109/ase.2019.00153",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f4f9053f35f11faa360ebf3b6a9c65d7fcc8b53e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Automatically Repairing Binary Programs Using Adapter Synthesis",
+      "authors": [
+        "Vaibhav Sharma"
+      ],
+      "doi": "10.1109/ase.2019.00149",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "363bdfbb204df6434bba05e56d75302e1fee6e6e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Compile-Time Detection of Machine Image Sniping",
+      "authors": [
+        "Martin Kellogg"
+      ],
+      "doi": "10.1109/ase.2019.00154",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "037b5c3604240b2733f6c66fa2d8255cdeaf5845",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    149,
+    {
+      "title": "Efficient Test Generation Guided by Field Coverage Criteria",
+      "authors": [
+        "Ariel Godio",
+        "Valeria Bengolea",
+        "Pablo Ponzio",
+        "Nazareno Aguirre",
+        "Marcelo Fabian Frias"
+      ],
+      "doi": "10.1109/ase.2019.00019",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9e2e37cac8e3c82a853a9825538b0c4e172ce928",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    150,
+    {
+      "title": "SEGATE: Unveiling Semantic Inconsistencies between Code and Specification of String Inputs",
+      "authors": [
+        "Devika Sondhi",
+        "Rahul Purandare"
+      ],
+      "doi": "10.1109/ase.2019.00028",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6f899618bb0547f8efbd46cb9c7bba823a1c1667",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Inference of Properties from Requirements and Automation of Their Formal Verification",
+      "authors": [
+        "Marina Reich"
+      ],
+      "doi": "10.1109/ase.2019.00145",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8c7fee0affaa2df8501937362a5cc2b0f8e5697b",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    152,
+    {
+      "title": "PHANTA: Diversified Test Code Quality Measurement for Modern Software Development",
+      "authors": [
+        "Susumu Tokumoto",
+        "Kuniharu Takayama"
+      ],
+      "doi": "10.1109/ase.2019.00138",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d1ec36244f7fe4de411db42395daadeda87ceeb9",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Copyright Page",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00003",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6a4fff86533fdf04e35fc42b3701ab7009d3148c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00004",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f1883bc126d3d77b6c395814c6fe1a5809a23368",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Message from the Chairs",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00005",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    156,
+    {
+      "title": "Steering Committee",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00008",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Author Index",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00165",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    158,
+    {
+      "title": "User Preference Aware Multimedia Pricing Model using Game Theory and Prospect Theory for Wireless Communications",
+      "authors": [
+        "Krishna Murthy Kattiyan Ramamoorthy"
+      ],
+      "doi": "10.1109/ase.2019.00157",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9159f5222600085d74a5a701fcc85a4399d2cb3c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Keynotes",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00010",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Verifying Determinism in Sequential Programs",
+      "authors": [
+        "Rashmi Mudduluru"
+      ],
+      "doi": "10.1109/ase.2019.00159",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6184cdfe16254738a0ad268787a6468235be628e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Title Page i",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00001",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c3cf993179557462dc180d6160adf29b5efa8350",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    162,
+    {
+      "title": "ASE 2019 Organization",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00006",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3584027f5a0aa93f6cc9ac3ce82879dce3e0835b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    163,
+    {
+      "title": "Title Page iii",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00002",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9b28aa4453e4d10b4735c4a573b1b03a7f628628",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Sponsors and Supporters",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00009",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d97e534decd78f511935bf5a0bc55e9cfd47a0e1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Program Committees and Reviewers",
+      "authors": [],
+      "doi": "10.1109/ase.2019.00007",
+      "venue": "2019 34th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "246befaefa25f951ce9502a1459fb485689321d6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ]
+]

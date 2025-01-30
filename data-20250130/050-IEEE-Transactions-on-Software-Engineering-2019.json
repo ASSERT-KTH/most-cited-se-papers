@@ -1,0 +1,1439 @@
+[
+  [
+    1,
+    {
+      "title": "The Impact of Automated Parameter Optimization on Defect Prediction Models",
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E. Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1109/tse.2018.2794977",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8aee118e7a7213f410a21019765753365c2e1f78",
+        "citationCount": 298,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    2,
+    {
+      "title": "A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction",
+      "authors": [
+        "Seyedrebvar Hosseini",
+        "Burak Turhan",
+        "Dimuthu Gunarathna"
+      ],
+      "doi": "10.1109/tse.2017.2770124",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f8f269626b0e44230087be3510fac398ef589d7d",
+        "citationCount": 233,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    3,
+    {
+      "title": "A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction",
+      "authors": [
+        "Qinbao Song",
+        "Yuchen Guo",
+        "Martin Shepperd"
+      ],
+      "doi": "10.1109/tse.2018.2836442",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "9753d3d5f54f5fccd6a6ef7df58cb5a94918536d",
+        "citationCount": 201,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Predictive Mutation Testing",
+      "authors": [
+        "Jie Zhang",
+        "Lingming Zhang",
+        "Mark Harman",
+        "Dan Hao",
+        "Yue Jia",
+        "Lu Zhang"
+      ],
+      "doi": "10.1109/tse.2018.2809496",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2de27aa99bdc8b27cfbd9f67f2375ca52874e1ce",
+        "citationCount": 162,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    5,
+    {
+      "title": "A Deep Learning Model for Estimating Story Points",
+      "authors": [
+        "Morakot Choetkiertikul",
+        "Hoa Khanh Dam",
+        "Truyen Tran",
+        "Trang Pham",
+        "Aditya Ghose",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/tse.2018.2792473",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "59772804b59747aff4e79f75d706378c4271cdc6",
+        "citationCount": 159,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Correction of \u201cA Comparative Study to Benchmark Cross-Project Defect Prediction Approaches\u201d",
+      "authors": [
+        "Steffen Herbold",
+        "Alexander Trautsch",
+        "Jens Grabowski"
+      ],
+      "doi": "10.1109/tse.2018.2790413",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "466e6de7b08f755a76d1a567c1f71f54f0b29ba9",
+        "citationCount": 103,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    7,
+    {
+      "title": "A Systematic Evaluation of Static API-Misuse Detectors",
+      "authors": [
+        "Sven Amann",
+        "Hoan Anh Nguyen",
+        "Sarah Nadi",
+        "Tien N. Nguyen",
+        "Mira Mezini"
+      ],
+      "doi": "10.1109/tse.2018.2827384",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f436230166963725638114133ddb4fa096a9c4d4",
+        "citationCount": 103,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Toward a Smell-Aware Bug Prediction Model",
+      "authors": [
+        "Fabio Palomba",
+        "Marco Zanoni",
+        "Francesca Arcelli Fontana",
+        "Andrea De Lucia",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1109/tse.2017.2770122",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "69f0217d75a7acfcc21903505ea261912272e941",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Developer Testing in the IDE: Patterns, Beliefs, and Behavior",
+      "authors": [
+        "Moritz Beller",
+        "Georgios Gousios",
+        "Annibale Panichella",
+        "Sebastian Proksch",
+        "Sven Amann",
+        "Andy Zaidman"
+      ],
+      "doi": "10.1109/tse.2017.2776152",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d6d1927387c8cb3e364aad65de593cb112683992",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Listening to the Crowd for the Release Planning of Mobile Apps",
+      "authors": [
+        "Simone Scalabrino",
+        "Gabriele Bavota",
+        "Barbara Russo",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1109/tse.2017.2759112",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "620506162050590c19f0fac7712c0a3017fa6a73",
+        "citationCount": 78,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Toward Methodological Guidelines for Process Theories and Taxonomies in Software Engineering",
+      "authors": [
+        "Paul Ralph"
+      ],
+      "doi": "10.1109/tse.2018.2796554",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "3730dbf96ca4ff702a5dd2a035d0e0782b6f7c72",
+        "citationCount": 78,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    12,
+    {
+      "title": "On the Multiple Sources and Privacy Preservation Issues for Heterogeneous Defect Prediction",
+      "authors": [
+        "Zhiqiang Li",
+        "Xiao-Yuan Jing",
+        "Xiaoke Zhu",
+        "Hongyu Zhang",
+        "Baowen Xu",
+        "Shi Ying"
+      ],
+      "doi": "10.1109/tse.2017.2780222",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "c97458ccd355c361103d5401d46fabb39d0f9429",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Bellwethers: A Baseline Method for Transfer Learning",
+      "authors": [
+        "Rahul Krishna",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/tse.2018.2821670",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "1b4393f4c57554be5f5210a07cbb74e1287d4d96",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Text Filtering and Ranking for Security Bug Report Prediction",
+      "authors": [
+        "Fayola Peters",
+        "Thein Than Tun",
+        "Yijun Yu",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/tse.2017.2787653",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "26bcbab21f8bb02db99afde05d6f9042972de090",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Test Generation and Test Prioritization for Simulink Models with Dynamic Behavior",
+      "authors": [
+        "Reza Matinnejad",
+        "Shiva Nejati",
+        "Lionel C. Briand",
+        "Thomas Bruckmann"
+      ],
+      "doi": "10.1109/tse.2018.2811489",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "807aa952df8fdd365bf6dad206b0f732f50ca8ef",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    16,
+    {
+      "title": "The Good, the Bad and the Ugly: A Study of Security Decisions in a Cyber-Physical Systems Game",
+      "authors": [
+        "Sylvain Frey",
+        "Awais Rashid",
+        "Pauline Anthonysamy",
+        "Maria Pinto-Albuquerque",
+        "Syed Asad Naqvi"
+      ],
+      "doi": "10.1109/tse.2017.2782813",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f24920aacc90ed9f83744665283a20362ffef342",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Automating Change-Level Self-Admitted Technical Debt Determination",
+      "authors": [
+        "Meng Yan",
+        "Xin Xia",
+        "Emad Shihab",
+        "David Lo",
+        "Jianwei Yin",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/tse.2018.2831232",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "652b5f7fe649214a7ca58d8de4fb1b27c21a3670",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    18,
+    {
+      "title": "An Empirical Study on API Usages",
+      "authors": [
+        "Hao Zhong",
+        "Hong Mei"
+      ],
+      "doi": "10.1109/tse.2017.2782280",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "fb0ba45de1ff21ff0e0aa95f7e436863feab9b27",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    19,
+    {
+      "title": "LEILA: Formal Tool for Identifying Mobile Malicious Behaviour",
+      "authors": [
+        "Gerardo Canfora",
+        "Fabio Martinelli",
+        "Francesco Mercaldo",
+        "Vittoria Nardone",
+        "Antonella Santone",
+        "Corrado Aaron Visaggio"
+      ],
+      "doi": "10.1109/tse.2018.2834344",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "eded55339a9b5c760af3fa6c5947bb9c28f794bd",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Which Variables Should I Log?",
+      "authors": [
+        "Zhongxin Liu",
+        "Xin Xia",
+        "David Lo",
+        "Zhenchang Xing",
+        "Ahmed E. Hassan",
+        "Shanping Li"
+      ],
+      "doi": "10.1109/tse.2019.2941943",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "8b9d21f56bae1ba19b7ca16e858326d1196715ba",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    21,
+    {
+      "title": "\u201cSampling\u201d as a Baseline Optimizer for Search-Based Software Engineering",
+      "authors": [
+        "Jianfeng Chen",
+        "Vivek Nair",
+        "Rahul Krishna",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/tse.2018.2790925",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7bc66121b85df0788061f35ee2f0b67a54b2e55a",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Bayesian Data Analysis in Empirical Software Engineering Research",
+      "authors": [
+        "Carlo Alberto Furia",
+        "Robert Feldt",
+        "Richard Torkar"
+      ],
+      "doi": "10.1109/tse.2019.2935974",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5692e63b4a2947f777cc1c3eb2a0369e774eac99",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    23,
+    {
+      "title": "A Systematic Review of Interaction in Search-Based Software Engineering",
+      "authors": [
+        "Aurora Ramirez",
+        "Jose Raul Romero",
+        "Christopher L. Simons"
+      ],
+      "doi": "10.1109/tse.2018.2803055",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2848a9959a0625f3ff270f6f30501aa9f1e30595",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Accurate and Scalable Cross-Architecture Cross-OS Binary Code Search with Emulation",
+      "authors": [
+        "Yinxing Xue",
+        "Zhengzi Xu",
+        "Mahinthan Chandramohan",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/tse.2018.2827379",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "842f0e0022a16cb194cfb86d153bfe37ff39bb46",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    25,
+    {
+      "title": "How Developers Diagnose Potential Security Vulnerabilities with a Static Analysis Tool",
+      "authors": [
+        "Justin Smith",
+        "Brittany Johnson",
+        "Emerson Murphy-Hill",
+        "Bill Chu",
+        "Heather Richter Lipford"
+      ],
+      "doi": "10.1109/tse.2018.2810116",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "fb238ab286d98b41076c21ccd6ed47463ce6bd24",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    26,
+    {
+      "title": "How Do Static and Dynamic Test Case Prioritization Techniques Perform on Modern Software Systems? An Extensive Study on GitHub Projects",
+      "authors": [
+        "Qi Luo",
+        "Kevin Moran",
+        "Lingming Zhang",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/tse.2018.2822270",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "cf927b955926803265a7cd786d3f47ff2de9ce5f",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Competition-Based Crowdsourcing Software Development: A Multi-Method Study from a Customer Perspective",
+      "authors": [
+        "Klaas-Jan Stol",
+        "Bora Caglayan",
+        "Brian Fitzgerald"
+      ],
+      "doi": "10.1109/tse.2017.2774297",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "40f5e5f73ecd5cf5cad4059cfda47362e0a9b427",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    28,
+    {
+      "title": "ConPredictor: Concurrency Defect Prediction in Real-World Applications",
+      "authors": [
+        "Tingting Yu",
+        "Wei Wen",
+        "Xue Han",
+        "Jane Huffman Hayes"
+      ],
+      "doi": "10.1109/tse.2018.2791521",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "fd78114117a329de26ff955714bc624170f88d09",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Automatic Identification and Classification of Software Development Video Tutorial Fragments",
+      "authors": [
+        "Luca Ponzanelli",
+        "Gabriele Bavota",
+        "Andrea Mocci",
+        "Rocco Oliveto",
+        "Massimiliano Di Penta",
+        "Sonia Haiduc",
+        "Barbara Russo",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/tse.2017.2779479",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "3c7ae846a06789e6d4f9698ddf121a61968c97fe",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    30,
+    {
+      "title": "MSeer\u2014An Advanced Technique for Locating Multiple Bugs in Parallel",
+      "authors": [
+        "Ruizhi Gao",
+        "W. Eric Wong"
+      ],
+      "doi": "10.1109/tse.2017.2776912",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "e03bd6a34c5ef7495dc59fa811e66fcd11ad080e",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    31,
+    {
+      "title": "A Screening Test for Disclosed Vulnerabilities in FOSS Components",
+      "authors": [
+        "Stanislav Dashevskyi",
+        "Achim D. Brucker",
+        "Fabio Massacci"
+      ],
+      "doi": "10.1109/tse.2018.2816033",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "04ac39d106743b40ba30919add51247d582f9730",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Design Rule Spaces: A New Model for Representing and Analyzing Software Architecture",
+      "authors": [
+        "Yuanfang Cai",
+        "Lu Xiao",
+        "Rick Kazman",
+        "Ran Mo",
+        "Qiong Feng"
+      ],
+      "doi": "10.1109/tse.2018.2797899",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "382e46656ddea222fa2d6a4d60c52ed71ed10fe4",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Kernel Spectral Embedding Transfer Ensemble for Heterogeneous Defect Prediction",
+      "authors": [
+        "Haonan Tong",
+        "Bin Liu",
+        "Shihai Wang"
+      ],
+      "doi": "10.1109/tse.2019.2939303",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "785e2121d22d3396c82a280a1cbcce05d6fe231a",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    34,
+    {
+      "title": "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System",
+      "authors": [
+        "Lingfeng Bao",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "David Lo"
+      ],
+      "doi": "10.1109/tse.2018.2802916",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7545f19041774d9cec7889d630b7f840e2f99b10",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    35,
+    {
+      "title": "SEthesaurus: WordNet in Software Engineering",
+      "authors": [
+        "Xiang Chen",
+        "Chunyang Chen",
+        "Dun Zhang",
+        "Zhenchang Xing"
+      ],
+      "doi": "10.1109/tse.2019.2940439",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "78008bfadc912a9086cccee2bc275ce8415adfc5",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications",
+      "authors": [
+        "Sadeeq Jan",
+        "Annibale Panichella",
+        "Andrea Arcuri",
+        "Lionel Briand"
+      ],
+      "doi": "10.1109/tse.2017.2778711",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2b18cabce96b35fb64851c3f72152bc5988f62ce",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Network-Clustered Multi-Modal Bug Localization",
+      "authors": [
+        "Thong Hoang",
+        "Richard J. Oentaryo",
+        "Tien-Duy B. Le",
+        "David Lo"
+      ],
+      "doi": "10.1109/tse.2018.2810892",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "c0b5d5b2e201334d2e1580285931592f9ca6ed66",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    38,
+    {
+      "title": "A Rigorous Framework for Specification, Analysis and Enforcement of Access Control Policies",
+      "authors": [
+        "Andrea Margheri",
+        "Massimiliano Masi",
+        "Rosario Pugliese",
+        "Francesco Tiezzi"
+      ],
+      "doi": "10.1109/tse.2017.2765640",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "d4498c69b91aa4cdfc206abe811db862347fb435",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Asymmetric Release Planning: Compromising Satisfaction against Dissatisfaction",
+      "authors": [
+        "Maleknaz Nayebi",
+        "Guenther Ruhe"
+      ],
+      "doi": "10.1109/tse.2018.2810895",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f436e5f234c9bb89172c1ed482a20479e49f9a39",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    40,
+    {
+      "title": "make<i>Sense</i>: Simplifying the Integration of Wireless Sensor Networks into Business Processes",
+      "authors": [
+        "L. Mottola",
+        "G. P. Picco",
+        "F. J. Oppermann",
+        "J. Eriksson",
+        "N. Finne",
+        "H. Fuchs",
+        "A. Gaglione",
+        "S. Karnouskos",
+        "P. Moreno Montero",
+        "N. Oertel",
+        "K. Romer",
+        "P. Spies",
+        "S. Tranquillini",
+        "T. Voigt"
+      ],
+      "doi": "10.1109/tse.2017.2787585",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "089638aec7bf98e5712b46a89e29ac8b25374c03",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Approximate Oracles and Synergy in Software Energy Search Spaces",
+      "authors": [
+        "Bobby R. Bruce",
+        "Justyna Petke",
+        "Mark Harman",
+        "Earl T. Barr"
+      ],
+      "doi": "10.1109/tse.2018.2827066",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f12980d8e21b24538ecaf7869978b2c0f7640bba",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Automatic Loop Summarization via Path Dependency Analysis",
+      "authors": [
+        "Xiaofei Xie",
+        "Bihuan Chen",
+        "Liang Zou",
+        "Yang Liu",
+        "Wei Le",
+        "Xiaohong Li"
+      ],
+      "doi": "10.1109/tse.2017.2788018",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "83e8dd5d2f89773fabb88cf86e4e9fb31ada67f6",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Detecting Bugs by Discovering Expectations and Their Violations",
+      "authors": [
+        "Pan Bian",
+        "Bin Liang",
+        "Yan Zhang",
+        "Chaoqun Yang",
+        "Wenchang Shi",
+        "Yan Cai"
+      ],
+      "doi": "10.1109/tse.2018.2816639",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "c523e6b2a08f359bd6b111e61f13ae8a652b458e",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    44,
+    {
+      "title": "A Procedure and Guidelines for Analyzing Groups of Software Engineering Replications",
+      "authors": [
+        "Adrian Santos",
+        "Sira Vegas",
+        "Markku Oivo",
+        "Natalia Juristo"
+      ],
+      "doi": "10.1109/tse.2019.2935720",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "01d5d53b7c016cd246f926ddf1605142c5fe786d",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Studying the Impact of Noises in Build Breakage Data",
+      "authors": [
+        "Taher Ahmed Ghaleb",
+        "Daniel Alencar da Costa",
+        "Ying Zou",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/tse.2019.2941880",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "5aa33a74afc13f5c68d8963810c48433c56c919a",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    46,
+    {
+      "title": "CHiP: A Configurable Hybrid Parallel Covering Array Constructor",
+      "authors": [
+        "Hanefi Mercan",
+        "Cemal Yilmaz",
+        "Kamer Kaya"
+      ],
+      "doi": "10.1109/tse.2018.2837759",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "3c9000f866c227eda6bdd27cc50db6cee0d9a3e8",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    47,
+    {
+      "title": "A Systematic Literature Review of Applications of the Physics of Notations",
+      "authors": [
+        "Dirk van der Linden",
+        "Irit Hadar"
+      ],
+      "doi": "10.1109/tse.2018.2802910",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "fb8a83d2d62180aa10e05f4b45c17c4efabbab50",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Integrating Technical Debt Management and Software Quality Management Processes: A Normative Framework and Field Tests",
+      "authors": [
+        "Narayan Ramasubbu",
+        "Chris F. Kemerer"
+      ],
+      "doi": "10.1109/tse.2017.2774832",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "fd46e3ce0426ec46e678072b4a5842e9961f0d3d",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Automatically Exploring Tradeoffs Between Software Output Fidelity and Energy Costs",
+      "authors": [
+        "Jonathan Dorn",
+        "Jeremy Lacomis",
+        "Westley Weimer",
+        "Stephanie Forrest"
+      ],
+      "doi": "10.1109/tse.2017.2775634",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "91308772beb37758144dccba06c4801863b84e21",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Combining Code and Requirements Coverage with Execution Cost for Test Suite Reduction",
+      "authors": [
+        "Alessandro Marchetto",
+        "Giuseppe Scanniello",
+        "Angelo Susi"
+      ],
+      "doi": "10.1109/tse.2017.2777831",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f31df61d90b35156625189ac3646e7e0c8a5819e",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Automatic Detection and Removal of Ineffective Mutants for the Mutation Analysis of Relational Database Schemas",
+      "authors": [
+        "Phil McMinn",
+        "Chris J. Wright",
+        "Colton J. McCurdy",
+        "Gregory M. Kapfhammer"
+      ],
+      "doi": "10.1109/tse.2017.2786286",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "70096d75ed8ed9881a8bfeda9b24e4fa14d26bb8",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Smart Bound Selection for the Verification of UML/OCL Class Diagrams",
+      "authors": [
+        "Robert Clariso",
+        "Carlos A. Gonzalez",
+        "Jordi Cabot"
+      ],
+      "doi": "10.1109/tse.2017.2777830",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "b40586c6019c1cf79eca4ac3a8cfde2381dbfc9c",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Microtask Programming",
+      "authors": [
+        "Thomas D. LaToza",
+        "Arturo Di Lecce",
+        "Fabio Ricci",
+        "W. Ben Towne",
+        "Andre van der Hoek"
+      ],
+      "doi": "10.1109/tse.2018.2823327",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "2b88ab20a1d4d0719e256bc2fd4e9d780ef57932",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    54,
+    {
+      "title": "UniDoSA: The Unified Specification and Detection of Service Antipatterns",
+      "authors": [
+        "Francis Palma",
+        "Naouel Moha",
+        "Yann-Gael Gueheneuc"
+      ],
+      "doi": "10.1109/tse.2018.2819180",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "9e6599b8f738062a8e33ddc08d4d8be5216e8eb3",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    55,
+    {
+      "title": "What Makes a Great Manager of Software Engineers?",
+      "authors": [
+        "Eirini Kalliamvakou",
+        "Christian Bird",
+        "Thomas Zimmermann",
+        "Andrew Begel",
+        "Robert DeLine",
+        "Daniel M. German"
+      ],
+      "doi": "10.1109/tse.2017.2768368",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "0c25b9c8b1821e0afd0c9277136b4f11ec9054d7",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    56,
+    {
+      "title": "POMP++: Facilitating Postmortem Program Diagnosis with Value-set Analysis",
+      "authors": [
+        "Dongliang Mu",
+        "Yunlan Du",
+        "Jianhao Xu",
+        "Jun Xu",
+        "Xinyu Xing",
+        "Bing Mao",
+        "Peng Liu"
+      ],
+      "doi": "10.1109/tse.2019.2939528",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "4b028d779dd09b124b79e724e0e4dfb007f25d12",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Moving from Closed to Open Source: Observations from Six Transitioned Projects to GitHub",
+      "authors": [
+        "Pavneet Singh Kochhar",
+        "Eirini Kalliamvakou",
+        "Nachiappan Nagappan",
+        "Thomas Zimmermann",
+        "Christian Bird"
+      ],
+      "doi": "10.1109/tse.2019.2937025",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "79687178e0d767d76fbcc24bd9c02d41d264dded",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Integrative Double Kaizen Loop (IDKL): Towards a Culture of Continuous Learning and Sustainable Improvements for Software Organizations",
+      "authors": [
+        "Osama Al-Baik",
+        "James Miller"
+      ],
+      "doi": "10.1109/tse.2018.2829722",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "42b6144efda12c2537564e4f443f08c7e6b3e84a",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Instance Migration Validity for Dynamic Evolution of Data-Aware Processes",
+      "authors": [
+        "Wei Song",
+        "Xiaoxing Ma",
+        "Hans-Arno Jacobsen"
+      ],
+      "doi": "10.1109/tse.2018.2802925",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "6094468beb4b42e909f1068be5f003481de8ab47",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Creating Rich and Representative Personas by Discovering Affordances",
+      "authors": [
+        "Mostafa Mesgari",
+        "Chitu Okoli",
+        "Ana Ortiz de Guinea"
+      ],
+      "doi": "10.1109/tse.2018.2826537",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "423d9e446d19fac56a173a6d20e5d93ed4f1b300",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Verification Templates for the Analysis of User Interface Software Design",
+      "authors": [
+        "Michael D. Harrison",
+        "Paolo Masci",
+        "Jose C. Campos"
+      ],
+      "doi": "10.1109/tse.2018.2804939",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7b9917bf29a4478fdb5e72e93eeaa9b91b4768f7",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    62,
+    {
+      "title": "ProXray: Protocol Model Learning and Guided Firmware Analysis",
+      "authors": [
+        "Farhaan Fowze",
+        "Dave Jing Tian",
+        "Grant Hernandez",
+        "Kevin Butler",
+        "Tuba Yavuz"
+      ],
+      "doi": "10.1109/tse.2019.2939526",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "514867efd23ea6f88b14ff46d865479592dcbb8a",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Gray Computing: A Framework for Computing with Background JavaScript Tasks",
+      "authors": [
+        "Yao Pan",
+        "Jules White",
+        "Yu Sun",
+        "Jeff Gray"
+      ],
+      "doi": "10.1109/tse.2017.2772812",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "f0d6f76b614124b8b00a468ab0d064ad117fa5b0",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Decomposition-Based Approach for Model-Based Test Generation",
+      "authors": [
+        "Paolo Arcaini",
+        "Angelo Gargantini",
+        "Elvinia Riccobene"
+      ],
+      "doi": "10.1109/tse.2017.2781231",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "7d02634c0ff08b249abca982b9d2240603655bd6",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Fully Reflective Execution Environments: Virtual Machines for More Flexible Software",
+      "authors": [
+        "Guido Chari",
+        "Diego Garbervetsky",
+        "Stefan Marr",
+        "Stephane Ducasse"
+      ],
+      "doi": "10.1109/tse.2018.2812715",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "6cf99e41a4aaa1c2bbfbda6f946ce6ab31458227",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    66,
+    {
+      "title": "2018 Reviewers List",
+      "authors": [],
+      "doi": "10.1109/tse.2018.2884373",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    67,
+    {
+      "title": "METRIC+: A Metamorphic Relation Identification Technique Based on Input plus Output Domains",
+      "authors": [
+        "Chang-Ai Sun",
+        "An Fu",
+        "Pak-Lok Poon",
+        "Xiaoyuan Xie",
+        "Huai Liu",
+        "Tsong Yueh Chen"
+      ],
+      "doi": "10.1109/tse.2019.2934848",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "eae55e9678fd426f375e067a9e3ea3fb6dc2de36",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Editorial: State of the Journal",
+      "authors": [
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1109/tse.2018.2885501",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "63c3811bc6e77874446e581df32bba973ccaafc8",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Coverage-Based Greybox Fuzzing as Markov Chain",
+      "authors": [
+        "Marcel Bohme",
+        "Van-Thuan Pham",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/tse.2017.2785841",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    70,
+    {
+      "title": "2018 Index IEEE Transactions on Software Engineering Vol. 44",
+      "authors": [],
+      "doi": "10.1109/tse.2018.2887195",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "paperId": "60625cdfd424517b63007deca7ff2463ac056632",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Automatic Software Repair: A Survey",
+      "authors": [
+        "Luca Gazzola",
+        "Daniela Micucci",
+        "Leonardo Mariani"
+      ],
+      "doi": "10.1109/tse.2017.2755013",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Automated Refactoring of OCL Constraints with Search",
+      "authors": [
+        "Hong Lu",
+        "Shuai Wang",
+        "Tao Yue",
+        "Shaukat Ali",
+        "Jan F. Nygard"
+      ],
+      "doi": "10.1109/tse.2017.2774829",
+      "venue": "IEEE Transactions on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ]
+]

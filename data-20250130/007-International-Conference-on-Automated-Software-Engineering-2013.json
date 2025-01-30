@@ -1,0 +1,1877 @@
+[
+  [
+    1,
+    {
+      "title": "Improving bug localization using structured information retrieval",
+      "authors": [
+        "Ripon K. Saha",
+        "Matthew Lease",
+        "Sarfraz Khurshid",
+        "Dewayne E. Perry"
+      ],
+      "doi": "10.1109/ase.2013.6693093",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1604de41ea8bc82aac0502daa309d3fed3f8495e",
+        "citationCount": 362,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Leveraging program equivalence for adaptive program repair: Models and first results",
+      "authors": [
+        "Westley Weimer",
+        "Zachary P. Fry",
+        "Stephanie Forrest"
+      ],
+      "doi": "10.1109/ase.2013.6693094",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "322d83963cc32ff6e6fd15450de00e219d54cd54",
+        "citationCount": 276,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    3,
+    {
+      "title": "AutoComment: Mining question and answer sites for automatic comment generation",
+      "authors": [
+        "Edmund Wong",
+        " Jinqiu Yang",
+        " Lin Tan"
+      ],
+      "doi": "10.1109/ase.2013.6693113",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "600586ed0ca601a03f754463639b737861c5c994",
+        "citationCount": 243,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Personalized defect prediction",
+      "authors": [
+        "Tian Jiang",
+        "Lin Tan",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1109/ase.2013.6693087",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fe6e37337ce3dd73abccf9c8aa7f56383abfbf50",
+        "citationCount": 224,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Detecting bad smells in source code using change history information",
+      "authors": [
+        "Fabio Palomba",
+        "Gabriele Bavota",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Andrea De Lucia",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/ase.2013.6693086",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5bc4ff61432ae2f1efb14e5d236d12023ce3ed41",
+        "citationCount": 218,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Variability-aware performance prediction: A statistical learning approach",
+      "authors": [
+        "Jianmei Guo",
+        "Krzysztof Czarnecki",
+        "Sven Apel",
+        "Norbert Siegmund",
+        "Andrzej Wasowski"
+      ],
+      "doi": "10.1109/ase.2013.6693089",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b0e7af890d576a51c9faee0762b39a7791ac6071",
+        "citationCount": 189,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    7,
+    {
+      "title": "A comparative analysis of software architecture recovery techniques",
+      "authors": [
+        "Joshua Garcia",
+        "Igor Ivkovic",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1109/ase.2013.6693106",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e535bd8fbe8b14dd55d0600a6dd54f7c0af7d3ce",
+        "citationCount": 159,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Scalable product line configuration: A straw to break the camel's back",
+      "authors": [
+        "Abdel Salam Sayyad",
+        "Joseph Ingram",
+        "Tim Menzies",
+        "Hany Ammar"
+      ],
+      "doi": "10.1109/ase.2013.6693104",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3384176ef4196797603ae2ca68ff353bb4233668",
+        "citationCount": 153,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    9,
+    {
+      "title": "A study of repetitiveness of code changes in software evolution",
+      "authors": [
+        "Hoan Anh Nguyen",
+        "Anh Tuan Nguyen",
+        "Tung Thanh Nguyen",
+        "Tien N. Nguyen",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1109/ase.2013.6693078",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e9ca27932dcce89de737e6ac212b86e2034e61bf",
+        "citationCount": 138,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    10,
+    {
+      "title": "OCRA: A tool for checking the refinement of temporal contracts",
+      "authors": [
+        "Alessandro Cimatti",
+        "Michele Dorigatti",
+        "Stefano Tonetta"
+      ],
+      "doi": "10.1109/ase.2013.6693137",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ef0abbe930eae769411c4d24aad5b8c13b5fc34a",
+        "citationCount": 119,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Automatic recommendation of API methods from feature requests",
+      "authors": [
+        "Ferdian Thung",
+        "Shaowei Wang",
+        "David Lo",
+        "Julia Lawall"
+      ],
+      "doi": "10.1109/ase.2013.6693088",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e55d0685098df25de6d90bc8b03d345fb0dd8ca9",
+        "citationCount": 117,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Characterizing and detecting resource leaks in Android applications",
+      "authors": [
+        "Chaorong Guo",
+        "Jian Zhang",
+        "Jun Yan",
+        "Zhiqiang Zhang",
+        "Yanli Zhang"
+      ],
+      "doi": "10.1109/ase.2013.6693097",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "100b22c232ea512b59724c1fdb71a9c7c41c9852",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Consistency-preserving edit scripts in model versioning",
+      "authors": [
+        "Timo Kehrer",
+        "Udo Kelter",
+        "Gabriele Taentzer"
+      ],
+      "doi": "10.1109/ase.2013.6693079",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "249739657bcf5473c9f363d033b0619694478314",
+        "citationCount": 88,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Operator-based and random mutant selection: Better together",
+      "authors": [
+        "Lingming Zhang",
+        "Milos Gligoric",
+        "Darko Marinov",
+        "Sarfraz Khurshid"
+      ],
+      "doi": "10.1109/ase.2013.6693070",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "16abf6ee1b19587b670f7d0eb43296b532766fc6",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Automatically synthesizing SQL queries from input-output examples",
+      "authors": [
+        "Sai Zhang",
+        "Yuyin Sun"
+      ],
+      "doi": "10.1109/ase.2013.6693082",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "da25db9f7be286072ae05b88e24dacc754c5908a",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Entropy-based test generation for improved fault localization",
+      "authors": [
+        "Jose Campos",
+        "Rui Abreu",
+        "Gordon Fraser",
+        "Marcelo d'Amorim"
+      ],
+      "doi": "10.1109/ase.2013.6693085",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4f7d155adf4ee34be7698fc6b02a83a60689ff41",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Software analytics for incident management of online services: An experience report",
+      "authors": [
+        "Jian-Guang Lou",
+        "Qingwei Lin",
+        "Rui Ding",
+        "Qiang Fu",
+        "Dongmei Zhang",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/ase.2013.6693105",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ecc17d31fd51fd5ef43add7745b6d363bddd3900",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Flow Permissions for Android",
+      "authors": [
+        "Shashank Holavanalli",
+        "Don Manuel",
+        "Vishwas Nanjundaswamy",
+        "Brian Rosenberg",
+        "Feng Shen",
+        "Steven Y. Ko",
+        "Lukasz Ziarek"
+      ],
+      "doi": "10.1109/ase.2013.6693128",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2645487b498bf4356ee52e62e7badd936894b81b",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    19,
+    {
+      "title": "ExPort: Detecting and visualizing API usages in large source code repositories",
+      "authors": [
+        "Evan Moritz",
+        "Mario Linares-Vasquez",
+        "Denys Poshyvanyk",
+        "Mark Grechanik",
+        "Collin McMillan",
+        "Malcom Gethers"
+      ],
+      "doi": "10.1109/ase.2013.6693127",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7d11e8e2ca63ab294d763d5369f2f153be9e9449",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Detecting and characterizing semantic inconsistencies in ported code",
+      "authors": [
+        "Baishakhi Ray",
+        "Miryung Kim",
+        "Suzette Person",
+        "Neha Rungta"
+      ],
+      "doi": "10.1109/ase.2013.6693095",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "007e1a4d0f23b3d494d9171434f82ceaeefe8cb0",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Class level fault prediction using software clustering",
+      "authors": [
+        "Giuseppe Scanniello",
+        "Carmine Gravino",
+        "Andrian Marcus",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/ase.2013.6693126",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ee3f1dc8035b38c543c458cce2b804fee0a7fdc3",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Characteristic studies of loop problems for structural test generation via symbolic execution",
+      "authors": [
+        "Xusheng Xiao",
+        "Sihan Li",
+        "Tao Xie",
+        "Nikolai Tillmann"
+      ],
+      "doi": "10.1109/ase.2013.6693084",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f38e982c482a5e7557a633d84a60bb1aa92e6983",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Model repair and transformation with Echo",
+      "authors": [
+        "Nuno Macedo",
+        "Tiago Guimaraes",
+        "Alcino Cunha"
+      ],
+      "doi": "10.1109/ase.2013.6693135",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b0f91902d79ba00a4128cf98b630020091ef5ff2",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    24,
+    {
+      "title": "CCmutator: A mutation generator for concurrency constructs in multithreaded C/C++ applications",
+      "authors": [
+        "Markus Kusano",
+        " Chao Wang"
+      ],
+      "doi": "10.1109/ase.2013.6693142",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "463fd46459cb164e0354a2e407174cc6f8bc880f",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Automated unit testing of large industrial embedded software using concolic testing",
+      "authors": [
+        "Yunho Kim",
+        "Youil Kim",
+        " Taeksu Kim",
+        " Gunwoo Lee",
+        "Yoonkyu Jang",
+        "Moonzoo Kim"
+      ],
+      "doi": "10.1109/ase.2013.6693109",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "92fcf97bb578817f11d02265381d8ebbb3e186aa",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Developing self-verifying service-based systems",
+      "authors": [
+        "Radu Calinescu",
+        "Kenneth Johnson",
+        "Yasmin Rafiq"
+      ],
+      "doi": "10.1109/ase.2013.6693145",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d0525a0208fce3796154de258d8dedafbe970019",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Automatically partition software into least privilege components using dynamic data dependency analysis",
+      "authors": [
+        "Yongzheng Wu",
+        "Jun Sun",
+        "Yang Liu",
+        "Jin Song Dong"
+      ],
+      "doi": "10.1109/ase.2013.6693091",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "37d177aff47eceaee0008b8a42e3aa459ab47411",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    28,
+    {
+      "title": "A scalable approach for malware detection through bounded feature space behavior modeling",
+      "authors": [
+        "Mahinthan Chandramohan",
+        "Hee Beng Kuan Tan",
+        "Lionel C. Briand",
+        "Lwin Khin Shar",
+        "Bindu Madhavi Padmanabhuni"
+      ],
+      "doi": "10.1109/ase.2013.6693090",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "85506ba9281ca382870494093aa284259b6b85b4",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Mining branching-time scenarios",
+      "authors": [
+        "Dirk Fahland",
+        "David Lo",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1109/ase.2013.6693102",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "90586d8ee2a77abf8adb95b5e6c7d90b652f5d4e",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Learning effective query transformations for enhanced requirements trace retrieval",
+      "authors": [
+        "Timothy Dietrich",
+        "Jane Cleland-Huang",
+        "Yonghee Shin"
+      ],
+      "doi": "10.1109/ase.2013.6693117",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e027a5e2f57af2a233f1f9731944bd9a8f132cab",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Automated planning for software architecture evolution",
+      "authors": [
+        "Jeffrey M. Barnes",
+        "Ashutosh Pandey",
+        "David Garlan"
+      ],
+      "doi": "10.1109/ase.2013.6693081",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b329d3f4ccb5257e76509bbb92bcc5380ca294d0",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Bita: Coverage-guided, automatic testing of actor programs",
+      "authors": [
+        "Samira Tasharofi",
+        "Michael Pradel",
+        "Yu Lin",
+        "Ralph Johnson"
+      ],
+      "doi": "10.1109/ase.2013.6693072",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f19e8f9228c58f8efcbe5803c10435e85a65f302",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    33,
+    {
+      "title": "The bounded model checker LLBMC",
+      "authors": [
+        "Stephan Falke",
+        "Florian Merz",
+        "Carsten Sinz"
+      ],
+      "doi": "10.1109/ase.2013.6693138",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "89ced093f3b1fda16a21c978121dbc6d4a88934f",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    34,
+    {
+      "title": "A pattern-based approach to parametric specification mining",
+      "authors": [
+        "Giles Reger",
+        "Howard Barringer",
+        "David Rydeheard"
+      ],
+      "doi": "10.1109/ase.2013.6693129",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "eee6b81a2afe85887951697e37deb49c225b404b",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    35,
+    {
+      "title": "CSeq: A concurrency pre-processor for sequential C verification tools",
+      "authors": [
+        "Bernd Fischer",
+        "Omar Inverso",
+        "Gennaro Parlato"
+      ],
+      "doi": "10.1109/ase.2013.6693139",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e1710daf27b2fe76e4150cabdb8659feaf7f9da0",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    36,
+    {
+      "title": "TzuYu: Learning stateful typestates",
+      "authors": [
+        "Hao Xiao",
+        "Jun Sun",
+        "Yang Liu",
+        "Shang-Wei Lin",
+        "Chengnian Sun"
+      ],
+      "doi": "10.1109/ase.2013.6693101",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b02ba8c4b8522a34c974b2bae1c2b435fa7b8a46",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Automated testing of cloud-based elastic systems with AUToCLES",
+      "authors": [
+        "Alessio Gambi",
+        "Waldemar Hummer",
+        "Schahram Dustdar"
+      ],
+      "doi": "10.1109/ase.2013.6693140",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "47c4b1e973168c69a593a2c3e04f742053ea20d4",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    38,
+    {
+      "title": "BLITZ: Compositional bounded model checking for real-world programs",
+      "authors": [
+        "Chia Yuan Cho",
+        "Vijay D'Silva",
+        "Dawn Song"
+      ],
+      "doi": "10.1109/ase.2013.6693074",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8a0b718da9b5796b2ecda5ab33766e71cf87e30b",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    39,
+    {
+      "title": "From comparison matrix to Variability Model: The Wikipedia case study",
+      "authors": [
+        "Nicolas Sannier",
+        "Mathieu Acher",
+        "Benoit Baudry"
+      ],
+      "doi": "10.1109/ase.2013.6693116",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1f1b897e6def382cb7fda83d347414a899bc0c2d",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Context-aware task allocation for distributed agile team",
+      "authors": [
+        "Jun Lin"
+      ],
+      "doi": "10.1109/ase.2013.6693151",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e98ab6e44cb07a1acba023e68d4d49c06dac7663",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Measuring the structural complexity of feature models",
+      "authors": [
+        "Richard Pohl",
+        "Vanessa Stricker",
+        "Klaus Pohl"
+      ],
+      "doi": "10.1109/ase.2013.6693103",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ddfb3cbd593b11764048fe5db20202a0db9ad9ea",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Towards precise metrics for predicting graph query performance",
+      "authors": [
+        "Benedek Izso",
+        "Zoltan Szatmari",
+        "Gabor Bergmann",
+        "Akos Horvath",
+        "Istvan Rath"
+      ],
+      "doi": "10.1109/ase.2013.6693100",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c6cd4c06afcdc0ad4778778cee4770240320cc2c",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    43,
+    {
+      "title": "PYTHIA: Generating test cases with oracles for JavaScript applications",
+      "authors": [
+        "Shabnam Mirshokraie",
+        "Ali Mesbah",
+        "Karthik Pattabiraman"
+      ],
+      "doi": "10.1109/ase.2013.6693121",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "63ad0e5a7eb25913b1cbc576973aa3b424bf5551",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    44,
+    {
+      "title": "SABRINE: State-based robustness testing of operating systems",
+      "authors": [
+        "Domenico Cotroneo",
+        "Domenico Di Leo",
+        "Francesco Fucci",
+        "Roberto Natella"
+      ],
+      "doi": "10.1109/ase.2013.6693073",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "014c316051d51d9fbcd9322741a24254c53398ca",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Finding architectural flaws using constraints",
+      "authors": [
+        "Radu Vanciu",
+        "Marwan Abi-Antoun"
+      ],
+      "doi": "10.1109/ase.2013.6693092",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ef179774a366e0804308756fa00b38608a465ea4",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Software model checking for distributed systems with selector-based, non-blocking communication",
+      "authors": [
+        "Cyrille Artho",
+        "Masami Hagiya",
+        "Richard Potter",
+        "Yoshinori Tanabe",
+        "Franz Weitl",
+        "Mitsuharu Yamamoto"
+      ],
+      "doi": "10.1109/ase.2013.6693077",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "70e701ceea2ff668f4f82cf4570f53bd2130fb79",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Ranger: Parallel analysis of alloy models by range partitioning",
+      "authors": [
+        "Nicolas Rosner",
+        "Junaid H. Siddiqui",
+        "Nazareno Aguirre",
+        "Sarfraz Khurshid",
+        "Marcelo F. Frias"
+      ],
+      "doi": "10.1109/ase.2013.6693075",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5c2cb7bdbb7151a96e6e015c5f77df3011d03438",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Smart Cloud Broker: Finding your home in the clouds",
+      "authors": [
+        "Mohan Baruwal Chhetri",
+        "Sergei Chichin",
+        "Quoc Bao Vo",
+        "Ryszard Kowalczyk"
+      ],
+      "doi": "10.1109/ase.2013.6693136",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c7b2d18684e2678fb6c1ad8d06af5a05f47be2cb",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    49,
+    {
+      "title": "SEDGE: Symbolic example data generation for dataflow programs",
+      "authors": [
+        "Kaituo Li",
+        "Christoph Reichenbach",
+        "Yannis Smaragdakis",
+        "Yanlei Diao",
+        "Christoph Csallner"
+      ],
+      "doi": "10.1109/ase.2013.6693083",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "80e862f701fbfbcc822bd924e4c240dadea50f17",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Crushinator: A framework towards game-independent testing",
+      "authors": [
+        "Christopher Schaefer",
+        " Hyunsook Do",
+        "Brian M. Slator"
+      ],
+      "doi": "10.1109/ase.2013.6693143",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e6835551aa36187696bb9fc917372fb332b44f10",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Recovering model transformation traces using multi-objective optimization",
+      "authors": [
+        "Hajer Saada",
+        "Marianne Huchard",
+        "Clementine Nebut",
+        "Houari Sahraoui"
+      ],
+      "doi": "10.1109/ase.2013.6693134",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f7bd2935ca9cd3e8f10e9117f2ee89847f95c4d0",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    52,
+    {
+      "title": "TRAM: A tool for transforming textual requirements into analysis models",
+      "authors": [
+        "Keletso J. Letsholo",
+        "Liping Zhao",
+        "Erol-Valeriu Chioasca"
+      ],
+      "doi": "10.1109/ase.2013.6693146",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7a9194a839181f5fcd4a0586a19500a50bd059cc",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Towards contextual and on-demand code clone management by continuous monitoring",
+      "authors": [
+        "Gang Zhang",
+        "Xin Peng",
+        "Zhenchang Xing",
+        " Shihai Jiang",
+        " Hai Wang",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1109/ase.2013.6693107",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d34c9067379005befeeb6c230baee7c4ffa7dc47",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Detecting system use cases and validations from documents",
+      "authors": [
+        "Smita Ghaisas",
+        "Manish Motwani",
+        "Preethu Rose Anish"
+      ],
+      "doi": "10.1109/ase.2013.6693114",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f48d179e2a573f17f090b4b0d978e479c3fdeb10",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Semi-automatic generation of metamodels from model sketches",
+      "authors": [
+        "Dustin Wuest",
+        "Norbert Seyff",
+        "Martin Glinz"
+      ],
+      "doi": "10.1109/ase.2013.6693130",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5d6446a304551a184b2cde5171234d20fb63150f",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Round-up: Runtime checking quasi linearizability of concurrent data structures",
+      "authors": [
+        " Lu Zhang",
+        "Arijit Chattopadhyay",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/ase.2013.6693061",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "79b73a4d7b4626bb85ef08b451f926dcd9b71bc4",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Efficient parametric runtime verification with deterministic string rewriting",
+      "authors": [
+        "Patrick Meredith",
+        "Grigore Rosu"
+      ],
+      "doi": "10.1109/ase.2013.6693067",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "28c04206ffe4427b8bdffb793dd73bcd58809cf5",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Pex4Fun: A web-based environment for educational gaming via automated test generation",
+      "authors": [
+        "Nikolai Tillmann",
+        "Jonathan de Halleux",
+        "Tao Xie",
+        "Judith Bishop"
+      ],
+      "doi": "10.1109/ase.2013.6693144",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f0ef42061f5ec6ccfcc82fed64d55de760a749e8",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Supporting bug investigation using history analysis",
+      "authors": [
+        "Francisco Servant"
+      ],
+      "doi": "10.1109/ase.2013.6693150",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c9a94bb1c6ae944081179c478fadd20771b538b4",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Randomizing regression tests using game theory",
+      "authors": [
+        "Nupul Kukreja",
+        "William G. J. Halfond",
+        "Milind Tambe"
+      ],
+      "doi": "10.1109/ase.2013.6693122",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1b26efe264e1b85e7490a05df2c17010933a94e6",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Improving efficiency of dynamic analysis with dynamic dependence summaries",
+      "authors": [
+        "Vijay Krishna Palepu",
+        "Guoqing Xu",
+        "James A. Jones"
+      ],
+      "doi": "10.1109/ase.2013.6693066",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "134e95047df846b73368564875ad733c4ea97d9f",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Model/code co-refactoring: An MDE approach",
+      "authors": [
+        "Jens von Pilgrim",
+        "Bastian Ulke",
+        "Andreas Thies",
+        "Friedrich Steimann"
+      ],
+      "doi": "10.1109/ase.2013.6693133",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "17c72dc1d64a9d60920a9c52f8e0f1fa172edd10",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Dangling references in multi-configuration and dynamic PHP-based Web applications",
+      "authors": [
+        "Hung Viet Nguyen",
+        "Hoan Anh Nguyen",
+        "Tung Thanh Nguyen",
+        "Anh Tuan Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/ase.2013.6693098",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5b0fdaa83d32eece4e169f80f25c275dfec9f1cc",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Environment rematching: Toward dependability improvement for self-adaptive applications",
+      "authors": [
+        "Chang Xu",
+        " Wenhua Yang",
+        "Xiaoxing Ma",
+        "Chun Cao",
+        "Jian Lu"
+      ],
+      "doi": "10.1109/ase.2013.6693118",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ee6220df5f2115c41dd4e7590f731f90dab4b982",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Testing properties of dataflow program operators",
+      "authors": [
+        "Zhihong Xu",
+        "Martin Hirzel",
+        "Gregg Rothermel",
+        "Kun-Lung Wu"
+      ],
+      "doi": "10.1109/ase.2013.6693071",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "18a0264cea9cd354fe548f3736f51eecba620d70",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Proving MCAPI executions are correct using SMT",
+      "authors": [
+        "Yu Huang",
+        "Eric Mercer",
+        "Jay McCarthy"
+      ],
+      "doi": "10.1109/ase.2013.6693063",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9f7f2bbb70529ce3abca810122f227e0800900fe",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Model based test validation and oracles for data acquisition systems",
+      "authors": [
+        "Daniel Di Nardo",
+        "Nadia Alshahwan",
+        "Lionel C. Briand",
+        "Elizabeta Fourneret",
+        "Tomislav Nakic-Alfirevic",
+        "Vincent Masquelier"
+      ],
+      "doi": "10.1109/ase.2013.6693111",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "aef33186dbfe863a5ff55926650b4562a4fe6ee9",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    68,
+    {
+      "title": "The potential of polyhedral optimization: An empirical study",
+      "authors": [
+        "Andreas Simburger",
+        "Sven Apel",
+        "Armin Grosslinger",
+        "Christian Lengauer"
+      ],
+      "doi": "10.1109/ase.2013.6693108",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4e680ffbbf14989bf0c055930106f360be4fe9b1",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Cloud Twin: Native execution of android applications on the Windows Phone",
+      "authors": [
+        "Ethan Holder",
+        "Eeshan Shah",
+        "Mohammed Davoodi",
+        "Eli Tilevich"
+      ],
+      "doi": "10.1109/ase.2013.6693119",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "801b441402c71d64ae8285e28407a98e87b12683",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Detecting and fixing emergent behaviors in Distributed Software Systems using a message content independent method",
+      "authors": [
+        "Fatemeh Hendijani Fard"
+      ],
+      "doi": "10.1109/ase.2013.6693148",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e81c24eff9cf1da9525148127398a82306a82f7b",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Automated verification of pattern-based interaction invariants in Ajax applications",
+      "authors": [
+        "Yuta Maezawa",
+        "Hironori Washizaki",
+        "Yoshinori Tanabe",
+        "Shinichi Honiden"
+      ],
+      "doi": "10.1109/ase.2013.6693076",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f51b609961f7cfd8ed2afefc3614cd2bb05c8b69",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Identifying execution points for dynamic analyses",
+      "authors": [
+        "William N. Sumner",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1109/ase.2013.6693069",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5d462901aee557469b98fd298d694192a430d01c",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Constraint-based automatic symmetry detection",
+      "authors": [
+        "Shao Jie Zhang",
+        "Jun Sun",
+        "Chengnian Sun",
+        "Yang Liu",
+        "Junwei Ma",
+        "Jin Song Dong"
+      ],
+      "doi": "10.1109/ase.2013.6693062",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d2e52a00571eba6b242cd53f8a117a2be78a385d",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Minimizing CPU time shortage risks in integrated embedded software",
+      "authors": [
+        "Shiva Nejati",
+        "Morayo Adedjouma",
+        "Lionel C. Briand",
+        "Jonathan Hellebaut",
+        "Julien Begey",
+        "Yves Clement"
+      ],
+      "doi": "10.1109/ase.2013.6693110",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c8d57265a8fedf4466b90d27be03f110378c112a",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    75,
+    {
+      "title": "JFlow: Practical refactorings for flow-based parallelism",
+      "authors": [
+        "Nicholas Chen",
+        "Ralph E. Johnson"
+      ],
+      "doi": "10.1109/ase.2013.6693080",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5a2462d9403e37e27141ce90bcc2bcaebfcf924e",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Natural language requirements quality analysis based on business domain models",
+      "authors": [
+        "K.M. Annervaz",
+        "Vikrant Kaulgud",
+        "Shubhashis Sengupta",
+        "Milind Savagaonkar"
+      ],
+      "doi": "10.1109/ase.2013.6693132",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f3f54e066b9865454ebe1295b13b2efeb8be7e86",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Adding context to fault localization with integration coverage",
+      "authors": [
+        "Higor Amario de Souza",
+        "Marcos Lordello Chaim"
+      ],
+      "doi": "10.1109/ase.2013.6693124",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "afec92c123efdf5030f5a422c47d35f934f41448",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Automated verification of interactive rule-based configuration systems",
+      "authors": [
+        "Deepak Dhungana",
+        "Ching Hoo Tang",
+        "Christoph Weidenbach",
+        "Patrick Wischnewski"
+      ],
+      "doi": "10.1109/ase.2013.6693112",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fc2c36f7823f2549c0af9d2a1f9fb73c70c2f7ec",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Multi-user variability configuration: A game theoretic approach",
+      "authors": [
+        "Jesus Garcia-Galan",
+        "Pablo Trinidad",
+        "Antonio Ruiz-Cortes"
+      ],
+      "doi": "10.1109/ase.2013.6693115",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b16fbecd40edd2941dd53aa4b04a1f4f6ff90991",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Dynamically transforming data structures",
+      "authors": [
+        "Erik Osterlund",
+        "Welf Lowe"
+      ],
+      "doi": "10.1109/ase.2013.6693099",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c86cf1ca89631c785da84a4f0e83cada4c03b213",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Preventing erosion of architectural tactics through their strategic implementation, preservation, and visualization",
+      "authors": [
+        "Mehdi Mirakhorli"
+      ],
+      "doi": "10.1109/ase.2013.6693152",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c4aa9b75b9b4b6b445bfe8c66622999b93bd6c72",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Automated inference of classifications and dependencies for combinatorial testing",
+      "authors": [
+        " Cu Duy Nguyen",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1109/ase.2013.6693123",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "45f3c45723e495db38254a9c4e8ad463ea69cb9c",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    83,
+    {
+      "title": "SBFR: A search based approach for reproducing failures of programs with grammar based input",
+      "authors": [
+        "Fitsum Meshesha Kifetew",
+        "Wei Jin",
+        "Roberto Tiella",
+        "Alessandro Orso",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1109/ase.2013.6693120",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0f462fbeb1ba6471f4f993817c4711f16dc4e45d",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Tool support for automatic model transformation specification using concrete visualisations",
+      "authors": [
+        "Iman Avazpour",
+        "John Grundy",
+        "Lars Grunske"
+      ],
+      "doi": "10.1109/ase.2013.6693141",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d14106c5de4b1e2f5d1683a1aa23e5c73508e391",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    85,
+    {
+      "title": "iProbe: A lightweight user-level dynamic instrumentation tool",
+      "authors": [
+        "Nipun Arora",
+        " Hui Zhang",
+        " Junghwan Rhee",
+        "Kenji Yoshihira",
+        " Guofei Jiang"
+      ],
+      "doi": "10.1109/ase.2013.6693147",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0e7757d609ee935b642277dc459c252c6dbad00c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    86,
+    {
+      "title": "PIEtrace: Platform independent executable trace",
+      "authors": [
+        "Yonghwi Kwon",
+        "Xiangyu Zhang",
+        "Dongyan Xu"
+      ],
+      "doi": "10.1109/ase.2013.6693065",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "18a7ddc0f6cb7c8ba74853a50dc48e4c587240e8",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Using automatically generated invariants for regression testing and bug localization",
+      "authors": [
+        "Parth Sagdeo",
+        "Nicholas Ewalt",
+        "Debjit Pal",
+        "Shobha Vasudevan"
+      ],
+      "doi": "10.1109/ase.2013.6693125",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "399d640aaca516b5df1b87ae162c1b7f2b94bee7",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Assessing the maturity of requirements through argumentation: A good enough approach",
+      "authors": [
+        "Varsha Veerappa",
+        "Rachel Harrison"
+      ],
+      "doi": "10.1109/ase.2013.6693131",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0d484a3fb5be8293e05f7c2b053c1aa8a42e4212",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Synthesizing fault-tolerant programs from deontic logic specifications",
+      "authors": [
+        "Ramiro Demasi"
+      ],
+      "doi": "10.1109/ase.2013.6693149",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c54c7f29cf8b5f3b503d0e995c289111efc77f5f",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    90,
+    {
+      "title": "The challenges of verification and validation of automated planning systems (keynote)",
+      "authors": [
+        "Jeremy Frank"
+      ],
+      "doi": "10.1109/ase.2013.6693059",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "429c06fbffca48a4324e2f16bdac339e6fcf57c3",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Big problems in industry (panel)",
+      "authors": [
+        "John Penix"
+      ],
+      "doi": "10.1109/ase.2013.6693060",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "730087df9d7f816c015f8928e370437177f89264",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Efficient data race prediction with incremental reasoning on time-stamped lock history",
+      "authors": [
+        "Malay K. Ganai"
+      ],
+      "doi": "10.1109/ase.2013.6693064",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bea347c85f8d8396a057d941fabc289d6701cdec",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    93,
+    {
+      "title": "[Front matter]",
+      "authors": [],
+      "doi": "10.1109/ase.2013.6693055",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Contents",
+      "authors": [],
+      "doi": "10.1109/ase.2013.6693056",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Lightweight control-flow instrumentation and postmortem analysis in support of debugging",
+      "authors": [
+        "Peter Ohmann",
+        "Ben Liblit"
+      ],
+      "doi": "10.1109/ase.2013.6693096",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Message from the Chairs",
+      "authors": [],
+      "doi": "10.1109/ase.2013.6693057",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    97,
+    {
+      "title": "BOOM: Experiences in language and tool design for distributed systems (keynote)",
+      "authors": [
+        "Joseph M. Hellerstein"
+      ],
+      "doi": "10.1109/ase.2013.6693058",
+      "venue": "2013 28th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b604d413499c788f70710951007d21b4586b2857",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ]
+]

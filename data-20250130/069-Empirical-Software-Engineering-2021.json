@@ -1,0 +1,3438 @@
+[
+  [
+    1,
+    {
+      "title": "Predictors of well-being and productivity among software professionals during the COVID-19 pandemic \u2013 a longitudinal study",
+      "authors": [
+        "Daniel Russo",
+        "Paul H. P. Hanel",
+        "Seraphina Altnickel",
+        "Niels van Berkel"
+      ],
+      "doi": "10.1007/s10664-021-09945-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7aa3f84dab7bc21c060a90ab95417353105163e3",
+        "citationCount": 127,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Test case selection and prioritization using machine learning: a systematic literature review",
+      "authors": [
+        "Rongqi Pan",
+        "Mojtaba Bagherzadeh",
+        "Taher A. Ghaleb",
+        "Lionel Briand"
+      ],
+      "doi": "10.1007/s10664-021-10066-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "fe5720ed8b839df37a50f3866cc92a0925f96eef",
+        "citationCount": 81,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    3,
+    {
+      "title": "A comprehensive study of bloated dependencies in the Maven ecosystem",
+      "authors": [
+        "C\u00e9sar Soto-Valero",
+        "Nicolas Harrand",
+        "Martin Monperrus",
+        "Benoit Baudry"
+      ],
+      "doi": "10.1007/s10664-020-09914-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7a746db62375f797ae3a58a8ded8adc4e383377a",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Perceived diversity in software engineering: a systematic literature review",
+      "authors": [
+        "Gema Rodr\u00edguez-P\u00e9rez",
+        "Reza Nadri",
+        "Meiyappan Nagappan"
+      ],
+      "doi": "10.1007/s10664-021-09992-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "68c9ed6d0dd8c8fb405d085be9c112e47dd43896",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    5,
+    {
+      "title": "AI lifecycle models need to be revised",
+      "authors": [
+        "Mark Haakman",
+        "Lu\u00eds Cruz",
+        "Hennie Huijgens",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1007/s10664-021-09993-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8908d069c4cb45ac2dd937e8c48712a766b037f6",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Automated patch assessment for program repair at scale",
+      "authors": [
+        "He Ye",
+        "Matias Martinez",
+        "Martin Monperrus"
+      ],
+      "doi": "10.1007/s10664-020-09920-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8ba305168e50cb6d4a00f725cd5006833639918b",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Out of sight, out of mind? How vulnerable dependencies affect open-source projects",
+      "authors": [
+        "Gede Artha Azriadi Prana",
+        "Abhishek Sharma",
+        "Lwin Khin Shar",
+        "Darius Foo",
+        "Andrew E. Santosa",
+        "Asankhaya Sharma",
+        "David Lo"
+      ],
+      "doi": "10.1007/s10664-021-09959-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "831e5f90ae9ad6e986f54e6a48d243b9bb7f6118",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Enjoy your observability: an industrial survey of microservice tracing and analysis",
+      "authors": [
+        "Bowen Li",
+        "Xin Peng",
+        "Qilin Xiang",
+        "Hanzhang Wang",
+        "Tao Xie",
+        "Jun Sun",
+        "Xuanzhe Liu"
+      ],
+      "doi": "10.1007/s10664-021-10063-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "bebba460b5c79058664038e065a451449ea23a03",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Promises and challenges of microservices: an exploratory study",
+      "authors": [
+        "Yingying Wang",
+        "Harshavardhan Kadiyala",
+        "Julia Rubin"
+      ],
+      "doi": "10.1007/s10664-020-09910-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "50dc82a0aeaa0b12afd2cf10d6569958b4359c40",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Lags in the release, adoption, and propagation of npm vulnerability fixes",
+      "authors": [
+        "Bodin Chinthanet",
+        "Raula Gaikovina Kula",
+        "Shane McIntosh",
+        "Takashi Ishio",
+        "Akinori Ihara",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1007/s10664-021-09951-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "25bb62f1e1a4e4c84f71d73faf21d7db36def078",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Topic modeling in software engineering research",
+      "authors": [
+        "Camila Costa Silva",
+        "Matthias Galster",
+        "Fabian Gilson"
+      ],
+      "doi": "10.1007/s10664-021-10026-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "9a3db72f11b3f93f05419a84aacb7f52e88eff35",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Understanding and improving the quality and reproducibility of Jupyter notebooks",
+      "authors": [
+        "Jo\u00e3o Felipe Pimentel",
+        "Leonardo Murta",
+        "Vanessa Braganholo",
+        "Juliana Freire"
+      ],
+      "doi": "10.1007/s10664-021-09961-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c27faf10d842e5032af89561f173538981912321",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    13,
+    {
+      "title": "A privacy and security analysis of early-deployed COVID-19 contact tracing Android apps",
+      "authors": [
+        "Majid Hatamian",
+        "Samuel Wairimu",
+        "Nurul Momen",
+        "Lothar Fritsch"
+      ],
+      "doi": "10.1007/s10664-020-09934-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7485e2ba75e24060de4ccb290dc669dc4e0e2565",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    14,
+    {
+      "title": "World of code: enabling a research workflow for mining and analyzing the universe of open source VCS data",
+      "authors": [
+        "Yuxing Ma",
+        "Tapajit Dey",
+        "Chris Bogart",
+        "Sadika Amreen",
+        "Marat Valiev",
+        "Adam Tutko",
+        "David Kennard",
+        "Russell Zaretzki",
+        "Audris Mockus"
+      ],
+      "doi": "10.1007/s10664-020-09905-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "12404a5147b39e9a34849606bf2c056f84903c8d",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Maintenance-related concerns for post-deployed Ethereum smart contract development: issues, techniques, and future challenges",
+      "authors": [
+        "Jiachi Chen",
+        "Xin Xia",
+        "David Lo",
+        "John Grundy",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1007/s10664-021-10018-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f8894f6bc0ba328a1a00d7db0ebb31fed02ea7ba",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    16,
+    {
+      "title": "How do i refactor this? An empirical study on refactoring trends and topics in Stack Overflow",
+      "authors": [
+        "Anthony Peruma",
+        "Steven Simmons",
+        "Eman Abdullah AlOmar",
+        "Christian D. Newman",
+        "Mohamed Wiem Mkaouer",
+        "Ali Ouni"
+      ],
+      "doi": "10.1007/s10664-021-10045-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "df575f37f9f7f9a209f5f3e40b6d11b634e2c135",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    17,
+    {
+      "title": "GitHub Discussions: An exploratory study of early adoption",
+      "authors": [
+        "Hideaki Hata",
+        "Nicole Novielli",
+        "Sebastian Baltes",
+        "Raula Gaikovina Kula",
+        "Christoph Treude"
+      ],
+      "doi": "10.1007/s10664-021-10058-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "02a384beb2204b9ef3a0326f08bbf13200c330e7",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Topic recommendation for software repositories using multi-label classification algorithms",
+      "authors": [
+        "Maliheh Izadi",
+        "Abbas Heydarnoori",
+        "Georgios Gousios"
+      ],
+      "doi": "10.1007/s10664-021-09976-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "dd5836bd71b28c36a9bf13b5003f26254e61d0da",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    19,
+    {
+      "title": "The secret life of test smells - an empirical study on test smell evolution and maintenance",
+      "authors": [
+        "Dong Jae Kim",
+        "Tse-Hsun Chen",
+        "Jinqiu Yang"
+      ],
+      "doi": "10.1007/s10664-021-09969-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c70e064c32585325493438bca9888c1e2f8dc52a",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Can Offline Testing of Deep Neural Networks Replace Their Online Testing?",
+      "authors": [
+        "Fitash Ul Haq",
+        "Donghwan Shin",
+        "Shiva Nejati",
+        "Lionel Briand"
+      ],
+      "doi": "10.1007/s10664-021-09982-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "69501ba1eb9ae00112e5747245b55c6f22b9211c",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Self-admitted technical debt practices: a comparison between industry and open-source",
+      "authors": [
+        "Fiorella Zampetti",
+        "Gianmarco Fucci",
+        "Alexander Serebrenik",
+        "Massimiliano Di Penta"
+      ],
+      "doi": "10.1007/s10664-021-10031-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "9b30504e3bcb8fd9a8dad15327cfd0fabe4d6e02",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    22,
+    {
+      "title": "An exploratory study on confusion in code reviews",
+      "authors": [
+        "Felipe Ebert",
+        "Fernando Castor",
+        "Nicole Novielli",
+        "Alexander Serebrenik"
+      ],
+      "doi": "10.1007/s10664-020-09909-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "59e4a62edd7e36330685dc00e21ac33038d748ea",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    23,
+    {
+      "title": "An empirical study of IoT topics in IoT developer discussions on Stack Overflow",
+      "authors": [
+        "Gias Uddin",
+        "Fatima Sabir",
+        "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+        "Omar Alam",
+        "Foutse Khomh"
+      ],
+      "doi": "10.1007/s10664-021-10021-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c40071b1de0bad851353998d749361e59cf64146",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    24,
+    {
+      "title": "What makes a popular academic AI repository?",
+      "authors": [
+        "Yuanrui Fan",
+        "Xin Xia",
+        "David Lo",
+        "Ahmed E. Hassan",
+        "Shanping Li"
+      ],
+      "doi": "10.1007/s10664-020-09916-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f7cbfc2a9868b5b818d047668b5083189df7b626",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Industry practices and challenges for the evolvability assurance of microservices",
+      "authors": [
+        "Justus Bogner",
+        "Jonas Fritzsch",
+        "Stefan Wagner",
+        "Alfred Zimmermann"
+      ],
+      "doi": "10.1007/s10664-021-09999-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "3296106138e5f8d447f3156e1911382603382e55",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    26,
+    {
+      "title": "An empirical study on changing leadership in agile teams",
+      "authors": [
+        "Simone V. Spiegler",
+        "Christoph Heinecke",
+        "Stefan Wagner"
+      ],
+      "doi": "10.1007/s10664-021-09949-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "3fb528a780be45cdd154cd5a54665528b33425c6",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Finding the sweet spot for organizational control and team autonomy in large-scale agile software development",
+      "authors": [
+        "Nils Brede Moe",
+        "Darja \u0160mite",
+        "Maria Paasivaara",
+        "Casper Lassenius"
+      ],
+      "doi": "10.1007/s10664-021-09967-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7a4eda54ba5cdc3102ec5c25afa65d4db2ce5f36",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Empirical evaluation of tools for hairy requirements engineering tasks",
+      "authors": [
+        "Daniel M. Berry"
+      ],
+      "doi": "10.1007/s10664-021-09986-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "03e50f7e5c1f6cec33ec3203e76faf432c3963d2",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Locating faults with program slicing: an empirical analysis",
+      "authors": [
+        "Ezekiel Soremekun",
+        "Lukas Kirschner",
+        "Marcel B\u00f6hme",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1007/s10664-020-09931-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "b37ec14187f76d133147c03237541d85d3585bb9",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Game-based Sprint retrospectives: multiple action research",
+      "authors": [
+        "Adam Przyby\u0142ek",
+        "Marta Albecka",
+        "Olga Springer",
+        "Wojciech Kowalski"
+      ],
+      "doi": "10.1007/s10664-021-10043-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f831fdc8e6b593d83fccd6aeb281df2153ea196a",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Development of recommendation systems for software engineering: the CROSSMINER experience",
+      "authors": [
+        "Juri Di Rocco",
+        "Davide Di Ruscio",
+        "Claudio Di Sipio",
+        "Phuong T. Nguyen",
+        "Riccardo Rubei"
+      ],
+      "doi": "10.1007/s10664-021-09963-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5c8af3b950d07afb32dfe0f3ac2e4e100ed9a1c2",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    32,
+    {
+      "title": "On systematically building a controlled natural language for functional requirements",
+      "authors": [
+        "Alvaro Veizaga",
+        "Mauricio Alferez",
+        "Damiano Torre",
+        "Mehrdad Sabetzadeh",
+        "Lionel Briand"
+      ],
+      "doi": "10.1007/s10664-021-09956-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f802bc2ec77c471858272dbdd0bebd322a539096",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Spearheading agile: the role of the scrum master in agile projects",
+      "authors": [
+        "Yogeshwar Shastri",
+        "Rashina Hoda",
+        "Robert Amor"
+      ],
+      "doi": "10.1007/s10664-020-09899-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ce796f0ce6f32119ada2968eb33173a3d7879e3d",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Understanding shared links and their intentions to meet information needs in modern code review:",
+      "authors": [
+        "Dong Wang",
+        "Tao Xiao",
+        "Patanamon Thongtanunam",
+        "Raula Gaikovina Kula",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1007/s10664-021-09997-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "95aec0432bde6e1afc3af511af87e7a0099d9d77",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    35,
+    {
+      "title": "An automated framework for the extraction of semantic legal metadata from legal texts",
+      "authors": [
+        "Amin Sleimi",
+        "Nicolas Sannier",
+        "Mehrdad Sabetzadeh",
+        "Lionel Briand",
+        "Marcello Ceci",
+        "John Dann"
+      ],
+      "doi": "10.1007/s10664-020-09933-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "20064fcd95602fb75575c70c82d1f83775241746",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Why are many businesses instilling a DevOps culture into their organization?",
+      "authors": [
+        "Jessica D\u00edaz",
+        "Daniel L\u00f3pez-Fern\u00e1ndez",
+        "Jorge P\u00e9rez",
+        "\u00c1ngel Gonz\u00e1lez-Prieto"
+      ],
+      "doi": "10.1007/s10664-020-09919-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "4f235912494bb9d0241c9413045c2a818846fa2b",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    37,
+    {
+      "title": "To what extent do DNN-based image classification models make unreliable inferences?",
+      "authors": [
+        "Yongqiang Tian",
+        "Shiqing Ma",
+        "Ming Wen",
+        "Yepang Liu",
+        "Shing-Chi Cheung",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1007/s10664-021-09985-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "6649dbc499d9bc1d226461c45c2e633d88331333",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Software development with feature toggles: practices used by practitioners",
+      "authors": [
+        "Rezvan Mahdavi-Hezaveh",
+        "Jacob Dremann",
+        "Laurie Williams"
+      ],
+      "doi": "10.1007/s10664-020-09901-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "55e38c5d1ac3396c297fd5a8242e49c07cd3b219",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Learning to recognize actionable static code warnings (is intrinsically easy)",
+      "authors": [
+        "Xueqi Yang",
+        "Jianfeng Chen",
+        "Rahul Yedida",
+        "Zhe Yu",
+        "Tim Menzies"
+      ],
+      "doi": "10.1007/s10664-021-09948-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "6a9496fc92f14681dadc95bbef9361fa94c96281",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Beyond the virus: a first look at coronavirus-themed Android malware",
+      "authors": [
+        "Liu Wang",
+        "Ren He",
+        "Haoyu Wang",
+        "Pengcheng Xia",
+        "Yuanchun Li",
+        "Lei Wu",
+        "Yajin Zhou",
+        "Xiapu Luo",
+        "Yulei Sui",
+        "Yao Guo",
+        "Guoai Xu"
+      ],
+      "doi": "10.1007/s10664-021-09974-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c0691ee73d4384d32250713d335dd866b65e60ca",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Where were the repair ingredients for Defects4j bugs?",
+      "authors": [
+        "Deheng Yang",
+        "Kui Liu",
+        "Dongsun Kim",
+        "Anil Koyuncu",
+        "Kisub Kim",
+        "Haoye Tian",
+        "Yan Lei",
+        "Xiaoguang Mao",
+        "Jacques Klein",
+        "Tegawend\u00e9 F. Bissyand\u00e9"
+      ],
+      "doi": "10.1007/s10664-021-10003-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "4f3de5790e2859357f50cfbed526bcbc6ef4f2c4",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    42,
+    {
+      "title": "TaintBench: Automatic real-world malware benchmarking of Android taint analyses",
+      "authors": [
+        "Linghui Luo",
+        "Felix Pauck",
+        "Goran Piskachev",
+        "Manuel Benz",
+        "Ivan Pashchenko",
+        "Martin Mory",
+        "Eric Bodden",
+        "Ben Hermann",
+        "Fabio Massacci"
+      ],
+      "doi": "10.1007/s10664-021-10013-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "4f1a1e61098bd06bcf033ab33826ad83ce913315",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    43,
+    {
+      "title": "A family of experiments on test-driven development",
+      "authors": [
+        "Adrian Santos",
+        "Sira Vegas",
+        "Oscar Dieste",
+        "Fernando Uyaguari",
+        "Ay\u015fe Tosun",
+        "Davide Fucci",
+        "Burak Turhan",
+        "Giuseppe Scanniello",
+        "Simone Romano",
+        "Itir Karac",
+        "Marco Kuhrmann",
+        "Vladimir Mandi\u0107",
+        "Robert Rama\u010d",
+        "Dietmar Pfahl",
+        "Christian Engblom",
+        "Jarno Kyykka",
+        "Kerli Rungi",
+        "Carolina Palomeque",
+        "Jaroslav Spisak",
+        "Markku Oivo",
+        "Natalia Juristo"
+      ],
+      "doi": "10.1007/s10664-020-09895-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ba472afedd06d3ba665c93798eebd0d67b516046",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Assessment of off-the-shelf SE-specific sentiment analysis tools: An extended replication study",
+      "authors": [
+        "Nicole Novielli",
+        "Fabio Calefato",
+        "Filippo Lanubile",
+        "Alexander Serebrenik"
+      ],
+      "doi": "10.1007/s10664-021-09960-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c20b3e95b12764bf8be1189517cfca6328370965",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    45,
+    {
+      "title": "A multi-dimensional analysis of technical lag in Debian-based Docker images",
+      "authors": [
+        "Ahmed Zerouali",
+        "Tom Mens",
+        "Alexandre Decan",
+        "Jesus Gonzalez-Barahona",
+        "Gregorio Robles"
+      ],
+      "doi": "10.1007/s10664-020-09908-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "1165078f1a9e7045b869a3f502bc7d3e2e28e027",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Understanding and improving artifact sharing in software engineering research",
+      "authors": [
+        "Christopher S. Timperley",
+        "Lauren Herckis",
+        "Claire Le Goues",
+        "Michael Hilton"
+      ],
+      "doi": "10.1007/s10664-021-09973-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "70f0450136cc805f6ef835eff92e63a1cd977171",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Using a balanced scorecard to identify opportunities to improve code review effectiveness: an industrial experience report",
+      "authors": [
+        "Masum Hasan",
+        "Anindya Iqbal",
+        "Mohammad Rafid Ul Islam",
+        "A.J.M. Imtiajur Rahman",
+        "Amiangshu Bosu"
+      ],
+      "doi": "10.1007/s10664-021-10038-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "784f38bfcc79217cf7b59715fa5097aef511694c",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Efficient static analysis and verification of featured transition systems",
+      "authors": [
+        "Maurice H. ter Beek",
+        "Ferruccio Damiani",
+        "Michael Lienhardt",
+        "Franco Mazzanti",
+        "Luca Paolini"
+      ],
+      "doi": "10.1007/s10664-020-09930-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "bbe4fb62528743cc814b18a4ca35f6b17444a158",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Embedding API dependency graph for neural code generation",
+      "authors": [
+        "Chen Lyu",
+        "Ruyun Wang",
+        "Hongyu Zhang",
+        "Hanwen Zhang",
+        "Songlin Hu"
+      ],
+      "doi": "10.1007/s10664-021-09968-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "70733baee08b1802f0bfe8b034083efcf5649577",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Ethics in the mining of software repositories",
+      "authors": [
+        "Nicolas E. Gold",
+        "Jens Krinke"
+      ],
+      "doi": "10.1007/s10664-021-10057-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8a7ab081a35f9f7336c60d6cf1c6a9627e8c71e1",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Gamification in software engineering: the mediating role of developer engagement and job satisfaction",
+      "authors": [
+        "Klaas-Jan Stol",
+        "Mario Schaarschmidt",
+        "Shelly Goldblit"
+      ],
+      "doi": "10.1007/s10664-021-10062-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ee58ef16bbf88cd711a221aa809ada2b9530c114",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Resource and dependency based test case generation for RESTful Web services",
+      "authors": [
+        "Man Zhang",
+        "Bogdan Marculescu",
+        "Andrea Arcuri"
+      ],
+      "doi": "10.1007/s10664-020-09937-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "dc1239491bf3ebd1ca507ee8ad5ffb18a21dc4c5",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    53,
+    {
+      "title": "A first look at Android applications in Google Play related to COVID-19",
+      "authors": [
+        "Jordan Samhi",
+        "Kevin Allix",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein"
+      ],
+      "doi": "10.1007/s10664-021-09943-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "88e0caa0c64695ea10308797cbfe5dbc9589837c",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    54,
+    {
+      "title": "E-APR: Mapping the effectiveness of automated program repair techniques",
+      "authors": [
+        "Aldeida Aleti",
+        "Matias Martinez"
+      ],
+      "doi": "10.1007/s10664-021-09989-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "4ac68702d9977c30f48ad02c92fcecf02ab9ef46",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Improving energy-efficiency by recommending Java collections",
+      "authors": [
+        "Wellington Oliveira",
+        "Renato Oliveira",
+        "Fernando Castor",
+        "Gustavo Pinto",
+        "Jo\u00e3o Paulo Fernandes"
+      ],
+      "doi": "10.1007/s10664-021-09950-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ef452b0524b6458354e39e8238971fe61cbd4cf3",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Automated end-to-end management of the modeling lifecycle in deep learning",
+      "authors": [
+        "Gharib Gharibi",
+        "Vijay Walunj",
+        "Raju Nekadi",
+        "Raj Marri",
+        "Yugyung Lee"
+      ],
+      "doi": "10.1007/s10664-020-09894-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "e1a78e180fb4b00940d037cf6ed9bdf8065e93d1",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Demystifying the challenges and benefits of analyzing user-reported logs in bug reports",
+      "authors": [
+        "An Ran Chen",
+        "Tse-Hsun (Peter) Chen",
+        "Shaowei Wang"
+      ],
+      "doi": "10.1007/s10664-020-09893-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "2037cbcc61571637f28c5bb08f379492666c315a",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Automatically recommending components for issue reports using deep learning",
+      "authors": [
+        "Morakot Choetkiertikul",
+        "Hoa Khanh Dam",
+        "Truyen Tran",
+        "Trang Pham",
+        "Chaiyong Ragkhitwetsagul",
+        "Aditya Ghose"
+      ],
+      "doi": "10.1007/s10664-020-09898-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "956b5ea2381d0b81fb131b05cb19b6df8f1ebf3d",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Lessons Learnt on Reproducibility in Machine Learning Based Android Malware Detection",
+      "authors": [
+        "Nadia Daoudi",
+        "Kevin Allix",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein"
+      ],
+      "doi": "10.1007/s10664-021-09955-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "77033d5d3012dc8e153a7a540564939fe5bc1f4d",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    60,
+    {
+      "title": "How to Better Distinguish Security Bug Reports (Using Dual Hyperparameter Optimization)",
+      "authors": [
+        "Rui Shu",
+        "Tianpei Xia",
+        "Jianfeng Chen",
+        "Laurie Williams",
+        "Tim Menzies"
+      ],
+      "doi": "10.1007/s10664-020-09906-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "2b4669ce059414043c34363a92cc0a104b98cb63",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Security assurance cases\u2014state of the art of an emerging approach",
+      "authors": [
+        "Mazen Mohamad",
+        "Jan-Philipp Stegh\u00f6fer",
+        "Riccardo Scandariato"
+      ],
+      "doi": "10.1007/s10664-021-09971-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7c7b9284434dd45037a9c961d1c358ac71fe6949",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    62,
+    {
+      "title": "An empirical study of developers\u2019 discussions about security challenges of different programming languages",
+      "authors": [
+        "Roland Croft",
+        "Yongzheng Xie",
+        "Mansooreh Zahedi",
+        "M. Ali Babar",
+        "Christoph Treude"
+      ],
+      "doi": "10.1007/s10664-021-10054-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "887429d6ab57037d767fbf7758ed91a920ab7e6b",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Software testing and Android applications: a large-scale empirical study",
+      "authors": [
+        "Fabiano Pecorelli",
+        "Gemma Catolino",
+        "Filomena Ferrucci",
+        "Andrea De Lucia",
+        "Fabio Palomba"
+      ],
+      "doi": "10.1007/s10664-021-10059-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "a1662f538be68adca10019e91aaabae340a5717e",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    64,
+    {
+      "title": "An exploratory study on the introduction and removal of different types of technical debt in deep learning frameworks",
+      "authors": [
+        "Jiakun Liu",
+        "Qiao Huang",
+        "Xin Xia",
+        "Emad Shihab",
+        "David Lo",
+        "Shanping Li"
+      ],
+      "doi": "10.1007/s10664-020-09917-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "13bb7ac99a70c1ce2a01a1b52ad0c1f1fb1d7106",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Are datasets for information retrieval-based bug localization techniques trustworthy?",
+      "authors": [
+        "Misoo Kim",
+        "Eunseok Lee"
+      ],
+      "doi": "10.1007/s10664-021-09946-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "162fc150d27d38dcc3b219f8917672ae75acc794",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Understanding developers\u2019 privacy and security mindsets via climate theory",
+      "authors": [
+        "Renana Arizon-Peretz",
+        "Irit Hadar",
+        "Gil Luria",
+        "Sofia Sherman"
+      ],
+      "doi": "10.1007/s10664-021-09995-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "0663e4af04516160821966d842e3cbbca43c0192",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Predicting unstable software benchmarks using static source code features",
+      "authors": [
+        "Christoph Laaber",
+        "Mikael Basmaci",
+        "Pasquale Salza"
+      ],
+      "doi": "10.1007/s10664-021-09996-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "26acbf461e61cf95255ed858e98b11bf928f26b0",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    68,
+    {
+      "title": "FeatCompare: Feature comparison for competing mobile apps leveraging user reviews",
+      "authors": [
+        "Maram Assi",
+        "Safwat Hassan",
+        "Yuan Tian",
+        "Ying Zou"
+      ],
+      "doi": "10.1007/s10664-021-09988-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "9ecb91b11a039c6aaf6f4712532b548c1f903620",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Dynamical analysis of diversity in rule-based open source network intrusion detection systems",
+      "authors": [
+        "Hafizul Asad",
+        "Ilir Gashi"
+      ],
+      "doi": "10.1007/s10664-021-10046-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "729a97999eb518bf53bb0aef39dc990f641bdb06",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    70,
+    {
+      "title": "The Relation of Test-Related Factors to Software Quality: A Case Study on Apache Systems",
+      "authors": [
+        "Fabiano Pecorelli",
+        "Fabio Palomba",
+        "Andrea De Lucia"
+      ],
+      "doi": "10.1007/s10664-020-09891-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c9b8542573143a35fcc1d03c01b39e5c8549b09b",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    71,
+    {
+      "title": "The entrepreneurial logic of startup software development: A study of 40 software startups",
+      "authors": [
+        "Anh Nguyen-Duc",
+        "Kai-Kristian Kemell",
+        "Pekka Abrahamsson"
+      ],
+      "doi": "10.1007/s10664-021-09987-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "778f087808b5e4d9b57a0e8aa80ef93068ee138d",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Automatic team recommendation for collaborative software development",
+      "authors": [
+        "Suppawong Tuarob",
+        "Noppadol Assavakamhaenghan",
+        "Waralee Tanaphantaruk",
+        "Ponlakit Suwanworaboon",
+        "Saeed-Ul Hassan",
+        "Morakot Choetkiertikul"
+      ],
+      "doi": "10.1007/s10664-021-09966-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "e5f6ed83606c1a8e38f33aeb784dc66e058d4904",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    73,
+    {
+      "title": "What do class comments tell us? An investigation of comment evolution and practices in Pharo Smalltalk",
+      "authors": [
+        "Pooja Rani",
+        "Sebastiano Panichella",
+        "Manuel Leuenberger",
+        "Mohammad Ghafari",
+        "Oscar Nierstrasz"
+      ],
+      "doi": "10.1007/s10664-021-09981-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f577fd56ccc9dfe4473b9dfc944b4f9c24dfae89",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Software product-line evaluation in the large",
+      "authors": [
+        "Robert Lindohf",
+        "Jacob Kr\u00fcger",
+        "Erik Herzog",
+        "Thorsten Berger"
+      ],
+      "doi": "10.1007/s10664-020-09913-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "a8dcfd1bcf08b5cca826dd70b6e1184ebf3eff1e",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Omni: automated ensemble with unexpected models against adversarial evasion attack",
+      "authors": [
+        "Rui Shu",
+        "Tianpei Xia",
+        "Laurie Williams",
+        "Tim Menzies"
+      ],
+      "doi": "10.1007/s10664-021-10064-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "56b689014df1cfe059807d3b8dba4d8dcda16c3b",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    76,
+    {
+      "title": "On the analysis of non-coding roles in open source development",
+      "authors": [
+        "Javier Luis C\u00e1novas Izquierdo",
+        "Jordi Cabot"
+      ],
+      "doi": "10.1007/s10664-021-10061-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7eccb603aad5a67773a15a7fbbb68fa72a0105a4",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Automated driver management for Selenium WebDriver",
+      "authors": [
+        "Boni Garc\u00eda",
+        "Mario Munoz-Organero",
+        "Carlos Alario-Hoyos",
+        "Carlos Delgado Kloos"
+      ],
+      "doi": "10.1007/s10664-021-09975-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "231149e71d0a71e7ed3fcf03bcbce4e4f1a51a45",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Training students in evidence-based software engineering and systematic reviews: a systematic review and empirical study",
+      "authors": [
+        "Sebasti\u00e1n Pizard",
+        "Fernando Acerenza",
+        "Ximena Otegui",
+        "Silvana Moreno",
+        "Diego Vallespir",
+        "Barbara Kitchenham"
+      ],
+      "doi": "10.1007/s10664-021-09953-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "53e5049ca89d65ec049c2cf243e1a6ef976cdf2c",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Evaluating network embedding techniques\u2019 performances in software bug prediction",
+      "authors": [
+        "Yu Qu",
+        "Heng Yin"
+      ],
+      "doi": "10.1007/s10664-021-09965-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7e193b2215f86d4a2f65ad934133447ae9ad1b8c",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Learning lenient parsing &amp; typing via indirect supervision",
+      "authors": [
+        "Toufique Ahmed",
+        "Premkumar Devanbu",
+        "Vincent J Hellendoorn"
+      ],
+      "doi": "10.1007/s10664-021-09942-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "98aeec328d89f78a8abd2e82faa9e406a8048370",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    81,
+    {
+      "title": "A study of how Docker Compose is used to compose multi-component systems",
+      "authors": [
+        "Md Hasan Ibrahim",
+        "Mohammed Sayagh",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1007/s10664-021-10025-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "20967868a671e4b4b30d9ce7a4ccbb7a2dd3f770",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Helping or not helping? Why and how trivial packages impact the npm ecosystem",
+      "authors": [
+        "Xiaowei Chen",
+        "Rabe Abdalkareem",
+        "Suhaib Mujahid",
+        "Emad Shihab",
+        "Xin Xia"
+      ],
+      "doi": "10.1007/s10664-020-09904-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "4084d54c9d997d9fd238968d263f922a143cb26e",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Using code reviews to automatically configure static analysis tools",
+      "authors": [
+        "Fiorella Zampetti",
+        "Saghan Mudbhari",
+        "Venera Arnaoudova",
+        "Massimiliano Di Penta",
+        "Sebastiano Panichella",
+        "Giuliano Antoniol"
+      ],
+      "doi": "10.1007/s10664-021-10076-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5520fcc9b6282bc1b3bcf2b120ba4fcde25825ff",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Flair: efficient analysis of Android inter-component vulnerabilities in response to incremental changes",
+      "authors": [
+        "Hamid Bagheri",
+        "Jianghao Wang",
+        "Jarod Aerts",
+        "Negar Ghorbani",
+        "Sam Malek"
+      ],
+      "doi": "10.1007/s10664-020-09932-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f95fa81666da47bfd00744ae8ce94a4686195573",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    85,
+    {
+      "title": "An empirical study of same-day releases of popular packages in the npm ecosystem",
+      "authors": [
+        "Filipe R. Cogo",
+        "Gustavo A. Oliva",
+        "Cor-Paul Bezemer",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1007/s10664-021-09980-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ec96f6b2fc15d01adec9e51f4a86db2da89dd0eb",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    86,
+    {
+      "title": "An empirical study of Q&amp;A websites for game developers",
+      "authors": [
+        "Arthur Kamienski",
+        "Cor-Paul Bezemer"
+      ],
+      "doi": "10.1007/s10664-021-10014-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "488b2b304c6066177df4c9d5ffc3bb1834eb6208",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Information retrieval versus deep learning approaches for generating traceability links in bilingual projects",
+      "authors": [
+        "Jinfeng Lin",
+        "Yalin Liu",
+        "Jane Cleland-Huang"
+      ],
+      "doi": "10.1007/s10664-021-10050-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "2ff0bd89746ce32db2ef70d8461f215e6d9b0e3a",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    88,
+    {
+      "title": "An exploratory study on the repeatedly shared external links on Stack Overflow",
+      "authors": [
+        "Jiakun Liu",
+        "Haoxiang Zhang",
+        "Xin Xia",
+        "David Lo",
+        "Ying Zou",
+        "Ahmed E. Hassan",
+        "Shanping Li"
+      ],
+      "doi": "10.1007/s10664-021-10028-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c36137b51b8cdd24115a023e446b3325ee336a5b",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Analysing Time-Stamped Co-Editing Networks in Software Development Teams using git2net",
+      "authors": [
+        "Christoph Gote",
+        "Ingo Scholtes",
+        "Frank Schweitzer"
+      ],
+      "doi": "10.1007/s10664-020-09928-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "1b83444148a5b1052a1ed9aeb7ed1b70bfbe52b3",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Deep security analysis of program code",
+      "authors": [
+        "Tim Sonnekalb",
+        "Thomas S. Heinze",
+        "Patrick M\u00e4der"
+      ],
+      "doi": "10.1007/s10664-021-10029-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "e84315eccc5a10c35e7a2d64631a24dbbf9543d1",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    91,
+    {
+      "title": "The forgotten role of search queries in IR-based bug localization: an empirical study",
+      "authors": [
+        "Mohammad Masudur Rahman",
+        "Foutse Khomh",
+        "Shamima Yeasmin",
+        "Chanchal K. Roy"
+      ],
+      "doi": "10.1007/s10664-021-10022-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "9fa36e3267f509af319761de83f895b0f418088b",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Testing self-healing cyber-physical systems under uncertainty with reinforcement learning: an empirical study",
+      "authors": [
+        "Tao Ma",
+        "Shaukat Ali",
+        "Tao Yue"
+      ],
+      "doi": "10.1007/s10664-021-09941-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "1410972bbbe8658fa83638e4ac05ecdd8bb15a3d",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Weighted software metrics aggregation and its application to defect prediction",
+      "authors": [
+        "Maria Ulan",
+        "Welf L\u00f6we",
+        "Morgan Ericsson",
+        "Anna Wingkvist"
+      ],
+      "doi": "10.1007/s10664-021-09984-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "bd25bd8878e427712f54d01e9532d9ca2aae0cf7",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    94,
+    {
+      "title": "GreenHub: a large-scale collaborative dataset to battery consumption analysis of android devices",
+      "authors": [
+        "Rui Pereira",
+        "Hugo Matalonga",
+        "Marco Couto",
+        "Fernando Castor",
+        "Bruno Cabral",
+        "Pedro Carvalho",
+        "Sim\u00e3o Melo de Sousa",
+        "Jo\u00e3o Paulo Fernandes"
+      ],
+      "doi": "10.1007/s10664-020-09925-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "3e6efd9612248a14fdd3ec5a5c352e20b6e2872d",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Learning by sampling: learning behavioral family models from software product lines",
+      "authors": [
+        "Carlos Diego Nascimento Damasceno",
+        "Mohammad Reza Mousavi",
+        "Adenilso da Silva Simao"
+      ],
+      "doi": "10.1007/s10664-020-09912-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "71b5c8ca920be05e859d7c8acec44342e03db11f",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Comparing the results of replications in software engineering",
+      "authors": [
+        "Adrian Santos",
+        "Sira Vegas",
+        "Markku Oivo",
+        "Natalia Juristo"
+      ],
+      "doi": "10.1007/s10664-020-09907-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "2bba09c650e83ad4986961dc474ffb06f30135ed",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Why and what happened? Aiding bug comprehension with automated category and causal link identification",
+      "authors": [
+        "Cheng Zhou",
+        "Bin Li",
+        "Xiaobing Sun",
+        "Lili Bo"
+      ],
+      "doi": "10.1007/s10664-021-10010-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "da79158144045825d19eb0330cb0ff9fc61b1ead",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    98,
+    {
+      "title": "FACER: An API usage-based code-example recommender for opportunistic reuse",
+      "authors": [
+        "Shamsa Abid",
+        "Shafay Shamail",
+        "Hamid Abdul Basit",
+        "Sarah Nadi"
+      ],
+      "doi": "10.1007/s10664-021-10000-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "b57375ce51e5d0dd266776e80c6c195b1cf11545",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    99,
+    {
+      "title": "A study of gender in user reviews on the Google Play Store",
+      "authors": [
+        "Ehsan Noei",
+        "Kelly Lyons"
+      ],
+      "doi": "10.1007/s10664-021-10080-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "80231186094ffe6e72ddda7af0814c8ddda414a0",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Revisiting the VCCFinder approach for the identification of vulnerability-contributing commits",
+      "authors": [
+        "Timoth\u00e9 Riom",
+        "Arthur Sawadogo",
+        "Kevin Allix",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Naouel Moha",
+        "Jacques Klein"
+      ],
+      "doi": "10.1007/s10664-021-09944-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "9b09a183cae2076b3c9033a0a2406c67a371a474",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Individual differences limit predicting well-being and productivity using software repositories: a longitudinal industrial study",
+      "authors": [
+        "Miikka Kuutila",
+        "Mika M\u00e4ntyl\u00e4",
+        "Ma\u00eblick Claes",
+        "Marko Elovainio",
+        "Bram Adams"
+      ],
+      "doi": "10.1007/s10664-021-09977-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f096e300acad98323e0e97cf6473802f0332f7a1",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    102,
+    {
+      "title": "From one to hundreds: multi-licensing in the JavaScript ecosystem",
+      "authors": [
+        "Jo\u00e3o Pedro Moraes",
+        "Ivanilton Polato",
+        "Igor Wiese",
+        "Filipe Saraiva",
+        "Gustavo Pinto"
+      ],
+      "doi": "10.1007/s10664-020-09936-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "d44d95bdd4c67440b6b06bb626dc93fe18f0e502",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Evaluating refactorings for disciplining #ifdef annotations: An eye tracking study with novices",
+      "authors": [
+        "Jos\u00e9 Aldo Silva da Costa",
+        "Rohit Gheyi",
+        "M\u00e1rcio Ribeiro",
+        "Sven Apel",
+        "Vander Alves",
+        "Baldoino Fonseca",
+        "Fl\u00e1vio Medeiros",
+        "Alessandro Garcia"
+      ],
+      "doi": "10.1007/s10664-021-10002-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "16fccab6fd3285b0a607fe3c2cffe96d7a8fe744",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Assessing practitioner beliefs about software engineering",
+      "authors": [
+        "N. C. Shrikanth",
+        "William Nichols",
+        "Fahmid Morshed Fahid",
+        "Tim Menzies"
+      ],
+      "doi": "10.1007/s10664-021-09957-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f2e6a6f3f1d95315b9aafcbd9396d9414d7c1ccd",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Understanding peer review of software engineering papers",
+      "authors": [
+        "Neil A. Ernst",
+        "Jeffrey C. Carver",
+        "Daniel Mendez",
+        "Marco Torchiano"
+      ],
+      "doi": "10.1007/s10664-021-10005-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "10a048b144ea2d8844b4da04d6b3479b212e013d",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Characterizing refactoring graphs in Java and JavaScript projects",
+      "authors": [
+        "Aline Brito",
+        "Andre Hora",
+        "Marco Tulio Valente"
+      ],
+      "doi": "10.1007/s10664-021-10023-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5e12a9a767d7cb617885a6d0c5a581ab7fc25042",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    107,
+    {
+      "title": "CT-IoT: a combinatorial testing-based path selection framework for effective IoT testing",
+      "authors": [
+        "Linghuan Hu",
+        "W. Eric Wong",
+        "D. Richard Kuhn",
+        "Raghu N. Kacker",
+        "Shuo Li"
+      ],
+      "doi": "10.1007/s10664-021-10017-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "105c00fba3c22758181380f36e44776ec772e685",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Applying test case prioritization to software microbenchmarks",
+      "authors": [
+        "Christoph Laaber",
+        "Harald C. Gall",
+        "Philipp Leitner"
+      ],
+      "doi": "10.1007/s10664-021-10037-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "25a6a38bb83c26fe0f26ec106af53e32735dc296",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Evaluating the robustness of source code plagiarism detection tools to pervasive plagiarism-hiding modifications",
+      "authors": [
+        "Hayden Cheers",
+        "Yuqing Lin",
+        "Shamus P. Smith"
+      ],
+      "doi": "10.1007/s10664-021-09990-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "20d6b0004f89656268707c7ee7ee186fcc9f2b09",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Generating API tags for tutorial fragments from Stack Overflow",
+      "authors": [
+        "Di Wu",
+        "Xiao-Yuan Jing",
+        "Hongyu Zhang",
+        "Bing Li",
+        "Yu Xie",
+        "Baowen Xu"
+      ],
+      "doi": "10.1007/s10664-021-09962-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "52ff034f845ac6dd3109c4d296659ec9539e851e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Reliability of self-rated experience and confidence as predictors for students\u2019 performance in software engineering",
+      "authors": [
+        "Marian Daun",
+        "Jennifer Brings",
+        "Patricia Aluko Obe",
+        "Viktoria Stenkova"
+      ],
+      "doi": "10.1007/s10664-021-09972-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5d7e848d4695419baa30e64cf90288a22f5e2a55",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Developers perception of peer code review in research software development",
+      "authors": [
+        "Nasir U. Eisty",
+        "Jeffrey C. Carver"
+      ],
+      "doi": "10.1007/s10664-021-10053-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7d8016b0957c9ac0aa3e51826d508e22a84d10c7",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    113,
+    {
+      "title": "On the Removal of Feature Toggles",
+      "authors": [
+        "Juan Hoyos",
+        "Rabe Abdalkareem",
+        "Suhaib Mujahid",
+        "Emad Shihab",
+        "Albeiro Espinosa Bedoya"
+      ],
+      "doi": "10.1007/s10664-020-09902-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5baed64325113e0c07b6c698ca21bb15ff70597b",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Measuring affective states from technical debt",
+      "authors": [
+        "Jesper Olsson",
+        "Erik Risfelt",
+        "Terese Besker",
+        "Antonio Martini",
+        "Richard Torkar"
+      ],
+      "doi": "10.1007/s10664-021-09998-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c06bea1823f228476f3113f8dda6ead6afdc68bc",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    115,
+    {
+      "title": "CMFuzz: context-aware adaptive mutation for fuzzers",
+      "authors": [
+        "Xiajing Wang",
+        "Changzhen Hu",
+        "Rui Ma",
+        "Donghai Tian",
+        "Jinyuan He"
+      ],
+      "doi": "10.1007/s10664-020-09927-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "e26e2d809935c3264a841ccaa3f7e7b191dd9854",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    116,
+    {
+      "title": "A pragmatic approach for hyper-parameter tuning in search-based test case generation",
+      "authors": [
+        "Shayan Zamani",
+        "Hadi Hemmati"
+      ],
+      "doi": "10.1007/s10664-021-10024-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "925ea78c38d4f17a6bcad48dd9f17c7c3117cac6",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    117,
+    {
+      "title": "An empirical investigation of command-line customization",
+      "authors": [
+        "Michael Schr\u00f6der",
+        "J\u00fcrgen Cito"
+      ],
+      "doi": "10.1007/s10664-021-10036-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "84e31ddeb73b28f6f7431b37cddfaacb6d6d5713",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    118,
+    {
+      "title": "On using Stack Overflow comment-edit pairs to recommend code maintenance changes",
+      "authors": [
+        "Henry Tang",
+        "Sarah Nadi"
+      ],
+      "doi": "10.1007/s10664-021-09954-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5219c539a59599cc5f1237cc36453a8a2a9e0197",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Discovering configuration workflows from existing logs using process mining",
+      "authors": [
+        "Bel\u00e9n Ramos-Guti\u00e9rrez",
+        "\u00c1ngel Jes\u00fas Varela-Vaca",
+        "Jos\u00e9 A. Galindo",
+        "Mar\u00eda Teresa G\u00f3mez-L\u00f3pez",
+        "David Benavides"
+      ],
+      "doi": "10.1007/s10664-020-09911-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f36d137353b6b7f2d90688278d3be4a2c455f5eb",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Empirical assessment of generating adversarial configurations for software product lines",
+      "authors": [
+        "Paul Temple",
+        "Gilles Perrouin",
+        "Mathieu Acher",
+        "Battista Biggio",
+        "Jean-Marc J\u00e9z\u00e9quel",
+        "Fabio Roli"
+      ],
+      "doi": "10.1007/s10664-020-09915-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "1638d38901e6cc23d2d3f623e95afef0edad5dc9",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Evaluating the impact of falsely detected performance bug-inducing changes in JIT models",
+      "authors": [
+        "Sophia Quach",
+        "Maxime Lamothe",
+        "Bram Adams",
+        "Yasutaka Kamei",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1007/s10664-021-10004-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "581320a16fcd5267828b3a0acb7ac82a7c200c56",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    122,
+    {
+      "title": "variED: an editor for collaborative, real-time feature modeling",
+      "authors": [
+        "Elias Kuiter",
+        "Sebastian Krieter",
+        "Jacob Kr\u00fcger",
+        "Gunter Saake",
+        "Thomas Leich"
+      ],
+      "doi": "10.1007/s10664-020-09892-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "1880f2334e13a7863b1c9759f68cf46bcbc90fa0",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Conclusion stability for natural language based mining of design discussions",
+      "authors": [
+        "Alvi Mahadi",
+        "Neil A. Ernst",
+        "Karan Tongay"
+      ],
+      "doi": "10.1007/s10664-021-10009-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "21f34f646866794fffa896c7f2b25d7abf99522d",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Two N-of-1 self-trials on readability differences between anonymous inner classes (AICs) and lambda expressions (LEs) on Java code snippets",
+      "authors": [
+        "Stefan Hanenberg",
+        "Nils Mehlhorn"
+      ],
+      "doi": "10.1007/s10664-021-10077-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "3dd93e9b7c1bdc87e3277dfc22951b8091bdd46b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Does class size matter? An in-depth assessment of the effect of class size in software defect prediction",
+      "authors": [
+        "Amjed Tahir",
+        "Kwabena E. Bennin",
+        "Xun Xiao",
+        "Stephen G. MacDonell"
+      ],
+      "doi": "10.1007/s10664-021-09991-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8712f3f7cc86448c5feb1c6b5ef1a3d14861b4d5",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    126,
+    {
+      "title": "How are project-specific forums utilized? A study of participation, content, and sentiment in the Eclipse ecosystem",
+      "authors": [
+        "Yusuf Sulistyo Nugroho",
+        "Syful Islam",
+        "Keitaro Nakasai",
+        "Ifraz Rehman",
+        "Hideaki Hata",
+        "Raula Gaikovina Kula",
+        "Meiyappan Nagappan",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1007/s10664-021-10032-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "6d709bde3a2635b32116cb5f41f7a9f5539e30d2",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Demystifying regular expression bugs",
+      "authors": [
+        "Peipei Wang",
+        "Chris Brown",
+        "Jamie A. Jennings",
+        "Kathryn T. Stolee"
+      ],
+      "doi": "10.1007/s10664-021-10033-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c24a90362a9e1a22488ad1a4dd838d10c6715841",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Mining and relating design contexts and design patterns from Stack Overflow",
+      "authors": [
+        "Laksri Wijerathna",
+        "Aldeida Aleti",
+        "Tingting Bi",
+        "Antony Tang"
+      ],
+      "doi": "10.1007/s10664-021-10034-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "b060d36fb23235dce5cdd3e3f7d5ba2cb74d7c1d",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Assessing exception handling testing practices in open-source libraries",
+      "authors": [
+        "Luan P. Lima",
+        "Lincoln S. Rocha",
+        "Carla I. M. Bezerra",
+        "Matheus Paixao"
+      ],
+      "doi": "10.1007/s10664-021-09983-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "6b015ef15b33f644dd62ebc14dc63cf5726d8b31",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    130,
+    {
+      "title": "An empirical study on the use of SZZ for identifying inducing changes of non-functional bugs",
+      "authors": [
+        "Sophia Quach",
+        "Maxime Lamothe",
+        "Yasutaka Kamei",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1007/s10664-021-09970-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "232f40025e471c8bde240a449a3d953d38e3e9f3",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Investigating design anti-pattern and design pattern mutations and their change- and fault-proneness",
+      "authors": [
+        "Zeinab Azadeh Kermansaravi",
+        "Md Saidur Rahman",
+        "Foutse Khomh",
+        "Fehmi Jaafar",
+        "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc"
+      ],
+      "doi": "10.1007/s10664-020-09900-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "4decc8164f100910eb4ddcae7c8192c3bf25403a",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Studying backers and hunters in bounty issue addressing process of open source projects",
+      "authors": [
+        "Jiayuan Zhou",
+        "Shaowei Wang",
+        "Haoxiang Zhang",
+        "Tse-Hsun Chen",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1007/s10664-021-09979-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "50241d6d71d265194bb607d8a0a5e4ff110431a6",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    133,
+    {
+      "title": "MLASP: Machine learning assisted capacity planning",
+      "authors": [
+        "Arthur Vitui",
+        "Tse-Hsun Chen"
+      ],
+      "doi": "10.1007/s10664-021-09994-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5aad98a7aded19da80166a4d46d37b9ce004f2b1",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Understanding large-scale software systems \u2013 structure and flows",
+      "authors": [
+        "Omer Levy",
+        "Dror G. Feitelson"
+      ],
+      "doi": "10.1007/s10664-021-09938-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "c8a96f6b27d30847722baf328e1dfc2d414c511c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Studying donations and their expenses in open source projects: a case study of GitHub projects collecting donations through open collectives",
+      "authors": [
+        "Jiayuan Zhou",
+        "Shaowei Wang",
+        "Yasutaka Kamei",
+        "Ahmed E. Hassan",
+        "Naoyasu Ubayashi"
+      ],
+      "doi": "10.1007/s10664-021-10060-y",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "fc783d518b38f7e8db6022c2b5888fe0970606b0",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Quick remedy commits and their impact on mining software repositories",
+      "authors": [
+        "Fengcai Wen",
+        "Csaba Nagy",
+        "Michele Lanza",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1007/s10664-021-10051-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "71d5b576592f5a58bdddf05bebdcacfc9e884653",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Reviewing rounds prediction for code patches",
+      "authors": [
+        "Yuan Huang",
+        "Xingjian Liang",
+        "Zhihao Chen",
+        "Nan Jia",
+        "Xiapu Luo",
+        "Xiangping Chen",
+        "Zibin Zheng",
+        "Xiaocong Zhou"
+      ],
+      "doi": "10.1007/s10664-021-10035-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8c5f935482f4cda5eedb229d201e909dec80a053",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    138,
+    {
+      "title": "\u201cMore Than Deep Learning\u201d: post-processing for API sequence recommendation",
+      "authors": [
+        "Chi Chen",
+        "Xin Peng",
+        "Bihuan Chen",
+        "Jun Sun",
+        "Zhenchang Xing",
+        "Xin Wang",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1007/s10664-021-10040-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f59e09c41da487ac04c59592588f5a3b3d5b81a9",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    139,
+    {
+      "title": "A study into the practice of reporting software engineering experiments",
+      "authors": [
+        "Kate Revoredo",
+        "Djordje Djurica",
+        "Jan Mendling"
+      ],
+      "doi": "10.1007/s10664-021-10007-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "a06ef445223171df11f604282bb8ceb0966b1992",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    140,
+    {
+      "title": "Exposed! A case study on the vulnerability-proneness of Google Play Apps",
+      "authors": [
+        "Andrea Di Sorbo",
+        "Sebastiano Panichella"
+      ],
+      "doi": "10.1007/s10664-021-09978-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "31d9ae61ce6924f19f603fb876de9f71097b14f4",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Wikifying software artifacts",
+      "authors": [
+        "Mathieu Nassif",
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1007/s10664-020-09918-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "e722dd9104ce13ea3564cb9667aea15e6697164f",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Injecting software faults in Python applications",
+      "authors": [
+        "Henrique Marques",
+        "Nuno Laranjeiro",
+        "Jorge Bernardino"
+      ],
+      "doi": "10.1007/s10664-021-10047-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "cbe1e3e454a03b980f1df289fc9ed75640c04339",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    143,
+    {
+      "title": "An empirical investigation of organic software product lines",
+      "authors": [
+        "Mikaela Cashman",
+        "Justin Firestone",
+        "Myra B. Cohen",
+        "Thammasak Thianniwet",
+        "Wei Niu"
+      ],
+      "doi": "10.1007/s10664-021-09940-0",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "acab1e6a72fcd73d85814eb8243922bc9ccdee7c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    144,
+    {
+      "title": "The nature of build changes",
+      "authors": [
+        "Christian Macho",
+        "Stefanie Beyer",
+        "Shane McIntosh",
+        "Martin Pinzger"
+      ],
+      "doi": "10.1007/s10664-020-09926-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "7bbf157b01fdf153041a48d8edb7bee45e6ec78a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Scalable online vetting of Android apps for measuring declared SDK versions and their consistency with API calls",
+      "authors": [
+        "Daoyuan Wu",
+        "Debin Gao",
+        "David Lo"
+      ],
+      "doi": "10.1007/s10664-020-09897-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5b62e6bd90c02078730c312649f2c9ec73bee389",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Ethical issues in empirical studies using student subjects: Re-visiting practices and perceptions",
+      "authors": [
+        "Grischa Liebel",
+        "Shalini Chakraborty"
+      ],
+      "doi": "10.1007/s10664-021-09958-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ade57ec7b02a498532fbc708c00bb4ead7200464",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Studying eventual connectivity issues in Android apps",
+      "authors": [
+        "Camilo Escobar-Vel\u00e1squez",
+        "Alejandro Mazuera-Rozo",
+        "Claudia Bedoya",
+        "Michael Osorio-Ria\u00f1o",
+        "Mario Linares-V\u00e1squez",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1007/s10664-021-10020-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "395527fd9bd42aa3bcefdbb94577579cde0d0c9b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Release synchronization in software ecosystems",
+      "authors": [
+        "Armstrong Foundjem",
+        "Bram Adams"
+      ],
+      "doi": "10.1007/s10664-020-09929-1",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "6c9c215a8a2154bd556bb40238688f501f194e2c",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    149,
+    {
+      "title": "Task estimation for software company employees based on computer interaction logs",
+      "authors": [
+        "Florian Pellegrin",
+        "Zeynep Y\u00fccel",
+        "Akito Monden",
+        "Pattara Leelaprute"
+      ],
+      "doi": "10.1007/s10664-021-10006-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8ea8cba4f957369e2170ff5287811e34ba819bfe",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    150,
+    {
+      "title": "How to cherry pick the bug report for better summarization?",
+      "authors": [
+        "Haoran Liu",
+        "Yue Yu",
+        "Shanshan Li",
+        "Mingyang Geng",
+        "Xiaoguang Mao",
+        "Xiangke Liao"
+      ],
+      "doi": "10.1007/s10664-021-10008-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "da8e3b0cd65f0eef238d9881fcbb81c59d9a6cf3",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Genetic programming for feature model synthesis: a replication study",
+      "authors": [
+        "Andreea Vescan",
+        "Adrian Pintea",
+        "Lukas Linsbauer",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1007/s10664-021-09947-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "69e62be45023940c3999363c8a851a4c24e7088a",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    152,
+    {
+      "title": "Correction to: Wait for it: identifying \u201cOn-Hold\u201d self-admitted technical debt",
+      "authors": [
+        "Rungroj Maipradit",
+        "Christoph Treude",
+        "Hideaki Hata",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1007/s10664-021-09939-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "3b19586ea8395c523ec1ebf21b274db75437969c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Fixing vulnerabilities potentially hinders maintainability",
+      "authors": [
+        "Sofia Reis",
+        "Rui Abreu",
+        "Luis Cruz"
+      ],
+      "doi": "10.1007/s10664-021-10019-z",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "3b9d420dd9e3bcca6b846eea583aa3d74ea9c7a4",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    154,
+    {
+      "title": "The indolent lambdification of Java",
+      "authors": [
+        "Fernando Petrulio",
+        "Anand Ashok Sawant",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1007/s10664-021-10039-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "93a0779792f77441499759f19a81861baf3e70fb",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Correction to: MLASP: Machine learning assisted capacity planning. An industrial experience report",
+      "authors": [
+        "Arthur Vitui",
+        "Tse-Hsun Chen"
+      ],
+      "doi": "10.1007/s10664-021-10011-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "ed28104acf9cc50a4244791f06b29f007483d41f",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    156,
+    {
+      "title": "A validated model for the scoping process of quality requirements: a multi-case study",
+      "authors": [
+        "Thomas Olsson",
+        "Krzysztof Wnuk",
+        "Slinger Jansen"
+      ],
+      "doi": "10.1007/s10664-020-09896-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "d05b067363a2ed07c22263e7cf4f0157905b2756",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Single-state state machines in model-driven software engineering: an exploratory study",
+      "authors": [
+        "Nan Yang",
+        "Pieter Cuijpers",
+        "Ramon Schiffelers",
+        "Johan Lukkien",
+        "Alexander Serebrenik"
+      ],
+      "doi": "10.1007/s10664-021-10015-3",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "774f2a62d5fb910f5d82164b116dc90cf0df0a91",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Reflections on the Empirical Software Engineering journal",
+      "authors": [
+        "Victor Basili",
+        "Lionel Briand"
+      ],
+      "doi": "10.1007/s10664-021-10055-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "d93d8c0758e043d4ec161b9cbe3b981cd127e195",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Rap4DQ: Learning to recommend relevant API documentation for developer questions",
+      "authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Wenbo Wang",
+        "Tien N. Nguyen",
+        "Yan Wang",
+        "Xinyue Ye"
+      ],
+      "doi": "10.1007/s10664-021-10067-5",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "2ab8a2f95f5a10242a01c225d345206aa66d977e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Rotten green tests in Java, Pharo and Python",
+      "authors": [
+        "Vincent Aranega",
+        "Julien Delplanque",
+        "Matias Martinez",
+        "Andrew P. Black",
+        "St\u00e9phane Ducasse",
+        "Anne Etien",
+        "Christopher Fuhrman",
+        "Guillermo Polito"
+      ],
+      "doi": "10.1007/s10664-021-10016-2",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "5df2e3df0dd33fc41ddd51da111188830b6383fb",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Lightweight, semi-automatic variability extraction: a case study on scientific computing",
+      "authors": [
+        "Alexander Grebhahn",
+        "Christian Kaltenecker",
+        "Christian Engwer",
+        "Norbert Siegmund",
+        "Sven Apel"
+      ],
+      "doi": "10.1007/s10664-020-09922-8",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "43090849ceebcdb7127c068001eb930cbed308ee",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    162,
+    {
+      "title": "Strategies to manage quality requirements in agile software development: a multiple case study",
+      "authors": [
+        "Pertti Karhap\u00e4\u00e4",
+        "Woubshet Behutiye",
+        "Pilar Rodr\u00edguez",
+        "Markku Oivo",
+        "Dolors Costal",
+        "Xavier Franch",
+        "Sanja Aaramaa",
+        "Micha\u0142 Chora\u015b",
+        "Jari Partanen",
+        "Antonin Abherve"
+      ],
+      "doi": "10.1007/s10664-020-09903-x",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "691a433a949e00cd9b80eb6531172bd24e854fbd",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    163,
+    {
+      "title": "ID-correspondence: a measure for detecting evolutionary coupling",
+      "authors": [
+        "Manishankar Mondal",
+        "Banani Roy",
+        "Chanchal K. Roy",
+        "Kevin A. Schneider"
+      ],
+      "doi": "10.1007/s10664-020-09921-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "9c0e20b443ebe345155e1cb0dced953889a2e61d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Appreciation to Empirical Software Engineering reviewers of 2020",
+      "authors": [],
+      "doi": "10.1007/s10664-021-09952-w",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "217110e7d12d42417cb18500adcd042cd4087d0b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Correction to: Characterizing the transfer of program comprehension in onboarding: an information-push perspective",
+      "authors": [
+        "Rebecca Yates",
+        "Norah Power",
+        "Jim Buckley"
+      ],
+      "doi": "10.1007/s10664-020-09923-7",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "429fa61810bd397111075bb5ebac1fa3a0e05205",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Correction to: Preface to the special issue on program comprehension",
+      "authors": [
+        "Janet Siegmund",
+        "Chanchal K. Roy"
+      ],
+      "doi": "10.1007/s10664-021-10030-4",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "192659805078a34658ba657e4426cbc036f60950",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    167,
+    {
+      "title": "Correction to: An empirical assessment of baseline feature location techniques",
+      "authors": [
+        "Abdul Razzaq",
+        "Andrew Le Gear",
+        "Chris Exton",
+        "Jim Buckley"
+      ],
+      "doi": "10.1007/s10664-020-09924-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "8087d3e91bcd14834b6fe8f2227ea1a6100dcdf3",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    168,
+    {
+      "title": "A requirements inspection method based on scenarios generated by model mutation and the experimental validation",
+      "authors": [
+        "Boyuan Li",
+        "Xiaoxu Diao",
+        "Wei Gao",
+        "Carol Smidts"
+      ],
+      "doi": "10.1007/s10664-021-10001-9",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "6b8ea606e8274ead6b988758f36fc2a41c6ebb46",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    169,
+    {
+      "title": "Foreword to the Special Issue on Configurable Systems",
+      "authors": [
+        "Laurence Duchien",
+        "Paul Gr\u00fcnbacher",
+        "Thomas Th\u00fcm"
+      ],
+      "doi": "10.1007/s10664-021-09964-6",
+      "venue": "Empirical Software Engineering",
+      "citations": {
+        "paperId": "f1976ffb33ccf9fe052c13132242b324b230ac3d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ]
+]

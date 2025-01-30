@@ -1,0 +1,1620 @@
+[
+  [
+    1,
+    {
+      "title": "A Tale of Two Cities: Software Developers Working from Home during the COVID-19 Pandemic",
+      "authors": [
+        "Denae Ford",
+        "Margaret-Anne Storey",
+        "Thomas Zimmermann",
+        "Christian Bird",
+        "Sonia Jaffe",
+        "Chandra Maddila",
+        "Jenna L. Butler",
+        "Brian Houck",
+        "Nachiappan Nagappan"
+      ],
+      "doi": "10.1145/3487567",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "01449ea6ca0d4f00ede5040ae7e6dda33ad8cf58",
+        "citationCount": 151,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    2,
+    {
+      "title": "DeepWukong",
+      "authors": [
+        "Xiao Cheng",
+        "Haoyu Wang",
+        "Jiayi Hua",
+        "Guoai Xu",
+        "Yulei Sui"
+      ],
+      "doi": "10.1145/3436877",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "482f1befc7574c282aa35ec242ee8dc14030725e",
+        "citationCount": 134,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    3,
+    {
+      "title": "A Survey of Flaky Tests",
+      "authors": [
+        "Owain Parry",
+        "Gregory M. Kapfhammer",
+        "Michael Hilton",
+        "Phil McMinn"
+      ],
+      "doi": "10.1145/3476105",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "13ac656742c50007453bdaada81203ba7f8324e9",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Test Selection for Deep Learning Systems",
+      "authors": [
+        "Wei Ma",
+        "Mike Papadakis",
+        "Anestis Tsakmalis",
+        "Maxime Cordy",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1145/3417330",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "707d4a1b4bbcc95e813feaf2e0ddfa2b2ed9f51e",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Why My Code Summarization Model Does Not Work",
+      "authors": [
+        "Qiuyuan Chen",
+        "Xin Xia",
+        "Han Hu",
+        "David Lo",
+        "Shanping Li"
+      ],
+      "doi": "10.1145/3434280",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1906c757436f4829ac29a2b66921d92bfe6fcc91",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    6,
+    {
+      "title": "On the Impact of Sample Duplication in Machine-Learning-Based Android Malware Detection",
+      "authors": [
+        "Yanjie Zhao",
+        "Li Li",
+        "Haoyu Wang",
+        "Haipeng Cai",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein",
+        "John Grundy"
+      ],
+      "doi": "10.1145/3446905",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8bcadedef6b874b15ef8ba7d18ede1ee3608ac36",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Developing Cost-Effective Blockchain-Powered Applications",
+      "authors": [
+        "Abdullah A. Zarir",
+        "Gustavo A. Oliva",
+        "Zhen M. (Jack) Jiang",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1145/3431726",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "42255769c4cf2aaf34718882e5944448bc445b3a",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    8,
+    {
+      "title": "On the Reproducibility and Replicability of Deep Learning in Software Engineering",
+      "authors": [
+        "Chao Liu",
+        "Cuiyun Gao",
+        "Xin Xia",
+        "David Lo",
+        "John Grundy",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1145/3477535",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7fc16e80ae56c9a300637195916c00f985457138",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    9,
+    {
+      "title": "SPI: Automated Identification of Security Patches via Commits",
+      "authors": [
+        "Yaqin Zhou",
+        "Jing Kai Siow",
+        "Chenyu Wang",
+        "Shangqing Liu",
+        "Yang Liu"
+      ],
+      "doi": "10.1145/3468854",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "58ea9241f3f61eeb278a768651c297ebf31d8550",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Security Smells in Ansible and Chef Scripts",
+      "authors": [
+        "Akond Rahman",
+        "Md Rayhanur Rahman",
+        "Chris Parnin",
+        "Laurie Williams"
+      ],
+      "doi": "10.1145/3408897",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c750940ed61bec0050297635011f2e706cf5b912",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs",
+      "authors": [
+        "Hui Xu",
+        "Zhuangbin Chen",
+        "Mingshen Sun",
+        "Yangfan Zhou",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/3466642",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "164b3187c0d904f04e96ac5f0d5b9fdeab0da547",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Context-aware Retrieval-based Deep Commit Message Generation",
+      "authors": [
+        "Haoye Wang",
+        "Xin Xia",
+        "David Lo",
+        "Qiang He",
+        "Xinyu Wang",
+        "John Grundy"
+      ],
+      "doi": "10.1145/3464689",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8befdc09cd888d5868901236f689a86f6fea190b",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Emoji-powered Sentiment and Emotion Detection from Software Developers\u2019 Communication Data",
+      "authors": [
+        "Zhenpeng Chen",
+        "Yanbin Cao",
+        "Huihan Yao",
+        "Xuan Lu",
+        "Xin Peng",
+        "Hong Mei",
+        "Xuanzhe Liu"
+      ],
+      "doi": "10.1145/3424308",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b99661e49a406e4bb3079da246aa003f3ef0bf87",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching",
+      "authors": [
+        "Deqing Zou",
+        "Yawei Zhu",
+        "Shouhuai Xu",
+        "Zhen Li",
+        "Hai Jin",
+        "Hengkai Ye"
+      ],
+      "doi": "10.1145/3429444",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "61668c0f05a535b1b135f9c07adc8d43e7710451",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Understanding Software-2.0",
+      "authors": [
+        "Malinda Dilhara",
+        "Ameya Ketkar",
+        "Danny Dig"
+      ],
+      "doi": "10.1145/3453478",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "ace201cad65058947e32d2502a451963f0ae01bc",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    16,
+    {
+      "title": "How Should I Improve the UI of My App?",
+      "authors": [
+        "Qiuyuan Chen",
+        "Chunyang Chen",
+        "Safwat Hassan",
+        "Zhengchang Xing",
+        "Xin Xia",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1145/3447808",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "4e21eaf546a0b9efe6d2c68f652a4579e7cc502d",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Beyond Tests",
+      "authors": [
+        "Xiang Gao",
+        "Bo Wang",
+        "Gregory J. Duck",
+        "Ruyi Ji",
+        "Yingfei Xiong",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3418461",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9a08932eb095cbf78392f116d7fa3f06e154540d",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    18,
+    {
+      "title": "The Agile Success Model",
+      "authors": [
+        "Daniel Russo"
+      ],
+      "doi": "10.1145/3464938",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "136ef8aa9cdf6a9656a1f15e5a9e97eaa78d6c63",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum",
+      "authors": [
+        "Jiachi Chen",
+        "Xin Xia",
+        "David Lo",
+        "John Grundy"
+      ],
+      "doi": "10.1145/3488245",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f19576a9005fcda0d062f1281e5241f81d096129",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    20,
+    {
+      "title": "How Far Have We Progressed in Identifying Self-admitted Technical Debts? A Comprehensive Empirical Study",
+      "authors": [
+        "Zhaoqiang Guo",
+        "Shiran Liu",
+        "Jinping Liu",
+        "Yanhui Li",
+        "Lin Chen",
+        "Hongmin Lu",
+        "Yuming Zhou"
+      ],
+      "doi": "10.1145/3447247",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e94d40478e7d211975a6484b08752853c5c17f21",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Enhancing Search-based Testing with Testability Transformations for Existing APIs",
+      "authors": [
+        "Andrea Arcuri",
+        "Juan P. Galeotti"
+      ],
+      "doi": "10.1145/3477271",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b9ec294d13df2cb5520169771f78b212e4024fa3",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Are Multi-Language Design Smells Fault-Prone? An Empirical Study",
+      "authors": [
+        "Mouna Abidi",
+        "Md Saidur Rahman",
+        "Moses Openja",
+        "Foutse Khomh"
+      ],
+      "doi": "10.1145/3432690",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f1d654fe779fedb324f97757b63eb8872083ad39",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Psychometrics in Behavioral Software Engineering: A Methodological Introduction with Guidelines",
+      "authors": [
+        "Daniel Graziotin",
+        "Per Lenberg",
+        "Robert Feldt",
+        "Stefan Wagner"
+      ],
+      "doi": "10.1145/3469888",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b04dd98a500d1f3937e8b672ef00012e3b75fc12",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    24,
+    {
+      "title": "An Empirical Study of the Impact of Data Splitting Decisions on the Performance of AIOps Solutions",
+      "authors": [
+        "Yingzhe Lyu",
+        "Heng Li",
+        "Mohammed Sayagh",
+        "Zhen Ming (Jack) Jiang",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1145/3447876",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1b2be63bed5f93e122416d5dd0e9f9285e7443b4",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    25,
+    {
+      "title": "When and How to Make Breaking Changes",
+      "authors": [
+        "Chris Bogart",
+        "Christian K\u00e4stner",
+        "James Herbsleb",
+        "Ferdian Thung"
+      ],
+      "doi": "10.1145/3447245",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "eb0fb4c0421d367c1113af530f8eadf580507b35",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    26,
+    {
+      "title": "IntDroid",
+      "authors": [
+        "Deqing Zou",
+        "Yueming Wu",
+        "Siru Yang",
+        "Anki Chauhan",
+        "Wei Yang",
+        "Jiangying Zhong",
+        "Shihan Dou",
+        "Hai Jin"
+      ],
+      "doi": "10.1145/3442588",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "6eda75576f7d34ed2008cdad30d256e108485849",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Toward an Objective Measure of Developers\u2019 Cognitive Activities",
+      "authors": [
+        "Zohreh Sharafi",
+        "Yu Huang",
+        "Kevin Leach",
+        "Westley Weimer"
+      ],
+      "doi": "10.1145/3434643",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c463cc58efde2e4d5591b0763a30f8ff2cbb2f44",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Why an Android App Is Classified as Malware",
+      "authors": [
+        "Bozhi Wu",
+        "Sen Chen",
+        "Cuiyun Gao",
+        "Lingling Fan",
+        "Yang Liu",
+        "Weiping Wen",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/3423096",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "6febb39954082f292b31c06686ef0ca7f5279416",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    29,
+    {
+      "title": "History-based Model Repair Recommendations",
+      "authors": [
+        "Manuel Ohrndorf",
+        "Christopher Pietsch",
+        "Udo Kelter",
+        "Lars Grunske",
+        "Timo Kehrer"
+      ],
+      "doi": "10.1145/3419017",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b1fd67a3ca5d5de33fb9e2028440be7c778285a2",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Predicting Performance Anomalies in Software Systems at Run-time",
+      "authors": [
+        "Guoliang Zhao",
+        "Safwat Hassan",
+        "Ying Zou",
+        "Derek Truong",
+        "Toby Corbin"
+      ],
+      "doi": "10.1145/3440757",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "313fcde8189bccc79117b61ac557ef40553dc392",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Evaluation of Software Architectures under Uncertainty",
+      "authors": [
+        "Dalia Sobhy",
+        "Rami Bahsoon",
+        "Leandro Minku",
+        "Rick Kazman"
+      ],
+      "doi": "10.1145/3464305",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f76249656cf64d53e72e9d515baf48b80fd7fef3",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Killing Stubborn Mutants with Symbolic Execution",
+      "authors": [
+        "Thierry Titcheu Chekam",
+        "Mike Papadakis",
+        "Maxime Cordy",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1145/3425497",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "74bf52e0380647694915b86816223514bd1ee3e7",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Automatic Fault Detection for Deep Learning Programs Using Graph Transformations",
+      "authors": [
+        "Amin Nikanjam",
+        "Houssem Ben Braiek",
+        "Mohammad Mehdi Morovati",
+        "Foutse Khomh"
+      ],
+      "doi": "10.1145/3470006",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7db41746d0e5fa83ca7268f833e3d15eaf367534",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    34,
+    {
+      "title": "How Software Refactoring Impacts Execution Time",
+      "authors": [
+        "Luca Traini",
+        "Daniele Di Pompeo",
+        "Michele Tucci",
+        "Bin Lin",
+        "Simone Scalabrino",
+        "Gabriele Bavota",
+        "Michele Lanza",
+        "Rocco Oliveto",
+        "Vittorio Cortellessa"
+      ],
+      "doi": "10.1145/3485136",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1cf21c21d793526caee2e584bab66b1715a577be",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?",
+      "authors": [
+        "Haoxiang Zhang",
+        "Shaowei Wang",
+        "Tse-Hsun (Peter) Chen",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1145/3434279",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "012829ec539e9c47813e503250cdbde75c1f226a",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Leveraging Control Flow Knowledge in SMT Solving of Program Verification",
+      "authors": [
+        "Jianhui Chen",
+        "Fei He"
+      ],
+      "doi": "10.1145/3446211",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c136ae75febab6ae19d50a7783beeca18bc7a39a",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    37,
+    {
+      "title": "CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words",
+      "authors": [
+        "Chao Liu",
+        "Xin Xia",
+        "David Lo",
+        "Zhiwe Liu",
+        "Ahmed E. Hassan",
+        "Shanping Li"
+      ],
+      "doi": "10.1145/3465403",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f7b1b033410f260480c78445082dbdd004331eb0",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    38,
+    {
+      "title": "The Case for Adaptive Security Interventions",
+      "authors": [
+        "Irum Rauf",
+        "Marian Petre",
+        "Thein Tun",
+        "Tamara Lopez",
+        "Paul Lunn",
+        "Dirk Van Der Linden",
+        "John Towse",
+        "Helen Sharp",
+        "Mark Levine",
+        "Awais Rashid",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1145/3471930",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f0ebb3765d119ca1d970d1120f4978ec65e6f73e",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Towards a Consistent Interpretation of AIOps Models",
+      "authors": [
+        "Yingzhe Lyu",
+        "Gopi Krishnan Rajbahadur",
+        "Dayi Lin",
+        "Boyuan Chen",
+        "Zhen Ming (Jack) Jiang"
+      ],
+      "doi": "10.1145/3488269",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e12e490adb6c925f810c0df7f60e9e86531e0c50",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Automatic API Usage Scenario Documentation from Technical Q&amp;A Sites",
+      "authors": [
+        "Gias Uddin",
+        "Foutse Khomh",
+        "Chanchal K. Roy"
+      ],
+      "doi": "10.1145/3439769",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "fbad214e752f1b9d5cc5a50f302cb0ed51fb486a",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    41,
+    {
+      "title": "What You See is What it Means! Semantic Representation Learning of Code based on Visualization and Transfer Learning",
+      "authors": [
+        "Patrick Keller",
+        "Abdoul Kader Kabor\u00e9",
+        "Laura Plein",
+        "Jacques Klein",
+        "Yves Le Traon",
+        "Tegawend\u00e9 F. Bissyand\u00e9"
+      ],
+      "doi": "10.1145/3485135",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "027c95b0f028fa2fdb1c5c8bc8ea7e89e17a67fa",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Test Data Generation for Path Coverage of MPI Programs Using SAEO",
+      "authors": [
+        "Dunwei Gong",
+        "Baicai Sun",
+        "Xiangjuan Yao",
+        "Tian Tian"
+      ],
+      "doi": "10.1145/3423132",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5680a6c082c7635da5d5ce1ce1f032545465a041",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Automating App Review Response Generation Based on Contextual Knowledge",
+      "authors": [
+        "Cuiyun Gao",
+        "Wenjie Zhou",
+        "Xin Xia",
+        "David Lo",
+        "Qi Xie",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/3464969",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e573b60b87b79c2702da32b2fcc697071b5b352a",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Taming Reflection",
+      "authors": [
+        "Xiaoyu Sun",
+        "Li Li",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein",
+        "Damien Octeau",
+        "John Grundy"
+      ],
+      "doi": "10.1145/3440033",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "42b64714c1ad7245ab19a8fe6ec7632ac92ff961",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    45,
+    {
+      "title": "A Hybrid Approach to Formal Verification of Higher-Order Masked Arithmetic Programs",
+      "authors": [
+        "Pengfei Gao",
+        "Hongyi Xie",
+        "Fu Song",
+        "Taolue Chen"
+      ],
+      "doi": "10.1145/3428015",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "2cdfc64199c934e99c572f15d5c17639f8232590",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Model Transformation Development Using Automated Requirements Analysis, Metamodel Matching, and Transformation by Example",
+      "authors": [
+        "K. Lano",
+        "S. Kolahdouz-Rahimi",
+        "S. Fang"
+      ],
+      "doi": "10.1145/3471907",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9169e2a5b008e7cb3300dff0898cdc3d38efe4ce",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Bug Localization in Model-Based Systems in the Wild",
+      "authors": [
+        "Lorena Arcega",
+        "Jaime Font",
+        "\u00d8ystein Haugen",
+        "Carlos Cetina"
+      ],
+      "doi": "10.1145/3472616",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "26ee8a8a6d9fa18dc1c80736ff86191a79e1d99b",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    48,
+    {
+      "title": "A Practical Approach for Dynamic Taint Tracking with Control-flow Relationships",
+      "authors": [
+        "Katherine Hough",
+        "Jonathan Bell"
+      ],
+      "doi": "10.1145/3485464",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e9fb4dd26aacd68cad4ca95214d3c95d5d9ced0b",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Eagle",
+      "authors": [
+        "Jingbo Lu",
+        "Dongjie He",
+        "Jingling Xue"
+      ],
+      "doi": "10.1145/3450492",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "fd84402c36d66d543daf334bbd77f4e7e88965ed",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Automatically Identifying the Quality of Developer Chats for Post Hoc Use",
+      "authors": [
+        "Preetha Chatterjee",
+        "Kostadin Damevski",
+        "Nicholas A. Kraft",
+        "Lori Pollock"
+      ],
+      "doi": "10.1145/3450503",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "a49b6e64f114dad6fa5f94f30e57f53515862953",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Classifying Mobile Applications Using Word Embeddings",
+      "authors": [
+        "Fahimeh Ebrahimi",
+        "Miroslav Tushev",
+        "Anas Mahmoud"
+      ],
+      "doi": "10.1145/3474827",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "35f4637c8037fca1518eed6dda99f4ac1909c395",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Diversifying Focused Testing for Unit Testing",
+      "authors": [
+        "H\u00e9ctor D. Men\u00e9ndez",
+        "Gunel Jahangirova",
+        "Federica Sarro",
+        "Paolo Tonella",
+        "David Clark"
+      ],
+      "doi": "10.1145/3447265",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5a67fb6394d1ad91702be8c6dda31c3f5a1a6412",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Adversarial Specification Mining",
+      "authors": [
+        "Hong Jin Kang",
+        "David Lo"
+      ],
+      "doi": "10.1145/3424307",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f081432de98d4856f3a0277c41d4ed9b82c22021",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    54,
+    {
+      "title": "A Formal Framework of Software Product Line Analyses",
+      "authors": [
+        "Thiago Castro",
+        "Leopoldo Teixeira",
+        "Vander Alves",
+        "Sven Apel",
+        "Maxime Cordy",
+        "Rohit Gheyi"
+      ],
+      "doi": "10.1145/3442389",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5ef39e4229d86f046765c44621eb3335e6dbb35a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Measuring and Modeling Group Dynamics in Open-Source Software Development: A Tensor Decomposition Approach",
+      "authors": [
+        "Thomas Bock",
+        "Angelika Schmid",
+        "Sven Apel"
+      ],
+      "doi": "10.1145/3473139",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7b669a998149c1b8ef8013374bcd609d34ff7366",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Guided Feature Identification and Removal for Resource-constrained Firmware",
+      "authors": [
+        "Ryan Williams",
+        "Tongwei Ren",
+        "Lorenzo De Carli",
+        "Long Lu",
+        "Gillian Smith"
+      ],
+      "doi": "10.1145/3487568",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7cb2e02152c4ea7a90a613f421a4c440c0b52248",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Leveraging the Defects Life Cycle to Label Affected Versions and Defective Classes",
+      "authors": [
+        "Bailey Vandehei",
+        "Daniel Alencar Da Costa",
+        "Davide Falessi"
+      ],
+      "doi": "10.1145/3433928",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d6d04d7dfd4bf0bd76fe3c11a5bc7b3ae54e1544",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    58,
+    {
+      "title": "An Empirical Study on Type Annotations",
+      "authors": [
+        "John-Paul Ore",
+        "Carrick Detweiler",
+        "Sebastian Elbaum"
+      ],
+      "doi": "10.1145/3439775",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "0a9ca708875317db0301ede8f63e04d2d4b71d81",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Parallel Test Prioritization",
+      "authors": [
+        "Jianyi Zhou",
+        "Junjie Chen",
+        "Dan Hao"
+      ],
+      "doi": "10.1145/3471906",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "680f013d4d335ad85bf5f5ee30bb1607377a7c63",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Toward a Holistic Approach to Verification and Validation of Autonomous Cognitive Systems",
+      "authors": [
+        "Angelo Ferrando",
+        "Louise A. Dennis",
+        "Rafael C. Cardoso",
+        "Michael Fisher",
+        "Davide Ancona",
+        "Viviana Mascardi"
+      ],
+      "doi": "10.1145/3447246",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5fd0899c35a8ea1be59aa61e81fcb053b9a27b3e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Why Do Developers Reject Refactorings in Open-Source Projects?",
+      "authors": [
+        "Jevgenija Pantiuchina",
+        "Bin Lin",
+        "Fiorella Zampetti",
+        "Massimiliano Di Penta",
+        "Michele Lanza",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1145/3487062",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "65dbd4d0b5f7c10a05e81cb848739c2a8b23bf50",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Feature Matching-based Approaches to Improve the Robustness of Android Visual GUI Testing",
+      "authors": [
+        "Luca Ardito",
+        "Andrea Bottino",
+        "Riccardo Coppola",
+        "Fabrizio Lamberti",
+        "Francesco Manigrasso",
+        "Lia Morra",
+        "Marco Torchiano"
+      ],
+      "doi": "10.1145/3477427",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "a5e17e46240921af35cc3200fdefafdb190b058f",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    63,
+    {
+      "title": "An Adaptive Search Budget Allocation Approach for Search-Based Test Case Generation",
+      "authors": [
+        "Simone Scalabrino",
+        "Antonio Mastropaolo",
+        "Gabriele Bavota",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1145/3446199",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "dbe65c733764c9b07ce8996a2b10f14aa5ede7cb",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    64,
+    {
+      "title": "MICOSE4aPS: Industrially Applicable Maturity Metric to Improve Systematic Reuse of Control Software",
+      "authors": [
+        "Birgit Vogel-Heuser",
+        "Eva-Maria Neumann",
+        "Juliane Fischer"
+      ],
+      "doi": "10.1145/3467896",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "a7f524dc2ed34d169ba042bdf372399f5a512c3b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Recommending Faulty Configurations for Interacting Systems Under Test Using Multi-objective Search",
+      "authors": [
+        "Safdar Aqeel Safdar",
+        "Tao Yue",
+        "Shaukat Ali"
+      ],
+      "doi": "10.1145/3464939",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "a0f3c5f3fb53dc95312985ce6660d2d5fdeae5f3",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    66,
+    {
+      "title": "ConE: A Concurrent Edit Detection Tool for Large-scale Software Development",
+      "authors": [
+        "Chandra Maddila",
+        "Nachiappan Nagappan",
+        "Christian Bird",
+        "Georgios Gousios",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1145/3478019",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "461c1831a55b0eac526418265bec850878394fa1",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Specifying with Interface and Trait Abstractions in Abstract State Machines: A Controlled Experiment",
+      "authors": [
+        "Philipp Paulweber",
+        "Georg Simhandl",
+        "Uwe Zdun"
+      ],
+      "doi": "10.1145/3450968",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "bda0f4594b6fd1d604c7cb2a4fe9d08fb4e029da",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Architecting Internet of Things Systems with Blockchain",
+      "authors": [
+        "Wendy Y\u00e1nez",
+        "Rami Bahsoon",
+        "Yuqun Zhang",
+        "Rick Kazman"
+      ],
+      "doi": "10.1145/3442412",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "3524d0b217ac6aec66e49c142993b09c4c88739e",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    69,
+    {
+      "title": "StreamGen",
+      "authors": [
+        "Michele Guerriero",
+        "Damian Andrew Tamburri",
+        "Elisabetta Di Nitto"
+      ],
+      "doi": "10.1145/3408895",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "cc7b2bc96ac1bff9fbea97ed3eea733a647d50f7",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Facet-oriented Modelling",
+      "authors": [
+        "Juan De Lara",
+        "Esther Guerra",
+        "J\u00f6rg Kienzle"
+      ],
+      "doi": "10.1145/3428076",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "72ae3c48873ac0f22be8f68113974e071a2a6524",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Enabledness-based Testing of Object Protocols",
+      "authors": [
+        "Javier Godoy",
+        "Juan Pablo Galeotti",
+        "Diego Garbervetsky",
+        "Sebasti\u00e1n Uchitel"
+      ],
+      "doi": "10.1145/3415153",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "48398568c9c15bf1de324e028a1c0ad1fc7ad4f2",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Speeding Up Data Manipulation Tasks with Alternative Implementations",
+      "authors": [
+        "Yida Tao",
+        "Shan Tang",
+        "Yepang Liu",
+        "Zhiwu Xu",
+        "Shengchao Qin"
+      ],
+      "doi": "10.1145/3456873",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "55739c266c43580e5d923c98e59d7d66ed82a91a",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Analyzing Uncertainty in Release Planning: A Method and Experiment for Fixed-Date Release Cycles",
+      "authors": [
+        "Olawole Oni",
+        "Emmanuel Letier"
+      ],
+      "doi": "10.1145/3490487",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "534a7076dc22d4f360861186ba7f0513f77ac4ee",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Software Architectural Migration",
+      "authors": [
+        "Nacha Chondamrongkul",
+        "Jing Sun",
+        "Ian Warren"
+      ],
+      "doi": "10.1145/3461011",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "42a034ca57e5400f415c396a1dc6fadfbfc86a45",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Adaptive Hypermutation for Search-Based System Test Generation: A Study on REST APIs with EvoMaster",
+      "authors": [
+        "Man Zhang",
+        "Andrea Arcuri"
+      ],
+      "doi": "10.1145/3464940",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b6767f640f046490b57847c31260549e1b2bfcb1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    76,
+    {
+      "title": "The Impact of Dormant Defects on Defect Prediction: A Study of 19 Apache Projects",
+      "authors": [
+        "Davide Falessi",
+        "Aalok Ahluwalia",
+        "Massimiliano DI Penta"
+      ],
+      "doi": "10.1145/3467895",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Towards an Anatomy of Software Craftsmanship",
+      "authors": [
+        "Anders Sundelin",
+        "Javier Gonzalez-huerta",
+        "Krzysztof Wnuk",
+        "Tony Gorschek"
+      ],
+      "doi": "10.1145/3468504",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "fc4961baae325b18dbfbda693be5f16a0eeb9214",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Editorial",
+      "authors": [
+        "Mauro Pezz\u00e8"
+      ],
+      "doi": "10.1145/3450737",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "138da692a1d1c8874cac91ddb4a0669cea340d2f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Verification of Program Transformations with Inductive Refinement Types",
+      "authors": [
+        "Ahmad Salim Al-Sibahi",
+        "Thomas P. Jensen",
+        "Aleksandar S. Dimovski",
+        "Andrzej W\u0105sowski"
+      ],
+      "doi": "10.1145/3409805",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "637babcea65a0f4987a53dd722e2e892b6ab5aa5",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ]
+]

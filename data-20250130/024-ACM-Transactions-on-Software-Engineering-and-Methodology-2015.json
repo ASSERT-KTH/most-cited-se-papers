@@ -1,0 +1,464 @@
+[
+  [
+    1,
+    {
+      "title": "Many-Objective Software Remodularization Using NSGA-III",
+      "authors": [
+        "Wiem Mkaouer",
+        "Marouane Kessentini",
+        "Adnan Shaout",
+        "Patrice Koligheu",
+        "Slim Bechikh",
+        "Kalyanmoy Deb",
+        "Ali Ouni"
+      ],
+      "doi": "10.1145/2729974",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "a21e4ef238e5c97e171e54255e0f940f5b52c6cb",
+        "citationCount": 243,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    2,
+    {
+      "title": "A Baseline Model for Software Effort Estimation",
+      "authors": [
+        "Peter A. Whigham",
+        "Caitlin A. Owen",
+        "Stephen G. Macdonell"
+      ],
+      "doi": "10.1145/2738037",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "ffdb2875126a6c583fe7f7dcbe81cc450474d414",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    3,
+    {
+      "title": "aToucan",
+      "authors": [
+        "Tao Yue",
+        "Lionel C. Briand",
+        "Yvan Labiche"
+      ],
+      "doi": "10.1145/2699697",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "a49a6955a1a29223f054a2968fcdbd671014917d",
+        "citationCount": 98,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Does Automated Unit Test Generation Really Help Software Testers? A Controlled Empirical Study",
+      "authors": [
+        "Gordon Fraser",
+        "Matt Staats",
+        "Phil McMinn",
+        "Andrea Arcuri",
+        "Frank Padberg"
+      ],
+      "doi": "10.1145/2699688",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e3d93c39d9cef46de063514f2d982aebc8bf6967",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Intelligent Code Completion with Bayesian Networks",
+      "authors": [
+        "Sebastian Proksch",
+        "Johannes Lerch",
+        "Mira Mezini"
+      ],
+      "doi": "10.1145/2744200",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "66911442b67460f0e602a1f56b7342dd593c1993",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Guidelines for Coverage-Based Comparisons of Non-Adequate Test Suites",
+      "authors": [
+        "Milos Gligoric",
+        "Alex Groce",
+        "Chaoqiang Zhang",
+        "Rohan Sharma",
+        "Mohammad Amin Alipour",
+        "Darko Marinov"
+      ],
+      "doi": "10.1145/2660767",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f1c946a51cf0b0b3170a94facf92bba11ffc0540",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Boa",
+      "authors": [
+        "Robert Dyer",
+        "Hoan Anh Nguyen",
+        "Hridesh Rajan",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/2803171",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "fb9eeefcd6e9c9675b1776d42bd9ddfaa05a8c76",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Do Automatically Generated Test Cases Make Debugging Easier? An Experimental Assessment of Debugging Effectiveness and Efficiency",
+      "authors": [
+        "Mariano Ceccato",
+        "Alessandro Marchetto",
+        "Leonardo Mariani",
+        "Cu D. Nguyen",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1145/2768829",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c4c691627a33c9f10de2a0182ecfad1d0803d75a",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    9,
+    {
+      "title": "The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints",
+      "authors": [
+        "Phil Mcminn",
+        "Chris J. Wright",
+        "Gregory M. Kapfhammer"
+      ],
+      "doi": "10.1145/2818639",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "637531ba7c9e6264c7e6d6d4899013f57f8edb07",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Editorial Journal-First Publication for the Software Engineering Community",
+      "authors": [],
+      "doi": "10.1145/2837717",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "3c41e84a02c31920fee05528478b4796582817cb",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Documenting Design-Pattern Instances",
+      "authors": [
+        "Giuseppe Scanniello",
+        "Carmine Gravino",
+        "Michele Risi",
+        "Genoveffa Tortora",
+        "Gabriella Dodero"
+      ],
+      "doi": "10.1145/2699696",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1570f4d7f30b0306061491ce888d03c6f7b500a5",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Understanding Integer Overflow in C/C++",
+      "authors": [
+        "Will Dietz",
+        "Peng Li",
+        "John Regehr",
+        "Vikram Adve"
+      ],
+      "doi": "10.1145/2743019",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "ce98eea75f56e3f0244b3c5593495992cc946d36",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Platys",
+      "authors": [
+        "Pradeep K. Murukannaiah",
+        "Munindar P. Singh"
+      ],
+      "doi": "10.1145/2729976",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "dc18993d45ea0cb63bb88531a4f885dbe00b498a",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Combining Genetic Algorithms and Constraint Programming to Support Stress Testing of Task Deadlines",
+      "authors": [
+        "Stefano Di Alesio",
+        "Lionel C. Briand",
+        "Shiva Nejati",
+        "Arnaud Gotlieb"
+      ],
+      "doi": "10.1145/2818640",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5c147147f7bc6e17fe63887fb66c5db28c8bc0d9",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Automatic Workarounds",
+      "authors": [
+        "Antonio Carzaniga",
+        "Alessandra Gorla",
+        "Nicol\u00f2 Perino",
+        "Mauro Pezz\u00e8"
+      ],
+      "doi": "10.1145/2755970",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "534202abec2323008d91dd85777e1d433f5d5b1a",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Estimating Semantic Relatedness in Source Code",
+      "authors": [
+        "Anas Mahmoud",
+        "Gary Bradshaw"
+      ],
+      "doi": "10.1145/2824251",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c54e65728592a9037a8590d984603a8518863e56",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Test Case Prioritization Using Extended Digraphs",
+      "authors": [
+        "Seyedeh Sepideh Emam",
+        "James Miller"
+      ],
+      "doi": "10.1145/2789209",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e7d5b8adef460487ab0784f49de686439a42dbed",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Software Change Contracts",
+      "authors": [
+        "Jooyong Yi",
+        "Dawei Qi",
+        "Shin Hwei Tan",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/2729973",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c4c008ed9176e50566d979d96975fe557ee2dcd5",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Type-Based Call Graph Construction Algorithms for Scala",
+      "authors": [
+        "Karim Ali",
+        "Marianna Rapoport",
+        "Ond\u0159ej Lhot\u00e1k",
+        "Julian Dolby",
+        "Frank Tip"
+      ],
+      "doi": "10.1145/2824234",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d102325ff591794e4a2cbd4af1a20d6797c2e29f",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Automated Support for Reproducing and Debugging Field Failures",
+      "authors": [
+        "Wei Jin",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1145/2774218",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "6666a308af3902a0e07332f07b3df196980d8752",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Deciding Type-Based Partial-Order Constraints for Path-Sensitive Analysis",
+      "authors": [
+        "Elena Sherman",
+        "Brady J. Garvin",
+        "Matthew B. Dwyer"
+      ],
+      "doi": "10.1145/2755971",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e642d9215e447b7dcd0c6f2862975af7a6b365fa",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Data Model Property Inference, Verification, and Repair for Web Applications",
+      "authors": [
+        "Jaideep Nijjar",
+        "Ivan Boci\u0107",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/2699691",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b1f3a512ff0424b71e68173284fbc7548d420495",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Introduction to the Special Issue on ISSTA 2013",
+      "authors": [],
+      "doi": "10.1145/2809789",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b522564daa30c53085c6222a53f6eac82a751e01",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Effective Techniques for Static Race Detection in Java Parallel Loops",
+      "authors": [
+        "Cosmin Radoi",
+        "Danny Dig"
+      ],
+      "doi": "10.1145/2729975",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ]
+]

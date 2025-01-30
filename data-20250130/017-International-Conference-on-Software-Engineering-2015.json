@@ -1,0 +1,6118 @@
+[
+  [
+    1,
+    {
+      "title": "IccTA: Detecting Inter-Component Privacy Leaks in Android Apps",
+      "authors": [
+        "Li Li",
+        "Alexandre Bartel",
+        "Tegawende F. Bissyande",
+        "Jacques Klein",
+        "Yves Le Traon",
+        "Steven Arzt",
+        "Siegfried Rasthofer",
+        "Eric Bodden",
+        "Damien Octeau",
+        "Patrick McDaniel"
+      ],
+      "doi": "10.1109/icse.2015.48",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d78411dd0113c6a3023815353ef58442abf1fd78",
+        "citationCount": 609,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Revisiting the Impact of Classification Techniques on the Performance of Defect Prediction Models",
+      "authors": [
+        "Baljinder Ghotra",
+        "Shane McIntosh",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/icse.2015.91",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d0e15417371a0b863fc80d2af42a0c54ef65e374",
+        "citationCount": 377,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Are Students Representatives of Professionals in Software Engineering Experiments?",
+      "authors": [
+        "Iflaah Salman",
+        "Ayse Tosun Misirli",
+        "Natalia Juristo"
+      ],
+      "doi": "10.1109/icse.2015.82",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a5a6eb69869d2a25a5915ebec8e0991ba78c4769",
+        "citationCount": 297,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    4,
+    {
+      "title": "DirectFix: Looking for Simple Program Repairs",
+      "authors": [
+        "Sergey Mechtaev",
+        "Jooyong Yi",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/icse.2015.63",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7dae047ebeae753f8376fac33a8a388f24992439",
+        "citationCount": 281,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Mining Apps for Abnormal Usage of Sensitive Data",
+      "authors": [
+        "Vitalii Avdiienko",
+        "Konstantin Kuznetsov",
+        "Alessandra Gorla",
+        "Andreas Zeller",
+        "Steven Arzt",
+        "Siegfried Rasthofer",
+        "Eric Bodden"
+      ],
+      "doi": "10.1109/icse.2015.61",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e953e42fca52e3d15fab3ffd423a64177a9dddac",
+        "citationCount": 275,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Online Defect Prediction for Imbalanced Data",
+      "authors": [
+        "Ming Tan",
+        "Lin Tan",
+        "Sashank Dara",
+        "Caleb Mayeux"
+      ],
+      "doi": "10.1109/icse.2015.139",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7c813672d559e3fe37569383d616cf3175af617",
+        "citationCount": 273,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    7,
+    {
+      "title": "AppContext: Differentiating Malicious and Benign Mobile App Behaviors Using Context",
+      "authors": [
+        "Wei Yang",
+        "Xusheng Xiao",
+        "Benjamin Andow",
+        "Sihan Li",
+        "Tao Xie",
+        "William Enck"
+      ],
+      "doi": "10.1109/icse.2015.50",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c704ee761389ff92072d9c4e7fd2c78777b091f2",
+        "citationCount": 255,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Tricorder: Building a Program Analysis Ecosystem",
+      "authors": [
+        "Caitlin Sadowski",
+        "Jeffrey Van Gogh",
+        "Ciera Jaspan",
+        "Emma Soderberg",
+        "Collin Winter"
+      ],
+      "doi": "10.1109/icse.2015.76",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b786cede5cdc3ffdc0f82c771d49d7ddb0bfcad9",
+        "citationCount": 229,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Composite Constant Propagation: Application to Android Inter-Component Communication Analysis",
+      "authors": [
+        "Damien Octeau",
+        "Daniel Luchaup",
+        "Matthew Dering",
+        "Somesh Jha",
+        "Patrick McDaniel"
+      ],
+      "doi": "10.1109/icse.2015.30",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "91c10594770549162b77c37bb4749d419736c48d",
+        "citationCount": 229,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Sustainability Design and Software: The Karlskrona Manifesto",
+      "authors": [
+        "Christoph Becker",
+        "Ruzanna Chitchyan",
+        "Leticia Duboc",
+        "Steve Easterbrook",
+        "Birgit Penzenstadler",
+        "Norbert Seyff",
+        "Colin C. Venters"
+      ],
+      "doi": "10.1109/icse.2015.179",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "05acb25fccb689cb74b347929f425a6934e284bc",
+        "citationCount": 227,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Learning to Log: Helping Developers Make Informed Logging Decisions",
+      "authors": [
+        "Jieming Zhu",
+        "Pinjia He",
+        "Qiang Fu",
+        "Hongyu Zhang",
+        "Michael R. Lyu",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1109/icse.2015.60",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c14eb64d84a5752af3ed399f413a8c95538bae73",
+        "citationCount": 209,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Graph-Based Statistical Language Model for Code",
+      "authors": [
+        "Anh Tuan Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2015.336",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e22f2bdada2445638f5fd8ee4bbfef42aada63f3",
+        "citationCount": 205,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Views on Internal and External Validity in Empirical Software Engineering",
+      "authors": [
+        "Janet Siegmund",
+        "Norbert Siegmund",
+        "Sven Apel"
+      ],
+      "doi": "10.1109/icse.2015.24",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2f9a1286e7af4ab7706ad8cfcc8c8742a1964939",
+        "citationCount": 191,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines",
+      "authors": [
+        "Christopher Henard",
+        "Mike Papadakis",
+        "Mark Harman",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1109/icse.2015.69",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90051c41fbad90fc5054bfbfc7190e243a7de556",
+        "citationCount": 187,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Stuck and Frustrated or in Flow and Happy: Sensing Developers' Emotions and Progress",
+      "authors": [
+        "Sebastian C. Muller",
+        "Thomas Fritz"
+      ],
+      "doi": "10.1109/icse.2015.334",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ca51ed3f618484441fd20f607819133cf58be76e",
+        "citationCount": 186,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    16,
+    {
+      "title": "When and Why Your Code Starts to Smell Bad",
+      "authors": [
+        "Michele Tufano",
+        "Fabio Palomba",
+        "Gabriele Bavota",
+        "Rocco Oliveto",
+        "Massimiliano Di Penta",
+        "Andrea De Lucia",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/icse.2015.59",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "209bcb9508edd17a6a6e7a7371a34b042bb01981",
+        "citationCount": 179,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    17,
+    {
+      "title": "An Empirical Study on Real Bug Fixes",
+      "authors": [
+        "Hao Zhong",
+        "Zhendong Su"
+      ],
+      "doi": "10.1109/icse.2015.101",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2e4e8bdd65e66ac24a85589ee4a46ff0e26c155f",
+        "citationCount": 178,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Static Control-Flow Analysis of User-Driven Callbacks in Android Applications",
+      "authors": [
+        "Shengqian Yang",
+        "Dacong Yan",
+        "Haowei Wu",
+        "Yan Wang",
+        "Atanas Rountev"
+      ],
+      "doi": "10.1109/icse.2015.31",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3fc999fd58ad6daef49c71e0d408e972119f81fc",
+        "citationCount": 170,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    19,
+    {
+      "title": "The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models",
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E. Hassan",
+        "Akinori Ihara",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1109/icse.2015.93",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8980d823f9c0ed98c008cf0bd08308f7b5eab9e0",
+        "citationCount": 144,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    20,
+    {
+      "title": "relifix: Automated Repair of Software Regressions",
+      "authors": [
+        "Shin Hwei Tan",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/icse.2015.65",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c503999384a688cd608c8f7c8afc89f87c8c9bd0",
+        "citationCount": 140,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    21,
+    {
+      "title": "How Can I Use This Method?",
+      "authors": [
+        "Laura Moreno",
+        "Gabriele Bavota",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Andrian Marcus"
+      ],
+      "doi": "10.1109/icse.2015.98",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1d196b89ddcc9e3c19deaf529a91f01a483bded6",
+        "citationCount": 139,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    22,
+    {
+      "title": "A Comparative Study of Programming Languages in Rosetta Code",
+      "authors": [
+        "Sebastian Nanz",
+        "Carlo A. Furia"
+      ],
+      "doi": "10.1109/icse.2015.90",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "012089d194955f546353cc87a76948b26aca1ab6",
+        "citationCount": 132,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets",
+      "authors": [
+        "Mike Barnett",
+        "Christian Bird",
+        "Joao Brunet",
+        "Shuvendu K. Lahiri"
+      ],
+      "doi": "10.1109/icse.2015.35",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fee5ad386a4d665751f980b4f662200b37480524",
+        "citationCount": 132,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    24,
+    {
+      "title": "What Makes a Great Software Engineer?",
+      "authors": [
+        "Paul Luo Li",
+        "Amy J. Ko",
+        "Jiamin Zhu"
+      ],
+      "doi": "10.1109/icse.2015.335",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4db3764abcccc166ec2953fa4739affefc4faf67",
+        "citationCount": 129,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    25,
+    {
+      "title": "A Case Study in Locating the Architectural Roots of Technical Debt",
+      "authors": [
+        "Rick Kazman",
+        "Yuanfang Cai",
+        "Ran Mo",
+        "Qiong Feng",
+        "Lu Xiao",
+        "Serge Haziyev",
+        "Volodymyr Fedak",
+        "Andriy Shapochka"
+      ],
+      "doi": "10.1109/icse.2015.146",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3540a226cf46fc6451fb3da9f3d9d6cdd20330e4",
+        "citationCount": 124,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    26,
+    {
+      "title": "CARAMEL: Detecting and Fixing Performance Problems That Have Non-Intrusive Fixes",
+      "authors": [
+        "Adrian Nistor",
+        "Po-Chun Chang",
+        "Cosmin Radoi",
+        "Shan Lu"
+      ],
+      "doi": "10.1109/icse.2015.100",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0c1bf6da80dad0d272f3c87bc0e8ba365219b017",
+        "citationCount": 123,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    27,
+    {
+      "title": "An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes",
+      "authors": [
+        "Ripon K. Saha",
+        "Lingming Zhang",
+        "Sarfraz Khurshid",
+        "Dewayne E. Perry"
+      ],
+      "doi": "10.1109/icse.2015.47",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5622150975290eab199779c3b072ab75e5d99765",
+        "citationCount": 123,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search",
+      "authors": [
+        "Yue Jia",
+        "Myra B. Cohen",
+        "Mark Harman",
+        "Justyna Petke"
+      ],
+      "doi": "10.1109/icse.2015.71",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "761dff0c3a22da2aa953a3865e9776a22aba7faf",
+        "citationCount": 111,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Truth in Advertising: The Hidden Cost of Mobile Ads for Software Developers",
+      "authors": [
+        "Jiaping Gui",
+        "Stuart Mcilroy",
+        "Meiyappan Nagappan",
+        "William G. J. Halfond"
+      ],
+      "doi": "10.1109/icse.2015.32",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "321f255bb1c60ddc374a775b47ae52f9a8a4985f",
+        "citationCount": 107,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    30,
+    {
+      "title": "ChangeScribe: A Tool for Automatically Generating Commit Messages",
+      "authors": [
+        "Mario Linares-Vasquez",
+        "Luis Fernando Cortes-Coy",
+        "Jairo Aponte",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/icse.2015.229",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5d0a8c8c6ad54b8f4b3d294060253df0d4e69c0b",
+        "citationCount": 105,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    31,
+    {
+      "title": "The Art of Testing Less without Sacrificing Quality",
+      "authors": [
+        "Kim Herzig",
+        "Michaela Greiler",
+        "Jacek Czerwonka",
+        "Brendan Murphy"
+      ],
+      "doi": "10.1109/icse.2015.66",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "07031463e8581e9a54418533547252b2aaeb8799",
+        "citationCount": 104,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Enron's Spreadsheets and Related Emails: A Dataset and Analysis",
+      "authors": [
+        "Felienne Hermans",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1109/icse.2015.129",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7165f695943c203be31ab69a3d75a8b9b813c5c5",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Industry Practices and Event Logging: Assessment of a Critical Software Development Process",
+      "authors": [
+        "Antonio Pecchia",
+        "Marcello Cinque",
+        "Gabriella Carrozza",
+        "Domenico Cotroneo"
+      ],
+      "doi": "10.1109/icse.2015.145",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90748f3ec71509fbf89411923c3cb0ea89ff93c9",
+        "citationCount": 92,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Measuring Dependency Freshness in Software Systems",
+      "authors": [
+        "Joel Cox",
+        "Eric Bouwers",
+        "Marko van Eekelen",
+        "Joost Visser"
+      ],
+      "doi": "10.1109/icse.2015.140",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e47f2a9c5820668ffc1c19861cd7bbbd06d19b22",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Safe Memory-Leak Fixing for C Programs",
+      "authors": [
+        "Qing Gao",
+        "Yingfei Xiong",
+        "Yaqing Mi",
+        "Lu Zhang",
+        "Weikun Yang",
+        "Zhaoping Zhou",
+        "Bing Xie",
+        "Hong Mei"
+      ],
+      "doi": "10.1109/icse.2015.64",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "872d48ae0bb0946cc0d28777a225ce1c13b2d4ed",
+        "citationCount": 90,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Dynamic Safety Cases for Through-Life Safety Assurance",
+      "authors": [
+        "Ewen Denney",
+        "Ganesh Pai",
+        "Ibrahim Habli"
+      ],
+      "doi": "10.1109/icse.2015.199",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70b371ea0841f93efdc68dffcb571bc71c691cd5",
+        "citationCount": 89,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub",
+      "authors": [
+        "Eirini Kalliamvakou",
+        "Daniela Damian",
+        "Kelly Blincoe",
+        "Leif Singer",
+        "Daniel M. German"
+      ],
+      "doi": "10.1109/icse.2015.74",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "148ce170043d69665120ccf876a9604f82d683da",
+        "citationCount": 89,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Discovering Information Explaining API Types Using Text Classification",
+      "authors": [
+        "Gayane Petrosyan",
+        "Martin P. Robillard",
+        "Renato De Mori"
+      ],
+      "doi": "10.1109/icse.2015.97",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f56e1b7dd59fdc834a6b523ca75049ff59effc3b",
+        "citationCount": 88,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Empirically Detecting False Test Alarms Using Association Rules",
+      "authors": [
+        "Kim Herzig",
+        "Nachiappan Nagappan"
+      ],
+      "doi": "10.1109/icse.2015.133",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "73bf718ccb600a16d320b45096f93cb4b6774e2f",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Comparing Software Architecture Recovery Techniques Using Accurate Dependencies",
+      "authors": [
+        "Thibaud Lutellier",
+        "Devin Chollak",
+        "Joshua Garcia",
+        "Lin Tan",
+        "Derek Rayside",
+        "Nenad Medvidovic",
+        "Robert Kroeger"
+      ],
+      "doi": "10.1109/icse.2015.136",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d10a7b2c6fb05d8a9e44279b521cb672c4e862bc",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    41,
+    {
+      "title": "LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction",
+      "authors": [
+        "Fayola Peters",
+        "Tim Menzies",
+        "Lucas Layman"
+      ],
+      "doi": "10.1109/icse.2015.92",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "019c41e5428d2d7eef2b596ac31e60d1c576cda8",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    42,
+    {
+      "title": "TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript",
+      "authors": [
+        "Michael Pradel",
+        "Parker Schuh",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/icse.2015.51",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "03c2a82f14338c5e0ffbadf9b51d2188d42e41ff",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Code Reviews Do Not Find Bugs. How the Current Code Review Best Practice Slows Us Down",
+      "authors": [
+        "Jacek Czerwonka",
+        "Michaela Greiler",
+        "Jack Tilford"
+      ],
+      "doi": "10.1109/icse.2015.131",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c0790dc547c56ca48b78bc418b21cc0687513743",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    44,
+    {
+      "title": "From Developer Networks to Verified Communities: A Fine-Grained Approach",
+      "authors": [
+        "Mitchell Joblin",
+        "Wolfgang Mauerer",
+        "Sven Apel",
+        "Janet Siegmund",
+        "Dirk Riehle"
+      ],
+      "doi": "10.1109/icse.2015.73",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "090adb6cfb5037f9ed92c939fe11b52d36bc8a38",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Presence-Condition Simplification in Highly Configurable Systems",
+      "authors": [
+        "Alexander Von Rhein",
+        "Alexander Grebhahn",
+        "Sven Apel",
+        "Norbert Siegmund",
+        "Dirk Beyer",
+        "Thorsten Berger"
+      ],
+      "doi": "10.1109/icse.2015.39",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "26d3e33247d9e5f0885b9b0254df690adb3c4d84",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Do Security Patterns Really Help Designers?",
+      "authors": [
+        "Koen Yskout",
+        "Riccardo Scandariato",
+        "Wouter Joosen"
+      ],
+      "doi": "10.1109/icse.2015.49",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9066868f6c8d47673c275fe1e998b16e1e101cac",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Virtual Reality in Software Engineering: Affordances, Applications, and Challenges",
+      "authors": [
+        "Anthony Elliott",
+        "Brian Peiris",
+        "Chris Parnin"
+      ],
+      "doi": "10.1109/icse.2015.191",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c582ef0950eaa2e1a5812ace9472ffd6ce03c5e1",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Ekstazi: Lightweight Test Selection",
+      "authors": [
+        "Milos Gligoric",
+        "Lamyaa Eloussi",
+        "Darko Marinov"
+      ],
+      "doi": "10.1109/icse.2015.230",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0ef954f394e4efd7e7c09b3ac553b5069f928ae1",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Interactive Code Review for Systematic Changes",
+      "authors": [
+        "Tianyi Zhang",
+        "Myoungkyu Song",
+        "Joseph Pinedo",
+        "Miryung Kim"
+      ],
+      "doi": "10.1109/icse.2015.33",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fd49e3927056e64e55728514e7b041f93183334e",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    50,
+    {
+      "title": "An Industrial Case Study on the Automated Detection of Performance Regressions in Heterogeneous Environments",
+      "authors": [
+        "King Chun Foo",
+        "Zhen Ming Jiang",
+        "Bram Adams",
+        "Ahmed E. Hassan",
+        "Ying Zou",
+        "Parminder Flora"
+      ],
+      "doi": "10.1109/icse.2015.144",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b202bb4b28928ded7e50bdeb73057ce061d3c4ca",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Does Automated Refactoring Obviate Systematic Editing?",
+      "authors": [
+        "Lisa Hua",
+        "Miryung Kim",
+        "Kathryn S. McKinley"
+      ],
+      "doi": "10.1109/icse.2015.58",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "41d2b80254ae4c1067f2595dce2055670149499a",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Supporting Selective Undo in a Code Editor",
+      "authors": [
+        "YoungSeok Yoon",
+        "Brad A. Myers"
+      ],
+      "doi": "10.1109/icse.2015.43",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cfab0a9412f2aff106080b2adb66e51f6dca497c",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality",
+      "authors": [
+        "Mathieu Lavallee",
+        "Pierre N. Robillard"
+      ],
+      "doi": "10.1109/icse.2015.83",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "652dae6e427a4a7e69b687afadd23bdf22204e84",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Approximating Attack Surfaces with Stack Traces",
+      "authors": [
+        "Christopher Theisen",
+        "Kim Herzig",
+        "Patrick Morrison",
+        "Brendan Murphy",
+        "Laurie Williams"
+      ],
+      "doi": "10.1109/icse.2015.148",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7c1746c2f694ede8362b1bda5af760f4c24467dd",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Code Hunt: Experience with Coding Contests at Scale",
+      "authors": [
+        "Judith Bishop",
+        "R. Nigel Horspool",
+        "Tao Xie",
+        "Nikolai Tillmann",
+        "Jonathan de Halleux"
+      ],
+      "doi": "10.1109/icse.2015.172",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f1d8ddb5a52dc4b81895f102565c6149caa8041b",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    56,
+    {
+      "title": "How (Much) Do Developers Test?",
+      "authors": [
+        "Moritz Beller",
+        "Georgios Gousios",
+        "Andy Zaidman"
+      ],
+      "doi": "10.1109/icse.2015.193",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f52c37dbd23d445ca5f6f98ac060efffa2602164",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    57,
+    {
+      "title": "The ECCO Tool: Extraction and Composition for Clone-and-Own",
+      "authors": [
+        "Stefan Fischer",
+        "Lukas Linsbauer",
+        "Roberto E. Lopez-Herrejon",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1109/icse.2015.218",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "18bbaa338ae733183fdef93e7a75b7b6437903d0",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Assert Use in GitHub Projects",
+      "authors": [
+        "Casey Casalnuovo",
+        "Prem Devanbu",
+        "Abilio Oliveira",
+        "Vladimir Filkov",
+        "Baishakhi Ray"
+      ],
+      "doi": "10.1109/icse.2015.88",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7ced9583cdfc34f1db2d0e0df3668cc46bd11c1a",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    59,
+    {
+      "title": "CACHECA: A Cache Language Model Based Code Suggestion Tool",
+      "authors": [
+        "Christine Franks",
+        "Zhaopeng Tu",
+        "Premkumar Devanbu",
+        "Vincent Hellendoorn"
+      ],
+      "doi": "10.1109/icse.2015.228",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b5fc5e7ad9a21fe7b92090ffb88bd63370b89bb1",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    60,
+    {
+      "title": "How Much Up-Front? A Grounded theory of Agile Architecture",
+      "authors": [
+        "Michael Waterman",
+        "James Noble",
+        "George Allan"
+      ],
+      "doi": "10.1109/icse.2015.54",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a6ea3073800f62c81415095d36b0b49b81a5f822",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    61,
+    {
+      "title": "A Vision of Crowd Development",
+      "authors": [
+        "Thomas D. LaToza",
+        "Andre van der Hoek"
+      ],
+      "doi": "10.1109/icse.2015.194",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "826bb9326410dfcbbcc74aac9b6e3996406956c8",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    62,
+    {
+      "title": "&amp;#x0022;Should We Move to Stack Overflow?&amp;#x0022; Measuring the Utility of Social Media for Developer Support",
+      "authors": [
+        "Megan Squire"
+      ],
+      "doi": "10.1109/icse.2015.150",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b41c2249ac33eac81a9adb5db323b758f1a46e77",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    63,
+    {
+      "title": "DASE: Document-Assisted Symbolic Execution for Improving Automated Software Testing",
+      "authors": [
+        "Edmund Wong",
+        "Lei Zhang",
+        "Song Wang",
+        "Taiyue Liu",
+        "Lin Tan"
+      ],
+      "doi": "10.1109/icse.2015.78",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c2553ba1a450d71c6662a52fb98ca6cccaf24d1f",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    64,
+    {
+      "title": "The Role of Design Thinking and Physical Prototyping in Social Software Engineering",
+      "authors": [
+        "Peter Newman",
+        "Maria Angela Ferrario",
+        "Will Simm",
+        "Stephen Forshaw",
+        "Adrian Friday",
+        "Jon Whittle"
+      ],
+      "doi": "10.1109/icse.2015.181",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8470285e3cb4919c3e32deae15919e5c3c5d9374",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Analysis of Android Inter-App Security Vulnerabilities Using COVERT",
+      "authors": [
+        "Alireza Sadeghi",
+        "Hamid Bagheri",
+        "Sam Malek"
+      ],
+      "doi": "10.1109/icse.2015.233",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7f2b816d85ee6a3bf73e436a9bee51ae3797dbf6",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Combining Symbolic Execution and Model Checking for Data Flow Testing",
+      "authors": [
+        "Ting Su",
+        "Zhoulai Fu",
+        "Geguang Pu",
+        "Jifeng He",
+        "Zhendong Su"
+      ],
+      "doi": "10.1109/icse.2015.81",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1b6c46476f795939882d16e6b4fd8d2d64e3b360",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Lightweight Adaptive Filtering for Efficient Learning and Updating of Probabilistic Models",
+      "authors": [
+        "Antonio Filieri",
+        "Lars Grunske",
+        "Alberto Leva"
+      ],
+      "doi": "10.1109/icse.2015.41",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6bdf114ec59eac1f3a6f82a268ffbc91eeacb31c",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Optimising Energy Consumption of Design Patterns",
+      "authors": [
+        "Adel Noureddine",
+        "Ajitha Rajan"
+      ],
+      "doi": "10.1109/icse.2015.208",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39f40c40037b128951f555bdd3309f4fd471e4b3",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    69,
+    {
+      "title": "A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies",
+      "authors": [
+        "Daming Zou",
+        "Ran Wang",
+        "Yingfei Xiong",
+        "Lu Zhang",
+        "Zhendong Su",
+        "Hong Mei"
+      ],
+      "doi": "10.1109/icse.2015.70",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "64dcb1fd9a50cb4b8e75925a0f236feb8131236a",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    70,
+    {
+      "title": "An Empirical Study on Quality Issues of Production Big Data Platform",
+      "authors": [
+        "Hucheng Zhou",
+        "Jian-Guang Lou",
+        "Hongyu Zhang",
+        "Haibo Lin",
+        "Haoxiang Lin",
+        "Tingting Qin"
+      ],
+      "doi": "10.1109/icse.2015.130",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "55a480c9089645f49f06032c6bf315194b3a7df1",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    71,
+    {
+      "title": "FLEXISKETCH TEAM: Collaborative Sketching and Notation Creation on the Fly",
+      "authors": [
+        "Dustin Wuest",
+        "Norbert Seyff",
+        "Martin Glinz"
+      ],
+      "doi": "10.1109/icse.2015.223",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "201d08accbe447332f09b72b5c954f5b5799787e",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Hercules: Reproducing Crashes in Real-World Application Binaries",
+      "authors": [
+        "Van-Thuan Pham",
+        "Wei Boon Ng",
+        "Konstantin Rubinov",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1109/icse.2015.99",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7430d56eb355eb3103ea29fe9e7db9d967534ba9",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Morpheus: Variability-Aware Refactoring in the Wild",
+      "authors": [
+        "Jorg Liebig",
+        "Andreas Janker",
+        "Florian Garbe",
+        "Sven Apel",
+        "Christian Lengauer"
+      ],
+      "doi": "10.1109/icse.2015.57",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9097022285a4a79d04ce7e24e7b8b6fe89e03191",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Combining Mastery Learning with Project-Based Learning in a First Programming Course: An Experience Report",
+      "authors": [
+        "Mehdi Jazayeri"
+      ],
+      "doi": "10.1109/icse.2015.163",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "91ce9bba5faae11baacad48ba00569dcf4693cd6",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Automated Decomposition of Build Targets",
+      "authors": [
+        "Mohsen Vakilian",
+        "Raluca Sauciuc",
+        "J. David Morgenthaler",
+        "Vahab Mirrokni"
+      ],
+      "doi": "10.1109/icse.2015.34",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "96936e784919849bf5b041d6a2f93ddd58d364d1",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Effectiveness of Persona with Personality Traits on Conceptual Design",
+      "authors": [
+        "Farshid Anvari",
+        "Deborah Richards",
+        "Michael Hitchens",
+        "Muhammad Ali Babar"
+      ],
+      "doi": "10.1109/icse.2015.155",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "38f6e05534f1523caaf8668b0426dde6adc1e8b5",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Learning Global Agile Software Engineering Using Same-Site and Cross-Site Teams",
+      "authors": [
+        "Maria Paasivaara",
+        "Kelly Blincoe",
+        "Casper Lassenius",
+        "Daniela Damian",
+        "Jyoti Sheoran",
+        "Francis Harrison",
+        "Prashant Chhabra",
+        "Aminah Yussuf",
+        "Veikko Isotalo"
+      ],
+      "doi": "10.1109/icse.2015.157",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b9b17615decdfe25f8264a3d2312185b43118333",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    78,
+    {
+      "title": "GPredict: Generic Predictive Concurrency Analysis",
+      "authors": [
+        "Jeff Huang",
+        "Qingzhou Luo",
+        "Grigore Rosu"
+      ],
+      "doi": "10.1109/icse.2015.96",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5f54657c568e74c8c39fbcf85a0425ba5c2298bc",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    79,
+    {
+      "title": "A Programming Model for Sustainable Software",
+      "authors": [
+        "Haitao Steve Zhu",
+        "Chaoren Lin",
+        "Yu David Liu"
+      ],
+      "doi": "10.1109/icse.2015.89",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7515e77f5d1bedf72e7ca57a71361a51fe2b32cc",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Detecting Inconsistencies in JavaScript MVC Applications",
+      "authors": [
+        "Frolin S. Ocariza",
+        "Karthik Pattabiraman",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1109/icse.2015.52",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4b626abb1074ed7631e340bb1b7c9f7c75684941",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Leveraging Informal Documentation to Summarize Classes and Methods in Context",
+      "authors": [
+        "Latifa Guerrouj",
+        "David Bourque",
+        "Peter C. Rigby"
+      ],
+      "doi": "10.1109/icse.2015.212",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2a599ea833fa095005542aba6456877f3ccc4f58",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Compositional Symbolic Execution with Memoized Replay",
+      "authors": [
+        "Rui Qiu",
+        "Guowei Yang",
+        "Corina S. Pasareanu",
+        "Sarfraz Khurshid"
+      ],
+      "doi": "10.1109/icse.2015.79",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1a219842d5e6ee5ea9001aec38570a1a748f6354",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Interactive Synthesis Using Free-Form Queries",
+      "authors": [
+        "Tihomir Gvero",
+        "Viktor Kuncak"
+      ],
+      "doi": "10.1109/icse.2015.224",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d1e7bcab34f6552a431c6dc2ca3453eabf96d47a",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    84,
+    {
+      "title": "No PAIN, No Gain? The Utility of PArallel Fault INjections",
+      "authors": [
+        "Stefan Winter",
+        "Oliver Schwahn",
+        "Roberto Natella",
+        "Neeraj Suri",
+        "Domenico Cotroneo"
+      ],
+      "doi": "10.1109/icse.2015.67",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4f93038704af0da614373c8f61e1719bc9e5cd28",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    85,
+    {
+      "title": "RECONTEST: Effective Regression Testing of Concurrent Programs",
+      "authors": [
+        "Valerio Terragni",
+        "Shing-Chi Cheung",
+        "Charles Zhang"
+      ],
+      "doi": "10.1109/icse.2015.45",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8d44f1ca04033fe4caf8859855ab59fc4f0183f4",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Textual Analysis for Code Smell Detection",
+      "authors": [
+        "Fabio Palomba"
+      ],
+      "doi": "10.1109/icse.2015.244",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c6bc40396cb1570baefeb679939b6a4a760b661e",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    87,
+    {
+      "title": "The Green Lab: Experimentation in Software Energy Efficiency",
+      "authors": [
+        "Giuseppe Procaccianti",
+        "Patricia Lago",
+        "Antonio Vetro",
+        "Daniel Mendez Fernandez",
+        "Roel Wieringa"
+      ],
+      "doi": "10.1109/icse.2015.297",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "024bc7cae7c9ab3b08b5e16507945adb4d23e39a",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Agile Project Management: From Self-Managing Teams to Large-Scale Development",
+      "authors": [
+        "Tore Dyba",
+        "Torgeir Dingsoyr"
+      ],
+      "doi": "10.1109/icse.2015.299",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90ec6023d0f44716005c486c5edfbb82ae8c3781",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Chiminey: Reliable Computing and Data Management Platform in the Cloud",
+      "authors": [
+        "Iman I. Yusuf",
+        "Ian E. Thomas",
+        "Maria Spichkova",
+        "Steve Androulakis",
+        "Grischa R. Meyer",
+        "Daniel W. Drumm",
+        "George Opletal",
+        "Salvy P. Russo",
+        "Ashley M. Buckle",
+        "Heinz W. Schmidt"
+      ],
+      "doi": "10.1109/icse.2015.221",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c7aa2f8a36b1ea307f9556141536a819a6868565",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    90,
+    {
+      "title": "AutoCSP: Automatically Retrofitting CSP to Web Applications",
+      "authors": [
+        "Mattia Fazzini",
+        "Prateek Saxena",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1109/icse.2015.53",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "343200e286b74cc9dbcfff0dc20bf831407eb054",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Measuring Software Redundancy",
+      "authors": [
+        "Antonio Carzaniga",
+        "Andrea Mattavelli",
+        "Mauro Pezze"
+      ],
+      "doi": "10.1109/icse.2015.37",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f80ef990fb0560cbd1f2bbdb226adae10e2e1fb2",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Bootstrapping Mobile App Development",
+      "authors": [
+        "Scott Barnett",
+        "Rajesh Vasa",
+        "John Grundy"
+      ],
+      "doi": "10.1109/icse.2015.216",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f2b2258c8bb5343e9b0cc35934457de2bffa63b9",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Evolution of Software Development Strategies",
+      "authors": [
+        "Katrina Falkner",
+        "Claudia Szabo",
+        "Rebecca Vivian",
+        "Nickolas Falkner"
+      ],
+      "doi": "10.1109/icse.2015.153",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7439d0ecc847910f863667319c4e6d337f215be6",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Does the Failing Test Execute a Single or Multiple Faults? An Approach to Classifying Failing Tests",
+      "authors": [
+        "Zhongxing Yu",
+        "Chenggang Bai",
+        "Kai-Yuan Cai"
+      ],
+      "doi": "10.1109/icse.2015.102",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c757189ce8491bca38500288e931e1db41a9d233",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Merits of Organizational Metrics in Defect Prediction: An Industrial Replication",
+      "authors": [
+        "Bora Caglayan",
+        "Burak Turhan",
+        "Ayse Bener",
+        "Mayy Habayeb",
+        "Andriy Miransky",
+        "Enzo Cialini"
+      ],
+      "doi": "10.1109/icse.2015.138",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "844935041e5d4abd62268bef142b37d620761faa",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    96,
+    {
+      "title": "TaskNav: Task-Based Navigation of Software Documentation",
+      "authors": [
+        "Christoph Treude",
+        "Mathieu Sicard",
+        "Marc Klocke",
+        "Martin Robillard"
+      ],
+      "doi": "10.1109/icse.2015.214",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5c69d8a9f93aedfd6f0e8b9ed4c97dee720801a4",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Empirical Study Towards a Leading Indicator for Cost of Formal Software Verification",
+      "authors": [
+        "Daniel Matichuk",
+        "Toby Murray",
+        "June Andronick",
+        "Ross Jeffery",
+        "Gerwin Klein",
+        "Mark Staples"
+      ],
+      "doi": "10.1109/icse.2015.85",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39594a5fa22401404faa3ce0dadfb80043b4ac7d",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    98,
+    {
+      "title": "The Development of a Dashboard Tool for Visualising Online Teamwork Discussions",
+      "authors": [
+        "Rebecca Vivian",
+        "Hamid Tarmazdi",
+        "Katrina Falkner",
+        "Nickolas Falkner",
+        "Claudia Szabo"
+      ],
+      "doi": "10.1109/icse.2015.170",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6e550319b7532689aad27fe71c88a98b99a890d5",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Exploration, Analysis, and Manipulation of&amp;#x00A0;&amp;#x00A0;Source Code Using srcML",
+      "authors": [
+        "Jonathan I. Maletic",
+        "Michael L. Collard"
+      ],
+      "doi": "10.1109/icse.2015.302",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1266dfea3923dd3f354fb6a19b4000ab53db4add",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Ariadne: Topology Aware Adaptive Security for Cyber-Physical Systems",
+      "authors": [
+        "Christos Tsigkanos",
+        "Liliana Pasquale",
+        "Carlo Ghezzi",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1109/icse.2015.234",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8c0a251d8967cbd69e0014ac0de5c7818ff6855d",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    101,
+    {
+      "title": "An Initiative to Improve Reproducibility and Empirical Evaluation of Software Testing Techniques",
+      "authors": [
+        "Francisco G. de Oliveira Neto",
+        "Richard Torkar",
+        "Patricia D. L. Machado"
+      ],
+      "doi": "10.1109/icse.2015.197",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1be707b490888cb59cb2383db2dea93b5d8a979c",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Dynamic Data Flow Testing of Object Oriented Systems",
+      "authors": [
+        "Giovanni Denaro",
+        "Alessandro Margara",
+        "Mauro Pezze",
+        "Mattia Vivanti"
+      ],
+      "doi": "10.1109/icse.2015.104",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "53b8ae2612f4ea262f73898843903af107f478b9",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    103,
+    {
+      "title": "TesMa and CATG: Automated Test Generation Tools for Models of Enterprise Applications",
+      "authors": [
+        "Haruto Tanno",
+        "Xiaojing Zhang",
+        "Takashi Hoshino",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/icse.2015.231",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e03c8ed4a7ca9e941c7f55bf5ef9de4e003ab54",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    104,
+    {
+      "title": "A Large Scale Study of License Usage on GitHub",
+      "authors": [
+        "Christopher Vendome"
+      ],
+      "doi": "10.1109/icse.2015.245",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "921a7276ed59cdbf1f5b0d504eb893ca14ce7ac7",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    105,
+    {
+      "title": "A Synergistic Analysis Method for Explaining Failed Regression Tests",
+      "authors": [
+        "Qiuping Yi",
+        "Zijiang Yang",
+        "Jian Liu",
+        "Chen Zhao",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/icse.2015.46",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bb4e1acd7489c3bf61776cac7a2831000c6a9d98",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Active and Inductive Learning in Software Engineering Education",
+      "authors": [
+        "Yvonne Sedelmaier",
+        "Dieter Landes"
+      ],
+      "doi": "10.1109/icse.2015.174",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2e428619def62b012d3cca2c5c3eca4fa91e9f50",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    107,
+    {
+      "title": "In Search of the Emotional Design Effect in Programming",
+      "authors": [
+        "Lassi Haaranen",
+        "Petri Ihantola",
+        "Juha Sorva",
+        "Arto Vihavainen"
+      ],
+      "doi": "10.1109/icse.2015.175",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f9c8a4162f111cb4c7c702f3662c6c1f20ed4a97",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    108,
+    {
+      "title": "New Initiative: The Naturalness of Software",
+      "authors": [
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1109/icse.2015.190",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f713ea97c87166875daf650fbdc3950eed8973a",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    109,
+    {
+      "title": "On the Role of Value Sensitive Concerns in Software Engineering Practice",
+      "authors": [
+        "Balbir Barn",
+        "Ravinder Barn",
+        "Franco Raimondi"
+      ],
+      "doi": "10.1109/icse.2015.182",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "48391865883de5147d420b6b542791c68b9841ae",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Symbolic Model Checking of Product-Line Requirements Using SAT-Based Methods",
+      "authors": [
+        "Shoham Ben-David",
+        "Baruch Sterin",
+        "Joanne M. Atlee",
+        "Sandy Beidu"
+      ],
+      "doi": "10.1109/icse.2015.40",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "551430ba8a0692ebb111ff82f1af331b7e58a5eb",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Reactive Programming: A Walkthrough",
+      "authors": [
+        "Guido Salvaneschi",
+        "Alessandro Margara",
+        "Giordano Tamburrelli"
+      ],
+      "doi": "10.1109/icse.2015.303",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7947b75cc8094232d3f15242107fdb2120c9727f",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    112,
+    {
+      "title": "StriSynth: Synthesis for Live Programming",
+      "authors": [
+        "Sumit Gulwani",
+        "Mikael Mayer",
+        "Filip Niksic",
+        "Ruzica Piskac"
+      ],
+      "doi": "10.1109/icse.2015.227",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8ff61abf5503b8f5952f66b5ff8b485f94261014",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Teaching Software Architecture to Undergraduate Students: An Experience Report",
+      "authors": [
+        "Chandan R. Rupakheti",
+        "Stephen V. Chenoweth"
+      ],
+      "doi": "10.1109/icse.2015.177",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e40b738f851bb81aecfcf5111142c72cc16355d4",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Database-Backed Program Analysis for Scalable Error Propagation",
+      "authors": [
+        "Cathrin Weiss",
+        "Cindy Rubio-Gonzalez",
+        "Ben Liblit"
+      ],
+      "doi": "10.1109/icse.2015.75",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ce1399c113b38f9c6959ee982589654bca5c9e0e",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Poster: ProNat: An Agent-Based System Design for Programming in Spoken Natural Language",
+      "authors": [
+        "Sebastian Weigelt",
+        "Walter F. Tichy"
+      ],
+      "doi": "10.1109/icse.2015.264",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "63d9c99c47ab7d011dfb21923f0c9b22ed5fb61c",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Striving for Failure: An Industrial Case Study about Test Failure Prediction",
+      "authors": [
+        "Jeff Anderson",
+        "Saeed Salem",
+        "Hyunsook Do"
+      ],
+      "doi": "10.1109/icse.2015.134",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1bfca279d2bedb8ad524074e3867221aae2ec34a",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Automatic Documentation Generation via Source Code Summarization",
+      "authors": [
+        "Paul W. McBurney"
+      ],
+      "doi": "10.1109/icse.2015.288",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "330b8c76af03296bec5746cd4e16143f35a94e73",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Software Design Studio: A Practical Example",
+      "authors": [
+        "Jaejoon Lee",
+        "Gerald Kotonya",
+        "Jon Whittle",
+        "Christopher Bull"
+      ],
+      "doi": "10.1109/icse.2015.171",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8846256add516ea444244d1fb94ae7b6760b068c",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Efficient Scalable Verification of LTL Specifications",
+      "authors": [
+        "Luciano Baresi",
+        "Mohammad Mehdi Pourhashem Kallehbasti",
+        "Matteo Rossi"
+      ],
+      "doi": "10.1109/icse.2015.84",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "16430439f730bc3a07c3930715b10ec26ff551f0",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Correctness and Relative Correctness",
+      "authors": [
+        "Nafi Diallo",
+        "Wided Ghardallou",
+        "Ali Mili"
+      ],
+      "doi": "10.1109/icse.2015.200",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a5c21316e7bedc2b12d4c325f8716a6c23bb62d2",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    121,
+    {
+      "title": "StressCloud: A Tool for Analysing Performance and Energy Consumption of Cloud Applications",
+      "authors": [
+        "Feifei Chen",
+        "John Grundy",
+        "Jean-Guy Schneider",
+        "Yun Yang",
+        "Qiang He"
+      ],
+      "doi": "10.1109/icse.2015.232",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "057d7195190c7787b4c9cb378e30e86e37e2b2f9",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Automated Program Repair in an Integrated Development Environment",
+      "authors": [
+        "Yu Pei",
+        "Carlo A. Furia",
+        "Martin Nordio",
+        "Bertrand Meyer"
+      ],
+      "doi": "10.1109/icse.2015.222",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "38d4b55a279cbea6f786c540ceb485879730ad05",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Automatic and Continuous Software Architecture Validation",
+      "authors": [
+        "Maayan Goldstein",
+        "Itai Segall"
+      ],
+      "doi": "10.1109/icse.2015.135",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b4ca20468dea34408ea5867c3bd53213b658e83",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Enabling the Definition and Enforcement of Governance Rules in Open Source Systems",
+      "authors": [
+        "Javier Luis Canovas Izquierdo",
+        "Jordi Cabot"
+      ],
+      "doi": "10.1109/icse.2015.184",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a13c2e0ed2bf4683716161f936f63f1c8745e349",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Build It Yourself! Homegrown Tools in a Large Software Company",
+      "authors": [
+        "Edward K. Smith",
+        "Christian Bird",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1109/icse.2015.56",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6c90cdb94ea6c39bc0da1d5708ea6ef3012bdb4c",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    126,
+    {
+      "title": "Information Transformation: An Underpinning Theory for Software Engineering",
+      "authors": [
+        "David Clark",
+        "Robert Feldt",
+        "Simon Poulding",
+        "Shin Yoo"
+      ],
+      "doi": "10.1109/icse.2015.202",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bb42baeb1967912c4469d40328e678cbda358adb",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    127,
+    {
+      "title": "A Security Practices Evaluation Framework",
+      "authors": [
+        "Patrick Morrison"
+      ],
+      "doi": "10.1109/icse.2015.296",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2b8f0ff9c27ec594a1479e35336858b91d21ef2e",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Developing and Evaluating Software Engineering Process Theories",
+      "authors": [
+        "Paul Ralph"
+      ],
+      "doi": "10.1109/icse.2015.25",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e975ac2c11cee285789e80b46882a0aaab380c85",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Security Toolbox for Detecting Novel and Sophisticated Android Malware",
+      "authors": [
+        "Benjamin Holland",
+        "Tom Deering",
+        "Suresh Kothari",
+        "Jon Mathews",
+        "Nikhil Ranade"
+      ],
+      "doi": "10.1109/icse.2015.235",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4ae830d28825768820d0b706b54fb9b3c9e6f40e",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    130,
+    {
+      "title": "When App Stores Listen to the Crowd to Fight Bugs in the Wild",
+      "authors": [
+        "Maria Gomez",
+        "Matias Martineza",
+        "Martin Monperrus",
+        "Romain Rouvoy"
+      ],
+      "doi": "10.1109/icse.2015.195",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a66b4442ff1fe458c97885b71148d53bdac473ce",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    131,
+    {
+      "title": "An Approach to Detect Android Antipatterns",
+      "authors": [
+        "Geoffrey Hecht"
+      ],
+      "doi": "10.1109/icse.2015.243",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cda6394f0dea32efc416dfa87091f6063f32ee32",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Evolution-Aware Monitoring-Oriented Programming",
+      "authors": [
+        "Owolabi Legunsen",
+        "Darko Marinov",
+        "Grigore Rosu"
+      ],
+      "doi": "10.1109/icse.2015.206",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "546e96f0bf6d9d084b6b2b2b0b15bdc359349ab7",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Mining Software Repositories for Social Norms",
+      "authors": [
+        "Hoa Khanh Dam",
+        "Bastin Tony Roy Savarimuthu",
+        "Daniel Avery",
+        "Aditya Ghose"
+      ],
+      "doi": "10.1109/icse.2015.209",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a52032f3bcc3bc303efe2198501f44dd0603aef7",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Measuring Software Developers' Perceived Difficulty with Biometric Sensors",
+      "authors": [
+        "Sebastian C. Muller"
+      ],
+      "doi": "10.1109/icse.2015.284",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4378fe3d5c62093d909c0c21838c1948c562b8db",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Data-Delineation in Software Binaries and its Application to Buffer-Overrun Discovery",
+      "authors": [
+        "Denis Gopan",
+        "Evan Driscoll",
+        "Ducson Nguyen",
+        "Dimitri Naydich",
+        "Alexey Loginov",
+        "David Melski"
+      ],
+      "doi": "10.1109/icse.2015.36",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a6ab7136d07cdd58dcd76813afd55507fe895f48",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Poster: Filtering Code Smells Detection Results",
+      "authors": [
+        "Francesca Arcelli Fontana",
+        "Vincenzo Ferme",
+        "Marco Zanoni"
+      ],
+      "doi": "10.1109/icse.2015.256",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "903d4a8e4f9ac4f6ce01c1c00121fdaf81e07cbe",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    137,
+    {
+      "title": "A Large-Scale Technology Evaluation Study: Effects of Model-based Analysis and Testing",
+      "authors": [
+        "Michael Klas",
+        "Thomas Bauer",
+        "Andreas Dereani",
+        "Thomas Soderqvist",
+        "Philipp Helle"
+      ],
+      "doi": "10.1109/icse.2015.141",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5ffb52685a9335a32907fae9223c541c90776437",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    138,
+    {
+      "title": "A Combined Technique of GUI Ripping and Input Perturbation Testing for Android Apps",
+      "authors": [
+        "Gennaro Imparato"
+      ],
+      "doi": "10.1109/icse.2015.241",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "64347841a8d9ae77c33bbf59f4a4b399bb5c36cb",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Capsule-Oriented Programming",
+      "authors": [
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1109/icse.2015.205",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "54030ce943aa5043ccb8af4024d8c913b14347b6",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    140,
+    {
+      "title": "Educating Software Engineering Managers - Revisited What Software Project Managers Need to Know Today",
+      "authors": [
+        "Lawrence Peters",
+        "Ana M. Moreno"
+      ],
+      "doi": "10.1109/icse.2015.168",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ba6fa3763fbec2066ecc4d2f65de4f9b77b1de88",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    141,
+    {
+      "title": "On Architectural Diversity of Dynamic Adaptive Systems",
+      "authors": [
+        "Hui Song",
+        "Amal Elgammal",
+        "Vivek Nallur",
+        "Franck Chauvel",
+        "Franck Fleurey",
+        "Siobhan Clarke"
+      ],
+      "doi": "10.1109/icse.2015.201",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "47188f6c3aa26d4db1d6ab6286f1e5d45cc2d756",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    142,
+    {
+      "title": "scvRipper: Video Scraping Tool for Modeling Developers' Behavior Using Interaction Data",
+      "authors": [
+        "Lingfeng Bao",
+        "Jing Li",
+        "Zhenchang Xing",
+        "Xinyu Wang",
+        "Bo Zhou"
+      ],
+      "doi": "10.1109/icse.2015.220",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d9f7803e875c58ec452ddeef968a89ec064fa27f",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Enabling Testing of Android Apps",
+      "authors": [
+        "Mario Linares-Vasquez"
+      ],
+      "doi": "10.1109/icse.2015.242",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "57e357fd51b8734600241e6c78c13a3139f13cfd",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Managing Emergent Ethical Concerns for Software Engineering in Society",
+      "authors": [
+        "Awais Rashid",
+        "Karenza Moore",
+        "Corinne May-Chahal",
+        "Ruzanna Chitchyan"
+      ],
+      "doi": "10.1109/icse.2015.187",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fa8b2ce47a240cafd1e3cb73b05eea1b6f3c5aa7",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Dementia and Social Sustainability: Challenges for Software Engineering",
+      "authors": [
+        "Pete Sawyer",
+        "Alistair Sutcliffe",
+        "Paul Rayson",
+        "Chris Bull"
+      ],
+      "doi": "10.1109/icse.2015.188",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7084ad355814fed61c52e156e0697950270a3476",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Gray Computing: An Analysis of Computing with Background JavaScript Tasks",
+      "authors": [
+        "Yao Pan",
+        "Jules White",
+        "Yu Sun",
+        "Jeff Gray"
+      ],
+      "doi": "10.1109/icse.2015.38",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6e5d6512b23ee8211416ff03ce6cac89ea261ee0",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Engineering Sustainability Through Language",
+      "authors": [
+        "Ruzanna Chitchyan",
+        "Walter Cazzola",
+        "Awais Rashid"
+      ],
+      "doi": "10.1109/icse.2015.183",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9911f4af9aac55b43bea69f82d69da2f1edf1f3f",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Poster: Software Development Risk Management: Using Machine Learning for Generating Risk Prompts",
+      "authors": [
+        "Harry Raymond Joseph"
+      ],
+      "doi": "10.1109/icse.2015.271",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c998e9594256397b85253bc9e680f31567d201e4",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    149,
+    {
+      "title": "Industry/University Collaboration in Software Engineering Education: Refreshing and Retuning Our Strategies",
+      "authors": [
+        "Nancy R. Mead"
+      ],
+      "doi": "10.1109/icse.2015.156",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7fbd1a7eae3290b07d9630e8886f59d01b962392",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    150,
+    {
+      "title": "CS/SE Instructors Can Improve Student Writing without Reducing Class Time Devoted to Technical Content: Experimental Results",
+      "authors": [
+        "Paul V. Anderson",
+        "Sarah Heckman",
+        "Mladen Vouk",
+        "David Wright",
+        "Michael Carter",
+        "Janet E. Burge",
+        "Gerald C. Gannod"
+      ],
+      "doi": "10.1109/icse.2015.178",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7510fdd4533dcb270f91cd077beea2c97f8dd0f",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    151,
+    {
+      "title": "A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics",
+      "authors": [
+        "Michael W. Whalen",
+        "Suzette Person",
+        "Neha Rungta",
+        "Matt Staats",
+        "Daniela Grijincu"
+      ],
+      "doi": "10.1109/icse.2015.68",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4032075e5eefa348ceaac48ba12114586eac62f2",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    152,
+    {
+      "title": "CodeAware: Sensor-Based Fine-Grained Monitoring and Management of Software Artifacts",
+      "authors": [
+        "Rui Abreu",
+        "Hakan Erdogmus",
+        "Alexandre Perez"
+      ],
+      "doi": "10.1109/icse.2015.192",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "00953fa28ca3f770bb7d32f02e7a148a176042fe",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Rapid Multi-Purpose, Multi-Commit Code Analysis",
+      "authors": [
+        "Carol V. Alexandru",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1109/icse.2015.211",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aa7d2d2772a691990f1a434130f73c1f6cfb3c06",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Inferring Behavioral Specifications from Large-scale Repositories by Leveraging Collective Intelligence",
+      "authors": [
+        "Hridesh Rajan",
+        "Tien N. Nguyen",
+        "Gary T. Leavens",
+        "Robert Dyer"
+      ],
+      "doi": "10.1109/icse.2015.339",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6a2b18cf6a5f4ae38c00e5b882e469689dccee0e",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Design and Evaluation of a Customizable Multi-Domain Reference Architecture on Top of Product Lines of Self-Driving Heavy Vehicles - An Industrial Case Study",
+      "authors": [
+        "Jan Schroeder",
+        "Daniela Holzner",
+        "Christian Berger",
+        "Carl-Johan Hoel",
+        "Leo Laine",
+        "Anders Magnusson"
+      ],
+      "doi": "10.1109/icse.2015.147",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6e803a44d99e436b67da40b9b55987a3910b09cc",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    156,
+    {
+      "title": "MU-MMINT: An IDE for Model Uncertainty",
+      "authors": [
+        "Michalis Famelis",
+        "Naama Ben-David",
+        "Alessio Di Sandro",
+        "Rick Salay",
+        "Marsha Chechik"
+      ],
+      "doi": "10.1109/icse.2015.226",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e02b01acda4f863f878955d1cc2f1cf4b827cd2a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Does Outside-In Teaching Improve the Learning of Object-Oriented Programming?",
+      "authors": [
+        "Erica Janke",
+        "Philipp Brune",
+        "Stefan Wagner"
+      ],
+      "doi": "10.1109/icse.2015.173",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6d2fa1eedc1917525ce07184f06fa7bc4dabb44a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Incorporating Human Intention into Self-Adaptive Systems",
+      "authors": [
+        "Shihong Huang",
+        "Pedro Miranda"
+      ],
+      "doi": "10.1109/icse.2015.196",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "48d0a486d93bdf98a162e7c4e0fae5cd5e459b5a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Dynamic Generation of Likely Invariants for Multithreaded Programs",
+      "authors": [
+        "Markus Kusano",
+        "Arijit Chattopadhyay",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/icse.2015.95",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b4104312f83b2c4a3f5db0df158d742f675cd6ba",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    160,
+    {
+      "title": "ReCBuLC: Reproducing Concurrency Bugs Using Local Clocks",
+      "authors": [
+        "Xiang Yuan",
+        "Chenggang Wu",
+        "Zhenjiang Wang",
+        "Jianjun Li",
+        "Pen-Chung Yew",
+        "Jeff Huang",
+        "Xiaobing Feng",
+        "Yanyan Lan",
+        "Yunji Chen",
+        "Yong Guan"
+      ],
+      "doi": "10.1109/icse.2015.94",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3ce0c351e9cb8c12c6f57bad5b2c0c0de0be8f3b",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Statistical Learning and Software Mining for Agent Based Simulation of Software Evolution",
+      "authors": [
+        "Verena Honsel"
+      ],
+      "doi": "10.1109/icse.2015.279",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "28117b579abd56d895a6dd233cbfcd4bec6bbdf5",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    162,
+    {
+      "title": "ZoomIn: Discovering Failures by Detecting Wrong Assertions",
+      "authors": [
+        "Fabrizio Pastore",
+        "Leonardo Mariani"
+      ],
+      "doi": "10.1109/icse.2015.29",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "718e64c4ff4aba5828fb09ac43077f8a9b0fa4ae",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    163,
+    {
+      "title": "Fast Feedback Cycles in Empirical Software Engineering Research",
+      "authors": [
+        "Antonio Vetro",
+        "Saahil Ognawala",
+        "Daniel Mendez Fernandez",
+        "Stefan Wagner"
+      ],
+      "doi": "10.1109/icse.2015.198",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "60f762763e50d7d256c82c10c2450392a069fd99",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Transparently Teaching in the Context of Game-based Learning: the Case of SimulES-W",
+      "authors": [
+        "Elizabeth Suescun Monsalve",
+        "Julio Cesar Sampaio do Prado Leite",
+        "Vera Maria Benjamim Werneck"
+      ],
+      "doi": "10.1109/icse.2015.167",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dc110bee5323378a1877927b39b558aed0d53a58",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Extract Package Refactoring in ARIES",
+      "authors": [
+        "Fabio Palomba",
+        "Michele Tufano",
+        "Gabriele Bavota",
+        "Rocco Oliveto",
+        "Andrian Marcus",
+        "Denys Poshyvanyk",
+        "Andrea De Lucia"
+      ],
+      "doi": "10.1109/icse.2015.219",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2149181402f5542c9ff417d30ede4b3a9260014e",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Performance Analysis Using Subsuming Methods: An Industrial Case Study",
+      "authors": [
+        "David Maplesden",
+        "Karl von Randow",
+        "Ewan Tempero",
+        "John Hosking",
+        "John Grundy"
+      ],
+      "doi": "10.1109/icse.2015.143",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c9d9935f925b52ccafd46742db930ae792e228f7",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    167,
+    {
+      "title": "3rd International Workshop on Release Engineering (RELENG 2015)",
+      "authors": [
+        "Bram Adams",
+        "Stephany Bellomo",
+        "Christian Bird",
+        "Foutse Khomh",
+        "Kim Moir"
+      ],
+      "doi": "10.1109/icse.2015.321",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c2be091b64725a3e4c853925675475fa1297968d",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    168,
+    {
+      "title": "Varis: IDE Support for Embedded Client Code in PHP Web Applications",
+      "authors": [
+        "Hung Viet Nguyen",
+        "Christian Kastner",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2015.225",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4f0f122b62790c13d1c65f2bbf680f48b36e5508",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    169,
+    {
+      "title": "Poster: VIBeS, Transition System Mutation Made Easy",
+      "authors": [
+        "Xavier Devroey",
+        "Gilles Perrouin",
+        "Pierre-Yves Schobbens",
+        "Patrick Heymans"
+      ],
+      "doi": "10.1109/icse.2015.263",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2de1b6e1eeefaa44fb9921cabfdb949499f59dfe",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    170,
+    {
+      "title": "Software Requirements Patterns - A State of the Art and the Practice",
+      "authors": [
+        "Xavier Franch"
+      ],
+      "doi": "10.1109/icse.2015.298",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e7754b5ee5c2889326c09d5da255b826eb739d26",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    171,
+    {
+      "title": "Poster: An Efficient Equivalence Checking Method for Petri Net Based Models of Programs",
+      "authors": [
+        "Soumyadip Bandyopadhyay",
+        "Dipankar Sarkar",
+        "Chittaranjan Mandal"
+      ],
+      "doi": "10.1109/icse.2015.268",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8f0827053225d3342d2d0ca1680995af804e67c7",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    172,
+    {
+      "title": "Systematic Testing of Reactive Software with Non-Deterministic Events: A Case Study on LG Electric Oven",
+      "authors": [
+        "Yongbae Park",
+        "Shin Hong",
+        "Moonzoo Kim",
+        "Dongju Lee",
+        "Junhee Cho"
+      ],
+      "doi": "10.1109/icse.2015.132",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af59fc72055df4ed424899ae5042422b749ee71d",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    173,
+    {
+      "title": "An Integrated Multi-Agent-Based Simulation Approach to Support Software Project Management",
+      "authors": [
+        "Davy de Medeiros Baia"
+      ],
+      "doi": "10.1109/icse.2015.290",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5292ac1c5e01a6fa40fb7f5e43c9437f2d51b20b",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    174,
+    {
+      "title": "Automated Modularization of GUI Test Cases",
+      "authors": [
+        "Rahulkrishna Yandrapally",
+        "Giriprasad Sridhara",
+        "Saurabh Sinha"
+      ],
+      "doi": "10.1109/icse.2015.27",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61bf8745748c956771568489a8d4cc3e5646450c",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    175,
+    {
+      "title": "Scalability Studies on Selective Mutation Testing",
+      "authors": [
+        "Jie Zhang"
+      ],
+      "doi": "10.1109/icse.2015.276",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d4c9409ab261d23f3786177a8f9317d357cb8ecc",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    176,
+    {
+      "title": "Specifying Event-Based Systems with a Counting Fluent Temporal Logic",
+      "authors": [
+        "German Regis",
+        "Renzo Degiovanni",
+        "Nicolas D'Ippolito",
+        "Nazareno Aguirre"
+      ],
+      "doi": "10.1109/icse.2015.86",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0f2614276750409b31ebb283605e9cb8c029a384",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    177,
+    {
+      "title": "Automated Data Structure Generation: Refuting Common Wisdom",
+      "authors": [
+        "Kyle Dewey",
+        "Lawton Nichols",
+        "Ben Hardekopf"
+      ],
+      "doi": "10.1109/icse.2015.26",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c3335381d15478cc6b16c3edf1fbf3db12d180ab",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    178,
+    {
+      "title": "AppCivist - A Service-Oriented Software Platform for Socially Sustainable Activism",
+      "authors": [
+        "Animesh Pathak",
+        "Valerie Issarny",
+        "James Holston"
+      ],
+      "doi": "10.1109/icse.2015.185",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0dda83e0609cd74e887bc35e66d11775dfcfe9a3",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    179,
+    {
+      "title": "Poster: Automatically Fixing Real-World JavaScript Performance Bugs",
+      "authors": [
+        "Marija Selakovic",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/icse.2015.260",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "729137de574327c325e0d858590bf44352155d3b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    180,
+    {
+      "title": "Cognitively Sustainable ICT with Ubiquitous Mobile Services - Challenges and Opportunities",
+      "authors": [
+        "Marcus Jagemar",
+        "Gordana Dodig-Crnkovic"
+      ],
+      "doi": "10.1109/icse.2015.189",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6dbb9382a9c3a02727f3d10299560db87c164673",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    181,
+    {
+      "title": "Poster: Symbolic Execution of MPI Programs",
+      "authors": [
+        "Xianjin Fu",
+        "Zhenbang Chen",
+        "Hengbiao Yu",
+        "Chun Huang",
+        "Wei Dong",
+        "Ji Wang"
+      ],
+      "doi": "10.1109/icse.2015.259",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a78649609caff8ceb3986ea685e7bb63374fbeea",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    182,
+    {
+      "title": "Mining Temporal Properties of Data Invariants",
+      "authors": [
+        "Caroline Lemieux"
+      ],
+      "doi": "10.1109/icse.2015.238",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "073191effbc4d6d5b9630431367963944372268d",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    183,
+    {
+      "title": "Fast and Precise Statistical Code Completion",
+      "authors": [
+        "Pascal Roos"
+      ],
+      "doi": "10.1109/icse.2015.240",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b5c543160d6560fd041957031fb2d8f3c6ac2125",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    184,
+    {
+      "title": "Collaborative and Cooperative-Learning in Software Engineering Courses",
+      "authors": [
+        "Neelam Soundarajan",
+        "Swaroop Joshi",
+        "Rajiv Ramnath"
+      ],
+      "doi": "10.1109/icse.2015.164",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f8bd90f4ff7fa4f1bdd9372888d1d9290c73315b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    185,
+    {
+      "title": "2nd International Workshop on Rapid Continuous Software Engineering (RCoSE 2015)",
+      "authors": [
+        "Matthias Tichy",
+        "Jan Bosch",
+        "Michael Goedicke",
+        "Brian Fitzgerald"
+      ],
+      "doi": "10.1109/icse.2015.343",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2f0572e44a01b9e481c73088afb7a992ec64aceb",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    186,
+    {
+      "title": "Concurrent Software Engineering and Robotics Education",
+      "authors": [
+        "Jiwon Shin",
+        "Andrey Rusakov",
+        "Bertrand Meyer"
+      ],
+      "doi": "10.1109/icse.2015.169",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6ee3f6f50704041b0afafb0bcd82d308d59b2849",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    187,
+    {
+      "title": "Towards Model Driven Architecture and Analysis of System of Systems Access Control",
+      "authors": [
+        "Jamal El Hachem"
+      ],
+      "doi": "10.1109/icse.2015.280",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d3f4925e554933b9b010ae75ca6921c90c0a413a",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    188,
+    {
+      "title": "Coexecutability for Efficient Verification of Data Model Updates",
+      "authors": [
+        "Ivan Bocic",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1109/icse.2015.87",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "881e82ca17bac7b873713ae68b1b7aa79cd5b263",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    189,
+    {
+      "title": "Bixie: Finding and Understanding Inconsistent Code",
+      "authors": [
+        "Tim McCarthy",
+        "Philipp Rummer",
+        "Martin Schaf"
+      ],
+      "doi": "10.1109/icse.2015.213",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "331ca6bd07050f8d3c1f71c4db9f696e5503fb07",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    190,
+    {
+      "title": "Tempura: Temporal Dimension for IDEs",
+      "authors": [
+        "Yun Young Lee",
+        "Darko Marinov",
+        "Ralph E. Johnson"
+      ],
+      "doi": "10.1109/icse.2015.42",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cc984dcf46472583c4f766579394436a04b7fd07",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    191,
+    {
+      "title": "Poster: Reasoning Based on Imperfect Context Data in Adaptive Security",
+      "authors": [
+        "Sara Sartoli",
+        "Akbar Siami Namin"
+      ],
+      "doi": "10.1109/icse.2015.272",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2444597705ad10b42d9436faffc60937c8fcc0ef",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    192,
+    {
+      "title": "The Art and Science of Analyzing Software Data; Quantitative Methods",
+      "authors": [
+        "Tim Menzies",
+        "Leandro Minku",
+        "Fayola Peters"
+      ],
+      "doi": "10.1109/icse.2015.306",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a481910a336fda9bdc59fde5635eda550824fd69",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    193,
+    {
+      "title": "Commit Bubbles",
+      "authors": [
+        "Titus Barik",
+        "Kevin Lubick",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1109/icse.2015.210",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f89480f5bbe1de47f054d6805c0457d8811ffb80",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    194,
+    {
+      "title": "Deep Representations for Software Engineering",
+      "authors": [
+        "Martin White"
+      ],
+      "doi": "10.1109/icse.2015.248",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70b3f6cb5d2432979748ed5dfb55637e51451708",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    195,
+    {
+      "title": "Poster: Discovering Code Dependencies by Harnessing Developer's Activity",
+      "authors": [
+        "Martin Konopka",
+        "Pavol Navrat",
+        "Maria Bielikova"
+      ],
+      "doi": "10.1109/icse.2015.255",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4e5ebe2dc15d47cca5bf3e1f6db798e02ec684e4",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    196,
+    {
+      "title": "Avoiding Security Pitfalls with Functional Programming: A Report on the Development of a Secure XML Validator",
+      "authors": [
+        "Damien Doligez",
+        "Christele Faure",
+        "Therese Hardin",
+        "Manuel Maarek"
+      ],
+      "doi": "10.1109/icse.2015.149",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d444919ac1ef0ce64d27447058cf8e371f9e8b74",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    197,
+    {
+      "title": "Automatic Categorization of Software Libraries Using Bytecode",
+      "authors": [
+        "Javier Escobar-Avila"
+      ],
+      "doi": "10.1109/icse.2015.249",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "74cb5002d62553922cf52ab542f3b6b6ee788bc6",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    198,
+    {
+      "title": "Poster: Is Carmen Better than George? Testing the Exploratory Tester Using HCI Techniques",
+      "authors": [
+        "Andrea Borg",
+        "Chris Porter",
+        "Mark Micallef"
+      ],
+      "doi": "10.1109/icse.2015.262",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ad52612bc24fc33b91de574d2cf223248d19688f",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    199,
+    {
+      "title": "A Unified Framework for the Comprehension of Software's Time",
+      "authors": [
+        "Omar Benomar",
+        "Houari Sahraoui",
+        "Pierre Poulin"
+      ],
+      "doi": "10.1109/icse.2015.203",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bc9260f1e78162b6f0cbd72879a13b6ed5453b76",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    200,
+    {
+      "title": "Poster: Model-based Run-time Variability Resolution for Robotic Applications",
+      "authors": [
+        "Luca Gherardi",
+        "Nico Hochgeschwender"
+      ],
+      "doi": "10.1109/icse.2015.269",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e3828b5099707d73a8c13f31f5335b5e8a409b5b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    201,
+    {
+      "title": "Automated Planning for Self-Adaptive Systems",
+      "authors": [
+        "Richard Gil"
+      ],
+      "doi": "10.1109/icse.2015.273",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "04cdeb8f940a720582709e533cb2817f64782696",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    202,
+    {
+      "title": "Novice Code Understanding Strategies during a Software Maintenance Assignment",
+      "authors": [
+        "Claudia Szabo"
+      ],
+      "doi": "10.1109/icse.2015.341",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a6960a78e16700c24510f7f0f188b0acb35276ad",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    203,
+    {
+      "title": "FormTester: Effective Integration of Model-Based and Manually Specified Test Cases",
+      "authors": [
+        "Rahul Dixit",
+        "Christof Lutteroth",
+        "Gerald Weber"
+      ],
+      "doi": "10.1109/icse.2015.237",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ef805f5ebc1e67e096f3eedd599d6a54fc527b61",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    204,
+    {
+      "title": "SPF: A Middleware for Social Interaction in Mobile Proximity Environments",
+      "authors": [
+        "Luciano Baresi",
+        "Laurent-Walter Goix",
+        "Sam Guinea",
+        "Valerio Panzica La Manna",
+        "Jacopo Aliprandi",
+        "Dario Archetti"
+      ],
+      "doi": "10.1109/icse.2015.137",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7d825be8e894b4cf9c8944145820256cd7a7c8eb",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    205,
+    {
+      "title": "Poster: Improving Cloud-Based Continuous Integration Environments",
+      "authors": [
+        "Alessio Gambi",
+        "Zabolotnyi Rostyslav",
+        "Schahram Dustdar"
+      ],
+      "doi": "10.1109/icse.2015.253",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5646df4cf5270e87d28bbc3f788521165f84b255",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    206,
+    {
+      "title": "VERMEER: A Tool for Tracing and Explaining Faulty C Programs",
+      "authors": [
+        "Daniel Schwartz-Narbonne",
+        "Chanseok Oh",
+        "Martin Schaf",
+        "Thomas Wies"
+      ],
+      "doi": "10.1109/icse.2015.236",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "38870f5da46d653828c494982b6ef3552f231e90",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    207,
+    {
+      "title": "Source Code Curation on StackOverflow: The Vesperin System",
+      "authors": [
+        "Huascar Sanchez",
+        "Jim Whitehead"
+      ],
+      "doi": "10.1109/icse.2015.217",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a536baaca7357069b6779b210be65e58d9494cb7",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    208,
+    {
+      "title": "Teaching Software Systems Thinking at The Open University",
+      "authors": [
+        "Michel Wermelinger",
+        "Jon G. Hall",
+        "Lucia Rapanotti",
+        "Leonor Barroca",
+        "Magnus Ramage",
+        "Arosha Bandara"
+      ],
+      "doi": "10.1109/icse.2015.161",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7f569232fbf3f3e54db72c5bbfadd699e3ede50b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    209,
+    {
+      "title": "Code Repurposing as an Assessment Tool",
+      "authors": [
+        "Joseph Sant"
+      ],
+      "doi": "10.1109/icse.2015.158",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "304711f5298b02b4f876f3df762ab892590ef2a2",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    210,
+    {
+      "title": "Big(ger) Data in Software Engineering",
+      "authors": [
+        "Meiyappan Nagappan",
+        "Mehdi Mirakhorli"
+      ],
+      "doi": "10.1109/icse.2015.305",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "80b829848a062a773461c80440da6ec1abfe7515",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    211,
+    {
+      "title": "A Declarative Foundation for Comprehensive History Querying",
+      "authors": [
+        "Reinout Stevens"
+      ],
+      "doi": "10.1109/icse.2015.289",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d82205b23342edcb52cb4fb31c7a58cb0ee2f3c0",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    212,
+    {
+      "title": "Using GSwE2009 for the Evaluation of a Master Degree in Software Engineering in the Universidad de la Rep&amp;#x00FA;blica",
+      "authors": [
+        "Lucia Camilloni",
+        "Diego Vallespir",
+        "Mark Ardis"
+      ],
+      "doi": "10.1109/icse.2015.165",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "22daa3277bd7d6c799dc216565c5ff69814be0c8",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    213,
+    {
+      "title": "3rd International Workshop on Conducting Empirical Studies in Industry (CESI 2015)",
+      "authors": [
+        "Xavier Franch",
+        "Nazim H. Madhavji",
+        "Carlos Henrique C. Duarte"
+      ],
+      "doi": "10.1109/icse.2015.345",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d40b6ae802380e1b79b4378d9db1a89076ce2454",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    214,
+    {
+      "title": "Poster: Tierless Programming in JavaScript",
+      "authors": [
+        "Laure Philips",
+        "Wolfgang De Meuter",
+        "Coen De Roover"
+      ],
+      "doi": "10.1109/icse.2015.270",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9f61b61b107e78759d7fc7bdfdf472ea0bef20f4",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    215,
+    {
+      "title": "Remote Development and Distance Delivery of Innovative Courses: Challenges and Opportunities",
+      "authors": [
+        "Kristina Marasovic",
+        "Michael Lutz"
+      ],
+      "doi": "10.1109/icse.2015.159",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "62ba39880937366b399e1463361782e34a4ea696",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    216,
+    {
+      "title": "How and When to Transfer Software Engineering Research via Extensions",
+      "authors": [
+        "David Shepherd",
+        "Kostadin Damevski",
+        "Lori Pollock"
+      ],
+      "doi": "10.1109/icse.2015.152",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a357bda3c0482f048d565cb50baddee8aac5dd11",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    217,
+    {
+      "title": "Safe Evolution Patterns for Software Product Lines",
+      "authors": [
+        "Nicolas Dintzner"
+      ],
+      "doi": "10.1109/icse.2015.282",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "30788c9e311df85f90bb7a0bd751df4ded3b97de",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    218,
+    {
+      "title": "Qualitative Analysis of Knowledge Transfer in Pair Programming",
+      "authors": [
+        "Franz Zieris"
+      ],
+      "doi": "10.1109/icse.2015.277",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0c3c406087bf27098357cb821c4deccc4a6348c3",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    219,
+    {
+      "title": "Load Testing Large-Scale Software Systems",
+      "authors": [
+        "Zhen Ming Jack Jiang"
+      ],
+      "doi": "10.1109/icse.2015.304",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "35056d81d49974abf73b3a70dca5377e96da2d62",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    220,
+    {
+      "title": "Poster: Dynamic Analysis Using JavaScript Proxies",
+      "authors": [
+        "Laurent Christophe",
+        "Coen De Roover",
+        "Wolfgang De Meuter"
+      ],
+      "doi": "10.1109/icse.2015.261",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8bbe9ccde0dacff0656e2aef580e6ad8a055ac91",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    221,
+    {
+      "title": "Free Hugs -- Praising Developers for Their Actions",
+      "authors": [
+        "Roberto Minelli",
+        "Andrea Mocci",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/icse.2015.342",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1a96f371682ce2f7678cbf14c79716aad0974642",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    222,
+    {
+      "title": "ViDI: The Visual Design Inspector",
+      "authors": [
+        "Yuriy Tymchuk",
+        "Andrea Mocci",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/icse.2015.215",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1fddadddae92162f2d43f933182c5d83f6932ae0",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    223,
+    {
+      "title": "Strategies for Prioritizing Test Cases Generated Through Model-Based Testing Approaches",
+      "authors": [
+        "Joao Felipe Silva Ouriques"
+      ],
+      "doi": "10.1109/icse.2015.338",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7eae9ae1e0ee9e9afd064ac52b0e364ff34450c9",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    224,
+    {
+      "title": "Improving Student Group Work with Collaboration Patterns: A Case Study",
+      "authors": [
+        "Christian Koppe",
+        "Marko van Eekelen",
+        "Stijn Hoppenbrouwers"
+      ],
+      "doi": "10.1109/icse.2015.160",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9cace4d615b74a669c2efdd32692bf41283a7eac",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    225,
+    {
+      "title": "Scalable Formal Verification of UML Models",
+      "authors": [
+        "Mohammad Mehdi Pourhashem Kallehbasti"
+      ],
+      "doi": "10.1109/icse.2015.275",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "49eeec80307ed8882160c8f15d9289a8ffbc9292",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    226,
+    {
+      "title": "Masters-Level Software Engineering Education and the Enriched Student Context",
+      "authors": [
+        "Jon G. Hall",
+        "Lucia Rapanotti"
+      ],
+      "doi": "10.1109/icse.2015.162",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8bdd4d32ab9648495aeaac7e33564cc42a9562a1",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    227,
+    {
+      "title": "Poster: Enhancing Partition Testing through Output Variation",
+      "authors": [
+        "Huai Liu",
+        "Pak-Lok Poon",
+        "Tsong Yueh Chen"
+      ],
+      "doi": "10.1109/icse.2015.257",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e9387a58a115468dfcffa93d428358b7a4334412",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    228,
+    {
+      "title": "Search-Based Migration of Model Variants to Software Product Line Architectures",
+      "authors": [
+        "Wesley Klewerton Guez Assuncao"
+      ],
+      "doi": "10.1109/icse.2015.286",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "098a17059e92b6966a39a4bc0fa6ed55b05a4a34",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    229,
+    {
+      "title": "Contest Based Learning with Blending Software Engineering and Business Management: For Students' High Motivation and High Practice Ability",
+      "authors": [
+        "Noriko Hanakawa"
+      ],
+      "doi": "10.1109/icse.2015.340",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "68a04cbb5ce96765537b8d21c58bfcff0b45b6b2",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    230,
+    {
+      "title": "Verification of Android Applications",
+      "authors": [
+        "Heila van der Merwe"
+      ],
+      "doi": "10.1109/icse.2015.295",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0e900e37603a5d3d5e8c474e9f21e3716cd59d91",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    231,
+    {
+      "title": "Software Engineering in Ferrari F1",
+      "authors": [
+        "Claudio Silenzi"
+      ],
+      "doi": "10.1109/icse.2015.22",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "616cca5c04598668b9487069b08eb09fc9be2c98",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    232,
+    {
+      "title": "4th SEMAT Workshop on General Theory of Software Engineering (GTSE 2015)",
+      "authors": [
+        "Paul Ralph",
+        "Gregor Engels",
+        "Ivar Jacobson",
+        "Michael Goedicke"
+      ],
+      "doi": "10.1109/icse.2015.316",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b54380a3c4a05c40ebc9705b500f312363a54d8e",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    233,
+    {
+      "title": "On the Architecture-Driven Development of Software-Intensive Systems-of-Systems",
+      "authors": [
+        "Everton Cavalcante"
+      ],
+      "doi": "10.1109/icse.2015.287",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "12d7434265d4ef0ed8a265b9b74a090b500c77f1",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    234,
+    {
+      "title": "Mining the Metadata -- and Its Consequences",
+      "authors": [
+        "Susan Landau"
+      ],
+      "doi": "10.1109/icse.2015.23",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "51f3e7b7eb078bcd48571dcb9a2a0f8ab567a80d",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    235,
+    {
+      "title": "Poster: MAPP: The Berkeley Model and Algorithm Prototyping Platform",
+      "authors": [
+        "Tianshi Wang",
+        "Karthik Aadithya",
+        "Bichen Wu",
+        "Jaijeet Roychowdhury"
+      ],
+      "doi": "10.1109/icse.2015.267",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7985e92932cb05d13a46be7bdea4929cde6aa32c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    236,
+    {
+      "title": "Mining Patterns of Sensitive Data Usage",
+      "authors": [
+        "Vitalii Avdiienko"
+      ],
+      "doi": "10.1109/icse.2015.285",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ed8155222bfa305012ce5c03aac5ba8b073a56e0",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    237,
+    {
+      "title": "Poster: Conquering Uncertainty in Java Programming",
+      "authors": [
+        "Takuya Fukamachi",
+        "Naoyasu Ubayashi",
+        "Shintaro Hosoai",
+        "Yasutaka Kamei"
+      ],
+      "doi": "10.1109/icse.2015.266",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "852e5d7c1e1441262a371a7b750eeeb3aa140471",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    238,
+    {
+      "title": "4th International Workshop on Green and Sustainable Software (GREENS 2015)",
+      "authors": [
+        "Maurizio Morisio",
+        "Patricia Lago",
+        "Niklaus Meyer",
+        "Hausi A. Muller",
+        "Giuseppe Scanniello"
+      ],
+      "doi": "10.1109/icse.2015.315",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6c31d03dc31dbed0628f9e834274d0f58e88b162",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    239,
+    {
+      "title": "Software Engineering for Privacy in-the-Large",
+      "authors": [
+        "Pauline Anthonysamy",
+        "Awais Rashid"
+      ],
+      "doi": "10.1109/icse.2015.300",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1492b901655fc5e0547af3968f76b2a2b894e7fc",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    240,
+    {
+      "title": "4th International Workshop on Games and Software Engineering (GAS 2015)",
+      "authors": [
+        "Judith Bishop",
+        "Kendra M.L. Cooper",
+        "Walter Scacchi",
+        "Jim Whitehead"
+      ],
+      "doi": "10.1109/icse.2015.314",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5910c7d600b3e4827b23b35c1a60d1266e8ece53",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    241,
+    {
+      "title": "Poster: Static Detection of Configuration-Dependent Bugs in Configurable Software",
+      "authors": [
+        "Jafar Al-Kofahi",
+        "Lisong Guo",
+        "Hung Viet Nguyen",
+        "Hoan Anh Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2015.252",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cabf87d992afd62976649f1195007219f4ce4c96",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    242,
+    {
+      "title": "Second International Workshop on Software Architecture and Metrics (SAM 2015)",
+      "authors": [
+        "Ipek Ozkaya",
+        "Robert L. Nord",
+        "Heiko Koziolek",
+        "Paris Avgeriou"
+      ],
+      "doi": "10.1109/icse.2015.346",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7d2da42c648de6f069c3a7b6339c17ecc070ff51",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    243,
+    {
+      "title": "Contributor's Performance, Participation Intentions, Its Influencers and Project Performance",
+      "authors": [
+        "Ayushi Rastogi"
+      ],
+      "doi": "10.1109/icse.2015.292",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "549776e95e4a917276b02d677f3c820953b0d5a7",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    244,
+    {
+      "title": "Drawing Insight from Student Perceptions of Reflective Design Learning",
+      "authors": [
+        "Thomas V. Wilkins",
+        "John C. Georgas"
+      ],
+      "doi": "10.1109/icse.2015.154",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "528ea3cb46c23340fa2d195c55e6e651c0b7317b",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    245,
+    {
+      "title": "Poster: Interactive and Collaborative Source Code Annotation",
+      "authors": [
+        "Ryo Suzuki"
+      ],
+      "doi": "10.1109/icse.2015.254",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "71f61f000c65bd71201d3789d6e2e8ec7c651e48",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    246,
+    {
+      "title": "1st International Workshop on Big Data Software Engineering (BIGDSE 2015)",
+      "authors": [
+        "Luciano Baresi",
+        "Tim Menzies",
+        "Andreas Metzger",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1109/icse.2015.308",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b5a28ff58a6488c9390e56af1e72109ab0945627",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    247,
+    {
+      "title": "2nd International Workshop on Software Engineering Methods in Spreadsheets (SEMS 2015)",
+      "authors": [
+        "Felienne Hermans",
+        "Richard F. Paige",
+        "Peter Sestoft"
+      ],
+      "doi": "10.1109/icse.2015.325",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9e9d6372b1c6eeb0f45c2aad7059890f7615e235",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    248,
+    {
+      "title": "The Future of Software Engineering (SEIP Keynote)",
+      "authors": [
+        "Grady Booch"
+      ],
+      "doi": "10.1109/icse.2015.128",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b217694109e725d0048beaacab3e5bf0ead9c9b9",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    249,
+    {
+      "title": "Casper: Using Ghosts to Debug Null Deferences with Dynamic Causality Traces",
+      "authors": [
+        "Benoit Cornu"
+      ],
+      "doi": "10.1109/icse.2015.251",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87645dbd175b0d148ac42b37b91f65e8dbbc2091",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    250,
+    {
+      "title": "The Use of Text Retrieval and Natural Language Processing in Software Engineering",
+      "authors": [
+        "Venera Arnaoudova",
+        "Sonia Haiduc",
+        "Andrian Marcus",
+        "Giuliano Antoniol"
+      ],
+      "doi": "10.1109/icse.2015.301",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "27818a64f93d081516b42d9f9c4e018038ad6f33",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    251,
+    {
+      "title": "2nd International Workshop on Software Engineering Research and Industrial Practice (SER&amp;amp;amp;IP 2015)",
+      "authors": [
+        "Judith Bishop",
+        "Rakesh Shukla",
+        "Forrest Shull",
+        "Sagar Sen"
+      ],
+      "doi": "10.1109/icse.2015.352",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ced1af3d148f2ee918a62d6d5e6162cd9cff2997",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    252,
+    {
+      "title": "Towards Generation of Software Development Tasks",
+      "authors": [
+        "C. Albert Thompson"
+      ],
+      "doi": "10.1109/icse.2015.291",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5ef57f4a2f6f809bfa072fb172d02c200e85a2d2",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    253,
+    {
+      "title": "2nd International Workshop on Context for Software Development (CSD 2015)",
+      "authors": [
+        "Kelly Blincoe",
+        "Daniela Damian",
+        "Giuseppe Valetto",
+        "James D. Herbsleb"
+      ],
+      "doi": "10.1109/icse.2015.311",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "59215b2eea745e421b1de2ddab97e592470e6f22",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    254,
+    {
+      "title": "5th International Workshop on the Twin Peaks of Requirements and Architecture (TwinPeaks 2015)",
+      "authors": [
+        "Matthias Galster",
+        "Mehdi Mirakhorli"
+      ],
+      "doi": "10.1109/icse.2015.330",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "463efdf044fec96ad16398acdc755516c522d74a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    255,
+    {
+      "title": "Workshop on Applications of Human Error Research to Improve Software Engineering (WAHESE 2015)",
+      "authors": [
+        "Gursimran S. Walia",
+        "Jeffrey C. Caver",
+        "Gary Bradshaw"
+      ],
+      "doi": "10.1109/icse.2015.353",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b214995fc7a2c0116a4c5ddae6f024e092265245",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    256,
+    {
+      "title": "2nd International Workshop on Requirements Engineering and Testing (RET 2015)",
+      "authors": [
+        "Elizabeth Bjarnason",
+        "Mirko Morandini",
+        "Markus Borg",
+        "Michael Unterkalmsteiner",
+        "Michael Felderer",
+        "Matthew Staats"
+      ],
+      "doi": "10.1109/icse.2015.351",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ab114609911f291c5b10b9cd550c0216c4cf1d9b",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    257,
+    {
+      "title": "Profiling Kernels Behavior to Improve CPU / GPU Interactions",
+      "authors": [
+        "Ronie Salgado"
+      ],
+      "doi": "10.1109/icse.2015.239",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c4b8409a8542216795bcfe626482d90872b1d926",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    258,
+    {
+      "title": "DIETs: Recommender Systems for Mobile API Developers",
+      "authors": [
+        "Stefanie Beyer"
+      ],
+      "doi": "10.1109/icse.2015.278",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "01f224afaec31f1878cac87401270a39a53d3983",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    259,
+    {
+      "title": "6th International Workshop on Emerging Trends in Software Metrics (WETSoM 2015)",
+      "authors": [
+        "Steve Counsell",
+        "Aaron Visaggio",
+        "Roberto Tonelli",
+        "Ewan Tempero"
+      ],
+      "doi": "10.1109/icse.2015.347",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c498307080114f0d2b5669509a839a3f3d4bd84e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    260,
+    {
+      "title": "Understanding Conflicts Arising from Collaborative Development",
+      "authors": [
+        "Paola Accioly"
+      ],
+      "doi": "10.1109/icse.2015.246",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5dd414f780c579efee64d27091abac173cfcd601",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    261,
+    {
+      "title": "8th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE 2015)",
+      "authors": [
+        "Andrew Begel",
+        "Rafael Prikladnicki",
+        "Yvonne Dittrich",
+        "Cleidson R. B. de Souza",
+        "Anita Sarma",
+        "Sandeep Athavale"
+      ],
+      "doi": "10.1109/icse.2015.309",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d4a549a01ba865851c4da57f400964cc45e2ce75",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    262,
+    {
+      "title": "Experiences in Developing and Delivering a Programme of Part-Time Education in Software and Systems Security",
+      "authors": [
+        "Andrew Simpson",
+        "Andrew Martin",
+        "Cas Cremers",
+        "Ivan Flechais",
+        "Ivan Martinovic",
+        "Kasper Rasmussen"
+      ],
+      "doi": "10.1109/icse.2015.176",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c6432b072aee065e7905ab8ea07d68e4a18be58a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    263,
+    {
+      "title": "Title Page i - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.1",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    264,
+    {
+      "title": "4th International Workshop on Realizing AI Synergies in Software Engineering (RAISE 2015)",
+      "authors": [
+        "Burak Turhan",
+        "Ayse Bener",
+        "Rachel Harrison",
+        "Andriy Miransky",
+        "Cetin Mericli",
+        "Leandro Minku"
+      ],
+      "doi": "10.1109/icse.2015.320",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b7a46d719e13159bd07bc340db34d3597408b8b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    265,
+    {
+      "title": "Additional Reviewers - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.19",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    266,
+    {
+      "title": "Post-Dominator Analysis for Precisely Handling Implicit Flows",
+      "authors": [
+        "Abhishek Bichhawat"
+      ],
+      "doi": "10.1109/icse.2015.250",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "79ff1fa380d4dd201d14c239bfa9b77b63437820",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    267,
+    {
+      "title": "Sponsors and Supporters - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.21",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    268,
+    {
+      "title": "Cover Art - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.349",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    269,
+    {
+      "title": "Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique",
+      "authors": [
+        "Mike Papadakis",
+        "Yue Jia",
+        "Mark Harman",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1109/icse.2015.103",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    270,
+    {
+      "title": "JRebel.Android: Runtime Class- and Resource Reloading for Android",
+      "authors": [
+        "Rein Raudjarv",
+        "Allan Raundahl Gregersen"
+      ],
+      "doi": "10.1109/icse.2015.337",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e4700ef83b82cbaf5681dc2a1ec15a3dedcb2261",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    271,
+    {
+      "title": "Message from the General and Program Chairs - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.111",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    272,
+    {
+      "title": "Additional Reviewers - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.125",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    273,
+    {
+      "title": "Cover Art - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.350",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    274,
+    {
+      "title": "Regular Property Guided Dynamic Symbolic Execution",
+      "authors": [
+        "Yufeng Zhang",
+        "Zhenbang Chen",
+        "Ji Wang",
+        "Wei Dong",
+        "Zhiming Liu"
+      ],
+      "doi": "10.1109/icse.2015.80",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    275,
+    {
+      "title": "Metamorphic Model-Based Testing Applied on NASA DAT -- An Experience Report",
+      "authors": [
+        "Mikael Lindvall",
+        "Dharmalingam Ganesan",
+        "Ragnar Ardal",
+        "Robert E. Wiegand"
+      ],
+      "doi": "10.1109/icse.2015.348",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    276,
+    {
+      "title": "Interdisciplinary Design Patterns for Socially Aware Computing",
+      "authors": [
+        "Harun Baraki",
+        "Kurt Geihs",
+        "Christian Voigtmann",
+        "Axel Hoffmann",
+        "Romy Kniewel",
+        "Bjorn-Elmar Macek",
+        "Julia Zirfas"
+      ],
+      "doi": "10.1109/icse.2015.180",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    277,
+    {
+      "title": "Tracking Static Analysis Violations over Time to Capture Developer Characteristics",
+      "authors": [
+        "Pavel Avgustinov",
+        "Arthur I. Baars",
+        "Anders S. Henriksen",
+        "Greg Lavender",
+        "Galen Menzel",
+        "Oege De Moor",
+        "Max Schafer",
+        "Julian Tibble"
+      ],
+      "doi": "10.1109/icse.2015.62",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    278,
+    {
+      "title": "SOA4DM: Applying an SOA Paradigm to Coordination in Humanitarian Disaster Response",
+      "authors": [
+        "Kelly Lyons",
+        "Christie Oh"
+      ],
+      "doi": "10.1109/icse.2015.186",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    279,
+    {
+      "title": "3rd FME Workshop on Formal Methods in Software Engineering (FormaliSE 2015)",
+      "authors": [
+        "Stefania Gnesi",
+        "Nico Plat"
+      ],
+      "doi": "10.1109/icse.2015.313",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0551fdbd36389d91847fbf03d6a72f3e07fe33a6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    280,
+    {
+      "title": "10th International Workshop on Automation of Software Test (AST 2015)",
+      "authors": [
+        "Rajesh Subramanyan",
+        "Leonardo Mariani",
+        "Dan Hao"
+      ],
+      "doi": "10.1109/icse.2015.307",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6671e0255bd6da113391896a30aaa829bbf5252f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    281,
+    {
+      "title": "Towards Explicitly Elastic Programming Frameworks",
+      "authors": [
+        "K. R. Jayaram"
+      ],
+      "doi": "10.1109/icse.2015.207",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    282,
+    {
+      "title": "A Unified Approach to Automatic Testing of Architectural Constraints",
+      "authors": [
+        "Andrea Caracciolo"
+      ],
+      "doi": "10.1109/icse.2015.281",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9897fa0d2d921611ffbe75658a1f0830ee512df2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    283,
+    {
+      "title": "Alloy*: A General-Purpose Higher-Order Relational Constraint Solver",
+      "authors": [
+        "Aleksandar Milicevic",
+        "Joseph P. Near",
+        "Eunsuk Kang",
+        "Daniel Jackson"
+      ],
+      "doi": "10.1109/icse.2015.77",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    284,
+    {
+      "title": "Borrowing from the Crowd: A Study of Recombination in Software Design Competitions",
+      "authors": [
+        "Thomas D. LaToza",
+        "Micky Chen",
+        "Luxi Jiang",
+        "Mengyao Zhao",
+        "Andre van der Hoek"
+      ],
+      "doi": "10.1109/icse.2015.72",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    285,
+    {
+      "title": "Towards a Practical Security Analysis Methodology",
+      "authors": [
+        "Alexander van den Berghe"
+      ],
+      "doi": "10.1109/icse.2015.283",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "53bc1fba25ec063aaa03e7303549795172f3e76c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    286,
+    {
+      "title": "Understanding the Software Fault Introduction Process",
+      "authors": [
+        "Laura Inozemtseva"
+      ],
+      "doi": "10.1109/icse.2015.274",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2b8992249103168c52709ee5b11aabd56545c083",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    287,
+    {
+      "title": "2nd International Workshop on Crowd Sourcing in Software Engineering (CSI-SE 2015)",
+      "authors": [
+        "Gordon Fraser",
+        "Thomas D. LaToza",
+        "Leonardo Mariani"
+      ],
+      "doi": "10.1109/icse.2015.312",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "faf4cbe707728e5de3a9b1e00f10fec4b1fd89bc",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    288,
+    {
+      "title": "Title Page iii - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.108",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    289,
+    {
+      "title": "Table of Contents - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.110",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    290,
+    {
+      "title": "[Copyright notice - Vol 2]",
+      "authors": [],
+      "doi": "10.1109/icse.2015.109",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    291,
+    {
+      "title": "Poster: Static Analysis of Concurrent Higher-Order Programs",
+      "authors": [
+        "Quentin Stievenart",
+        "Jens Nicolay",
+        "Wolfgang De Meuter",
+        "Coen De Roover"
+      ],
+      "doi": "10.1109/icse.2015.265",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af94cc56633f4eefd08b02e7d22e04ea9a2894cc",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    292,
+    {
+      "title": "Poster: Segmentation Based Online Performance Problem Diagnosis",
+      "authors": [
+        "Jingwen Zhou",
+        "Zhenbang Chen",
+        "Ji Wang"
+      ],
+      "doi": "10.1109/icse.2015.258",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a9d775b9a4b70a96366519caceacfafbb18a12a6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    293,
+    {
+      "title": "Improving Predictability, Efficiency and Trust of Model-Based Proof Activity",
+      "authors": [
+        "Jean-Frederic Etienne",
+        "Manuel Maarek",
+        "Florent Anseaume",
+        "Veronique Delebarre"
+      ],
+      "doi": "10.1109/icse.2015.142",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    294,
+    {
+      "title": "A Field Study on Fostering Structural Navigation with Prodet",
+      "authors": [
+        "Vinay Augustine",
+        "Patrick Francis",
+        "Xiao Qu",
+        "David Shepherd",
+        "Will Snipes",
+        "Christoph Braunlich",
+        "Thomas Fritz"
+      ],
+      "doi": "10.1109/icse.2015.151",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    295,
+    {
+      "title": "Publisher's Information - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.333",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    296,
+    {
+      "title": "Smart Programming Playgrounds",
+      "authors": [
+        "Rohan Padhye",
+        "Pankaj Dhoolia",
+        "Senthil Mani",
+        "Vibha Singhal Sinha"
+      ],
+      "doi": "10.1109/icse.2015.204",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b06ec08199c36e0bce605ed050f65daf7f2424d8",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    297,
+    {
+      "title": "5th International Workshop on Product LinE Approaches in Software Engineering PLE for a Sustainable Society (PLEASE 2015)",
+      "authors": [
+        "Julia Rubin",
+        "Goetz Botterweck",
+        "Andreas Pleuss",
+        "David Weiss"
+      ],
+      "doi": "10.1109/icse.2015.319",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "84e6d915c70066e5d719a2fad50ba81cd0cef6d1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    298,
+    {
+      "title": "7th International Workshop on Principles of Engineering Service-Oriented and Cloud Systems (PESOS 2015)",
+      "authors": [
+        "Muhammad Ali Babar",
+        "Hye-young Paik",
+        "Malolan Chetlur",
+        "Michael Bauer",
+        "Amir Molzam Sharifloo"
+      ],
+      "doi": "10.1109/icse.2015.318",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    299,
+    {
+      "title": "Title Page iii - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.2",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    300,
+    {
+      "title": "System Thinking: Educating T-Shaped Software Engineers",
+      "authors": [
+        "Barry Boehm",
+        "Supannika Koolmanojwong Mobasser"
+      ],
+      "doi": "10.1109/icse.2015.166",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    301,
+    {
+      "title": "Making System User Interactive Tests Repeatable: When and What Should We Control?",
+      "authors": [
+        "Zebao Gao",
+        "Yalan Liang",
+        "Myra B. Cohen",
+        "Atif M. Memon",
+        "Zhen Wang"
+      ],
+      "doi": "10.1109/icse.2015.28",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    302,
+    {
+      "title": "Author Index - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.332",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    303,
+    {
+      "title": "Table of Contents - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.4",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    304,
+    {
+      "title": "[Copyright notice - Vol 1]",
+      "authors": [],
+      "doi": "10.1109/icse.2015.3",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    305,
+    {
+      "title": "Message from the Chairs - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.5",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    306,
+    {
+      "title": "8th International Workshop on Search-Based Software Testing (SBST 2015)",
+      "authors": [
+        "Gregory Gay",
+        "Giuliano Antoniol"
+      ],
+      "doi": "10.1109/icse.2015.323",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    307,
+    {
+      "title": "Author Index - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.105",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    308,
+    {
+      "title": "Publisher's Information - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.106",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    309,
+    {
+      "title": "Committees - Volume 1",
+      "authors": [],
+      "doi": "10.1109/icse.2015.6",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    310,
+    {
+      "title": "1st International Workshop on Complex faUlts and Failures in LargE Software Systems (COUFLESS 2015)",
+      "authors": [
+        "Mark Grechanik",
+        "Javier Alonso",
+        "Allen P. Nikora"
+      ],
+      "doi": "10.1109/icse.2015.310",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    311,
+    {
+      "title": "3rd International Workshop on Software Engineering for Systems-of-Systems (SESoS 2015)",
+      "authors": [
+        "Flavio Oquendo",
+        "Paris Avgeriou",
+        "Carlos E. Cuesta",
+        "Khalil Drira",
+        "Elisa Yumi Nakagawa",
+        "Jose Carlos Maldonado",
+        "Andrea Zisman"
+      ],
+      "doi": "10.1109/icse.2015.327",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "471b1c2135b376c60badb56f3cd6195e5b0a38a9",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    312,
+    {
+      "title": "Sponsors and Supporters - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.127",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    313,
+    {
+      "title": "Committees - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.112",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    314,
+    {
+      "title": "Cascade: A Universal Programmer-Assisted Type Qualifier Inference Tool",
+      "authors": [
+        "Mohsen Vakilian",
+        "Amarin Phaosawasdi",
+        "Michael D. Ernst",
+        "Ralph E. Johnson"
+      ],
+      "doi": "10.1109/icse.2015.44",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    315,
+    {
+      "title": "Title Page i - Volume 2",
+      "authors": [],
+      "doi": "10.1109/icse.2015.107",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    316,
+    {
+      "title": "1st International Workshop on TEchnical and LEgal aspects of data pRIvacy and Security (TELERISE 2015)",
+      "authors": [
+        "Ilaria Matteucci",
+        "Paolo Mori",
+        "Marinella Petrocchi"
+      ],
+      "doi": "10.1109/icse.2015.329",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    317,
+    {
+      "title": "Work Practices and Challenges in Pull-Based Development: The Integrator's Perspective",
+      "authors": [
+        "Georgios Gousios",
+        "Andy Zaidman",
+        "Margaret-Anne Storey",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/icse.2015.55",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    318,
+    {
+      "title": "Supporting Scientific SE Process Improvement",
+      "authors": [
+        "Erika S. Mesh"
+      ],
+      "doi": "10.1109/icse.2015.293",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    319,
+    {
+      "title": "7th International Workshop on Modeling in Software Engineering (MiSE 2015)",
+      "authors": [
+        "Jeff Gray",
+        "Marsha Chechik",
+        "Vinay Kulkarni",
+        "Richard F. Paige"
+      ],
+      "doi": "10.1109/icse.2015.317",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e96e2c2882308c44d9fe7526ef4e11a46ea4054d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    320,
+    {
+      "title": "1st International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS 2015)",
+      "authors": [
+        "Tomas Bures",
+        "Denny Weyns",
+        "Mark Klein",
+        "Rodolfo E. Haber"
+      ],
+      "doi": "10.1109/icse.2015.326",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    321,
+    {
+      "title": "1st International Workshop on Software Protection (SPRO 2015)",
+      "authors": [
+        "Paolo Falcarin",
+        "Brecht Wyseur"
+      ],
+      "doi": "10.1109/icse.2015.328",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "482280cbeef43f95c77ebd83d83d6d80c2a311ad",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    322,
+    {
+      "title": "A Comprehensive Framework for the Development of Dynamic Smart Spaces",
+      "authors": [
+        "Adnan Shahzada"
+      ],
+      "doi": "10.1109/icse.2015.294",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8bfbe6c68f321034a091253f4782893e46a9e7ac",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    323,
+    {
+      "title": "SE4HPCS'15: The 2015 International Workshop on Software Engineering for High Performance Computing in Science",
+      "authors": [
+        "Jeffrey C. Carver",
+        "Neil Chue Hong",
+        "Paolo Ciancarini"
+      ],
+      "doi": "10.1109/icse.2015.324",
+      "venue": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2ad2ef455da8e97573e039450dbd478bbde0f384",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ]
+]

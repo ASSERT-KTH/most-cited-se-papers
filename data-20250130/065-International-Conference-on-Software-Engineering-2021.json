@@ -1,0 +1,3054 @@
+[
+  [
+    1,
+    {
+      "title": "CURE: Code-Aware Neural Machine Translation for Automatic Program Repair",
+      "authors": [
+        "Nan Jiang",
+        "Thibaud Lutellier",
+        "Lin Tan"
+      ],
+      "doi": "10.1109/icse43902.2021.00107",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "171440398a1c0f43063a7689e3b385280336fb68",
+        "citationCount": 254,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Code Prediction by Feeding Trees to Transformers",
+      "authors": [
+        "Seohyun Kim",
+        "Jinman Zhao",
+        "Yuchi Tian",
+        "Satish Chandra"
+      ],
+      "doi": "10.1109/icse43902.2021.00026",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "21b11793b960a3e37c0eab7aae6127c28fd38e5c",
+        "citationCount": 200,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks",
+      "authors": [
+        "Antonio Mastropaolo",
+        "Simone Scalabrino",
+        "Nathan Cooper",
+        "David Nader Palacio",
+        "Denys Poshyvanyk",
+        "Rocco Oliveto",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1109/icse43902.2021.00041",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c2c7233293d55f201fe5b496234bed1914eea70e",
+        "citationCount": 189,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Semi-Supervised Log-Based Anomaly Detection via Probabilistic Label Estimation",
+      "authors": [
+        "Lin Yang",
+        "Junjie Chen",
+        "Zan Wang",
+        "Weijing Wang",
+        "Jiajun Jiang",
+        "Xuyuan Dong",
+        "Wenbin Zhang"
+      ],
+      "doi": "10.1109/icse43902.2021.00130",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e636b7375bfd688da28819ff17bed22a8a683aa7",
+        "citationCount": 134,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Towards Automating Code Review Activities",
+      "authors": [
+        "Rosalia Tufano",
+        "Luca Pascarella",
+        "Michele Tufano",
+        "Denys Poshyvanyk",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1109/icse43902.2021.00027",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "012a2d74b107c0658c0e762b0dad7c6c1d6b6783",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Fault Localization with Code Coverage Representation Learning",
+      "authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien Nguyen"
+      ],
+      "doi": "10.1109/icse43902.2021.00067",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cf7b6c0b65520c3157ce09a2d979584abe514596",
+        "citationCount": 104,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    7,
+    {
+      "title": "InferCode: Self-Supervised Learning of Code Representations by Predicting Subtrees",
+      "authors": [
+        "Nghi D. Q. Bui",
+        "Yijun Yu",
+        "Lingxiao Jiang"
+      ],
+      "doi": "10.1109/icse43902.2021.00109",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "acd8e24eda17808e3528d2dfd52de1619d13241a",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models",
+      "authors": [
+        "Jinfeng Lin",
+        "Yalin Liu",
+        "Qingkai Zeng",
+        "Meng Jiang",
+        "Jane Cleland-Huang"
+      ],
+      "doi": "10.1109/icse43902.2021.00040",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2aef78b2ba39bb2268966d336eee80d425e78ff4",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Prioritizing Test Inputs for Deep Neural Networks via Mutation Analysis",
+      "authors": [
+        "Zan Wang",
+        "Hanmo You",
+        "Junjie Chen",
+        "Yingyi Zhang",
+        "Xuyuan Dong",
+        "Wenbin Zhang"
+      ],
+      "doi": "10.1109/icse43902.2021.00046",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "44749c75af9874749bc42f82735c0d9fb89da3bd",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    10,
+    {
+      "title": "\"How Was Your Weekend?\" Software Development Teams Working From Home During COVID-19",
+      "authors": [
+        "Courtney Miller",
+        "Paige Rodeghero",
+        "Margaret-Anne Storey",
+        "Denae Ford",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1109/icse43902.2021.00064",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "acd429d7d9433c42cb4692597dbdbc1ba30a4e60",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    11,
+    {
+      "title": "PyCG: Practical Call Graph Generation in Python",
+      "authors": [
+        "Vitalis Salis",
+        "Thodoris Sotiropoulos",
+        "Panos Louridas",
+        "Diomidis Spinellis",
+        "Dimitris Mitropoulos"
+      ],
+      "doi": "10.1109/icse43902.2021.00146",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9221a516e7155a4d257f33203f091b26c0d64321",
+        "citationCount": 82,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    12,
+    {
+      "title": "ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Applications",
+      "authors": [
+        "Xian Zhan",
+        "Lingling Fan",
+        "Sen Chen",
+        "Feng We",
+        "Tianming Liu",
+        "Xiapu Luo",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse43902.2021.00150",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f64492ff5a3f21642e0034bc92810b8ddadbb1de",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    13,
+    {
+      "title": "The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source",
+      "authors": [
+        "Marco Gerosa",
+        "Igor Wiese",
+        "Bianca Trinkenreich",
+        "Georg Link",
+        "Gregorio Robles",
+        "Christoph Treude",
+        "Igor Steinmacher",
+        "Anita Sarma"
+      ],
+      "doi": "10.1109/icse43902.2021.00098",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ac6ef3da52f4ddb574446b6a96fa4701790be05d",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    14,
+    {
+      "title": "FlakeFlagger: Predicting Flakiness Without Rerunning Tests",
+      "authors": [
+        "Abdulrahman Alshammari",
+        "Christopher Morris",
+        "Michael Hilton",
+        "Jonathan Bell"
+      ],
+      "doi": "10.1109/icse43902.2021.00140",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ed7cf161b301ca9d80d632fdc180bb0cc325a20c",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    15,
+    {
+      "title": "RobOT: Robustness-Oriented Testing for Deep Learning Systems",
+      "authors": [
+        "Jingyi Wang",
+        "Jialuo Chen",
+        "Youcheng Sun",
+        "Xingjun Ma",
+        "Dongxia Wang",
+        "Jun Sun",
+        "Peng Cheng"
+      ],
+      "doi": "10.1109/icse43902.2021.00038",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fb6969feb0b772998bfdb029a7c950c4d892679e",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    16,
+    {
+      "title": "An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications",
+      "authors": [
+        "Zhenpeng Chen",
+        "Huihan Yao",
+        "Yiling Lou",
+        "Yanbin Cao",
+        "Yuanqiang Liu",
+        "Haoyu Wang",
+        "Xuanzhe Liu"
+      ],
+      "doi": "10.1109/icse43902.2021.00068",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de5d62fb2488868d748dd0003caa583b7a010c40",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    17,
+    {
+      "title": "DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection",
+      "authors": [
+        "Yuanchun Li",
+        "Jiayi Hua",
+        "Haoyu Wang",
+        "Chunyang Chen",
+        "Yunxin Liu"
+      ],
+      "doi": "10.1109/icse43902.2021.00035",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "854fd652e8f212eb42c497a5dcb3d2a547e7e115",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    18,
+    {
+      "title": "DeepLocalize: Fault Localization for Deep Neural Networks",
+      "authors": [
+        "Mohammad Wardat",
+        "Wei Le",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1109/icse43902.2021.00034",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0fa59f4e64f4e19845bccd6343eb4ec21536e406",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Automatic Web Testing Using Curiosity-Driven Reinforcement Learning",
+      "authors": [
+        "Yan Zheng",
+        "Yi Liu",
+        "Xiaofei Xie",
+        "Yepang Liu",
+        "Lei Ma",
+        "Jianye Hao",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse43902.2021.00048",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f521544b7e7b935779e7614e5771073028429c68",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Automated Query Reformulation for Efficient Search Based on Query Logs From Stack Overflow",
+      "authors": [
+        "Kaibo Cao",
+        "Chunyang Chen",
+        "Sebastian Baltes",
+        "Christoph Treude",
+        "Xiang Chen"
+      ],
+      "doi": "10.1109/icse43902.2021.00116",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "070127fd2cba9811782097dea02a2dd3e7440a2f",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    21,
+    {
+      "title": "\"Ignorance and Prejudice\" in Software Fairness",
+      "authors": [
+        "Jie M. Zhang",
+        "Mark Harman"
+      ],
+      "doi": "10.1109/icse43902.2021.00129",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1b0754797f8674e1b6b52c14e561ef36a8903f68",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    22,
+    {
+      "title": "IoT Bugs and Development Challenges",
+      "authors": [
+        "Amir Makhshari",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1109/icse43902.2021.00051",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0ade146a9f67465cf244cd2c146a91c0b469c0e9",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    23,
+    {
+      "title": "GUIGAN: Learning to Generate GUI Designs Using Generative Adversarial Networks",
+      "authors": [
+        "Tianming Zhao",
+        "Chunyang Chen",
+        "Yuanning Liu",
+        "Xiaodong Zhu"
+      ],
+      "doi": "10.1109/icse43902.2021.00074",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "802003499cf622082342082483895007e91625ed",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Smart Contract Security: A Practitioners' Perspective",
+      "authors": [
+        "Zhiyuan Wan",
+        "Xin Xia",
+        "David Lo",
+        "Jiachi Chen",
+        "Xiapu Luo",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/icse43902.2021.00127",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a255ca065cde7a2bf7bc83127b476e5d6e5cc39d",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Do you Really Code? Designing and Evaluating Screening Questions for Online Surveys with Programmers",
+      "authors": [
+        "Anastasia Danilova",
+        "Alena Naiakshina",
+        "Stefan Horstmann",
+        "Matthew Smith"
+      ],
+      "doi": "10.1109/icse43902.2021.00057",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "96785a5b9522d69d5fe8b208d9cd271e9bab1799",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Automatically Matching Bug Reports With Related App Reviews",
+      "authors": [
+        "Marlo Haering",
+        "Christoph Stanik",
+        "Walid Maalej"
+      ],
+      "doi": "10.1109/icse43902.2021.00092",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "303e439eb83d202bc35c34675d7f605332b1be58",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Distribution-Aware Testing of Neural Networks Using Generative Models",
+      "authors": [
+        "Swaroopa Dola",
+        "Matthew B. Dwyer",
+        "Mary Lou Soffa"
+      ],
+      "doi": "10.1109/icse43902.2021.00032",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "81f34d2dd0299fd60b9acad1f2bfb505fe566e2c",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Scalable Quantitative Verification for Deep Neural Networks",
+      "authors": [
+        "Teodora Baluta",
+        "Zheng Leong Chua",
+        "Kuldeep S. Meel",
+        "Prateek Saxena"
+      ],
+      "doi": "10.1109/icse43902.2021.00039",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0e065cd3b304a729178186bd164ca903f8159b6b",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Program Comprehension and Code Complexity Metrics: An fMRI Study",
+      "authors": [
+        "Norman Peitek",
+        "Sven Apel",
+        "Chris Parnin",
+        "Andre Brechmann",
+        "Janet Siegmund"
+      ],
+      "doi": "10.1109/icse43902.2021.00056",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70c3be778323b896f5575a5770f934ee6f399441",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Efficient Compiler Autotuning via Bayesian Optimization",
+      "authors": [
+        "Junjie Chen",
+        "Ningxin Xu",
+        "Peiqi Chen",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/icse43902.2021.00110",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6ad460d3301d30f679b19da689be5b081352de2b",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    31,
+    {
+      "title": "AUTOTRAINER: An Automatic DNN Training Problem Detection and Repair System",
+      "authors": [
+        "Xiaoyu Zhang",
+        "Juan Zhai",
+        "Shiqing Ma",
+        "Chao Shen"
+      ],
+      "doi": "10.1109/icse43902.2021.00043",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e31fb43d8e83813fe51559e1f445a05dfb098c4e",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Improving Fault Localization by Integrating Value and Predicate Based Causal Inference Techniques",
+      "authors": [
+        "Yigit Kucuk",
+        "Tim A. D. Henderson",
+        "Andy Podgurski"
+      ],
+      "doi": "10.1109/icse43902.2021.00066",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "95b142135642a293e736b07c8735bb9d802ca246",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    33,
+    {
+      "title": "DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks",
+      "authors": [
+        "Zhenhao Li",
+        "Heng Li",
+        "Tse-Hsun Chen",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1109/icse43902.2021.00131",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87e09801cda4fc6a0fbe7dcdfee5a6ce35b75960",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    34,
+    {
+      "title": "White-Box Analysis over Machine Learning: Modeling Performance of Configurable Systems",
+      "authors": [
+        "Miguel Velez",
+        "Pooyan Jamshidi",
+        "Norbert Siegmund",
+        "Sven Apel",
+        "Christian Kastner"
+      ],
+      "doi": "10.1109/icse43902.2021.00100",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "56714807aa5cf811f869ad447957c40ff9131c3b",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    35,
+    {
+      "title": "An Empirical Assessment of Global COVID-19 Contact Tracing Applications",
+      "authors": [
+        "Ruoxi Sun",
+        "Wei Wang",
+        "Minhui Xue",
+        "Gareth Tyson",
+        "Seyit Camtepe",
+        "Damith C. Ranasinghe"
+      ],
+      "doi": "10.1109/icse43902.2021.00101",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4f7e284d970332800bd523d0133279721b42dc0e",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Using Domain-Specific Corpora for Improved Handling of Ambiguity in Requirements",
+      "authors": [
+        "Saad Ezzini",
+        "Sallam Abualhaija",
+        "Chetan Arora",
+        "Mehrdad Sabetzadeh",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1109/icse43902.2021.00133",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f39385e515e68b3b4a94582c0f8daf70aaf55f7",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Testing Machine Translation via Referential Transparency",
+      "authors": [
+        "Pinjia He",
+        "Clara Meister",
+        "Zhendong Su"
+      ],
+      "doi": "10.1109/icse43902.2021.00047",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5d21c0b45427e12e8a4949a2f2ce8b00e8a668db",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    38,
+    {
+      "title": "An Empirical Study of Refactorings and Technical Debt in Machine Learning Systems",
+      "authors": [
+        "Yiming Tang",
+        "Raffi Khatchadourian",
+        "Mehdi Bagherzadeh",
+        "Rhia Singh",
+        "Ajani Stewart",
+        "Anita Raja"
+      ],
+      "doi": "10.1109/icse43902.2021.00033",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ea61172a3946cd90c62bb2ad43c701e5dad8f846",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Does Mutation Testing Improve Testing Practices?",
+      "authors": [
+        "Goran Petrovi\u0107",
+        "Marko Ivankovi\u0107",
+        "Gordon Fraser",
+        "Ren\u00e9 Just"
+      ],
+      "doi": "10.1109/icse43902.2021.00087",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1929c365d171c78c9c24b242b5b57e2832bc907b",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    40,
+    {
+      "title": "PyART: Python API Recommendation in Real-Time",
+      "authors": [
+        "Xincheng He",
+        "Lei Xu",
+        "Xiangyu Zhang",
+        "Rui Hao",
+        "Yang Feng",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/icse43902.2021.00145",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "739481751cbf39ae0e23ecca5504548f713e6d2c",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Evaluating SZZ Implementations Through a Developer-Informed Oracle",
+      "authors": [
+        "Giovanni Rosa",
+        "Luca Pascarella",
+        "Simone Scalabrino",
+        "Rosalia Tufano",
+        "Gabriele Bavota",
+        "Michele Lanza",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1109/icse43902.2021.00049",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5e8ce0c69b0c1872b5f2e9b12d627be926db8dab",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Containing Malicious Package Updates in npm with a Lightweight Permission System",
+      "authors": [
+        "Gabriel Ferreira",
+        "Limin Jia",
+        "Joshua Sunshine",
+        "Christian Kastner"
+      ],
+      "doi": "10.1109/icse43902.2021.00121",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e66c0a104a4644dcf2c55a53619da41f981d7c13",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Restoring Execution Environments of Jupyter Notebooks",
+      "authors": [
+        "Jiawei Wang",
+        "Li Li",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1109/icse43902.2021.00144",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ac4fa0172096f896a53a3bcaaa44f6fd67641534",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Self-Checking Deep Neural Networks in Deployment",
+      "authors": [
+        "Yan Xiao",
+        "Ivan Beschastnikh",
+        "David S. Rosenblum",
+        "Changsheng Sun",
+        "Sebastian Elbaum",
+        "Yun Lin",
+        "Jin Song Dong"
+      ],
+      "doi": "10.1109/icse43902.2021.00044",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "89b87565563ab89e3e6b0db95884f45d136b5839",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Automatic Unit Test Generation for Machine Learning Libraries: How Far Are We?",
+      "authors": [
+        "Song Wang",
+        "Nishtha Shrestha",
+        "Abarna Kucheri Subburaman",
+        "Junjie Wang",
+        "Moshi Wei",
+        "Nachiappan Nagappan"
+      ],
+      "doi": "10.1109/icse43902.2021.00138",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f1b9ea0ec079ca73c649a2dd4e0ab43bbe1ed1dc",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Are Machine Learning Cloud APIs Used Correctly?",
+      "authors": [
+        "Chengcheng Wan",
+        "Shicheng Liu",
+        "Henry Hoffmann",
+        "Michael Maire",
+        "Shan Lu"
+      ],
+      "doi": "10.1109/icse43902.2021.00024",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "51c24120f8221456ed2080e8ee35cd04e33f08d4",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Layout and Image Recognition Driving Cross-Platform Automated Mobile Testing",
+      "authors": [
+        "Shengcheng Yu",
+        "Chunrong Fang",
+        "Yexiao Yun",
+        "Yang Feng"
+      ],
+      "doi": "10.1109/icse43902.2021.00139",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8103e0bbceba76869298c1483d77d42689940777",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Don\u2019t Do That! Hunting Down Visual Design Smells in Complex UIs Against Design Guidelines",
+      "authors": [
+        "Bo Yang",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "Chunyang Chen",
+        "Deheng Ye",
+        "Shanping Li"
+      ],
+      "doi": "10.1109/icse43902.2021.00075",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e94f658f7b1c9947eeead135e788f74b9f634191",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    49,
+    {
+      "title": "CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse",
+      "authors": [
+        "Seunghoon Woo",
+        "Sunghan Park",
+        "Seulbae Kim",
+        "Heejo Lee",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1109/icse43902.2021.00083",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2ca2dec8b7687c96238eb8360e4aff43c1e9157a",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    50,
+    {
+      "title": "An Evolutionary Study of Configuration Design and Implementation in Cloud Systems",
+      "authors": [
+        "Yuanliang Zhang",
+        "Haochen He",
+        "Owolabi Legunsen",
+        "Shanshan Li",
+        "Wei Dong",
+        "Tianyin Xu"
+      ],
+      "doi": "10.1109/icse43902.2021.00029",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "329245eace253321df4e167483d3a2c7bc66325d",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Identifying Key Features from App User Reviews",
+      "authors": [
+        "Huayao Wu",
+        "Wenjun Deng",
+        "Xintao Niu",
+        "Changhai Nie"
+      ],
+      "doi": "10.1109/icse43902.2021.00088",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "925b94cf95648384da7789c98676c9122e070b87",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    52,
+    {
+      "title": "An Empirical Analysis of UI-Based Flaky Tests",
+      "authors": [
+        "Alan Romano",
+        "Zihe Song",
+        "Sampath Grandhi",
+        "Wei Yang",
+        "Weihang Wang"
+      ],
+      "doi": "10.1109/icse43902.2021.00141",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "33abac14249893c400d7c9eb4175b6be6c86f655",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    53,
+    {
+      "title": "A Context-Based Automated Approach for Method Name Consistency Checking and Suggestion",
+      "authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien Nguyen"
+      ],
+      "doi": "10.1109/icse43902.2021.00060",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1c7631e414f40a569a753def969ad2cf0ce1be99",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    54,
+    {
+      "title": "RAICC: Revealing Atypical Inter-Component Communication in Android Apps",
+      "authors": [
+        "Jordan Samhi",
+        "Alexandre Bartel",
+        "Tegawende F. Bissyande",
+        "Jacques Klein"
+      ],
+      "doi": "10.1109/icse43902.2021.00126",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5dee8edb8bd664dcaa264cb3a0843d4c579ae7e4",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Extracting Concise Bug-Fixing Patches from Human-Written Patches in Version Control Systems",
+      "authors": [
+        "Yanjie Jiang",
+        "Hui Liu",
+        "Nan Niu",
+        "Lu Zhang",
+        "Yamin Hu"
+      ],
+      "doi": "10.1109/icse43902.2021.00069",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "74911c30caa60c75bc52a63aff7d767e2ae3d263",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Fast and Precise On-the-Fly Patch Validation for All",
+      "authors": [
+        "Lingchao Chen",
+        "Yicheng Ouyang",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/icse43902.2021.00104",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "34d5bc4aeb8ee35397b795e2a6d6abbcdee5b132",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Automatic Extraction of Opinion-Based Q&amp;A from Online Developer Chats",
+      "authors": [
+        "Preetha Chatterjee",
+        "Kostadin Damevski",
+        "Lori Pollock"
+      ],
+      "doi": "10.1109/icse43902.2021.00115",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "569dbf8dc94a0cf9c113519897c671357b57656a",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    58,
+    {
+      "title": "IdBench: Evaluating Semantic Representations of Identifier Names in Source Code",
+      "authors": [
+        "Yaza Wainakh",
+        "Moiz Rauf",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/icse43902.2021.00059",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ca22980044fa6709bc9951ec07bae298e2954d63",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Leaving My Fingerprints: Motivations and Challenges of Contributing to OSS for Social Good",
+      "authors": [
+        "Yu Huang",
+        "Denae Ford",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1109/icse43902.2021.00096",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "877ed06c3748d8ebe51de3e627dcf4b3ffa970e4",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis",
+      "authors": [
+        "Rangeet Pan",
+        "Vu Le",
+        "Nachiappan Nagappan",
+        "Sumit Gulwani",
+        "Shuvendu Lahiri",
+        "Mike Kaufman"
+      ],
+      "doi": "10.1109/icse43902.2021.00077",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a15fd6b5972e586272cba5f8629f292f4c586c1d",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Why Security Defects Go Unnoticed During Code Reviews? A Case-Control Study of the Chromium OS Project",
+      "authors": [
+        "Rajshakhar Paul",
+        "Asif Kamal Turzo",
+        "Amiangshu Bosu"
+      ],
+      "doi": "10.1109/icse43902.2021.00124",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "972dcce73f983c88501d706f0a1dcb1c66ec8c7a",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    62,
+    {
+      "title": "CodeShovel: Constructing Method-Level Source Code Histories",
+      "authors": [
+        "Felix Grund",
+        "Shaiful Alam Chowdhury",
+        "Nick C. Bradley",
+        "Braxton Hall",
+        "Reid Holmes"
+      ],
+      "doi": "10.1109/icse43902.2021.00135",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aa2d37df105d1b46e8df12c41876432649b38f6f",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    63,
+    {
+      "title": "On the Naming of Methods: A Survey of Professional Developers",
+      "authors": [
+        "Reem Alsuhaibani",
+        "Christian Newman",
+        "Michael Decker",
+        "Michael Collard",
+        "Jonathan Maletic"
+      ],
+      "doi": "10.1109/icse43902.2021.00061",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ce37978c56984ffe0b3727a3c1ce225df75a52b6",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Why Don\u2019t Developers Detect Improper Input Validation? '; DROP TABLE Papers; --",
+      "authors": [
+        "Larissa Braz",
+        "Enrico Fregnan",
+        "Gul Calikli",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1109/icse43902.2021.00054",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3a8cb36738fa44b78dd93987a52fdfe42019c8b8",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    65,
+    {
+      "title": "How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects",
+      "authors": [
+        "Fariha Nusrat",
+        "Foyzul Hassan",
+        "Hao Zhong",
+        "Xiaoyin Wang"
+      ],
+      "doi": "10.1109/icse43902.2021.00052",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d8b8b988150ae2844729f27b574fb10e9ad8c2e7",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Graph-Based Fuzz Testing for Deep Learning Inference Engines",
+      "authors": [
+        "Weisi Luo",
+        "Dong Chai",
+        "Xiaoyue Ruan",
+        "Jiang Wang",
+        "Chunrong Fang",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/icse43902.2021.00037",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ff691b51e9f2cabc1fab37171ce53d2a1078ce7e",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    67,
+    {
+      "title": "SOAR: A Synthesis Approach for Data Science API Refactoring",
+      "authors": [
+        "Ansong Ni",
+        "Daniel Ramos",
+        "Aidan Z. H. Yang",
+        "In\u00eas Lynce",
+        "Vasco Manquinho",
+        "Ruben Martins",
+        "Claire Le Goues"
+      ],
+      "doi": "10.1109/icse43902.2021.00023",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0d0e2ec08f008daa4f4a9eca9e0dd46ef2f80a31",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Representation of Developer Expertise in Open Source Software",
+      "authors": [
+        "Tapajit Dey",
+        "Andrey Karnauch",
+        "Audris Mockus"
+      ],
+      "doi": "10.1109/icse43902.2021.00094",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d558e0171d1cb60071ec5d55c222823005141067",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Domain-Specific Fixes for Flaky Tests with Wrong Assumptions on Underdetermined Specifications",
+      "authors": [
+        "Peilun Zhang",
+        "Yanjie Jiang",
+        "Anjiang Wei",
+        "Victoria Stodden",
+        "Darko Marinov",
+        "August Shi"
+      ],
+      "doi": "10.1109/icse43902.2021.00018",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7eac2936ab09b9077cb016c8392e958f54ad36fb",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    70,
+    {
+      "title": "What Helped, and what did not? An Evaluation of the Strategies to Improve Continuous Integration",
+      "authors": [
+        "Xianhao Jin",
+        "Francisco Servant"
+      ],
+      "doi": "10.1109/icse43902.2021.00031",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e6c8e50fc573b7e2e09da29cc269d97239f1650f",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    71,
+    {
+      "title": "EvoSpex: An Evolutionary Algorithm for Learning Postconditions",
+      "authors": [
+        "Facundo Molina",
+        "Pablo Ponzio",
+        "Nazareno Aguirre",
+        "Marcelo Frias"
+      ],
+      "doi": "10.1109/icse43902.2021.00112",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c420c6901f1bec949c6fa1452f5299788602e83d",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Fast Outage Analysis of Large-Scale Production Clouds with Service Correlation Mining",
+      "authors": [
+        "Yaohui Wang",
+        "Guozheng Li",
+        "Zijian Wang",
+        "Yu Kang",
+        "Yangfan Zhou",
+        "Hongyu Zhang",
+        "Feng Gao",
+        "Jeffrey Sun",
+        "Li Yang",
+        "Pochian Lee",
+        "Zhangwei Xu",
+        "Pu Zhao",
+        "Bo Qiao",
+        "Liqun Li",
+        "Xu Zhang",
+        "Qingwei Lin"
+      ],
+      "doi": "10.1109/icse43902.2021.00085",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5c72759632dde642f548b117992a8eaea967bd16",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Early Life Cycle Software Defect Prediction. Why? How?",
+      "authors": [
+        "Shrikanth N.C.",
+        "Suvodeep Majumder",
+        "Tim Menzies"
+      ],
+      "doi": "10.1109/icse43902.2021.00050",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b607097814f089d333a6623e11d9910882d1f81f",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding",
+      "authors": [
+        "Shengcheng Yu",
+        "Chunrong Fang",
+        "Zhenfei Cao",
+        "Xu Wang",
+        "Tongyu Li",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/icse43902.2021.00090",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb262bdea39da7f5feaa83ae1515a1f4fb6f975a",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    75,
+    {
+      "title": "White-Box Performance-Influence Models: A Profiling and Learning Approach",
+      "authors": [
+        "Max Weber",
+        "Sven Apel",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1109/icse43902.2021.00099",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cd79a6135bec6c437a75bccc3f6cf6a8eb2ae1cb",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Reducing DNN Properties to Enable Falsification with Adversarial Attacks",
+      "authors": [
+        "David Shriver",
+        "Sebastian Elbaum",
+        "Matthew B. Dwyer"
+      ],
+      "doi": "10.1109/icse43902.2021.00036",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a53c6f53364bf2c82332f869d7092134d2adb478",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    77,
+    {
+      "title": "How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub",
+      "authors": [
+        "Lukas Moldon",
+        "Markus Strohmaier",
+        "Johannes Wachs"
+      ],
+      "doi": "10.1109/icse43902.2021.00058",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "df811977bbb6fb8785fcea9d62ae25967d8fae50",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Seamless Variability Management with the Virtual Platform",
+      "authors": [
+        "Wardah Mahmood",
+        "Daniel Str\u00fcber",
+        "Thorsten Berger",
+        "Ralf L\u00e4mmel",
+        "Mukelabai Mukelabai"
+      ],
+      "doi": "10.1109/icse43902.2021.00147",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8ed87f74da8adc5d5de4e67e069848454375954f",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    79,
+    {
+      "title": "A Case Study of Onboarding in Software Teams: Tasks and Strategies",
+      "authors": [
+        "An Ju",
+        "Hitesh Sajnani",
+        "Scot Kelly",
+        "Kim Herzig"
+      ],
+      "doi": "10.1109/icse43902.2021.00063",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d621996c612cbcccf6f1900865236c647cf95015",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    80,
+    {
+      "title": "What Makes a Great Maintainer of Open Source Projects?",
+      "authors": [
+        "Edson Dias",
+        "Paulo Meirelles",
+        "Fernando Castor",
+        "Igor Steinmacher",
+        "Igor Wiese",
+        "Gustavo Pinto"
+      ],
+      "doi": "10.1109/icse43902.2021.00093",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "24a19157e9aa54f13ea997ab70cbc388406d8198",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Fuzzing Symbolic Expressions",
+      "authors": [
+        "Luca Borzacchiello",
+        "Emilio Coppa",
+        "Camil Demetrescu"
+      ],
+      "doi": "10.1109/icse43902.2021.00071",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "33f1e09fc1eb8a4076f59e7972556e66408dd5a2",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Interpretation-Enabled Software Reuse Detection Based on a Multi-level Birthmark Model",
+      "authors": [
+        "Xi Xu",
+        "Qinghua Zheng",
+        "Zheng Yan",
+        "Ming Fan",
+        "Ang Jia",
+        "Ting Liu"
+      ],
+      "doi": "10.1109/icse43902.2021.00084",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cccccc3912a703defd13385b92ae6d537091c05e",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Bounded Exhaustive Search of Alloy Specification Repairs",
+      "authors": [
+        "Simon Gutierrez Brida",
+        "German Regis",
+        "Guolong Zheng",
+        "Hamid Bagheri",
+        "ThanhVu Nguyen",
+        "Nazareno Aguirre",
+        "Marcelo Frias"
+      ],
+      "doi": "10.1109/icse43902.2021.00105",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0ccfdd7d9c6923f7dd63001d08e42c193724d436",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Measuring Discrimination to Boost Comparative Testing for Multiple Deep Learning Models",
+      "authors": [
+        "Linghan Meng",
+        "Yanhui Li",
+        "Lin Chen",
+        "Zhi Wang",
+        "Di Wu",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/icse43902.2021.00045",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a66b90ce6bd735eb47c42578dad746b1e3814be6",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Operation is the Hardest Teacher: Estimating DNN Accuracy Looking for Mispredictions",
+      "authors": [
+        "Antonio Guerriero",
+        "Roberto Pietrantuono",
+        "Stefano Russo"
+      ],
+      "doi": "10.1109/icse43902.2021.00042",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fc95ee65fba9d28231792760a9725d4052e6e7c5",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    86,
+    {
+      "title": "We'll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?",
+      "authors": [
+        "Andrew Truelove",
+        "Eduardo Santana de Almeida",
+        "Iftekhar Ahmed"
+      ],
+      "doi": "10.1109/icse43902.2021.00073",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "450dce3f799d21c8cfba0fe8d8869c05bd4a768a",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Abacus: Precise Side-Channel Analysis",
+      "authors": [
+        "Qinkun Bao",
+        "Zihao Wang",
+        "Xiaoting Li",
+        "James R. Larus",
+        "Dinghao Wu"
+      ],
+      "doi": "10.1109/icse43902.2021.00078",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3709000b3975ed65e9b15415f3f8497fe648f8e2",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Fast Parametric Model Checking through Model Fragmentation",
+      "authors": [
+        "Xinwei Fang",
+        "Radu Calinescu",
+        "Simos Gerasimou",
+        "Faisal Alhwikem"
+      ],
+      "doi": "10.1109/icse43902.2021.00081",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ca6547ede49a639ad3b72c435a314c65fcd93810",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Data-Driven Synthesis of Provably Sound Side Channel Analyses",
+      "authors": [
+        "Jingbo Wang",
+        "Chungha Sung",
+        "Mukund Raghothaman",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/icse43902.2021.00079",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "589ff537d20b1efa928f7f754dda6732849e2d95",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Semantic Web Accessibility Testing via Hierarchical Visual Analysis",
+      "authors": [
+        "Mohammad Bajammal",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1109/icse43902.2021.00143",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "afa672b1273c16081c1f46a2ed1a14bb0f1825cf",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Data-Oriented Differential Testing of Object-Relational Mapping Systems",
+      "authors": [
+        "Thodoris Sotiropoulos",
+        "Stefanos Chaliasos",
+        "Vaggelis Atlidakis",
+        "Dimitris Mitropoulos",
+        "Diomidis Spinellis"
+      ],
+      "doi": "10.1109/icse43902.2021.00137",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4bc8bd72ffa9bda2e3a7aef483008935a7a97656",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Siri, Write the Next Method",
+      "authors": [
+        "Fengcai Wen",
+        "Emad Aghajani",
+        "Csaba Nagy",
+        "Michele Lanza",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1109/icse43902.2021.00025",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "103f9487c798cde574c3a67c0679162850951785",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Enabling Software Resilience in GPGPU Applications via Partial Thread Protection",
+      "authors": [
+        "Lishan Yang",
+        "Bin Nie",
+        "Adwait Jog",
+        "Evgenia Smirni"
+      ],
+      "doi": "10.1109/icse43902.2021.00114",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "22ebd092ee988e52f7f2c934b3c93b1c87ddc890",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Too Quiet in the Library: An Empirical Study of Security Updates in Android Apps' Native Code",
+      "authors": [
+        "Sumaya Almanee",
+        "Arda Unal",
+        "Mathias Payer",
+        "Joshua Garcia"
+      ],
+      "doi": "10.1109/icse43902.2021.00122",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de63b096133c1372ea64acdc619849fea54cc9cc",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Onboarding vs. Diversity, Productivity and Quality \u2014 Empirical Study of the OpenStack Ecosystem",
+      "authors": [
+        "Armstrong Foundjem",
+        "Ellis Eghan",
+        "Bram Adams"
+      ],
+      "doi": "10.1109/icse43902.2021.00097",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "80fa18fe6642b532ed5ecdc564c09b59716e7e8f",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Studying Test Annotation Maintenance in the Wild",
+      "authors": [
+        "Dong Jae Kim",
+        "Nikolaos Tsantalis",
+        "Tse-Hsun Chen",
+        "Jinqiu Yang"
+      ],
+      "doi": "10.1109/icse43902.2021.00019",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5c2ce9180db6858c2853ee751d350b0fdb49cc4e",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Enhancing Genetic Improvement of Software with Regression Test Selection",
+      "authors": [
+        "Giovani Guizzo",
+        "Justyna Petke",
+        "Federica Sarro",
+        "Mark Harman"
+      ],
+      "doi": "10.1109/icse43902.2021.00120",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0eaed669958ba0b1bf570bfdcd3538b42d8ae1f0",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Extracting Rationale for Open Source Software Development Decisions \u2014 A Study of Python Email Archives",
+      "authors": [
+        "Pankajeshwara Nand Sharma",
+        "Bastin Tony Roy Savarimuthu",
+        "Nigel Stanger"
+      ],
+      "doi": "10.1109/icse43902.2021.00095",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a9bdaf7c31833a62cd3a6b19a0e16c72b92da9bb",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Shipwright: A Human-in-the-Loop System for Dockerfile Repair",
+      "authors": [
+        "Jordan Henkel",
+        "Denini Silva",
+        "Leopoldo Teixeira",
+        "Marcelo d'Amorim",
+        "Thomas Reps"
+      ],
+      "doi": "10.1109/icse43902.2021.00106",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "945de1be1ca7877d68624b4f34a3e87e45900a87",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Growing a Test Corpus with Bonsai Fuzzing",
+      "authors": [
+        "Vasudev Vikram",
+        "Rohan Padhye",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/icse43902.2021.00072",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1eeed1abe25e7eda5081dc98550f2620cd492d8d",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    101,
+    {
+      "title": "TransRegex: Multi-modal Regular Expression Synthesis by Generate-and-Repair",
+      "authors": [
+        "Yeting Li",
+        "Shuaimin Li",
+        "Zhiwu Xu",
+        "Jialun Cao",
+        "Zixuan Chen",
+        "Yun Hu",
+        "Haiming Chen",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1109/icse43902.2021.00111",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0377a9dad3f4b45830a20316ff33de2c8aef04f7",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Technical Leverage in a Software Ecosystem: Development Opportunities and Security Risks",
+      "authors": [
+        "Fabio Massacci",
+        "Ivan Pashchenko"
+      ],
+      "doi": "10.1109/icse43902.2021.00125",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c5ad4e7ec002fd8103da01c8314b38da4975efc2",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    103,
+    {
+      "title": "The Mind Is a Powerful Place: How Showing Code Comprehensibility Metrics Influences Code Understanding",
+      "authors": [
+        "Marvin Wyrich",
+        "Andreas Preikschat",
+        "Daniel Graziotin",
+        "Stefan Wagner"
+      ],
+      "doi": "10.1109/icse43902.2021.00055",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bf9899c0cf3f0955884a5797716a1ac2194f1534",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    104,
+    {
+      "title": "\u201cDo this! Do that!, and Nothing will Happen\u201d Do Specifications Lead to Securely Stored Passwords?",
+      "authors": [
+        "Joseph Hallett",
+        "Nikhil Patnaik",
+        "Benjamin Shreeve",
+        "Awais Rashid"
+      ],
+      "doi": "10.1109/icse43902.2021.00053",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f21e592762780ed79203846a6ceff19977b74054",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    105,
+    {
+      "title": "CHAMP: Characterizing Undesired App Behaviors from User Comments Based on Market Policies",
+      "authors": [
+        "Yangyu Hu",
+        "Haoyu Wang",
+        "Tiantong Ji",
+        "Xusheng Xiao",
+        "Xiapu Luo",
+        "Peng Gao",
+        "Yao Guo"
+      ],
+      "doi": "10.1109/icse43902.2021.00089",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0bc58d5f8ceb573587679c78794298dc7d339bd6",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    106,
+    {
+      "title": "JUSTGen: Effective Test Generation for Unspecified JNI Behaviors on JVMs",
+      "authors": [
+        "Sungjae Hwang",
+        "Sungho Lee",
+        "Jihoon Kim",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1109/icse43902.2021.00151",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0d7b269406e445d252c08a10629bd438e8bf9704",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    107,
+    {
+      "title": "MuDelta: Delta-Oriented Mutation Testing at Commit Time",
+      "authors": [
+        "Wei Ma",
+        "Thierry Titcheu Chekam",
+        "Mike Papadakis",
+        "Mark Harman"
+      ],
+      "doi": "10.1109/icse43902.2021.00086",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "13fc779909217cc341129a860f9fe0991d39b7a6",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    108,
+    {
+      "title": "AutoCCAG: An Automated Approach to Constrained Covering Array Generation",
+      "authors": [
+        "Chuan Luo",
+        "Jinkun Lin",
+        "Shaowei Cai",
+        "Xin Chen",
+        "Bing He",
+        "Bo Qiao",
+        "Pu Zhao",
+        "Qingwei Lin",
+        "Hongyu Zhang",
+        "Wei Wu",
+        "Saravanakumar Rajmohan",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1109/icse43902.2021.00030",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "db155bd34d621a8934ba01d21aaea5a3e7251fde",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Trace-Checking CPS Properties: Bridging the Cyber-Physical Gap",
+      "authors": [
+        "Claudio Menghi",
+        "Enrico Vigano",
+        "Domenico Bianculli",
+        "Lionel C. Briand"
+      ],
+      "doi": "10.1109/icse43902.2021.00082",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "52c3adec3e5ecda5e48bab814df8a3a60569a955",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Semantic Patches for Adaptation of JavaScript Programs to Evolving Libraries",
+      "authors": [
+        "Benjamin Barslev Nielsen",
+        "Martin Toldam Torp",
+        "Anders Moller"
+      ],
+      "doi": "10.1109/icse43902.2021.00020",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0960caa489840de1bc546b5c321fcdebf15cf25b",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    111,
+    {
+      "title": "FLACK: Counterexample-Guided Fault Localization for Alloy Models",
+      "authors": [
+        "Guolong Zheng",
+        "ThanhVu Nguyen",
+        "Simon Gutierrez Brida",
+        "German Regis",
+        "Marcelo F. Frias",
+        "Nazareno Aguirre",
+        "Hamid Bagheri"
+      ],
+      "doi": "10.1109/icse43902.2021.00065",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ac6f783ac5d9105d4a80446529df3960b105527d",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Playing Planning Poker in Crowds: Human Computation of Software Effort Estimates",
+      "authors": [
+        "Mohammed Alhamed",
+        "Tim Storer"
+      ],
+      "doi": "10.1109/icse43902.2021.00014",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "54e9bcceb0d583c7d18c143dd31c90f2f4be53f8",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Sustainable Solving: Reducing the Memory Footprint of IFDS-Based Data Flow Analyses Using Intelligent Garbage Collection",
+      "authors": [
+        "Steven Arzt"
+      ],
+      "doi": "10.1109/icse43902.2021.00102",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8b2e29511e26e71e0c007b5d915799eba29dfbe8",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Same File, Different Changes: The Potential of Meta-Maintenance on GitHub",
+      "authors": [
+        "Hideaki Hata",
+        "Raula Gaikovina Kula",
+        "Takashi Ishio",
+        "Christoph Treude"
+      ],
+      "doi": "10.1109/icse43902.2021.00076",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f0b5abd70efe722efd5c99079ceb255b3fc2a366",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Supporting Quality Assurance with Automated Process-Centric Quality Constraints Checking",
+      "authors": [
+        "Christoph Mayr-Dorn",
+        "Michael Vierhauser",
+        "Stefan Bichler",
+        "Felix Keplinger",
+        "Jane Cleland-Huang",
+        "Alexander Egyed",
+        "Thomas Mehofer"
+      ],
+      "doi": "10.1109/icse43902.2021.00118",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "752ee19191e49d01d82ee707d35639d281b7ff9a",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study",
+      "authors": [
+        "Madeline Endres",
+        "Zachary Karas",
+        "Xiaosu Hu",
+        "Ioulia Kovelman",
+        "Westley Weimer"
+      ],
+      "doi": "10.1109/icse43902.2021.00062",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "938fc53dd1ee3ce931effa9e8876aa820ae7c60b",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Evaluating Unit Testing Practices in R Packages",
+      "authors": [
+        "Melina Vidoni"
+      ],
+      "doi": "10.1109/icse43902.2021.00136",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "24574a3ec3d7efbc23db9aecb61dc5fc86aae9e9",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    118,
+    {
+      "title": "A Differential Testing Approach for Evaluating Abstract Syntax Tree Mapping Algorithms",
+      "authors": [
+        "Yuanrui Fan",
+        "Xin Xia",
+        "David Lo",
+        "Ahmed E. Hassan",
+        "Yuan Wang",
+        "Shanping Li"
+      ],
+      "doi": "10.1109/icse43902.2021.00108",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "04a38ec7b3f835e497f4e35c95e992f0f28c2b4c",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Automatic Solution Summarization for Crash Bugs",
+      "authors": [
+        "Haoye Wang",
+        "Xin Xia",
+        "David Lo",
+        "John Grundy",
+        "Xinyu Wang"
+      ],
+      "doi": "10.1109/icse43902.2021.00117",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7962595d4c14e661caa3ac79e77d4849a4c3bac2",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    120,
+    {
+      "title": "AID: An Automated Detector for Gender-Inclusivity Bugs in OSS Project Pages",
+      "authors": [
+        "Amreeta Chatterjee",
+        "Mariam Guizani",
+        "Catherine Stevens",
+        "Jillian Emard",
+        "Mary Evelyn May",
+        "Margaret Burnett",
+        "Iftekhar Ahmed"
+      ],
+      "doi": "10.1109/icse43902.2021.00128",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "33019b87e4cf3239f8dc4a2d8f084d5e9f69bde6",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Fine with \u201c1234\u201d? An Analysis of SMS One-Time Password Randomness in Android Apps",
+      "authors": [
+        "Siqi Ma",
+        "Juanru Li",
+        "Hyoungshick Kim",
+        "Elisa Bertino",
+        "Surya Nepal",
+        "Diethelm Ostry",
+        "Cong Sun"
+      ],
+      "doi": "10.1109/icse43902.2021.00148",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e1e56cccd573efffde3599f925a0847795286acc",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Resource-Guided Configuration Space Reduction for Deep Learning Models",
+      "authors": [
+        "Yanjie Gao",
+        "Yonghao Zhu",
+        "Hongyu Zhang",
+        "Haoxiang Lin",
+        "Mao Yang"
+      ],
+      "doi": "10.1109/icse43902.2021.00028",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f40fc674b4dc736f50fdcb2967296a920810a28b",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    123,
+    {
+      "title": "DepOwl: Detecting Dependency Bugs to Prevent Compatibility Failures",
+      "authors": [
+        "Zhouyang Jia",
+        "Shanshan Li",
+        "Tingting Yu",
+        "Chen Zeng",
+        "Erci Xu",
+        "Xiaodong Liu",
+        "Ji Wang",
+        "Xiangke Liao"
+      ],
+      "doi": "10.1109/icse43902.2021.00021",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "882fd88fd3952d7195e60b875f989a13487ef9ac",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Synthesizing Object State Transformers for Dynamic Software Updates",
+      "authors": [
+        "Zelin Zhao",
+        "Yanyan Jiang",
+        "Chang Xu",
+        "Tianxiao Gu",
+        "Xiaoxing Ma"
+      ],
+      "doi": "10.1109/icse43902.2021.00103",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e186b534d4dd4d5cb154bb7978887c7cd2721075",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Hero: On the Chaos When PATH Meets Modules",
+      "authors": [
+        "Ying Wang",
+        "Liang Qiao",
+        "Chang Xu",
+        "Yepang Liu",
+        "Shing-Chi Cheung",
+        "Na Meng",
+        "Hai Yu",
+        "Zhiliang Zhu"
+      ],
+      "doi": "10.1109/icse43902.2021.00022",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f5dd867cbfd537133d571b515c37b17bdf13ffd6",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    126,
+    {
+      "title": "How to Identify Boundary Conditions with Contrasty Metric?",
+      "authors": [
+        "Weilin Luo",
+        "Hai Wan",
+        "Xiaotong Song",
+        "Binhao Yang",
+        "Hongzhen Zhong",
+        "Yin Chen"
+      ],
+      "doi": "10.1109/icse43902.2021.00132",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c213abf42b920adda42b01a3bf749a45b2008507",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Interface Compliance of Inline Assembly: Automatically Check, Patch and Refine",
+      "authors": [
+        "Fr\u00e9d\u00e9ric Recoules",
+        "S\u00e9bastien Bardin",
+        "Richard Bonichon",
+        "Matthieu Lemerre",
+        "Laurent Mounier",
+        "Marie-Laure Potet"
+      ],
+      "doi": "10.1109/icse43902.2021.00113",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "68c9a671f4d6358bcf8adde6fcbc92880d7681ca",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Verifying Determinism in Sequential Programs",
+      "authors": [
+        "Rashmi Mudduluru",
+        "Jason Waataja",
+        "Suzanne Millstein",
+        "Michael Ernst"
+      ],
+      "doi": "10.1109/icse43902.2021.00017",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "94c527fd57ee8004f808202a94b6f60bf9fae03c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Unrealizable Cores for Reactive Systems Specifications",
+      "authors": [
+        "Shahar Maoz",
+        "Rafi Shalom"
+      ],
+      "doi": "10.1109/icse43902.2021.00016",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "215f275e1c77e693fd8cf957f7819b0d6a227f90",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    130,
+    {
+      "title": "If It\u2019s Not Secure, It Should Not Compile: Preventing DOM-Based XSS in Large-Scale Web Development with API Hardening",
+      "authors": [
+        "Pei Wang",
+        "Julian Bangert",
+        "Christoph Kern"
+      ],
+      "doi": "10.1109/icse43902.2021.00123",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d5a37672b9d2025fa4bcc0b02f8c2522a96dd61b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Understanding Bounding Functions in Safety-Critical UAV Software",
+      "authors": [
+        "Xiaozhou Liang",
+        "John Henry Burns",
+        "Joseph Sanchez",
+        "Karthik Dantu",
+        "Lukasz Ziarek",
+        "Yu David Liu"
+      ],
+      "doi": "10.1109/icse43902.2021.00119",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c55086c275c1242cea6f76ff2382afe3acbebdc4",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Input Algebras",
+      "authors": [
+        "Rahul Gopinath",
+        "Hamed Nemati",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1109/icse43902.2021.00070",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fadedc414e820be3b7a014f36403c9690a3ce101",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    133,
+    {
+      "title": "IMGDroid: Detecting Image Loading Defects in Android Applications",
+      "authors": [
+        "Wei Song",
+        "Mengqi Han",
+        "Jeff Huang"
+      ],
+      "doi": "10.1109/icse43902.2021.00080",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9b4995ce135ccf5496f59e8f5521e4d51094dde0",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    134,
+    {
+      "title": "GenTree: Using Decision Trees to Learn Interactions for Configurable Software",
+      "authors": [
+        "KimHao Nguyen",
+        "ThanhVu Nguyen"
+      ],
+      "doi": "10.1109/icse43902.2021.00142",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4700ae9daa2036c90183ba8451b992bb3349faac",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    135,
+    {
+      "title": "JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification",
+      "authors": [
+        "Jihyeok Park",
+        "Seungmin An",
+        "Dongjun Youn",
+        "Gyeongwon Kim",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1109/icse43902.2021.00015",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "742e518dfa40009a8333adfe132f54b13b9e070a",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    136,
+    {
+      "title": "App\u2019s Auto-Login Function Security Testing via Android OS-Level Virtualization",
+      "authors": [
+        "Wenna Song",
+        "Jiang Ming",
+        "Lin Jiang",
+        "Han Yan",
+        "Yi Xiang",
+        "Yuan Chen",
+        "Jianming Fu",
+        "Guojun Peng"
+      ],
+      "doi": "10.1109/icse43902.2021.00149",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "19ee749a44d6634a0765061d94d9c51ff5fcc0aa",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    137,
+    {
+      "title": "On Indirectly Dependent Documentation in the Context of Code Evolution: A Study",
+      "authors": [
+        "Devika Sondhi",
+        "Avyakt Gupta",
+        "Salil Purandare",
+        "Ankit Rana",
+        "Deepanshu Kaushal",
+        "Rahul Purandare"
+      ],
+      "doi": "10.1109/icse43902.2021.00134",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b688b7c0bde2cc9c09cea0637a4e5e7638a165e4",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    138,
+    {
+      "title": "Sponsors and Supporters of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00013",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Message from the Journal-First Chairs of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00007",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9c8ccde5fab8c513b2854468daed6c68dc4a4cbf",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    140,
+    {
+      "title": "Message from the ICSE 2021 General Chair",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00005",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4b95f0f82b41edb66c436599caadc671a1616a16",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    141,
+    {
+      "title": "[Title page iii]",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00002",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "89c13c14d3271e56e3b16ee0a0e7c41e2c54ebdc",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Message from the Program Chairs of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00006",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3852a918a388335d0cb04fffeb084a77f3798d30",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    143,
+    {
+      "title": "[Title page i]",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00001",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "97daa5a5e6abcc7c66f85fad6c546ba2a79ec785",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Author Index",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00152",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    145,
+    {
+      "title": "It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports",
+      "authors": [
+        "Nathan Cooper",
+        "Carlos Bernal-C\u00e1rdenas",
+        "Oscar Chaparro",
+        "Kevin Moran",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/icse43902.2021.00091",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Technical Program Committee of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00009",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0a760d4b4eeb98245ffcd86bdab82927f1349a45",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00004",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "69a8d73ff1159a81e4040a2fad13a4d68f18f4ca",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    148,
+    {
+      "title": "[Copyright notice]",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00003",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb8c26f91d0b524bf3e2fbb362a7348cb2b00c89",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    149,
+    {
+      "title": "External Reviewers of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00012",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5f620f9d92a8a88406e79de9575900a4614b7473",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    150,
+    {
+      "title": "Organizing Committee of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00008",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "65562a1bc26e7f18f48c3258b7f007996c7245c4",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Journal First Program Committee of ICSE 2021",
+      "authors": [],
+      "doi": "10.1109/icse43902.2021.00010",
+      "venue": "2021 IEEE/ACM 43rd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "77208712aa9a0f9871dfe0f5213d6f6e46c302fa",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2021
+    }
+  ]
+]

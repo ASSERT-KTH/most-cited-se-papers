@@ -1,0 +1,3359 @@
+[
+  [
+    1,
+    {
+      "title": "Impact of Code Language Models on Automated Program Repair",
+      "authors": [
+        "Nan Jiang",
+        "Kevin Liu",
+        "Thibaud Lutellier",
+        "Lin Tan"
+      ],
+      "doi": "10.1109/icse48619.2023.00125",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d3de0bac5703825796c240bfab8dc3c8e0a90222",
+        "citationCount": 159,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Automated Program Repair in the Era of Large Pre-trained Language Models",
+      "authors": [
+        "Chunqiu Steven Xia",
+        "Yuxiang Wei",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00129",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5aec1050fd62971f2b40b597ef7526fbc820beab",
+        "citationCount": 154,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    3,
+    {
+      "title": "CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models",
+      "authors": [
+        "Caroline Lemieux",
+        "Jeevana Priya Inala",
+        "Shuvendu K. Lahiri",
+        "Siddhartha Sen"
+      ],
+      "doi": "10.1109/icse48619.2023.00085",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f9b301daed4205af692a1b1389d86238610de270",
+        "citationCount": 90,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Automated Repair of Programs from Large Language Models",
+      "authors": [
+        "Zhiyu Fan",
+        "Xiang Gao",
+        "Martin Mirchev",
+        "Abhik Roychoudhury",
+        "Shin Hwei Tan"
+      ],
+      "doi": "10.1109/icse48619.2023.00128",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0bcd59da541fdae66884afba8d25475a54a9da1a",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing",
+      "authors": [
+        "Zhe Liu",
+        "Chunyang Chen",
+        "Junjie Wang",
+        "Xing Che",
+        "Yuekai Huang",
+        "Jun Hu",
+        "Qing Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00119",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ddd49e6fae7c8e081b76865a841d217008b8f3b9",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    6,
+    {
+      "title": "An Empirical Study of Deep Learning Models for Vulnerability Detection",
+      "authors": [
+        "Benjamin Steenhoek",
+        "Md Mahbubur Rahman",
+        "Richard Jiles",
+        "Wei Le"
+      ],
+      "doi": "10.1109/icse48619.2023.00188",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "257b7c33ee766dc1c1dc6ea155d1be6ab145403b",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    7,
+    {
+      "title": "SkCoder: A Sketch-based Approach for Automatic Code Generation",
+      "authors": [
+        "Jia Li",
+        "Yongmin Li",
+        "Ge Li",
+        "Zhi Jin",
+        "Yiyang Hao",
+        "Xing Hu"
+      ],
+      "doi": "10.1109/icse48619.2023.00179",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bd5b110b741eb5af6c7c35632a74789fd63fd70a",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    8,
+    {
+      "title": "An Empirical Comparison of Pre-Trained Models of Source Code",
+      "authors": [
+        "Changan Niu",
+        "Chuanyi Li",
+        "Vincent Ng",
+        "Dongxiao Chen",
+        "Jidong Ge",
+        "Bin Luo"
+      ],
+      "doi": "10.1109/icse48619.2023.00180",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "44f0eb7be111747f54a8669f74be0bb0dad96cff",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    9,
+    {
+      "title": "An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry",
+      "authors": [
+        "Wenxin Jiang",
+        "Nicholas Synovic",
+        "Matt Hyatt",
+        "Taylor R. Schorlemmer",
+        "Rohan Sethi",
+        "Yung-Hsiang Lu",
+        "George K. Thiruvathukal",
+        "James C. Davis"
+      ],
+      "doi": "10.1109/icse48619.2023.00206",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2f4a119883e599f3202a483453250d7874c3c322",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Log Parsing with Prompt-based Few-shot Learning",
+      "authors": [
+        "Van-Hoang Le",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00204",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e6210c6f37bda0a9add8f01acc98ebd2e370814a",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Learning Deep Semantics for Test Completion",
+      "authors": [
+        "Pengyu Nie",
+        "Rahul Banerjee",
+        "Junyi Jessy Li",
+        "Raymond J. Mooney",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1109/icse48619.2023.00178",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "383157f9059061faba4364c7d2141d0ff78c87fa",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    12,
+    {
+      "title": "KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair",
+      "authors": [
+        "Nan Jiang",
+        "Thibaud Lutellier",
+        "Yiling Lou",
+        "Lin Tan",
+        "Dan Goldwasser",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00111",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "18a8a2a74b878aed15b36eb0848b5f543b8fc585",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models",
+      "authors": [
+        "Toufique Ahmed",
+        "Supriyo Ghosh",
+        "Chetan Bansal",
+        "Thomas Zimmermann",
+        "Xuchao Zhang",
+        "Saravan Rajmohan"
+      ],
+      "doi": "10.1109/icse48619.2023.00149",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fba0b0817dbc8200b41a1de22654b54b778a11e9",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Demystifying Exploitable Bugs in Smart Contracts",
+      "authors": [
+        "Zhuo Zhang",
+        "Brian Zhang",
+        "Wen Xu",
+        "Zhiqiang Lin"
+      ],
+      "doi": "10.1109/icse48619.2023.00061",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b72848de3fdd0a944a3a902ff539d07c5328c2a2",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    15,
+    {
+      "title": "An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead",
+      "authors": [
+        "Boming Xia",
+        "Tingting Bi",
+        "Zhenchang Xing",
+        "Qinghua Lu",
+        "Liming Zhu"
+      ],
+      "doi": "10.1109/icse48619.2023.00219",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f074f38b1165eca5629960e8a4ed404fbb35c434",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    16,
+    {
+      "title": "ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning",
+      "authors": [
+        "Shangqing Liu",
+        "Bozhi Wu",
+        "Xiaofei Xie",
+        "Guozhu Meng",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse48619.2023.00207",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f6572fccea70e5023cc38cb33ebd0f520d7b22e2",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    17,
+    {
+      "title": "SemParser: A Semantic Parser for Log Analytics",
+      "authors": [
+        "Yintong Huo",
+        "Yuxin Su",
+        "Cheryl Lee",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/icse48619.2023.00082",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e9b3d6654fbbdfb927c271ffbcc470a8ab46e59c",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    18,
+    {
+      "title": "MTTM: Metamorphic Testing for Textual Content Moderation Software",
+      "authors": [
+        "Wenxuan Wang",
+        "Jen-tse Huang",
+        "Weibin Wu",
+        "Jianping Zhang",
+        "Yizhan Huang",
+        "Shuqing Li",
+        "Pinjia He",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/icse48619.2023.00200",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7f5118b426ec60efd899b1ddb47e4ee7050ea2ff",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks",
+      "authors": [
+        "Verya Monjezi",
+        "Ashutosh Trivedi",
+        "Gang Tan",
+        "Saeid Tizpaz-Niari"
+      ],
+      "doi": "10.1109/icse48619.2023.00136",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4748a9506e1d6a3da2e1a6f925fe93e9877dad1f",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    20,
+    {
+      "title": "One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization",
+      "authors": [
+        "Deze Wang",
+        "Boxing Chen",
+        "Shanshan Li",
+        "Wei Luo",
+        "Shaoliang Peng",
+        "Wei Dong",
+        "Xiangke Liao"
+      ],
+      "doi": "10.1109/icse48619.2023.00013",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3d49facec4701062b80b04b09d8676184921bbda",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    21,
+    {
+      "title": "AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities",
+      "authors": [
+        "Asem Ghaleb",
+        "Julia Rubin",
+        "Karthik Pattabiraman"
+      ],
+      "doi": "10.1109/icse48619.2023.00087",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "23f41b941ec984daff1315dfd6cfd2151d167aae",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Fuzzing Automatic Differentiation in Deep-Learning Libraries",
+      "authors": [
+        "Chenyuan Yang",
+        "Yinlin Deng",
+        "Jiayi Yao",
+        "Yuxing Tu",
+        "Hanchi Li",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00105",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61c4abaef7564161ca39f40d3c511d0036a85f6f",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    23,
+    {
+      "title": "MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform",
+      "authors": [
+        "Matteo Paltenghi",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/icse48619.2023.00202",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "98d7f520d8011fb74ee5818143e4934c4b10897b",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data",
+      "authors": [
+        "Cheryl Lee",
+        "Tianyi Yang",
+        "Zhuangbin Chen",
+        "Yuxin Su",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/icse48619.2023.00150",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70a9d922b993df24d6a131c8410c5b24bbd00991",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Fairify: Fairness Verification of Neural Networks",
+      "authors": [
+        "Sumon Biswas",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1109/icse48619.2023.00134",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "185f0be32201c8f219f9ee97852dae88f3e86468",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem",
+      "authors": [
+        "Yulun Wu",
+        "Zeliang Yu",
+        "Ming Wen",
+        "Qiang Li",
+        "Deqing Zou",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/icse48619.2023.00095",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7c24d555389b327e37c2fcb051d8fd8119b3f737",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention",
+      "authors": [
+        "Cheryl Lee",
+        "Tianyi Yang",
+        "Zhuangbin Chen",
+        "Yuxin Su",
+        "Yongqiang Yang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/icse48619.2023.00148",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "40c5afbb1cb36ba1d4988aad90e6278b11a3de1f",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    28,
+    {
+      "title": "CoCoSoDa: Effective Contrastive Learning for Code Search",
+      "authors": [
+        "Ensheng Shi",
+        "Yanlin Wang",
+        "Wenchao Gu",
+        "Lun Du",
+        "Hongyu Zhang",
+        "Shi Han",
+        "Dongmei Zhang",
+        "Hongbin Sun"
+      ],
+      "doi": "10.1109/icse48619.2023.00185",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ae52599f2d2731f68c567b6726a5185c06cb9a41",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    29,
+    {
+      "title": "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces",
+      "authors": [
+        "S M Hasan Mansur",
+        "Sabiha Salma",
+        "Damilola Awofisayo",
+        "Kevin Moran"
+      ],
+      "doi": "10.1109/icse48619.2023.00166",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3ec2286eb8ff9983042c69dba57b814649f03025",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Tare: Type-Aware Neural Program Repair",
+      "authors": [
+        "Qihao Zhu",
+        "Zeyu Sun",
+        "Wenjie Zhang",
+        "Yingfei Xiong",
+        "Lu Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00126",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fbcc7baccb094aae45ce11951b39b23d9a6b1fdb",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Testing Database Engines via Query Plan Guidance",
+      "authors": [
+        "Jinsheng Ba",
+        "Manuel Rigger"
+      ],
+      "doi": "10.1109/icse48619.2023.00174",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ec682d9c7d68149dcd8932acd01a751f2f8b5611",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning",
+      "authors": [
+        "Xin-Cheng Wen",
+        "Yupan Chen",
+        "Cuiyun Gao",
+        "Hongyu Zhang",
+        "Jie M. Zhang",
+        "Qing Liao"
+      ],
+      "doi": "10.1109/icse48619.2023.00191",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0e162f1a2aa965463b6db5dfbb1ce29029003fad",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!",
+      "authors": [
+        "Xu Yang",
+        "Shaowei Wang",
+        "Yi Li",
+        "Shaohua Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00192",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af2788415f6a5cc52f1f98ad06b7d4c1943ae073",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    34,
+    {
+      "title": "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back",
+      "authors": [
+        "Zhongxin Liu",
+        "Zhijie Tang",
+        "Xin Xia",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/icse48619.2023.00014",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39de27b3ba14f358ff4c9adc0a79fd1206fc7292",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum",
+      "authors": [
+        "Zibin Zheng",
+        "Neng Zhang",
+        "Jianzhong Su",
+        "Zhijie Zhong",
+        "Mingxi Ye",
+        "Jiachi Chen"
+      ],
+      "doi": "10.1109/icse48619.2023.00036",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "93fb24d5e9068821e93b82ee9239db1b03858bc6",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Doppelg\u00e4nger Test Generation for Revealing Bugs in Autonomous Driving Software",
+      "authors": [
+        "Yuqi Huai",
+        "Yuntianyi Chen",
+        "Sumaya Almanee",
+        "Tuan Ngo",
+        "Xiang Liao",
+        "Ziwen Wan",
+        "Qi Alfred Chen",
+        "Joshua Garcia"
+      ],
+      "doi": "10.1109/icse48619.2023.00216",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "491e65de6592ccf5bb6440ef910a48bb49562be1",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion",
+      "authors": [
+        "Yuanyuan Yuan",
+        "Qi Pang",
+        "Shuai Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00107",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "37052f94bee7bd0da54bf5d1f84eb39f041de944",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation",
+      "authors": [
+        "Sicong Cao",
+        "Xiaobing Sun",
+        "Xiaoxue Wu",
+        "Lili Bo",
+        "Bin Li",
+        "Rongxin Wu",
+        "Wei Liu",
+        "Biao He",
+        "Yu Ouyang",
+        "Jiajia Li"
+      ],
+      "doi": "10.1109/icse48619.2023.00044",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fb07406be06073420d0d715ff06eb7d9fc42eaba",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    39,
+    {
+      "title": "SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript",
+      "authors": [
+        "Masudul Hasan Masud Bhuiyan",
+        "Adithya Srinivas Parthasarathy",
+        "Nikos Vasilakis",
+        "Michael Pradel",
+        "Cristian-Alexandru Staicu"
+      ],
+      "doi": "10.1109/icse48619.2023.00096",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9819a1114cbc1648d4f35b40271908daae9557a0",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    40,
+    {
+      "title": "CoLeFunDa: Explainable Silent Vulnerability Fix Identification",
+      "authors": [
+        "Jiayuan Zhou",
+        "Michael Pacheco",
+        "Jinfu Chen",
+        "Xing Hu",
+        "Xin Xia",
+        "David Lo",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1109/icse48619.2023.00214",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d30790a8096ec48a5744f4edbd8a8d59b6e08d0c",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Developer-Intent Driven Code Comment Generation",
+      "authors": [
+        "Fangwen Mu",
+        "Xiao Chen",
+        "Lin Shi",
+        "Song Wang",
+        "Qing Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00073",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7a771d84301d12049cf72a017f9e62c3d1b6222d",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models",
+      "authors": [
+        "Shuzheng Gao",
+        "Hongyu Zhang",
+        "Cuiyun Gao",
+        "Chaozheng Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00015",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1d74875aa4f415cb2c60b17fd1eb3e4ae543bfe1",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Automating Code-Related Tasks Through Transformers: The Impact of Pre-training",
+      "authors": [
+        "Rosalia Tufano",
+        "Luca Pascarella",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1109/icse48619.2023.00203",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2e761fe1771d83962eacb7acc473d132bf92b1d3",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Better Automatic Program Repair by Using Bug Reports and Tests Together",
+      "authors": [
+        "Manish Motwani",
+        "Yuriy Brun"
+      ],
+      "doi": "10.1109/icse48619.2023.00109",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ac6cc408ebd7b1e842edc9597a24d7d738927404",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference",
+      "authors": [
+        "Sidong Feng",
+        "Mulong Xie",
+        "Chunyang Chen"
+      ],
+      "doi": "10.1109/icse48619.2023.00084",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "995056636a4a2b54594c38d1f23aae8657e4e1cb",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Reusing Deep Neural Network Models through Model Re-engineering",
+      "authors": [
+        "Binhang Qi",
+        "Hailong Sun",
+        "Xiang Gao",
+        "Hongyu Zhang",
+        "Zhaotian Li",
+        "Xudong Liu"
+      ],
+      "doi": "10.1109/icse48619.2023.00090",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9be5e8580f6edeccc27f073100e343507f3b715f",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Analysing the Impact of Workloads on Modeling the Performance of Configurable Software Systems",
+      "authors": [
+        "Stefan M\u00fchlbauer",
+        "Florian Sattler",
+        "Christian Kaltenecker",
+        "Johannes Dorn",
+        "Sven Apel",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1109/icse48619.2023.00176",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4134ade6632c674d7f7f4fab8142459f4623fdfc",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality",
+      "authors": [
+        "Jiawei Li",
+        "Iftekhar Ahmed"
+      ],
+      "doi": "10.1109/icse48619.2023.00076",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d00788a3fea3179ecd07d62e60fce33d9cc4aeba",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    49,
+    {
+      "title": "LogReducer: Identify and Reduce Log Hotspots in Kernel on the Fly",
+      "authors": [
+        "Guangba Yu",
+        "Pengfei Chen",
+        "Pairui Li",
+        "Tianjun Weng",
+        "Haibing Zheng",
+        "Yuetang Deng",
+        "Zibin Zheng"
+      ],
+      "doi": "10.1109/icse48619.2023.00151",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3fbd290e9c4979b880c8993b9b7dd682f2fbbd03",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Read It, Don't Watch It: Captioning Bug Recordings Automatically",
+      "authors": [
+        "Sidong Feng",
+        "Mulong Xie",
+        "Yinxing Xue",
+        "Chunyang Chen"
+      ],
+      "doi": "10.1109/icse48619.2023.00197",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0ea11a0539ee30ac6d9f5d814645dbd9b224e5c2",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors",
+      "authors": [
+        "Bianca Trinkenreich",
+        "Klaas-Jan Stol",
+        "Anita Sarma",
+        "Daniel M. German",
+        "Marco A. Gerosa",
+        "Igor Steinmacher"
+      ],
+      "doi": "10.1109/icse48619.2023.00038",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4824c23cff3d973b0a77dcd0fa80308e618a1efa",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation",
+      "authors": [
+        "Parvez Mahbub",
+        "Ohiduzzaman Shuvo",
+        "Mohammad Masudur Rahman"
+      ],
+      "doi": "10.1109/icse48619.2023.00063",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70bdb9ec87efa2b23f4a377040ad76f995c960d5",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Incident-aware Duplicate Ticket Aggregation for Cloud Systems",
+      "authors": [
+        "Jinyang Liu",
+        "Shilin He",
+        "Zhuangbin Chen",
+        "Liqun Li",
+        "Yu Kang",
+        "Xu Zhang",
+        "Pinjia He",
+        "Hongyu Zhang",
+        "Qingwei Lin",
+        "Zhangwei Xu",
+        "Saravan Rajmohan",
+        "Dongmei Zhang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/icse48619.2023.00193",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "94208d82e2349988e017c01f92716c237f60e67c",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    54,
+    {
+      "title": "PYEVOLVE: Automating Frequent Code Changes in Python ML Systems",
+      "authors": [
+        "Malinda Dilhara",
+        "Danny Dig",
+        "Ameya Ketkar"
+      ],
+      "doi": "10.1109/icse48619.2023.00091",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a57e9d014e62c75a3aa47131ba9ac11a04fe94ae",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Regression Fuzzing for Deep Learning Systems",
+      "authors": [
+        "Hanmo You",
+        "Zan Wang",
+        "Junjie Chen",
+        "Shuang Liu",
+        "Shuochuan Li"
+      ],
+      "doi": "10.1109/icse48619.2023.00019",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "eec350e5c7196616ead59c8d7ac98351d048c169",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    56,
+    {
+      "title": "\u201cSTILL AROUND\u201d: Experiences and Survival Strategies of Veteran Women Software Developers",
+      "authors": [
+        "Sterre Van Breukelen",
+        "Ann Barcombt",
+        "Sebastian Baltes",
+        "Alexander Serebrenik"
+      ],
+      "doi": "10.1109/icse48619.2023.00103",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "013c09ea96e5148b251163fbeff7f380ca5ae5eb",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    57,
+    {
+      "title": "CC: Causality-Aware Coverage Criterion for Deep Neural Networks",
+      "authors": [
+        "Zhenlan Ji",
+        "Pingchuan Ma",
+        "Yuanyuan Yuan",
+        "Shuai Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00153",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "552db808a7d31d13693139a25cde2f1557bf7693",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation",
+      "authors": [
+        "Jiamou Sun",
+        "Zhenchang Xing",
+        "Qinghua Lu",
+        "Xiwei Xu",
+        "Liming Zhu",
+        "Thong Hoang",
+        "Dehai Zhao"
+      ],
+      "doi": "10.1109/icse48619.2023.00089",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "99e446871bfdbe9db524159107906d460579fe34",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Detecting Isolation Bugs via Transaction Oracle Construction",
+      "authors": [
+        "Wensheng Dou",
+        "Ziyu Cui",
+        "Qianwang Dai",
+        "Jiansen Song",
+        "Dong Wang",
+        "Yu Gao",
+        "Wei Wang",
+        "Jun Wei",
+        "Lei Chen",
+        "Hanmo Wang",
+        "Hua Zhong",
+        "Tao Huang"
+      ],
+      "doi": "10.1109/icse48619.2023.00101",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a9fa1a56ba118fa3b629fc6308d6b5606751f023",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    60,
+    {
+      "title": "FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing",
+      "authors": [
+        "Ziqi Zhang",
+        "Yuanchun Li",
+        "Bingyan Liu",
+        "Yifeng Cai",
+        "Ding Li",
+        "Yao Guo",
+        "Xiangqun Chen"
+      ],
+      "doi": "10.1109/icse48619.2023.00049",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9abe9f2c901681d00f1db52fc6360441f232ab81",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Learning Seed-Adaptive Mutation Strategies for Greybox Fuzzing",
+      "authors": [
+        "Myungho Lee",
+        "Sooyoung Cha",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1109/icse48619.2023.00043",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "222eb74128f0ad4c257bf5954d04b74a7ef4990a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence",
+      "authors": [
+        "Zejun Zhang",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "Xiwei Xu",
+        "Liming Zhu",
+        "Qinghua Lu"
+      ],
+      "doi": "10.1109/icse48619.2023.00130",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a43fbf0ebc729dc43323c7c075f5dc460be950cc",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Evaluating and Improving Hybrid Fuzzing",
+      "authors": [
+        "Ling Jiang",
+        "Hengchen Yuan",
+        "Mingyuan Wu",
+        "Lingming Zhang",
+        "Yuqun Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00045",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "673d09e5e5c3ed80cbe4713e048f8c1752b5df0f",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Carving UI Tests to Generate API Tests and API Specification",
+      "authors": [
+        "Rahulkrishna Yandrapally",
+        "Saurabh Sinha",
+        "Rachel Tzoref-Brill",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1109/icse48619.2023.00167",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "baa4bf2db980dfc42e18bd3a7fb6c2ea23e950a0",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is not the Moon",
+      "authors": [
+        "Ita Ryan",
+        "Utz Roedig",
+        "Klaas-Jan Stol"
+      ],
+      "doi": "10.1109/icse48619.2023.00140",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9761f09d517e5aee38ab678513019b6514d6d37d",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    66,
+    {
+      "title": "OSSFP: Precise and Scalable C/C++ Third-Party Library Detection using Fingerprinting Functions",
+      "authors": [
+        "Jiahui Wu",
+        "Zhengzi Xu",
+        "Wei Tang",
+        "Lyuye Zhang",
+        "Yueming Wu",
+        "Chengyue Liu",
+        "Kairan Sun",
+        "Lida Zhao",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse48619.2023.00034",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b43f48231b80a3ec2c7c2e34bc4db6c73c529857",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Autonomy Is An Acquired Taste: Exploring Developer Preferences for GitHub Bots",
+      "authors": [
+        "Amir Ghorbani",
+        "Nathan Cassee",
+        "Derek Robinson",
+        "Adam Alami",
+        "Neil A. Ernst",
+        "Alexander Serebrenik",
+        "Andrzej W\u0105sowski"
+      ],
+      "doi": "10.1109/icse48619.2023.00123",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "504206c13e9e87182013b506088005495de34f85",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Test Selection for Unified Regression Testing",
+      "authors": [
+        "Shuai Wang",
+        "Xinyu Lian",
+        "Darko Marinov",
+        "Tianyin Xu"
+      ],
+      "doi": "10.1109/icse48619.2023.00145",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9653e1af0491dbfec6ecab5133fb182156298dad",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Testing Database Systems via Differential Query Execution",
+      "authors": [
+        "Jiansen Song",
+        "Wensheng Dou",
+        "Ziyu Cui",
+        "Qianwang Dai",
+        "Wei Wang",
+        "Jun Wei",
+        "Hua Zhong",
+        "Tao Huang"
+      ],
+      "doi": "10.1109/icse48619.2023.00175",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5724e138fc08329e0baa08d2090d9424df1cb945",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Detecting Exception Handling Bugs in C++ Programs",
+      "authors": [
+        "Hao Zhang",
+        "Ji Luo",
+        "Mengze Hu",
+        "Jun Yan",
+        "Jian Zhang",
+        "Zongyan Qiu"
+      ],
+      "doi": "10.1109/icse48619.2023.00098",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1813b3f6f2fbaeb3c92d8b6617c3e5b51b590855",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront",
+      "authors": [
+        "Alina Mailach",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1109/icse48619.2023.00067",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "734b48f59c3e848d52292f184bdc1a65373e4388",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    72,
+    {
+      "title": "A Qualitative Study on the Implementation Design Decisions of Developers",
+      "authors": [
+        "Jenny T. Liang",
+        "Maryam Arab",
+        "Minhyuk Ko",
+        "Amy J. Ko",
+        "Thomas D. LaToza"
+      ],
+      "doi": "10.1109/icse48619.2023.00047",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "002879d77ed44a11b2ef7973c492ad960d4423da",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    73,
+    {
+      "title": "RAT: A Refactoring-Aware Traceability Model for Bug Localization",
+      "authors": [
+        "Feifei Niu",
+        "Wesley K. G. Assun\u00e7\u00e3o",
+        "LiGuo Huang",
+        "Christoph Mayr-Dorn",
+        "Jidong Ge",
+        "Bin Luo",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1109/icse48619.2023.00028",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "81d65199fede0ed3efe9b307e4337a5b7603de3c",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    74,
+    {
+      "title": "FedDebug: Systematic Debugging for Federated Learning Applications",
+      "authors": [
+        "Waris Gill",
+        "Ali Anwar",
+        "Muhammad Ali Gulzar"
+      ],
+      "doi": "10.1109/icse48619.2023.00053",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3de6413e954df514cf85cc3b82c32b80fafcac5e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Comparison and Evaluation of Clone Detection Techniques with Different Code Representations",
+      "authors": [
+        "Yuekun Wang",
+        "Yuhang Ye",
+        "Yueming Wu",
+        "Weiwei Zhang",
+        "Yinxing Xue",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse48619.2023.00039",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "97bc250cd84411bbf8056ed9234ff32a38ba0df3",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Understanding and Detecting On-The-Fly Configuration Bugs",
+      "authors": [
+        "Teng Wang",
+        "Zhouyang Jia",
+        "Shanshan Li",
+        "Si Zheng",
+        "Yue Yu",
+        "Erci Xu",
+        "Shaoliang Peng",
+        "Xiangke Liao"
+      ],
+      "doi": "10.1109/icse48619.2023.00062",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb1822da92c680e69885b1b70343ba0facd4f0b8",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps",
+      "authors": [
+        "Kaifa Zhao",
+        "Xian Zhan",
+        "Le Yu",
+        "Shiyao Zhou",
+        "Hao Zhou",
+        "Xiapu Luo",
+        "Haoyu Wang",
+        "Yepang Liu"
+      ],
+      "doi": "10.1109/icse48619.2023.00137",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6c456efcad6052106cd2e00e0396e113a2378f3a",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Is It Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues",
+      "authors": [
+        "Xin Tan",
+        "Yiran Chen",
+        "Haohua Wu",
+        "Minghui Zhou",
+        "Li Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00064",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "44ae217952c39c79c210b5de1e4388f0513d99ab",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Robustification of Behavioral Designs against Environmental Deviations",
+      "authors": [
+        "Changjian Zhang",
+        "Tarang Saluja",
+        "R\u00f4mulo Meira-G\u00f3es",
+        "Matthew Bolton",
+        "David Garlan",
+        "Eunsuk Kang"
+      ],
+      "doi": "10.1109/icse48619.2023.00046",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "45f9f09f9a56e58e09b1dee020b31ed0c48ea4f9",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Practical and Efficient Model Extraction of Sentiment Analysis APIs",
+      "authors": [
+        "Weibin Wu",
+        "Jianping Zhang",
+        "Victor Junqiu Wei",
+        "Xixian Chen",
+        "Zibin Zheng",
+        "Irwin King",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/icse48619.2023.00054",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "14b4aff027ccf8fde0b19ac60b8e653c621aff30",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software",
+      "authors": [
+        "Max Weber",
+        "Christian Kaltenecker",
+        "Florian Sattler",
+        "Sven Apel",
+        "Norbert Siegmund"
+      ],
+      "doi": "10.1109/icse48619.2023.00177",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "35ebd6aff78a36c377c362dc036a9598c5286cce",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model",
+      "authors": [
+        "Bin Yuan",
+        "Yifan Lu",
+        "Yilin Fang",
+        "Yueming Wu",
+        "Deqing Zou",
+        "Zhen Li",
+        "Zhi Li",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/icse48619.2023.00190",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a8e95e785d79191f93e004f32cabbe4c3230bbdd",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    83,
+    {
+      "title": "The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing",
+      "authors": [
+        "Qihong Chen",
+        "R\u00faben C\u00e2mara",
+        "Jos\u00e9 Campos",
+        "Andr\u00e9 Souto",
+        "Iftekhar Ahmed"
+      ],
+      "doi": "10.1109/icse48619.2023.00041",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a0f0f6b0c58aaae0d878fd63f0c40ae05ab3d224",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    84,
+    {
+      "title": "From Organizations to Individuals: Psychoactive Substance Use By Professional Programmers",
+      "authors": [
+        "Kaia Newman",
+        "Madeline Endres",
+        "Westley Weimer",
+        "Brittany Johnson"
+      ],
+      "doi": "10.1109/icse48619.2023.00065",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9ab739d32f8e80b9df37d137b10fc6683f33e8bc",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    85,
+    {
+      "title": "On the Temporal Relations between Logging and Code",
+      "authors": [
+        "Zishuo Ding",
+        "Yiming Tang",
+        "Yang Li",
+        "Heng Li",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1109/icse48619.2023.00079",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4db1ba257b4b6eea5b420ea02912180467f174e6",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    86,
+    {
+      "title": "VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning",
+      "authors": [
+        "Yu Nong",
+        "Yuzhe Ou",
+        "Michael Pradel",
+        "Feng Chen",
+        "Haipeng Cai"
+      ],
+      "doi": "10.1109/icse48619.2023.00211",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "57c289c912c43ab6f2388766a0329d89bbff1534",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Flexible and Optimal Dependency Management via Max-SMT",
+      "authors": [
+        "Donald Pinckney",
+        "Federico Cassano",
+        "Arjun Guha",
+        "Jonathan Bell",
+        "Massimiliano Culpo",
+        "Todd Gamblin"
+      ],
+      "doi": "10.1109/icse48619.2023.00124",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c391c8d32fb639e738aa495a1f9d60b4cc416787",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    88,
+    {
+      "title": "ECSTATIC: An Extensible Framework for Testing and Debugging Configurable Static Analysis",
+      "authors": [
+        "Austin Mordahl",
+        "Zenong Zhang",
+        "Dakota Soles",
+        "Shiyi Wei"
+      ],
+      "doi": "10.1109/icse48619.2023.00056",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c4584f20bba4fbfdf84f7dc5015dac7cf0de365e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Template-based Neural Program Repair",
+      "authors": [
+        "Xiangxin Meng",
+        "Xu Wang",
+        "Hongyu Zhang",
+        "Hailong Sun",
+        "Xudong Liu",
+        "Chunming Hu"
+      ],
+      "doi": "10.1109/icse48619.2023.00127",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "688a46050b8a0fa9c9d414af024f68c5c73df11c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Reachable Coverage: Estimating Saturation in Fuzzing",
+      "authors": [
+        "Danushka Liyanage",
+        "Marcel B\u00f6hme",
+        "Chakkrit Tantithamthavorn",
+        "Stephan Lipp"
+      ],
+      "doi": "10.1109/icse48619.2023.00042",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3bda015490318d1c22baa525f2eec687ecb52ad5",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    91,
+    {
+      "title": "PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing",
+      "authors": [
+        "Hetong Dai",
+        "Yiming Tang",
+        "Heng Li",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1109/icse48619.2023.00077",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b4186147a78c121c90a83329198dc09f05ffb1c9",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Strategies, Benefits and Challenges of App Store-inspired Requirements Elicitation",
+      "authors": [
+        "Alessio Ferrari",
+        "Paola Spoletini"
+      ],
+      "doi": "10.1109/icse48619.2023.00114",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5e6f2b943074b2a6f15c1dd428624c1c417b5e0c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    93,
+    {
+      "title": "On the Reproducibility of Software Defect Datasets",
+      "authors": [
+        "Hao-Nan Zhu",
+        "Cindy Rubio-Gonz\u00e1lez"
+      ],
+      "doi": "10.1109/icse48619.2023.00195",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "247a0b03605c75ab6be3b59c4d705b99d8c7800a",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    94,
+    {
+      "title": "CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models",
+      "authors": [
+        "Changan Niu",
+        "Chuanyi Li",
+        "Vincent Ng",
+        "Bin Luo"
+      ],
+      "doi": "10.1109/icse48619.2023.00055",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "782f3d43b37790a83c98d5fd3ef142b296f20616",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces",
+      "authors": [
+        "Haoxiang Jia",
+        "Ming Wen",
+        "Zifan Xie",
+        "Xiaochen Guo",
+        "Rongxin Wu",
+        "Maolin Sun",
+        "Kang Chen",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/icse48619.2023.00016",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e1f5a2aa7c8057c8e4dae3e1c8ab995c4aade0cb",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Fonte: Finding Bug Inducing Commits from Failures",
+      "authors": [
+        "Gabin An",
+        "Jingun Hong",
+        "Naryeong Kim",
+        "Shin Yoo"
+      ],
+      "doi": "10.1109/icse48619.2023.00059",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c6945e19b00c20167cc9be8710857e29d74c0b9e",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    97,
+    {
+      "title": "What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?",
+      "authors": [
+        "Setu Kumar Basak",
+        "Lorenzo Neil",
+        "Bradley Reaves",
+        "Laurie Williams"
+      ],
+      "doi": "10.1109/icse48619.2023.00141",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1927c699bc0cbf91f99f4250ff5658078d9fc316",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    98,
+    {
+      "title": "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics",
+      "authors": [
+        "Dehai Zhao",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "Deheng Ye",
+        "Xiwei Xu",
+        "Liming Zhu"
+      ],
+      "doi": "10.1109/icse48619.2023.00165",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "350d946f591b2bfec6005e8a34f408d36d9889cb",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    99,
+    {
+      "title": "DLInfer: Deep Learning with Static Slicing for Python Type Inference",
+      "authors": [
+        "Yanyan Yan",
+        "Yang Feng",
+        "Hongcheng Fan",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/icse48619.2023.00170",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "07d7305f09d843b8fba7552fa8104b8f188f3f38",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Demystifying Issues, Challenges, and Solutions for Multilingual Software Development",
+      "authors": [
+        "Haoran Yang",
+        "Weile Lian",
+        "Shaowei Wang",
+        "Haipeng Cai"
+      ],
+      "doi": "10.1109/icse48619.2023.00157",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "78c21231a01646626a0d2d8d06fa1f0dd02db587",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions",
+      "authors": [
+        "Mahtab Nejati",
+        "Mahmoud Alfadel",
+        "Shane McIntosh"
+      ],
+      "doi": "10.1109/icse48619.2023.00108",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d5f1f986f91a34216ce8187edf185258909419e9",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Compiling Parallel Symbolic Execution with Continuations",
+      "authors": [
+        "Guannan Wei",
+        "Songlin Jia",
+        "Ruiqi Gao",
+        "Haotian Deng",
+        "Shangyin Tan",
+        "Oliver Bra\u010devac",
+        "Tiark Rompf"
+      ],
+      "doi": "10.1109/icse48619.2023.00116",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2221957f5bf8bcedd285ddc6c24eb00ace5f8860",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Reliability Assurance for Deep Neural Network Architectures Against Numerical Defects",
+      "authors": [
+        "Linyi Li",
+        "Yuhao Zhang",
+        "Luyao Ren",
+        "Yingfei Xiong",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/icse48619.2023.00156",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "153cf1fda6b198eb30e9b1ab03aa12fa44a61cda",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis",
+      "authors": [
+        "Sen Yang",
+        "Sen Chen",
+        "Lingling Fan",
+        "Sihan Xu",
+        "Zhanwei Hui",
+        "Song Huang"
+      ],
+      "doi": "10.1109/icse48619.2023.00033",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "799cc02e0ec652f4542237926eeded2017aa35c1",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Rete: Learning Namespace Representation for Program Repair",
+      "authors": [
+        "Nikhil Parasaram",
+        "Earl T. Barr",
+        "Sergey Mechtaev"
+      ],
+      "doi": "10.1109/icse48619.2023.00112",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "55bbfdf069301e17d56137373dcd11e4b230e739",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Verifying Data Constraint Equivalence in FinTech Systems",
+      "authors": [
+        "Chengpeng Wang",
+        "Gang Fan",
+        "Peisen Yao",
+        "Fuxiong Pan",
+        "Charles Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00117",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1ae34b40814311015a0def9582dceca163499981",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems",
+      "authors": [
+        "Garrett Christian",
+        "Trey Woodlief",
+        "Sebastian Elbaum"
+      ],
+      "doi": "10.1109/icse48619.2023.00217",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2c7b3164722bb998f0a5d55a7a78c4632c567c90",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods",
+      "authors": [
+        "Daye Nam",
+        "Brad Myers",
+        "Bogdan Vasilescu",
+        "Vincent Hellendoorn"
+      ],
+      "doi": "10.1109/icse48619.2023.00161",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "633e185f241c7fde292e5242cd84ffa27820dae1",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models",
+      "authors": [
+        "Jiri Gesi",
+        "Xinyun Shen",
+        "Yunfan Geng",
+        "Qihong Chen",
+        "Iftekhar Ahmed"
+      ],
+      "doi": "10.1109/icse48619.2023.00135",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a771d19261acab2a79e87c613d67c8baf601cd0a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Metamorphic Shader Fusion for Testing Graphics Shader Compilers",
+      "authors": [
+        "Dongwei Xiao",
+        "Zhibo Liu",
+        "Shuai Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00201",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "387707962c591cb18d4f8180e77af29eff4bbb5c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs",
+      "authors": [
+        "Jaemin Hong",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1109/icse48619.2023.00069",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3738f74253d4c06581ecb0178bf04a864adba7b3",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Evaluating the Impact of Experimental Assumptions in Automated Fault Localization",
+      "authors": [
+        "Ezekiel Soremekun",
+        "Lukas Kirschner",
+        "Marcel B\u00f6hme",
+        "Mike Papadakis"
+      ],
+      "doi": "10.1109/icse48619.2023.00025",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e989d44346578bc24acdc9b0f427f938793ce5a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization",
+      "authors": [
+        "Wuxia Jin",
+        "Yitong Dai",
+        "Jianguo Zheng",
+        "Yu Qu",
+        "Ming Fan",
+        "Zhenyu Huang",
+        "Dezhi Huang",
+        "Ting Liu"
+      ],
+      "doi": "10.1109/icse48619.2023.00144",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b501008f03e45d6e70dd7cf094f541da70dbf829",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    114,
+    {
+      "title": "The untold story of code refactoring customizations in practice",
+      "authors": [
+        "Daniel Oliveira",
+        "Wesley K. G. Assun\u00e7\u00e3o",
+        "Alessandro Garcia",
+        "Ana Carla Bibiano",
+        "M\u00e1rcio Ribeiro",
+        "Rohit Gheyi",
+        "Baldoino Fonseca"
+      ],
+      "doi": "10.1109/icse48619.2023.00021",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "412a0082d1486f08db6a3efedf99b02f766baf8e",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Rules of Engagement: Why and How Companies Participate in OSS",
+      "authors": [
+        "Mariam Guizani",
+        "Aileen Abril Castro-Guzman",
+        "Anita Sarma",
+        "Igor Steinmacher"
+      ],
+      "doi": "10.1109/icse48619.2023.00218",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a1636242cb5835a373e4c473c4199d200ce10ce3",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    116,
+    {
+      "title": "BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts",
+      "authors": [
+        "Peilin Zheng",
+        "Xiapu Luo",
+        "Zibin Zheng"
+      ],
+      "doi": "10.1109/icse48619.2023.00037",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a6e0e01b06c32088b505ebe686a7cef7582b2fe2",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs",
+      "authors": [
+        "Maolin Sun",
+        "Yibiao Yang",
+        "Ming Wen",
+        "Yongcong Wang",
+        "Yuming Zhou",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/icse48619.2023.00018",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3af44447a6a7edca327d03ca5f0796885f09d87b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Do code refactorings influence the merge effort?",
+      "authors": [
+        "Andr\u00e9 Oliveira",
+        "V\u00e2nia Neves",
+        "Alexandre Plastino",
+        "Ana Carla Bibiano",
+        "Alessandro Garcia",
+        "Leonardo Murta"
+      ],
+      "doi": "10.1109/icse48619.2023.00023",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d3d33f407493d79bd1346213c0278ddff9e8d471",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    119,
+    {
+      "title": "How Do Developers' Profiles and Experiences Influence their Logging Practices? An Empirical Study of Industrial Practitioners",
+      "authors": [
+        "Guoping Rong",
+        "Shenghui Gu",
+        "Haifeng Shen",
+        "He Zhang",
+        "Hongyu Kuang"
+      ],
+      "doi": "10.1109/icse48619.2023.00080",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87e421d17abab86bb233fbfcaa1d01627f886569",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis",
+      "authors": [
+        "Sahar Badihi",
+        "Khaled Ahmed",
+        "Yi Li",
+        "Julia Rubin"
+      ],
+      "doi": "10.1109/icse48619.2023.00057",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6b7d919fa7e27aae223686330a8522e1971c943c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    121,
+    {
+      "title": "MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems",
+      "authors": [
+        "Yicheng Ouyang",
+        "Kailai Shao",
+        "Kunqiu Chen",
+        "Ruobing Shen",
+        "Chao Chen",
+        "Mingze Xu",
+        "Yuqun Zhang",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00210",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0edaf832f7885219d5f6b2818afedc79a7c557f6",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Smartmark: Software Watermarking Scheme for Smart Contracts",
+      "authors": [
+        "Taeyoung Kim",
+        "Yunhee Jang",
+        "Chanjong Lee",
+        "Hyungjoon Koo",
+        "Hyoungshick Kim"
+      ],
+      "doi": "10.1109/icse48619.2023.00035",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e4f66694d36ca3c4f8bc3f1e35646eef334c05d3",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Tolerate Control-Flow Changes for Sound Data Race Prediction",
+      "authors": [
+        "Shihao Zhu",
+        "Yuqi Guo",
+        "Long Zhang",
+        "Yan Cai"
+      ],
+      "doi": "10.1109/icse48619.2023.00118",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "984c87821a276cc9da94c047f57a9614d9bbee24",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Using Reactive Synthesis: An End-to-End Exploratory Case Study",
+      "authors": [
+        "Dor Ma'ayan",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1109/icse48619.2023.00071",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4095c6b5188104bd4167f2af9bc9c3e3a431239b",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    125,
+    {
+      "title": "On Privacy Weaknesses and Vulnerabilities in Software Systems",
+      "authors": [
+        "Pattaraporn Sangaroonsilp",
+        "Hoa Khanh Dam",
+        "Aditya Ghose"
+      ],
+      "doi": "10.1109/icse48619.2023.00097",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f0815f6242034c82371791d13de2c39b676ce852",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    126,
+    {
+      "title": "UPCY: Safely Updating Outdated Dependencies",
+      "authors": [
+        "Andreas Dann",
+        "Ben Hermann",
+        "Eric Bodden"
+      ],
+      "doi": "10.1109/icse48619.2023.00031",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "995f0c1ade5957c14466d825af56c4e073fbe392",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective",
+      "authors": [
+        "Zenan Li",
+        "Maorun Zhang",
+        "Jingwei Xu",
+        "Yuan Yao",
+        "Chun Cao",
+        "Taolue Chen",
+        "Xiaoxing Ma",
+        "Jian L\u00fc"
+      ],
+      "doi": "10.1109/icse48619.2023.00106",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b93f378d818d70420c828bc7d642fec55730002",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing",
+      "authors": [
+        "Dezhi Ran",
+        "Hao Wang",
+        "Wenyu Wang",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/icse48619.2023.00083",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a83b1c85bca84782a09fd1cbd57a2c1004c60635",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests",
+      "authors": [
+        "Chunqiu Steven Xia",
+        "Saikat Dutta",
+        "Sasa Misailovic",
+        "Darko Marinov",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00154",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a0cb2edfacd9d43c73afef10e287f9255b4d1dc5",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    130,
+    {
+      "title": "ViolationTracker: Building Precise Histories for Static Analysis Violations",
+      "authors": [
+        "Ping Yu",
+        "Yijian Wu",
+        "Xin Peng",
+        "Jiahan Peng",
+        "Jian Zhang",
+        "Peicheng Xie",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1109/icse48619.2023.00171",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "94c1125e92a2fa00d0eaf338ed66cbff922b1a25",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Sibyl: Improving Software Engineering Tools with SMT Selection",
+      "authors": [
+        "Will Leeson",
+        "Matthew B Dwyer",
+        "Antonio Filieri"
+      ],
+      "doi": "10.1109/icse48619.2023.00184",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7230c88af43efdbb434a57ea8f0a3e05a1f8db63",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    132,
+    {
+      "title": "GameRTS: A Regression Testing Framework for Video Games",
+      "authors": [
+        "Jiongchi Yu",
+        "Yuechen Wu",
+        "Xiaofei Xie",
+        "Wei Le",
+        "Lei Ma",
+        "Yingfeng Chen",
+        "Jingyu Hu",
+        "Fan Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00122",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "22a388acef340078f26e617df31df84dd8e76fb6",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Testability Refactoring in Pull Requests: Patterns and Trends",
+      "authors": [
+        "Pavel Reich",
+        "Walid Maalei"
+      ],
+      "doi": "10.1109/icse48619.2023.00131",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f159887acdfab1b7f3310ac1f498c729a18c82e8",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set",
+      "authors": [
+        "Jiwei Yan",
+        "Miaomiao Wang",
+        "Yepang Liu",
+        "Jun Yan",
+        "Long Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00026",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4948c477bfa888281a47ec21aba4b4bc5ad5097e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers",
+      "authors": [
+        "Suyue Guo",
+        "Xinyu Wan",
+        "Wei You",
+        "Bin Liang",
+        "Wenchang Shi",
+        "Yiwei Zhang",
+        "Jianjun Huang",
+        "Jian Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00020",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "32bc57dbbe3a252ccd27aabcaa4ce61a3e33fc31",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Cross-Domain Requirements Linking via Adversarial-based Domain Adaptation",
+      "authors": [
+        "Zhiyuan Chang",
+        "Mingyang Li",
+        "Qing Wang",
+        "Shoubin Li",
+        "Junjie Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00138",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb71ae179341b5f79ecb0a625c3331167f7c22f6",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Diver: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations",
+      "authors": [
+        "Jongwook Kim",
+        "Sunbeom So",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1109/icse48619.2023.00187",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61bc80a00cc30fe6bf3d0db83d41c1ace5eb37e2",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    138,
+    {
+      "title": "Does the Stream API Benefit from Special Debugging Facilities? A Controlled Experiment on Loops and Streams with Specific Debuggers",
+      "authors": [
+        "Jan Reichl",
+        "Stefan Hanenberg",
+        "Volker Gruhn"
+      ],
+      "doi": "10.1109/icse48619.2023.00058",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "564abc73c7aa2cba1bea208c3f172abfc2e73342",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Developers' Visuo-spatial Mental Model and Program Comprehension",
+      "authors": [
+        "Abir Bouraffa",
+        "Gian-Luca Fuhrmann",
+        "Walid Maalej"
+      ],
+      "doi": "10.1109/icse48619.2023.00163",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fb802b5ce1b7ff75f1b47c0ad1a9e4c21f2ec380",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    140,
+    {
+      "title": "PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports",
+      "authors": [
+        "Sunzhou Huang",
+        "Xiaoyin Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00027",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5a915756e6e04a62431a93b4a84e94c1872722f1",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Evidence Profiles for Validity Threats in Program Comprehension Experiments",
+      "authors": [
+        "Marvin Mu\u00f1oz Bar\u00f3n",
+        "Marvin Wyrich",
+        "Daniel Graziotin",
+        "Stefan Wagner"
+      ],
+      "doi": "10.1109/icse48619.2023.00162",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6fc46e71fae870b1b3108ee26f7f5f4eb26d0206",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Adhere: Automated Detection and Repair of Intrusive Ads",
+      "authors": [
+        "Yutian Yan",
+        "Yunhui Zheng",
+        "Xinyue Liu",
+        "Nenad Medvidovic",
+        "Weihang Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00051",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d8400717f77511c61ae49aeaac372678013ac813",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    143,
+    {
+      "title": "The Road Toward Dependable AI Based Systems",
+      "authors": [
+        "Paolo Tonella"
+      ],
+      "doi": "10.1109/icse48619.2023.00011",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "98b7dd25fb825da9bb368956162b009e2da6e436",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network",
+      "authors": [
+        "Zhe Liu",
+        "Chunyang Chen",
+        "Junjie Wang",
+        "Yuhui Su",
+        "Yuekai Huang",
+        "Jun Hu",
+        "Qing Wang"
+      ],
+      "doi": "10.1109/icse48619.2023.00168",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9892c6a8837be0f1874bf3fe6e1c74edecef03ef",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Software Engineering as the Linchpin of Responsible AI",
+      "authors": [
+        "Liming Zhu"
+      ],
+      "doi": "10.1109/icse48619.2023.00012",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7abc42f0438508525d396fda9cd6684e07cf409",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Identifying Key Classes for Initial Software Comprehension: Can We Do It Better?",
+      "authors": [
+        "Weifeng Pan",
+        "Xin Du",
+        "Hua Ming",
+        "Dae-Kyoo Kim",
+        "Zijiang Yang"
+      ],
+      "doi": "10.1109/icse48619.2023.00160",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "07b829c66b358b17ca87be089b971939557223c9",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    147,
+    {
+      "title": "Safe Low-Level Code Without Overhead is Practical",
+      "authors": [
+        "Solal Pirelli",
+        "George Candea"
+      ],
+      "doi": "10.1109/icse48619.2023.00183",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f8bce4a292f7aad696fec74e09cad41f341d790",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Generating Test Databases for Database-Backed Applications",
+      "authors": [
+        "Cong Yan",
+        "Suman Nath",
+        "Shan Lu"
+      ],
+      "doi": "10.1109/icse48619.2023.00173",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "605b3d1b6cbcdaab3f2cd9ec0002ec6dd8050c72",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    149,
+    {
+      "title": "BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service",
+      "authors": [
+        "I Luk Kim",
+        "Weihang Wang",
+        "Yonghwi Kwon",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1109/icse48619.2023.00048",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ff76de6349c7aa7df06e05534cf4a5932b12b62e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    150,
+    {
+      "title": "Additional Reviewers",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00222",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Which of My Assumptions are Unnecessary for Realizability and Why Should I Care?",
+      "authors": [
+        "Rafi Shalom",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1109/icse48619.2023.00030",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bf6d0726036c1c9000cc6b8b143b460a0cf45104",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    152,
+    {
+      "title": "SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk",
+      "authors": [
+        "Siwei Cui",
+        "Yifei Gao",
+        "Rainer Unterguggenberger",
+        "Wilfried Pichler",
+        "Sean Livingstone",
+        "Jeff Huang"
+      ],
+      "doi": "10.1109/icse48619.2023.00102",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "050030297197289b42dfe3a812182bd5166529ef",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Semi-Automatic, Inline and Collaborative Web Page Code Curations",
+      "authors": [
+        "Roy Rutishauser",
+        "Andr\u00e9 A. Meyer",
+        "Reid Holmes",
+        "Thomas Fritz"
+      ],
+      "doi": "10.1109/icse48619.2023.00159",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d74528102882732f75e6b1f4829fdfcb14190b3a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00004",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Message from the ICSE 2023 General Chair",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00005",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    156,
+    {
+      "title": "Author Index",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00220",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Artifact Evaluation",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00008",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Future Software for Life in Trusted Futures",
+      "authors": [
+        "Sarah Pink"
+      ],
+      "doi": "10.1109/icse48619.2023.00010",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39f0f68c04dc9c14f6d25e2938622f4a44aa8ee8",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Technical Track Program Committee",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00007",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "97bbfee27f4b8fe9955db686f52130ff41a38cc9",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Title Page i",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00001",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Other Track Committees",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00221",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "99bd199d05d8f9b1217943b5a4e1d50728d09d7b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    162,
+    {
+      "title": "Most Influential Paper (MIP) Award",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00009",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "abe6da708c07a721f2a2cf7d8a34c72bcc38c52e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    163,
+    {
+      "title": "Finding Causally Different Tests for an Industrial Control System",
+      "authors": [
+        "Christopher M. Poskitt",
+        "Yuqi Chen",
+        "Jun Sun",
+        "Yu Jiang"
+      ],
+      "doi": "10.1109/icse48619.2023.00215",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fe77ee4d558be3da990ed17811a28e82addd69dd",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Copyright",
+      "authors": [],
+      "doi": "10.1109/icse48619.2023.00003",
+      "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ]
+]

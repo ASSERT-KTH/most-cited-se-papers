@@ -1,0 +1,406 @@
+[
+  [
+    1,
+    {
+      "title": "The ABC of Software Engineering Research",
+      "authors": [
+        "Klaas-Jan Stol",
+        "Brian Fitzgerald"
+      ],
+      "doi": "10.1145/3241743",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "51b502b9ce774a615474ed8629e74d0dfaa33ee3",
+        "citationCount": 198,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    2,
+    {
+      "title": "How Far We Have Progressed in the Journey? An Examination of Cross-Project Defect Prediction",
+      "authors": [
+        "Yuming Zhou",
+        "Yibiao Yang",
+        "Hongmin Lu",
+        "Lin Chen",
+        "Yanhui Li",
+        "Yangyang Zhao",
+        "Junyan Qian",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/3183339",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "630f7ebce29f2c6bd1a77ff6bff0bf924f96419b",
+        "citationCount": 152,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Variability-Aware Static Analysis at Scale",
+      "authors": [
+        "Alexander Von Rhein",
+        "J\u00f6RG Liebig",
+        "Andreas Janker",
+        "Christian K\u00e4stner",
+        "Sven Apel"
+      ],
+      "doi": "10.1145/3280986",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "19c655ebb8049b45268f67fe3ba9fd6199b03761",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    4,
+    {
+      "title": "FEMOSAA",
+      "authors": [
+        "Tao Chen",
+        "Ke Li",
+        "Rami Bahsoon",
+        "Xin Yao"
+      ],
+      "doi": "10.1145/3204459",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "eff6332f006461e9f7a6bf31550df3d1c076647d",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Test-Equivalence Analysis for Automatic Patch Generation",
+      "authors": [
+        "Sergey Mechtaev",
+        "Xiang Gao",
+        "Shin Hwei Tan",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3241980",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "ca91838da0b013ff84af8a59c1c5525c5bdf3997",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Linear Programming as a Baseline for Software Effort Estimation",
+      "authors": [
+        "Federica Sarro",
+        "Alessio Petrozziello"
+      ],
+      "doi": "10.1145/3234940",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "0faee74d1d69f3d90decbd9b8c50065944af1200",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    7,
+    {
+      "title": "An Empirical Study of Meta- and Hyper-Heuristic Search for Multi-Objective Release Planning",
+      "authors": [
+        "Yuanyuan Zhang",
+        "Mark Harman",
+        "Gabriela Ochoa",
+        "Guenther Ruhe",
+        "Sjaak Brinkkemper"
+      ],
+      "doi": "10.1145/3196831",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f3a5ee1c2431422c508be3caec0e7b4117003cf6",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Spectrum-Based Fault Localization in Model Transformations",
+      "authors": [
+        "Javier Troya",
+        "Sergio Segura",
+        "Jose Antonio Parejo",
+        "Antonio Ruiz-Cort\u00e9s"
+      ],
+      "doi": "10.1145/3241744",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "78f6f05414d45d7a0f4e6c2baf3ac4710940ace4",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    9,
+    {
+      "title": "The State of Empirical Evaluation in Static Feature Location",
+      "authors": [
+        "Abdul Razzaq",
+        "Asanka Wasala",
+        "Chris Exton",
+        "Jim Buckley"
+      ],
+      "doi": "10.1145/3280988",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "2c05d0a0feab5bab051876a21cef36fc966825c9",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    10,
+    {
+      "title": "STADS",
+      "authors": [
+        "Marcel B\u00f6hme"
+      ],
+      "doi": "10.1145/3210309",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "42eee87906cc514945c8c11c9c4db82cd874e46e",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Inferring Extended Probabilistic Finite-State Automaton Models from Software Executions",
+      "authors": [
+        "S. S. Emam",
+        "J. Miller"
+      ],
+      "doi": "10.1145/3196883",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "25638e2bc23ac3fe8325b6a1c813d270206a4c16",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Multi-Objective Optimization of Energy Consumption of GUIs in Android Apps",
+      "authors": [
+        "Mario Linares-V\u00e1squez",
+        "Gabriele Bavota",
+        "Carlos Bernal-C\u00e1rdenas",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/3241742",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "72cebee0ac35a37daba700c5792735d66141da04",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Shadow Symbolic Execution for Testing Software Patches",
+      "authors": [
+        "Tomasz Kuchta",
+        "Hristina Palikareva",
+        "Cristian Cadar"
+      ],
+      "doi": "10.1145/3208952",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7569ef76af02e6f7f2945d9f6d8d55080f20d9b0",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Refactoring Multi-Level Models",
+      "authors": [
+        "Juan De Lara",
+        "Esther Guerra"
+      ],
+      "doi": "10.1145/3280985",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d80e25b57ed1fb10910a91482bd0b017d6c6a176",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Assessing the Refactoring of Brain Methods",
+      "authors": [
+        "Santiago Vidal",
+        "I\u00f1aki berra",
+        "Santiago Zulliani",
+        "Claudia Marcos",
+        "J. Andr\u00e9s D\u00edaz Pace"
+      ],
+      "doi": "10.1145/3191314",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7fadeca4151fa6c1e8343595d8e372f8939835cb",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Prove it! Inferring Formal Proof Scripts from CafeOBJ Proof Scores",
+      "authors": [
+        "Adri\u00e1n Riesco",
+        "Kazuhiro Ogata"
+      ],
+      "doi": "10.1145/3208951",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "55fb2a12336835cf8626e3e1478c608e6fe25702",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Oracles for Testing Software Timeliness with Uncertainty",
+      "authors": [
+        "Chunhui Wang",
+        "Fabrizio Pastore",
+        "Lionel Briand"
+      ],
+      "doi": "10.1145/3280987",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9e6d8124fcf58ddf6e4ff5642d31fdefeba756c0",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Maintaining Architecture-Implementation Conformance to Support Architecture Centrality",
+      "authors": [
+        "Yongjie Zheng",
+        "Cuong Cu",
+        "Richard N. Taylor"
+      ],
+      "doi": "10.1145/3229048",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "2504816f124690eb96d0d8659248a91e32401af9",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Recommending Who to Follow in the Software Engineering Twitter Space",
+      "authors": [
+        "Abhishek Sharma",
+        "Yuan Tian",
+        "Agus Sulistya",
+        "Dinusha Wijedasa",
+        "David Lo"
+      ],
+      "doi": "10.1145/3266426",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9fb1d79d147184171b4acadbf0cbfadd6b9a0f29",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/3264424",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "0ab48e7687a37b7580ad3103455ce0dc385e8463",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/3205909",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "28780574bccaa5b269f137a8e114d881efa3e752",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2018
+    }
+  ]
+]

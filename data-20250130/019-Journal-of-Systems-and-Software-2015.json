@@ -1,0 +1,3742 @@
+[
+  [
+    1,
+    {
+      "title": "A systematic mapping study on technical debt and its management",
+      "authors": [
+        "Zengyang Li",
+        "Paris Avgeriou",
+        "Peng Liang"
+      ],
+      "doi": "10.1016/j.jss.2014.12.027",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c5dbd495acd573d4959a84fe9cdc1f78d57599c8",
+        "citationCount": 587,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Evolution of software in automated production systems: Challenges and research directions",
+      "authors": [
+        "Birgit Vogel-Heuser",
+        "Alexander Fay",
+        "Ina Schaefer",
+        "Matthias Tichy"
+      ],
+      "doi": "10.1016/j.jss.2015.08.026",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e4173f2a7621e25634278af22997995ab65924f2",
+        "citationCount": 262,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Agile methods tailoring \u2013 A systematic literature review",
+      "authors": [
+        "Amadeu Silveira Campanelli",
+        "Fernando Silva Parreiras"
+      ],
+      "doi": "10.1016/j.jss.2015.08.035",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "eeeefcfbe736be529aa8ed3d2a5937cfeb858917",
+        "citationCount": 226,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Health and emergency-care platform for the elderly and disabled people in the Smart City",
+      "authors": [
+        "Aamir Hussain",
+        "Rao Wenbi",
+        "Aristides Lopes da Silva",
+        "Muhammad Nadher",
+        "Muhammad Mudhish"
+      ],
+      "doi": "10.1016/j.jss.2015.08.041",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2b318c800ad9daa3b6d51979afcd28ab2a8b6b30",
+        "citationCount": 218,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Behavioral software engineering: A definition and systematic literature review",
+      "authors": [
+        "Per Lenberg",
+        "Robert Feldt",
+        "Lars G\u00f6ran Wallgren"
+      ],
+      "doi": "10.1016/j.jss.2015.04.084",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "389aa97e59372fbc65cab81fe18d9f86fbb70a82",
+        "citationCount": 212,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    6,
+    {
+      "title": "An experimental investigation on the innate relationship between quality and refactoring",
+      "authors": [
+        "Gabriele Bavota",
+        "Andrea De Lucia",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Fabio Palomba"
+      ],
+      "doi": "10.1016/j.jss.2015.05.024",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "06a1303942a8eef02c5ce5408785c318ea72270b",
+        "citationCount": 210,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Recommender systems based on social networks",
+      "authors": [
+        "Zhoubao Sun",
+        "Lixin Han",
+        "Wenliang Huang",
+        "Xueting Wang",
+        "Xiaoqin Zeng",
+        "Min Wang",
+        "Hong Yan"
+      ],
+      "doi": "10.1016/j.jss.2014.09.019",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "52ecc0bd0e5676a4acb937f08a638387d5003e4b",
+        "citationCount": 159,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Profiling and classifying the behavior of malicious codes",
+      "authors": [
+        "Mamoun Alazab"
+      ],
+      "doi": "10.1016/j.jss.2014.10.031",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "eba8c1fa59335c7d13f1af4e64e60d00548b15ac",
+        "citationCount": 140,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Towards energy-efficient scheduling for real-time tasks under uncertain cloud computing environment",
+      "authors": [
+        "Huangke Chen",
+        "Xiaomin Zhu",
+        "Hui Guo",
+        "Jianghan Zhu",
+        "Xiao Qin",
+        "Jianhong Wu"
+      ],
+      "doi": "10.1016/j.jss.2014.08.065",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ecfdd50f54dc1c200e57c4d37af1ea7ab4073a95",
+        "citationCount": 136,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Quality of service approaches in cloud computing: A systematic mapping study",
+      "authors": [
+        "Abdelzahir Abdelmaboud",
+        "Dayang N.A. Jawawi",
+        "Imran Ghani",
+        "Abubakar Elsafi",
+        "Barbara Kitchenham"
+      ],
+      "doi": "10.1016/j.jss.2014.12.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c6fba9ec7a9ea2e67cc87ed9107da54aee10efc3",
+        "citationCount": 127,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Semantic based representing and organizing surveillance big data using video structural description technology",
+      "authors": [
+        "Zheng Xu",
+        "Yunhuai Liu",
+        "Lin Mei",
+        "Chuanping Hu",
+        "Lan Chen"
+      ],
+      "doi": "10.1016/j.jss.2014.07.024",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e1db92e3d8d07aaa07b4ba6f0f3c7a8be409b49a",
+        "citationCount": 117,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Cost, benefits and quality of software development documentation: A systematic mapping",
+      "authors": [
+        "Junji Zhi",
+        "Vahid Garousi-Yusifo\u011flu",
+        "Bo Sun",
+        "Golara Garousi",
+        "Shawn Shahnewaz",
+        "Guenther Ruhe"
+      ],
+      "doi": "10.1016/j.jss.2014.09.042",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "58bbfa771c23599f0378c22ab32bbbb816a719a7",
+        "citationCount": 109,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Network coding-based energy-efficient multicast routing algorithm for multi-hop wireless networks",
+      "authors": [
+        "Dingde Jiang",
+        "Zhengzheng Xu",
+        "Wenpan Li",
+        "Zhenhua Chen"
+      ],
+      "doi": "10.1016/j.jss.2015.03.006",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "755184188ef0bc0d9f2e4a7170e065d9ee07a2ce",
+        "citationCount": 103,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Feature extraction approaches from natural language requirements for reuse in software product lines: A systematic literature review",
+      "authors": [
+        "Noor Hasrina Bakar",
+        "Zarinah M. Kasirun",
+        "Norsaremah Salleh"
+      ],
+      "doi": "10.1016/j.jss.2015.05.006",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "1aa955ed9261670e4905288b17d6821c6c50f738",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Assessing dynamic models for high priority waste collection in smart cities",
+      "authors": [
+        "Theodoros Anagnostopoulos",
+        "Kostas Kolomvatsos",
+        "Christos Anagnostopoulos",
+        "Arkady Zaslavsky",
+        "Stathes Hadjiefthymiades"
+      ],
+      "doi": "10.1016/j.jss.2015.08.049",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c250f23e244553eb1387672d662f0f23cc200c33",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Emotion-led modelling for people-oriented requirements engineering: The case study of emergency systems",
+      "authors": [
+        "Tim Miller",
+        "Sonja Pedell",
+        "Antonio A. Lopez-Lorca",
+        "Antonette Mendoza",
+        "Leon Sterling",
+        "Alen Keirnan"
+      ],
+      "doi": "10.1016/j.jss.2015.03.044",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "71bfcb2c163f42b03a8ac19cbbf9f0b9e1abd106",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    17,
+    {
+      "title": "A survey study on major technical barriers affecting the decision to adopt cloud services",
+      "authors": [
+        "Nattakarn Phaphoom",
+        "Xiaofeng Wang",
+        "Sarah Samuel",
+        "Sven Helmer",
+        "Pekka Abrahamsson"
+      ],
+      "doi": "10.1016/j.jss.2015.02.002",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "642f5d34ec663599e6cb48a35221caeb052ad9cf",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Cost-effective test suite minimization in product lines using search techniques",
+      "authors": [
+        "Shuai Wang",
+        "Shaukat Ali",
+        "Arnaud Gotlieb"
+      ],
+      "doi": "10.1016/j.jss.2014.08.024",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "4386e86ad045df14b31f193688699f2dc832cc51",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    19,
+    {
+      "title": "A survey of software engineering practices in Turkey",
+      "authors": [
+        "Vahid Garousi",
+        "Ahmet Co\u015fkun\u00e7ay",
+        "Aysu Betin-Can",
+        "Onur Demir\u00f6rs"
+      ],
+      "doi": "10.1016/j.jss.2015.06.036",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c5201a9b545baf1e2d9b10eb8393d7ec80d6b044",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    20,
+    {
+      "title": "An empirical evaluation of ensemble adjustment methods for analogy-based effort estimation",
+      "authors": [
+        "Mohammad Azzeh",
+        "Ali Bou Nassif",
+        "Leandro L. Minku"
+      ],
+      "doi": "10.1016/j.jss.2015.01.028",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "4660e79bb1229b49f20f7d877a28af999f3c5944",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    21,
+    {
+      "title": "On applying machine learning techniques for design pattern detection",
+      "authors": [
+        "Marco Zanoni",
+        "Francesca Arcelli Fontana",
+        "Fabio Stella"
+      ],
+      "doi": "10.1016/j.jss.2015.01.037",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e1bee2aa05a19161664ba9430bd5cfdafb2bdd2c",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    22,
+    {
+      "title": "A fair multi-attribute combinatorial double auction model for resource allocation in cloud computing",
+      "authors": [
+        "Gaurav Baranwal",
+        "Deo Prakash Vidyarthi"
+      ],
+      "doi": "10.1016/j.jss.2015.06.025",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e9030f1a14c3595ec5bdccc172dc229fcae8cfec",
+        "citationCount": 90,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Toward the tools selection in model based system engineering for embedded systems\u2014A systematic literature review",
+      "authors": [
+        "Muhammad Rashid",
+        "Muhammad Waseem Anwar",
+        "Aamir M. Khan"
+      ],
+      "doi": "10.1016/j.jss.2015.04.089",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "322b845677ec33fa9f0c57fb4e4978cdbca2d7ad",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    24,
+    {
+      "title": "A Memetic Algorithm for whole test suite generation",
+      "authors": [
+        "Gordon Fraser",
+        "Andrea Arcuri",
+        "Phil McMinn"
+      ],
+      "doi": "10.1016/j.jss.2014.05.032",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "8906dfb31c55048ff51d8bbbe84c062775da4231",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Comprehensible software fault and effort prediction: A data mining approach",
+      "authors": [
+        "Julie Moeyersoms",
+        "Enric Junqu\u00e9 de Fortuny",
+        "Karel Dejaeger",
+        "Bart Baesens",
+        "David Martens"
+      ],
+      "doi": "10.1016/j.jss.2014.10.032",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ccf2ca329ed7b5ea4997b06e046777a4f6339f95",
+        "citationCount": 82,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    26,
+    {
+      "title": "An empirically-developed framework for Agile transition and adoption: A Grounded Theory approach",
+      "authors": [
+        "Taghi Javdani Gandomani",
+        "Mina Ziaei Nafchi"
+      ],
+      "doi": "10.1016/j.jss.2015.06.006",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "38c4aeaa06e11ca6404f442c5c0aa1107efbdc3e",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Software requirements selection and prioritization using SBSE approaches: A systematic review and mapping of the literature",
+      "authors": [
+        "Ant\u00f4nio Mauricio Pitangueira",
+        "Rita Suzana P. Maciel",
+        "M\u00e1rcio Barros"
+      ],
+      "doi": "10.1016/j.jss.2014.09.038",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a958b3cb0b15203861570aaeb6eb201ea52eea00",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    28,
+    {
+      "title": "A cloud-based framework for Home-diagnosis service over big medical data",
+      "authors": [
+        "Wenmin Lin",
+        "Wanchun Dou",
+        "Zuojian Zhou",
+        "Chang Liu"
+      ],
+      "doi": "10.1016/j.jss.2014.05.068",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a234e4fd07737876e12d70a56ca5bde6db35ee53",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    29,
+    {
+      "title": "The prospects of a quantitative measurement of agility: A validation study on an agile maturity model",
+      "authors": [
+        "Lucas Gren",
+        "Richard Torkar",
+        "Robert Feldt"
+      ],
+      "doi": "10.1016/j.jss.2015.05.008",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "15d76a169df7d0c94f972723585f738f6559c4cc",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Multi-criteria scheduling of Bag-of-Tasks applications on heterogeneous interlinked clouds with simulated annealing",
+      "authors": [
+        "Ioannis A. Moschakis",
+        "Helen D. Karatza"
+      ],
+      "doi": "10.1016/j.jss.2014.11.014",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ab15e4a5e569e000675883d0b2374c212f8b4420",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Progressive Outcomes: A framework for maturing in agile software development",
+      "authors": [
+        "Rafaela Mantovani Fontana",
+        "Victor Meyer",
+        "Sheila Reinehr",
+        "Andreia Malucelli"
+      ],
+      "doi": "10.1016/j.jss.2014.12.032",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b4ee11f155300322926dcc27ed965efa2b3d8a7f",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Applying multiobjective evolutionary algorithms to dynamic software product lines for reconfiguring mobile applications",
+      "authors": [
+        "Gustavo G. Pascual",
+        "Roberto E. Lopez-Herrejon",
+        "M\u00f3nica Pinto",
+        "Lidia Fuentes",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1016/j.jss.2014.12.041",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "29092e6b6104bb45d41e1c1438a96f1927faa996",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Improving multi-objective code-smells correction using development history",
+      "authors": [
+        "Ali Ouni",
+        "Marouane Kessentini",
+        "Houari Sahraoui",
+        "Katsuro Inoue",
+        "Mohamed Salah Hamdi"
+      ],
+      "doi": "10.1016/j.jss.2015.03.040",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "1affdd5708cb13a83e736700a236e3f2d8e8c10d",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    34,
+    {
+      "title": "A time-based approach to automatic bug report assignment",
+      "authors": [
+        "Ramin Shokripour",
+        "John Anvik",
+        "Zarinah M. Kasirun",
+        "Sima Zamani"
+      ],
+      "doi": "10.1016/j.jss.2014.12.049",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b37104b22a54b3ca41e39e52e3f414f41cbdbef2",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    35,
+    {
+      "title": "An assessment of search-based techniques for reverse engineering feature models",
+      "authors": [
+        "Roberto E. Lopez-Herrejon",
+        "Lukas Linsbauer",
+        "Jos\u00e9 A. Galindo",
+        "Jos\u00e9 A. Parejo",
+        "David Benavides",
+        "Sergio Segura",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1016/j.jss.2014.10.037",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e181882d29c81f5897a2bd61ea21cffa14fabd97",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    36,
+    {
+      "title": "A solution of dynamic VMs placement problem for energy consumption optimization based on evolutionary game theory",
+      "authors": [
+        "Zhijiao Xiao",
+        "Jianmin Jiang",
+        "Yingying Zhu",
+        "Zhong Ming",
+        "Shenghua Zhong",
+        "Shubin Cai"
+      ],
+      "doi": "10.1016/j.jss.2014.12.030",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7b98e6e10efae2edecdd361b10c5177cac630f74",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Algorithms for automated live migration of virtual machines",
+      "authors": [
+        "Mattias Forsman",
+        "Andreas Glad",
+        "Lars Lundberg",
+        "Dragos Ilie"
+      ],
+      "doi": "10.1016/j.jss.2014.11.044",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "65c63845eedb72e437fed64e37e43a0d59fa8471",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Web API growing pains: Loosely coupled yet strongly tied",
+      "authors": [
+        "Tiago Espinha",
+        "Andy Zaidman",
+        "Hans-Gerhard Gross"
+      ],
+      "doi": "10.1016/j.jss.2014.10.014",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2dc73bc58c9a617b69b0ad5fffc3b71d48b21781",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Sentiment Analysis in monitoring software development processes: An exploratory case study on GitHub's project issues",
+      "authors": [
+        "Francisco Jurado",
+        "Pilar Rodriguez"
+      ],
+      "doi": "10.1016/j.jss.2015.02.055",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ce48b9f76c3e6e3e9575a52db7f5436d3ee0f3fe",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Dynamic cloud service selection using an adaptive learning mechanism in multi-cloud computing",
+      "authors": [
+        "Xiaogang Wang",
+        "Jian Cao",
+        "Yang Xiang"
+      ],
+      "doi": "10.1016/j.jss.2014.10.047",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "263e9d39b0b1616c776ceaba69c47d99f31cd1d5",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    41,
+    {
+      "title": "An effective approach to estimating the parameters of software reliability growth models using a real-valued genetic algorithm",
+      "authors": [
+        "Taehyoun Kim",
+        "Kwangkyu Lee",
+        "Jongmoon Baik"
+      ],
+      "doi": "10.1016/j.jss.2015.01.001",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ba9f949cbc7045704ee380279df307e6c886738b",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    42,
+    {
+      "title": "A small world based overlay network for improving dynamic load-balancing",
+      "authors": [
+        "Eman Yasser Daraghmi",
+        "Shyan-Ming Yuan"
+      ],
+      "doi": "10.1016/j.jss.2015.06.001",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "9f67415ad2ad4923f73e2cd544a23cbe68727f16",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Manufacturing execution systems: A vision for managing software development",
+      "authors": [
+        "Martin Naedele",
+        "Hong-Mei Chen",
+        "Rick Kazman",
+        "Yuanfang Cai",
+        "Lu Xiao",
+        "Carlos V.A. Silva"
+      ],
+      "doi": "10.1016/j.jss.2014.11.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a7891694fc2e812538181b3740df825e99d39c3c",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Utilizing online serious games to facilitate distributed requirements elicitation",
+      "authors": [
+        "Hadi Ghanbari",
+        "Jouni Simil\u00e4",
+        "Jouni Markkula"
+      ],
+      "doi": "10.1016/j.jss.2015.07.017",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7853fcb393beef8a107b6d4ddd93eccb35dc5d4a",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    45,
+    {
+      "title": "A general theory of software engineering: Balancing human, social and organizational capitals",
+      "authors": [
+        "Claes Wohlin",
+        "Darja \u0160mite",
+        "Nils Brede Moe"
+      ],
+      "doi": "10.1016/j.jss.2015.08.009",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "0fb6ea059c0a00999dcb9537e390cbe143fec374",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Analyzing maintainability and reliability of object-oriented software using weighted complex network",
+      "authors": [
+        "Chun Yong Chong",
+        "Sai Peck Lee"
+      ],
+      "doi": "10.1016/j.jss.2015.08.014",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "fe0d294013c480598ce95178447304c3d1538466",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    47,
+    {
+      "title": "HaoLap: A Hadoop based OLAP system for big data",
+      "authors": [
+        "Jie Song",
+        "Chaopeng Guo",
+        "Zhi Wang",
+        "Yichan Zhang",
+        "Ge Yu",
+        "Jean-Marc Pierson"
+      ],
+      "doi": "10.1016/j.jss.2014.09.024",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "844cdd4dcb91ee882fa2345424dd5bd5e7d386b9",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Designing an open source maintenance-free Environmental Monitoring Application for Wireless Sensor Networks",
+      "authors": [
+        "Manuel Delamo",
+        "Santiago Felici-Castell",
+        "Juan J. P\u00e9rez-Solano",
+        "Andrew Foster"
+      ],
+      "doi": "10.1016/j.jss.2015.02.013",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "5e373b16f4688a20c2db98673b03de112f5aaeaf",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Enhancing a model-based engineering approach for distributed manufacturing automation systems with characteristics and design patterns",
+      "authors": [
+        "Alexander Fay",
+        "Birgit Vogel-Heuser",
+        "Timo Frank",
+        "Karin Eckert",
+        "Thomas Hadlich",
+        "Christian Diedrich"
+      ],
+      "doi": "10.1016/j.jss.2014.12.028",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c2d08ed69f889459f0f32c80afa8cf214225307d",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Automatic deployment of distributed software systems: Definitions and state of the art",
+      "authors": [
+        "Jean-Paul Arcangeli",
+        "Raja Boujbel",
+        "S\u00e9bastien Leriche"
+      ],
+      "doi": "10.1016/j.jss.2015.01.040",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ff7ebda7cd73ecee8e322f5457d195e4ebf5808c",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Neural networks for predicting the duration of new software projects",
+      "authors": [
+        "Cuauht\u00e9moc L\u00f3pez-Mart\u00edn",
+        "Alain Abran"
+      ],
+      "doi": "10.1016/j.jss.2014.12.002",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b526ca76fb623d374292f0b9ad7853a7679aecff",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Defining multi-tenancy: A systematic mapping study on the academic and the industrial perspective",
+      "authors": [
+        "Jaap Kabbedijk",
+        "Cor-Paul Bezemer",
+        "Slinger Jansen",
+        "Andy Zaidman"
+      ],
+      "doi": "10.1016/j.jss.2014.10.034",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "fd72c81f22a8043d59f275d4ac022f6fcfc1a1af",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Exploring community structure of software Call Graph and its applications in class cohesion measurement",
+      "authors": [
+        "Yu Qu",
+        "Xiaohong Guan",
+        "Qinghua Zheng",
+        "Ting Liu",
+        "Lidan Wang",
+        "Yuqiao Hou",
+        "Zijiang Yang"
+      ],
+      "doi": "10.1016/j.jss.2015.06.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d0e0274e743085d6d16a6a46638e65144a58c406",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    54,
+    {
+      "title": "A large-scale study on the usage of Java\u2019s concurrent programming constructs",
+      "authors": [
+        "Gustavo Pinto",
+        "Weslley Torres",
+        "Benito Fernandes",
+        "Fernando Castor",
+        "Roberto S.M. Barros"
+      ],
+      "doi": "10.1016/j.jss.2015.04.064",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "96d249fce8f137c802fd90d7f5c83004b1a197d0",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Enabling high-level application development for the Internet of Things",
+      "authors": [
+        "Pankesh Patel",
+        "Damien Cassou"
+      ],
+      "doi": "10.1016/j.jss.2015.01.027",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "8da0bb90e4f4e1d2882eaa51da7422175b1bd13f",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Input-based adaptive randomized test case prioritization: A local beam search approach",
+      "authors": [
+        "Bo Jiang",
+        "W.K. Chan"
+      ],
+      "doi": "10.1016/j.jss.2015.03.066",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "5f692baeb285172ec61f9e114636c64649976afa",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Service deployment strategies for efficient execution of composite SaaS applications on cloud platform",
+      "authors": [
+        "Kuo-Chan Huang",
+        "Bo-Jun Shen"
+      ],
+      "doi": "10.1016/j.jss.2015.05.050",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7f6801021e535ed1f7a5acc82c434f4c9dc7f5ab",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Modeling and verification of Functional and Non-Functional Requirements of ambient Self-Adaptive Systems",
+      "authors": [
+        "Manzoor Ahmad",
+        "Nicolas Belloir",
+        "Jean-Michel Bruel"
+      ],
+      "doi": "10.1016/j.jss.2015.05.028",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e304dfbe19d9f775c6ea43411399d2b6e3e32c20",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Safe evolution templates for software product lines",
+      "authors": [
+        "L. Neves",
+        "P. Borba",
+        "V. Alves",
+        "L. Turnes",
+        "L. Teixeira",
+        "D. Sena",
+        "U. Kulesza"
+      ],
+      "doi": "10.1016/j.jss.2015.04.024",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d27d126a21458c9a09a6fdb960bb2bd2fd278d76",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    60,
+    {
+      "title": "A comprehensive approach to the recovery of design pattern instances based on sub-patterns and method signatures",
+      "authors": [
+        "Dongjin Yu",
+        "Yanyan Zhang",
+        "Zhenli Chen"
+      ],
+      "doi": "10.1016/j.jss.2015.01.019",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b2cecbd47d2893a6a036af18a9a6a87560067dde",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    61,
+    {
+      "title": "An imperfect software debugging model considering log-logistic distribution fault content function",
+      "authors": [
+        "Jinyong Wang",
+        "Zhibo Wu",
+        "Yanjun Shu",
+        "Zhan Zhang"
+      ],
+      "doi": "10.1016/j.jss.2014.10.040",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "5893d1f62bc2b679ca638fbbfa691ffed08c732d",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Soft competency requirements in requirements engineering, software design, implementation, and testing",
+      "authors": [
+        "Philipp Holtkamp",
+        "Jussi P.P. Jokinen",
+        "Jan M. Pawlowski"
+      ],
+      "doi": "10.1016/j.jss.2014.12.010",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7f7841ef4a1d46306f481d38970cc8feea775702",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Scientific software development viewed as knowledge acquisition: Towards understanding the development of risk-averse scientific software",
+      "authors": [
+        "Diane Kelly"
+      ],
+      "doi": "10.1016/j.jss.2015.07.027",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2a504993fdc9ac2b4cc8cb140ff04e37ac5291ca",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Architectural tactics for cyber-foraging: Results of a systematic literature review",
+      "authors": [
+        "Grace Lewis",
+        "Patricia Lago"
+      ],
+      "doi": "10.1016/j.jss.2015.06.005",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "f97a1f24b409804ded00d2e662ba4ab36fa063af",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    65,
+    {
+      "title": "An effective and economical architecture for semantic-based heterogeneous multimedia big data retrieval",
+      "authors": [
+        "Kehua Guo",
+        "Wei Pan",
+        "Mingming Lu",
+        "Xiaoke Zhou",
+        "Jianhua Ma"
+      ],
+      "doi": "10.1016/j.jss.2014.09.016",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a1a84d5eaa01420f6effc16932e03e0960543600",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Quantifying usability of domain-specific languages: An empirical study on software maintenance",
+      "authors": [
+        "Diego Albuquerque",
+        "Bruno Cafeo",
+        "Alessandro Garcia",
+        "Simone Barbosa",
+        "Silvia Abrah\u00e3o",
+        "Ant\u00f3nio Ribeiro"
+      ],
+      "doi": "10.1016/j.jss.2014.11.051",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "3115df0e1b3537c17492fe342722034829af23f5",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    67,
+    {
+      "title": "New approaches to usability evaluation in software development: Barefoot and crowdsourcing",
+      "authors": [
+        "Anders Bruun",
+        "Jan Stage"
+      ],
+      "doi": "10.1016/j.jss.2015.03.043",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "bf9dcd637c026910695d4fc7e8db350376e1c42f",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Improving software reliability prediction through multi-criteria based dynamic model selection and combination",
+      "authors": [
+        "Jinhee Park",
+        "Jongmoon Baik"
+      ],
+      "doi": "10.1016/j.jss.2014.12.029",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "8cd27a70c488b69a1415c9642727cdde9aa032a1",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Test data generation with a Kalman filter-based adaptive genetic algorithm",
+      "authors": [
+        "Aldeida Aleti",
+        "Lars Grunske"
+      ],
+      "doi": "10.1016/j.jss.2014.11.035",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "379fc0196f13f294ff71e873adf18171f04d1e15",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    70,
+    {
+      "title": "A comprehensive modeling framework for role-based access control policies",
+      "authors": [
+        "Ameni Ben Fadhel",
+        "Domenico Bianculli",
+        "Lionel Briand"
+      ],
+      "doi": "10.1016/j.jss.2015.05.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "12e2ec4b1c9a6cd681df34cee8132ce8c4ae5589",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    71,
+    {
+      "title": "A design methodology for user-centered innovation in the software development area",
+      "authors": [
+        "Luciana A.M. Zaina",
+        "Alexandre \u00c1lvaro"
+      ],
+      "doi": "10.1016/j.jss.2015.08.029",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "37849126167813d269f7be36d374b1c696ee2446",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    72,
+    {
+      "title": "MAS-ML 2.0: Supporting the modelling of multi-agent systems with different agent architectures",
+      "authors": [
+        "Enyo Jos\u00e9 Tavares Gon\u00e7alves",
+        "Mariela I. Cort\u00e9s",
+        "Gustavo Augusto Lima Campos",
+        "Yrleyjander S. Lopes",
+        "Emmanuel S.S. Freire",
+        "Viviane Torres da Silva",
+        "Kleinner Silva Farias de Oliveira",
+        "Marcos Antonio de Oliveira"
+      ],
+      "doi": "10.1016/j.jss.2015.06.008",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7acb8dbc7e0b4971f4600bf8083c545a445d8246",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Stochastic thermal-aware real-time task scheduling with considerations of soft errors",
+      "authors": [
+        "Junlong Zhou",
+        "Tongquan Wei"
+      ],
+      "doi": "10.1016/j.jss.2014.12.009",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "120098ce77b3753019bdddbe9cd16e1289e3879b",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Approaches to promote product quality within software process improvement initiatives: A mapping study",
+      "authors": [
+        "Gabriel Alberto Garc\u00eda-Mireles",
+        "Ma \u00c1ngeles Moraga",
+        "F\u00e9lix Garc\u00eda",
+        "Mario Piattini"
+      ],
+      "doi": "10.1016/j.jss.2015.01.057",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "836745281d6695925e12efb94ef42920f63ff614",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    75,
+    {
+      "title": "An insight into license tools for open source software systems",
+      "authors": [
+        "Georgia M. Kapitsaki",
+        "Nikolaos D. Tselikas",
+        "Ioannis E. Foukarakis"
+      ],
+      "doi": "10.1016/j.jss.2014.12.050",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "6ba7b0804aecf8ac51e6194d2dbd33c65cb5daae",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    76,
+    {
+      "title": "MOMM: Multi-objective model merging",
+      "authors": [
+        "Usman Mansoor",
+        "Marouane Kessentini",
+        "Philip Langer",
+        "Manuel Wimmer",
+        "Slim Bechikh",
+        "Kalyanmoy Deb"
+      ],
+      "doi": "10.1016/j.jss.2014.11.043",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "db1589b5f8f8ea977b8d4d291fa145396b290dae",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Integrating usability work into a large inter-organisational agile development project: Tactics developed by usability designers",
+      "authors": [
+        "Adeola Yetunde Wale-Kolade"
+      ],
+      "doi": "10.1016/j.jss.2014.10.036",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a1ac35b908794a1727f50224c4f37aa10b065c3b",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    78,
+    {
+      "title": "An investigation into the best practices for the successful design and implementation of lightweight software process assessment methods: A systematic literature review",
+      "authors": [
+        "Mohammad Zarour",
+        "Alain Abran",
+        "Jean-Marc Desharnais",
+        "Abdulrahman Alarifi"
+      ],
+      "doi": "10.1016/j.jss.2014.11.041",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d8b4127f2acaed2ded71c6648e40b2c32d0a31b4",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    79,
+    {
+      "title": "A comparison analysis of environmental factors affecting software reliability",
+      "authors": [
+        "Mengmeng Zhu",
+        "Xuemei Zhang",
+        "Hoang Pham"
+      ],
+      "doi": "10.1016/j.jss.2015.04.083",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "000d12e3f465972672719633f45ba887c9edaf35",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    80,
+    {
+      "title": "SGEESS: Smart green energy-efficient scheduling strategy with dynamic electricity price for data center",
+      "authors": [
+        "Hongtao Lei",
+        "Tao Zhang",
+        "Yajie Liu",
+        "Yabing Zha",
+        "Xiaomin Zhu"
+      ],
+      "doi": "10.1016/j.jss.2015.06.026",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "130c4a0bb52333dfa9f94734c1c3998fe1a6e50d",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Scheduling parallel jobs with tentative runs and consolidation in the cloud",
+      "authors": [
+        "Xiaocheng Liu",
+        "Yabing Zha",
+        "Quanjun Yin",
+        "Yong Peng",
+        "Long Qin"
+      ],
+      "doi": "10.1016/j.jss.2015.03.007",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e4f697e9e32f9ccdc6d74caa44b348192aaa374f",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Learning to detect representative data for large scale instance selection",
+      "authors": [
+        "Wei-Chao Lin",
+        "Chih-Fong Tsai",
+        "Shih-Wen Ke",
+        "Chia-Wen Hung",
+        "William Eberle"
+      ],
+      "doi": "10.1016/j.jss.2015.04.038",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "0e5683fdab0969dbe7cc2157e0ee00bcb9ee8d52",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    83,
+    {
+      "title": "A data mining correlated patterns-based periodic decentralized replication strategy for data grids",
+      "authors": [
+        "Tarek Hamrouni",
+        "Sarra Slimani",
+        "Faouzi Ben Charrada"
+      ],
+      "doi": "10.1016/j.jss.2015.08.019",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "fc97080be2aa7cc92e066b5fad86f1280af248aa",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Early effort estimation in web application development",
+      "authors": [
+        "Denis \u010ceke",
+        "Boris Mila\u0161inovi\u0107"
+      ],
+      "doi": "10.1016/j.jss.2015.02.006",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "85d4eadc5b94e11af51ff345f4e54a3133493210",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    85,
+    {
+      "title": "From source code identifiers to natural language terms",
+      "authors": [
+        "Nuno Ramos Carvalho",
+        "Jos\u00e9 Jo\u00e3o Almeida",
+        "Pedro Rangel Henriques",
+        "Maria Jo\u00e3o Varanda"
+      ],
+      "doi": "10.1016/j.jss.2014.10.013",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7d58c1f229920258f5e7e0b0594c0dd762bd9b5f",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Classifying metrics for assessing Object-Oriented Software Maintainability: A family of metrics\u2019 catalogs",
+      "authors": [
+        "Juliana de A.G. Saraiva",
+        "Micael S. de Fran\u00e7a",
+        "S\u00e9rgio C.B. Soares",
+        "Fernando J.C.L. Filho",
+        "Renata\u00a0M.C.R. de Souza"
+      ],
+      "doi": "10.1016/j.jss.2015.01.014",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2c05fee60f24045ba86c1be492a70a810f54eab3",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Automatic service derivation from business process model repositories via semantic technology",
+      "authors": [
+        "Henrik Leopold",
+        "Fabian Pittke",
+        "Jan Mendling"
+      ],
+      "doi": "10.1016/j.jss.2015.06.007",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a1e6b2a71864834e4920e087a795af61a4c86867",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Modeling the QoS parameters of DDS for event-driven real-time applications",
+      "authors": [
+        "H\u00e9ctor P\u00e9rez",
+        "J. Javier Guti\u00e9rrez"
+      ],
+      "doi": "10.1016/j.jss.2015.03.008",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2b945a4e7b7c6b30b00b0f15bf1c168be0e180d4",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Integrating mixed transmission and practical limitations with the worst-case response-time analysis for Controller Area Network",
+      "authors": [
+        "Saad Mubeen",
+        "Jukka M\u00e4ki-Turja",
+        "Mikael Sj\u00f6din"
+      ],
+      "doi": "10.1016/j.jss.2014.09.005",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b06c0d864fb8f2388e328312e655de711b29ba78",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Countering the concept-drift problems in big data by an incrementally optimized stream mining model",
+      "authors": [
+        "Hang Yang",
+        "Simon Fong"
+      ],
+      "doi": "10.1016/j.jss.2014.07.010",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c33082fd0a5fdbfcc1d99af7ea9dbbfe1854e2be",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Assessing requirements engineering and software test alignment\u2014Five case studies",
+      "authors": [
+        "Michael Unterkalmsteiner",
+        "Tony Gorschek",
+        "Robert Feldt",
+        "Eriks Klotins"
+      ],
+      "doi": "10.1016/j.jss.2015.07.018",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "66754dd013709a358f927c419ddfa6d18abae441",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    92,
+    {
+      "title": "A comprehensive study of the predictive accuracy of dynamic change-impact analysis",
+      "authors": [
+        "Haipeng Cai",
+        "Raul Santelices"
+      ],
+      "doi": "10.1016/j.jss.2015.02.018",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "3094c7e4a33a623e35637bc4416a9dc7b4560276",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Aggregate-strength interaction test suite prioritization",
+      "authors": [
+        "Rubing Huang",
+        "Jinfu Chen",
+        "Dave Towey",
+        "Alvin T.S. Chan",
+        "Yansheng Lu"
+      ],
+      "doi": "10.1016/j.jss.2014.09.002",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "302e247ab2156d07c62b3cddd69da6d10f2e3376",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    94,
+    {
+      "title": "A computer system architecture providing a user-friendly man machine interface for accessing assistive technology in cloud computing",
+      "authors": [
+        "Davide Mulfari",
+        "Antonio Celesti",
+        "Massimo Villari"
+      ],
+      "doi": "10.1016/j.jss.2014.10.035",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "466d525e6b0c4b01782da6359695b8929b1c3c0b",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Agent-based Cloud bag-of-tasks execution",
+      "authors": [
+        "J. Octavio Gutierrez-Garcia",
+        "Kwang Mong Sim"
+      ],
+      "doi": "10.1016/j.jss.2015.02.039",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "1f99bd80df983ea76bacddcd9760f98b5d457ef8",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    96,
+    {
+      "title": "A framework for modelling tactical decision-making in autonomous systems",
+      "authors": [
+        "Rick Evertsz",
+        "John Thangarajah",
+        "Nitin Yadav",
+        "Thanh Ly"
+      ],
+      "doi": "10.1016/j.jss.2015.08.046",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "8b77fbcd2a60a8f8a00d5590818c823605bf473d",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Integrating non-parametric models with linear components for producing software cost estimations",
+      "authors": [
+        "Nikolaos Mittas",
+        "Efi Papatheocharous",
+        "Lefteris Angelis",
+        "Andreas S. Andreou"
+      ],
+      "doi": "10.1016/j.jss.2014.09.025",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2651eef11db05079f8b0b6db87ea6d675b8a21d6",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Service-oriented approach to fault tolerance in CPSs",
+      "authors": [
+        "Pekka Alho",
+        "Jouni Mattila"
+      ],
+      "doi": "10.1016/j.jss.2015.03.041",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d466fccb0c93e31dc041ba9fd9ad808430ee772f",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Static change impact analysis techniques: A comparative study",
+      "authors": [
+        "Xiaobing Sun",
+        "Bixin Li",
+        "Hareton Leung",
+        "Bin Li",
+        "Junwu Zhu"
+      ],
+      "doi": "10.1016/j.jss.2015.07.047",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "93788e498e0c9c7b0023cd329c0e61eac041c39b",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Design and programming patterns for implementing usability functionalities in web applications",
+      "authors": [
+        "Francy D. Rodr\u00edguez",
+        "Silvia T. Acu\u00f1a",
+        "Natalia Juristo"
+      ],
+      "doi": "10.1016/j.jss.2015.04.023",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "65952235113ac508a697b77733d4b5e7bb1316f6",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Mediation information system engineering based on hybrid service composition mechanism",
+      "authors": [
+        "Nicolas Boissel-Dallier",
+        "Fr\u00e9derick Benaben",
+        "Jean-Pierre Lorr\u00e9",
+        "Herv\u00e9 Pingaud"
+      ],
+      "doi": "10.1016/j.jss.2015.05.064",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b20c14c08a1bba7b8ef8597dab5511636063b8a5",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Assessing the security of web service frameworks against Denial of Service attacks",
+      "authors": [
+        "Rui Andr\u00e9 Oliveira",
+        "Nuno Laranjeiro",
+        "Marco Vieira"
+      ],
+      "doi": "10.1016/j.jss.2015.07.006",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "3073f227741a262e74b02333e43a7a8497516b3c",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Level based batch scheduling strategy with idle slot reduction under DAG constraints for computational grid",
+      "authors": [
+        "Mohammad Shahid",
+        "Zahid Raza",
+        "Mohammad Sajid"
+      ],
+      "doi": "10.1016/j.jss.2015.06.016",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "eed969bfe9b95af7210de6d028ed487bf283f199",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Adaptive thermal-aware task scheduling for multi-core systems",
+      "authors": [
+        "Hsin-Hao Chu",
+        "Yu-Chon Kao",
+        "Ya-Shu Chen"
+      ],
+      "doi": "10.1016/j.jss.2014.09.037",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "5f32218d11808825333d9f92a4596b3fc669e058",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Exploiting traceability uncertainty among artifacts and code",
+      "authors": [
+        "Achraf Ghabi",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1016/j.jss.2015.06.037",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "1b2cfd9d1d31a5a05d96c467da595572f3b586db",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Reported project management effort, project size, and contract type",
+      "authors": [
+        "Jarmo J. Ahonen",
+        "Paula Savolainen",
+        "Helena Merikoski",
+        "Jaana Nevalainen"
+      ],
+      "doi": "10.1016/j.jss.2015.08.008",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "f2ec94efa5b27be53515a0a22961b787baafd112",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Enabling improved IR-based feature location",
+      "authors": [
+        "Dave Binkley",
+        "Dawn Lawrie",
+        "Christopher Uehlinger",
+        "Daniel Heinz"
+      ],
+      "doi": "10.1016/j.jss.2014.11.013",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d225240a84872e773c29ac0c6a780b4f1cd42b6f",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Automated software design using ant colony optimization with semantic network support",
+      "authors": [
+        "Vali Tawosi",
+        "Saeed Jalili",
+        "Seyed Mohammad Hossein Hasheminejad"
+      ],
+      "doi": "10.1016/j.jss.2015.06.067",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "47164dedc94abc9f2c99cfcf8f2966d7446b1d2f",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    109,
+    {
+      "title": "When did your project start? \u2013 The software supplier's perspective",
+      "authors": [
+        "Paula Savolainen",
+        "Jarmo J. Ahonen",
+        "Ita Richardson"
+      ],
+      "doi": "10.1016/j.jss.2015.02.041",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7bbd8ed5427b2568d59c9f0a10eefec3c1e3f843",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Measuring the veracity of web event via uncertainty",
+      "authors": [
+        "Xinzhi Wang",
+        "Xiangfeng Luo",
+        "Huiming Liu"
+      ],
+      "doi": "10.1016/j.jss.2014.07.023",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7cc93431b524cfeaa013d01a4a22282a73e657f6",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Engineering Future Internet applications: The Prime approach",
+      "authors": [
+        "Mauro Caporuscio",
+        "Carlo Ghezzi"
+      ],
+      "doi": "10.1016/j.jss.2015.03.102",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7cb597dceed362ae5f439602d369bea3682dbfdb",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    112,
+    {
+      "title": "A programming-level approach for elasticizing parallel scientific applications",
+      "authors": [
+        "Guilherme Galante",
+        "Luis Carlos Erpen De Bona"
+      ],
+      "doi": "10.1016/j.jss.2015.08.051",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "09bf43ef9cc80b7dc4dcd172f4817053fb5b24c6",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    113,
+    {
+      "title": "A practical approach to the assessment of quality in use of corporate web sites",
+      "authors": [
+        "Daniela Fogli",
+        "Giovanni Guida"
+      ],
+      "doi": "10.1016/j.jss.2014.09.006",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "9129870aedd091e743fa7ff13df1cc5449f83433",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Automated analysis of security requirements through risk-based argumentation",
+      "authors": [
+        "Yijun Yu",
+        "Virginia N.L. Franqueira",
+        "Thein Than Tun",
+        "Roel J. Wieringa",
+        "Bashar Nuseibeh"
+      ],
+      "doi": "10.1016/j.jss.2015.04.065",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7488202fc06e1803a67b8ae9301bdc82058e05da",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Information infrastructure risk prediction through platform vulnerability analysis",
+      "authors": [
+        "Aristeidis Chatzipoulidis",
+        "Dimitrios Michalopoulos",
+        "Ioannis Mavridis"
+      ],
+      "doi": "10.1016/j.jss.2015.04.062",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ddf99a6d22221f661c2de110aabaa7d49b5d1e68",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    116,
+    {
+      "title": "PROW: A Pairwise algorithm with constRaints, Order and Weight",
+      "authors": [
+        "Beatriz P\u00e9rez Lamancha",
+        "Macario Polo",
+        "Mario Piattini"
+      ],
+      "doi": "10.1016/j.jss.2014.08.005",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "5893edce08ad1d35ef571ab5c159572c1c71b1bc",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Collaboration optimization in software process composition",
+      "authors": [
+        "Andr\u00e9a Magalh\u00e3es Magdaleno",
+        "Marcio de Oliveira Barros",
+        "Cl\u00e1udia Maria Lima Werner",
+        "Renata Mendes de Araujo",
+        "Carlos Freud Alves Batista"
+      ],
+      "doi": "10.1016/j.jss.2014.11.036",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "27694c3b07a50bbc1120b89c80b30a0bd618e826",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Enhanced healthcare personnel rostering solution using mobile technologies",
+      "authors": [
+        "Mersini Paschou",
+        "Christos Papadimitiriou",
+        "Nikolaos Nodarakis",
+        "Konstantinos Korezelidis",
+        "Evangelos Sakkopoulos",
+        "Athanasios Tsakalidis"
+      ],
+      "doi": "10.1016/j.jss.2014.10.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "cf56980db92b00d39ab0c32b62a712f5426a1bff",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    119,
+    {
+      "title": "A robust optimization approach to the next release problem in the presence of uncertainties",
+      "authors": [
+        "Matheus Paixao",
+        "Jerffeson Souza"
+      ],
+      "doi": "10.1016/j.jss.2014.09.039",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "fe61fbabd80a05d711938459801fbd24b3f6004b",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Enhanced fixed-priority real-time scheduling on multi-core platforms by exploiting task period relationship",
+      "authors": [
+        "Ming Fan",
+        "Qiushi Han",
+        "Shuo Liu",
+        "Shaolei Ren",
+        "Gang Quan",
+        "Shangping Ren"
+      ],
+      "doi": "10.1016/j.jss.2014.09.010",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b6254e3a49955d0e61c8a85628b76cd0ff76de28",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Software defined autonomic QoS model for future Internet",
+      "authors": [
+        "Wendong Wang",
+        "Ye Tian",
+        "Xiangyang Gong",
+        "Qinglei Qi",
+        "Yannan Hu"
+      ],
+      "doi": "10.1016/j.jss.2015.08.016",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "39be29b56506908d59b58a4afe280451209d750e",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Approximating closed fork-join queueing networks using product-form stochastic Petri-nets",
+      "authors": [
+        "Rasha Osman",
+        "Peter G. Harrison"
+      ],
+      "doi": "10.1016/j.jss.2015.08.036",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "3f3a57a1c45e80b1839967f628fe3fbcd46367c7",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Automatic enforcement of constraints in real-time collaborative architectural decision making",
+      "authors": [
+        "Patrick Gaubatz",
+        "Ioanna Lytra",
+        "Uwe Zdun"
+      ],
+      "doi": "10.1016/j.jss.2015.01.056",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "2e5a0513c818b8be785091abdd75d85c07a3e335",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    124,
+    {
+      "title": "The discourse on tool integration beyond technology, a literature survey",
+      "authors": [
+        "Fredrik Asplund",
+        "Martin T\u00f6rngren"
+      ],
+      "doi": "10.1016/j.jss.2015.04.082",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "3e8a7f1e380f5964b136a8862fb9513c585c2b7b",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Investigating security threats in architectural context: Experimental evaluations of misuse case maps",
+      "authors": [
+        "Peter Karpati",
+        "Andreas L. Opdahl",
+        "Guttorm Sindre"
+      ],
+      "doi": "10.1016/j.jss.2015.02.040",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "7ad48bb3758f2cc107e8363758994b3f91f4da30",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    126,
+    {
+      "title": "A scalable generic transaction model scenario for distributed NoSQL databases",
+      "authors": [
+        "Ramesh Dharavath",
+        "Chiranjeev Kumar"
+      ],
+      "doi": "10.1016/j.jss.2014.11.037",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "aca9a2635779682256bc8aab78b6728861980377",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Semi-automatic architectural pattern identification and documentation using architectural primitives",
+      "authors": [
+        "Thomas Haitzer",
+        "Uwe Zdun"
+      ],
+      "doi": "10.1016/j.jss.2014.12.042",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "026c931433e265febf0a60e8257c25f31401d9bf",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    128,
+    {
+      "title": "VM scaling based on Hurst exponent and Markov transition with empirical cloud data",
+      "authors": [
+        "Chien-Tung Lu",
+        "Chia-Wei Chang",
+        "Jung-Shian Li"
+      ],
+      "doi": "10.1016/j.jss.2014.10.011",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e9b0f423a9e14e2b1d193de7c7517c94ea5b437c",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Extracting REST resource models from procedure-oriented service interfaces",
+      "authors": [
+        "Michael Athanasopoulos",
+        "Kostas Kontogiannis"
+      ],
+      "doi": "10.1016/j.jss.2014.10.038",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "1f8eb6eff150e27cdfd5be8dd659d8fe5598c723",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    130,
+    {
+      "title": "A Model-Driven approach for functional test case generation",
+      "authors": [
+        "J.J. Guti\u00e9rrez",
+        "M.J. Escalona",
+        "M. Mej\u00edas"
+      ],
+      "doi": "10.1016/j.jss.2015.08.001",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "78a5a19e644eeb57161ce4c674059c005c9d4688",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    131,
+    {
+      "title": "QualityScan scheme for load balancing efficiency in vehicular ad hoc networks (VANETs)",
+      "authors": [
+        "Tin-Yu Wu",
+        "Mohammad S. Obaidat",
+        "Hung-Lin Chan"
+      ],
+      "doi": "10.1016/j.jss.2015.01.052",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e1fe654b9f49fd406976f4467cc34ccd727717a2",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    132,
+    {
+      "title": "A UML model-based approach to detect infeasible paths",
+      "authors": [
+        "Debasish Kundu",
+        "Monalisa Sarma",
+        "Debasis Samanta"
+      ],
+      "doi": "10.1016/j.jss.2015.05.007",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "38420c4d421e0fdb4d4b398c799b44ef39415b37",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Software cost estimating for CMMI Level 5 developers",
+      "authors": [
+        "Corinne C. Wallshein",
+        "Andrew G. Loerch"
+      ],
+      "doi": "10.1016/j.jss.2015.03.069",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c97202ffc5b8bbb3d982b4206eb814997a468adb",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Service portfolio management: A repository-based framework",
+      "authors": [
+        "Marco Comerio",
+        "Carlo Batini",
+        "Marco Castelli",
+        "Simone Grega",
+        "Marco Rossetti",
+        "Gianluigi Viscusi"
+      ],
+      "doi": "10.1016/j.jss.2015.01.055",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "701b6dde8bce35af906f3953db5ed7be6cc4ca45",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Hindering data theft with encrypted data trees",
+      "authors": [
+        "Jorge Blasco",
+        "Juan E. Tapiador",
+        "Pedro Peris-Lopez",
+        "Guillermo Suarez-Tangil"
+      ],
+      "doi": "10.1016/j.jss.2014.11.050",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e3eff2c4b7d1b99e97621e939e4f3503090b0a54",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Goal-driven adaptive monitoring of SOA systems",
+      "authors": [
+        "Marek Psiuk",
+        "Krzysztof Zielinski"
+      ],
+      "doi": "10.1016/j.jss.2015.08.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "bcb4605ca145fba36d3d2b12e50b8fb583a69a6e",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    137,
+    {
+      "title": "A controlled experiment to evaluate the understandability of KAOS and i* for modeling Teleo-Reactive systems",
+      "authors": [
+        "Jos\u00e9 Miguel Morales",
+        "Elena Navarro",
+        "Pedro S\u00e1nchez",
+        "Diego Alonso"
+      ],
+      "doi": "10.1016/j.jss.2014.10.010",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "24c10c528f3420e9e68658fc6a45322cb6d5598c",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    138,
+    {
+      "title": "The effects of different alphabets on free text keystroke authentication: A case study on the Korean\u2013English users",
+      "authors": [
+        "Pilsung Kang"
+      ],
+      "doi": "10.1016/j.jss.2014.12.017",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d5cf66ef6506ebc7c37c0a4345c5506ed6c0662e",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Modelling large-scale information systems using ADLs \u2013 An industrial experience report",
+      "authors": [
+        "Eoin Woods",
+        "Rabih Bashroush"
+      ],
+      "doi": "10.1016/j.jss.2014.09.018",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "e92b424c66f6943ff6fceddab48024ee43f8ae51",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    140,
+    {
+      "title": "LAYER: A cost-efficient mechanism to support multi-tenant database as a service in cloud",
+      "authors": [
+        "Yifeng Luo",
+        "Shuigeng Zhou",
+        "Jihong Guan"
+      ],
+      "doi": "10.1016/j.jss.2014.11.038",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "dd98fa421090adc2ab51e4a5c0bfed217df53011",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Iterated local search for microaggregation",
+      "authors": [
+        "Michael Laszlo",
+        "Sumitra Mukherjee"
+      ],
+      "doi": "10.1016/j.jss.2014.10.012",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "cad4343dccc715eed757a8cd64fe6d244e52aba4",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Energy efficiency heterogeneous wireless access selection for multiple types of applications",
+      "authors": [
+        "Yean-Fu Wen",
+        "Ko-Yu Hung"
+      ],
+      "doi": "10.1016/j.jss.2014.11.049",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "9455c574c0ec8cb67ec0093af27e2f4e615dff38",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Bringing Test-Driven Development to web service choreographies",
+      "authors": [
+        "Felipe Besson",
+        "Paulo Moura",
+        "Fabio Kon",
+        "Dejan Milojicic"
+      ],
+      "doi": "10.1016/j.jss.2014.09.034",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "868b871df48dc008a8454912a3ecbd353d0b5314",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Load-prediction scheduling algorithm for computer simulation of electrocardiogram in hybrid environments",
+      "authors": [
+        "Wenfeng Shen",
+        "Zhaokai Luo",
+        "Daming Wei",
+        "Weimin Xu",
+        "Xin Zhu"
+      ],
+      "doi": "10.1016/j.jss.2015.01.015",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b370e7e36d49a9d4740ae610c4995718ec3b574a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Power-aware scheduling of compositional real-time frameworks",
+      "authors": [
+        "Guy Martin Tchamgoue",
+        "Kyong Hoon Kim",
+        "Yong-Kee Jun"
+      ],
+      "doi": "10.1016/j.jss.2014.12.031",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "12722ec1f4aadcd415409952d4a4d82e5e2cbb03",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Investigating the effect of \u201cdefect co-fix\u201d on quality assurance resource allocation: A search-based approach",
+      "authors": [
+        "Hadi Hemmati",
+        "Meiyappan Nagappan",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1016/j.jss.2014.11.040",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d8c717363d60732db905ae01b6027f2bfa4cbb5b",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    147,
+    {
+      "title": "An automated approach for noise identification to assist software architecture recovery techniques",
+      "authors": [
+        "Eleni Constantinou",
+        "George Kakarontzas",
+        "Ioannis Stamelos"
+      ],
+      "doi": "10.1016/j.jss.2015.05.065",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "4e93b10e07e2a16e84adec5ee7cc73d2e5ec97e7",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    148,
+    {
+      "title": "A closed-loop context aware data acquisition and resource allocation framework for dynamic data driven applications systems (DDDAS) on the cloud",
+      "authors": [
+        "Nhan Nguyen",
+        "Mohammad Maifi Hasan Khan"
+      ],
+      "doi": "10.1016/j.jss.2015.07.026",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d5498c43615ea07429183fd515c22a27d785b4ab",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    149,
+    {
+      "title": "A process to identify relevant substitutes for healing failed WS-* orchestrations",
+      "authors": [
+        "Okba Tibermacine",
+        "Chouki Tibermacine",
+        "Foudil Cherif"
+      ],
+      "doi": "10.1016/j.jss.2015.02.028",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "8d183562668efcf3f98cdb3106155bf47e418cb7",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    150,
+    {
+      "title": "IP packet interleaving for UDP bursty losses",
+      "authors": [
+        "Alessio Botta",
+        "Antonio Pescap\u00e9"
+      ],
+      "doi": "10.1016/j.jss.2015.07.048",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "488cb6ab839131edf29d054d8741ffbd0dcf8b46",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    151,
+    {
+      "title": "A composite-metric based path selection technique for the Tor anonymity network",
+      "authors": [
+        "Sadegh Momeni Milajerdi",
+        "Mehdi Kharrazi"
+      ],
+      "doi": "10.1016/j.jss.2015.01.002",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b0e98134e131b852ee98c02e970cbd5fa8a05d71",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    152,
+    {
+      "title": "A separation-based UI architecture with a DSL for role specialization",
+      "authors": [
+        "Ivan Gibbs",
+        "Sergiu Dascalu",
+        "Frederick C. Harris, Jr."
+      ],
+      "doi": "10.1016/j.jss.2014.11.039",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "72c0c3afa313c589296b2b57e2ecde0451033ed0",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    153,
+    {
+      "title": "A benchmarking process to assess software requirements documentation for space applications",
+      "authors": [
+        "Paulo C. V\u00e9ras",
+        "Emilia Villani",
+        "Ana Maria Ambrosio",
+        "Marco Vieira",
+        "Henrique Madeira"
+      ],
+      "doi": "10.1016/j.jss.2014.10.054",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "deb3ed18d55898b3657c1f59883ce94b265e1165",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Effective and efficient detection of software theft via dynamic API authority vectors",
+      "authors": [
+        "Dong-Kyu Chae",
+        "Sang-Wook Kim",
+        "Seong-Je Cho",
+        "Yesol Kim"
+      ],
+      "doi": "10.1016/j.jss.2015.08.018",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "0acfa4bcd4c762430618ae393cf7aa40715fdd68",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Subdomain-based test data generation",
+      "authors": [
+        "Matthew Patrick",
+        "Rob Alexander",
+        "Manuel Oriol",
+        "John A. Clark"
+      ],
+      "doi": "10.1016/j.jss.2014.11.033",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "5d9475b114f804084600bcdeb2f047c8da3c9546",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    156,
+    {
+      "title": "Automatic detection of system-specific conventions unknown to developers",
+      "authors": [
+        "Andr\u00e9 Hora",
+        "Nicolas Anquetil",
+        "Anne Etien",
+        "St\u00e9phane Ducasse",
+        "Marco T\u00falio Valente"
+      ],
+      "doi": "10.1016/j.jss.2015.08.007",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "6d306bd0a85f2d50dd7c56f0907a95b1604acb16",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Dynamically constructing and maintaining virtual access points in a macro cell with selfish nodes",
+      "authors": [
+        "Jinsong Gui",
+        "Maryam Ahmadi",
+        "Fei Tong"
+      ],
+      "doi": "10.1016/j.jss.2015.06.002",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b2845ef89708697b5ba94dc61811685db5bddb5d",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    158,
+    {
+      "title": "An exploratory study on exception handling bugs in Java programs",
+      "authors": [
+        "Felipe Ebert",
+        "Fernando Castor",
+        "Alexander Serebrenik"
+      ],
+      "doi": "10.1016/j.jss.2015.04.066",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "041f83e009f4d66fd3a0062a534cefc63bfe0b4e",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    159,
+    {
+      "title": "Automated fault localization via hierarchical multiple predicate switching",
+      "authors": [
+        "Xiaoyan Wang",
+        "Yongmei Liu"
+      ],
+      "doi": "10.1016/j.jss.2015.02.038",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "c6a1c9516e5276a49e70d64bcfce63956960b5c3",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Software rejuvenation via a multi-agent approach",
+      "authors": [
+        "Heliomar Santos",
+        "Jo\u00e3o Felipe Pimentel",
+        "Viviane Torres Da Silva",
+        "Leonardo Murta"
+      ],
+      "doi": "10.1016/j.jss.2015.02.017",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "02e2f8a71ac537ba7784342becf8bd4f04ff979b",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    161,
+    {
+      "title": "Diagrams or structural lists in software project retrospectives \u2013 An experimental comparison",
+      "authors": [
+        "Timo O.A. Lehtinen",
+        "Mika V. M\u00e4ntyl\u00e4",
+        "Juha Itkonen",
+        "Jari Vanhanen"
+      ],
+      "doi": "10.1016/j.jss.2015.01.020",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "6aaaed5e8cad48911fd6acb4566f71ff3c1d687a",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    162,
+    {
+      "title": "A semantic approach for designing Assistive Software Recommender systems",
+      "authors": [
+        "Elena G\u00f3mez-Mart\u00ednez",
+        "Marino Linaje",
+        "Fernando S\u00e1nchez-Figueroa",
+        "Andr\u00e9s Iglesias-P\u00e9rez",
+        "Juan Carlos Preciado",
+        "Rafael Gonz\u00e1lez-Cabero",
+        "Jos\u00e9 Merseguer"
+      ],
+      "doi": "10.1016/j.jss.2015.03.009",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "16a0e229d663a1451214e7dd62e992fc324970ac",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    163,
+    {
+      "title": "Entity resolution based EM for integrating heterogeneous distributed probabilistic data",
+      "authors": [
+        "Ramesh Dharavath",
+        "Chiranjeev Kumar"
+      ],
+      "doi": "10.1016/j.jss.2015.05.035",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ac99434adf7271e2c3824192b1f689b03f31ef11",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Ahab\u2019s legs in scenario-based requirements validation: An experiment to study communication mistakes",
+      "authors": [
+        "Luca Sabatucci",
+        "Mariano Ceccato",
+        "Alessandro Marchetto",
+        "Angelo Susi"
+      ],
+      "doi": "10.1016/j.jss.2015.07.039",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "71c606f3f7970928592761d2d6b1c30fcc4e057b",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    165,
+    {
+      "title": "On-demand data broadcast with deadlines for avoiding conflicts in wireless networks",
+      "authors": [
+        "Ping He",
+        "Hong Shen",
+        "Hui Tian"
+      ],
+      "doi": "10.1016/j.jss.2015.01.022",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "3ec51c56d9ae3657a8081f80079b2336eeda108f",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Practical and representative faultloads for large-scale software systems",
+      "authors": [
+        "Pedro Costa",
+        "Jo\u00e3o Gabriel Silva",
+        "Henrique Madeira"
+      ],
+      "doi": "10.1016/j.jss.2015.02.001",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "732f7c01029e29d840b6291d201e40e828a452dd",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    167,
+    {
+      "title": "Approximating expressive queries on graph-modeled data: The GeX approach",
+      "authors": [
+        "Federica Mandreoli",
+        "Riccardo Martoglia",
+        "Wilma Penzo"
+      ],
+      "doi": "10.1016/j.jss.2015.07.028",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "0adc62c6fcb34dc4249259f66114f259e31a4720",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    168,
+    {
+      "title": "Capturing urgency and parallelism using quasi-deadlines for real-time multiprocessor scheduling",
+      "authors": [
+        "Hoon Sung Chwa",
+        "Hyoungbu Back",
+        "Jinkyu Lee",
+        "Kieu-My Phan",
+        "Insik Shin"
+      ],
+      "doi": "10.1016/j.jss.2014.11.019",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "958343428498bbbcc71f4cccf5a269ea8d4b5759",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    169,
+    {
+      "title": "QoS prediction for dynamic reconfiguration of component based software systems",
+      "authors": [
+        "Wei Li",
+        "William Guo"
+      ],
+      "doi": "10.1016/j.jss.2014.12.001",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "d78b516aa88d724d621c1716bb45cf8a3288ae71",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    170,
+    {
+      "title": "The influence of search components and problem characteristics in early life cycle class modelling",
+      "authors": [
+        "Jim Smith",
+        "Chris Simons"
+      ],
+      "doi": "10.1016/j.jss.2014.11.034",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "f329d7c05ccd3b158ec5d9d95caaf62be0a784c2",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    171,
+    {
+      "title": "Using SAN formalism to evaluate Follow-The-Sun project scenarios",
+      "authors": [
+        "Alan R. Santos",
+        "Afonso Sales",
+        "Paulo Fernandes"
+      ],
+      "doi": "10.1016/j.jss.2014.10.046",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "ea2dba361dbc8e51ef8368888664c116082939e6",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    172,
+    {
+      "title": "MostoDEx: A tool to exchange RDF data using exchange samples",
+      "authors": [
+        "Carlos R. Rivero",
+        "Inma Hern\u00e1ndez",
+        "David Ruiz",
+        "Rafael Corchuelo"
+      ],
+      "doi": "10.1016/j.jss.2014.10.033",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "f35aea2867dad975a0939bc8304b3252b73728d0",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    173,
+    {
+      "title": "SMaRT: A novel framework for addressing range queries over nonlinear trajectories",
+      "authors": [
+        "Panagiotis Gerolymatos",
+        "Spyros Sioutas",
+        "Nikolaos Nodarakis",
+        "Alexandros Panaretos",
+        "Konstantinos Tsakalidis"
+      ],
+      "doi": "10.1016/j.jss.2015.03.068",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "bc6f3398c2ea61d6b54eb8da6b1cf0c6f68ebf26",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    174,
+    {
+      "title": "Search Based Software Engineering (SBSE)",
+      "authors": [
+        "Mark Harman",
+        "Francisco Chicano"
+      ],
+      "doi": "10.1016/j.jss.2015.01.051",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "f7f75c65f429d19337caab87d8fc267f379e9350",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    175,
+    {
+      "title": "A goal-oriented approach for representing and using design patterns",
+      "authors": [
+        "Luca Sabatucci",
+        "Massimo Cossentino",
+        "Angelo Susi"
+      ],
+      "doi": "10.1016/j.jss.2015.07.040",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "b129e0ada1959e6be8e0caf93a4d707e10f7794e",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    176,
+    {
+      "title": "Special issue on software architectures and systems for Big data",
+      "authors": [
+        "Kaushik Dutta"
+      ],
+      "doi": "10.1016/j.jss.2015.01.023",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "24502aeea1478a2f20a35ed6a73fab95e20fc10b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    177,
+    {
+      "title": "Progressive online aggregation in a distributed stream system",
+      "authors": [
+        "Dingyu Yang",
+        "Jian Cao",
+        "Sai Wu",
+        "Jie Wang"
+      ],
+      "doi": "10.1016/j.jss.2014.11.027",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "208590ad4ac1ec42d0e311475d58859e8d8b381b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    178,
+    {
+      "title": "Towards a hybrid relational and XML benchmark for loosely-coupled distributed data sources",
+      "authors": [
+        "Mahesh B. Chaudhari",
+        "Suzanne W. Dietrich",
+        "Jennifer Ortiz",
+        "Spencer Pearson"
+      ],
+      "doi": "10.1016/j.jss.2015.07.029",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a8761a13b0ed52c1bb10ee687e15cd0e6a83d3e0",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    179,
+    {
+      "title": "D-P2P-Sim+: A novel distributed framework for P2P protocols performance testing",
+      "authors": [
+        "S. Sioutas",
+        "E. Sakkopoulos",
+        "A. Panaretos",
+        "D. Tsoumakos",
+        "P. Gerolymatos",
+        "G. Tzimas",
+        "Y. Manolopoulos"
+      ],
+      "doi": "10.1016/j.jss.2014.11.001",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "771ff1b397f361da107a9c83ce7e9d8ae8edf60a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    180,
+    {
+      "title": "Using simulation to evaluate error detection strategies: A case study of cloud-based deployment processes",
+      "authors": [
+        "Jie Chen",
+        "Xiwei Xu",
+        "Leon J. Osterweil",
+        "Liming Zhu",
+        "Yuriy Brun",
+        "Len Bass",
+        "Junchao Xiao",
+        "Mingshu Li",
+        "Qing Wang"
+      ],
+      "doi": "10.1016/j.jss.2015.08.043",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "bc0f07c6eef022d1c2870dd1626ebf7b8283d59e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    181,
+    {
+      "title": "Aggregation for adaptive and energy-efficient MAC in wireless sensor networks",
+      "authors": [
+        "Abdulaziz Y. Barnawi"
+      ],
+      "doi": "10.1016/j.jss.2015.07.038",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "a3821702b3fecf63dfcbe9a01da7f91a5221bba0",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    182,
+    {
+      "title": "Periodic resource integration",
+      "authors": [
+        "Xiayu Hua",
+        "Zheng Li",
+        "Hao Wu",
+        "Chunhui Guo",
+        "Shangping Ren"
+      ],
+      "doi": "10.1016/j.jss.2015.08.050",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "paperId": "221208c832e9f48aec41f49977688cbd99c5998e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    183,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00204-6",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    184,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00090-4",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    185,
+    {
+      "title": "The optimisation of stochastic grammars to enable cost-effective probabilistic structural testing",
+      "authors": [
+        "S. Poulding",
+        "R. Alexander",
+        "J.A. Clark",
+        "M.J. Hadley"
+      ],
+      "doi": "10.1016/j.jss.2014.11.042",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    186,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00051-5",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    187,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00073-4",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    188,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00005-9",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    189,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00110-7",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    190,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00136-3",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    191,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00218-6",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    192,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00023-0",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    193,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(14)00257-x",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    194,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(14)00245-3",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    195,
+    {
+      "title": "Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0164-1212(15)00157-0",
+      "venue": "Journal of Systems and Software",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ]
+]

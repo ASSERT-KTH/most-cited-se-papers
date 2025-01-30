@@ -1,0 +1,2414 @@
+[
+  [
+    1,
+    {
+      "title": "Suggesting accurate method and class names",
+      "authors": [
+        "Miltiadis Allamanis",
+        "Earl T. Barr",
+        "Christian Bird",
+        "Charles Sutton"
+      ],
+      "doi": "10.1145/2786805.2786849",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3e945f20718290d4639a23917d3385b0f710a593",
+        "citationCount": 410,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Quality and productivity outcomes relating to continuous integration in GitHub",
+      "authors": [
+        "Bogdan Vasilescu",
+        "Yue Yu",
+        "Huaimin Wang",
+        "Premkumar Devanbu",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1145/2786805.2786850",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0b5a3c73c3a72941664828c049f1f483d462dd08",
+        "citationCount": 376,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Staged program repair with condition synthesis",
+      "authors": [
+        "Fan Long",
+        "Martin Rinard"
+      ],
+      "doi": "10.1145/2786805.2786811",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6fe2f67fbd8526daaeb87b2c7940aa4b5749c550",
+        "citationCount": 365,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Heterogeneous defect prediction",
+      "authors": [
+        "Jaechang Nam",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1145/2786805.2786814",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7d50e31d3cb37c4f095465f92d2301750144eec2",
+        "citationCount": 357,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Is the cure worse than the disease? overfitting in automated program repair",
+      "authors": [
+        "Edward K. Smith",
+        "Earl T. Barr",
+        "Claire Le Goues",
+        "Yuriy Brun"
+      ],
+      "doi": "10.1145/2786805.2786825",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c14982de9adbfaa1848052fad254f8d9c5cbb61f",
+        "citationCount": 329,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Performance-influence models for highly configurable systems",
+      "authors": [
+        "Norbert Siegmund",
+        "Alexander Grebhahn",
+        "Sven Apel",
+        "Christian K\u00e4stner"
+      ],
+      "doi": "10.1145/2786805.2786845",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "80ba1b6e68453b1f8616f24f2db686be1bc2a262",
+        "citationCount": 255,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    7,
+    {
+      "title": "How developers search for code: a case study",
+      "authors": [
+        "Caitlin Sadowski",
+        "Kathryn T. Stolee",
+        "Sebastian Elbaum"
+      ],
+      "doi": "10.1145/2786805.2786855",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6aaccef3a11988699ba29988cff3bc86da8462f8",
+        "citationCount": 237,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Measure it? Manage it? Ignore it? software practitioners and technical debt",
+      "authors": [
+        "Neil A. Ernst",
+        "Stephany Bellomo",
+        "Ipek Ozkaya",
+        "Robert L. Nord",
+        "Ian Gorton"
+      ],
+      "doi": "10.1145/2786805.2786848",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3e1f89ca4d729b2fcaa0a437e874136477579aca",
+        "citationCount": 224,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Proactive self-adaptation under uncertainty: a probabilistic model checking approach",
+      "authors": [
+        "Gabriel A. Moreno",
+        "Javier C\u00e1mara",
+        "David Garlan",
+        "Bradley Schmerl"
+      ],
+      "doi": "10.1145/2786805.2786853",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "12b412c14084d2317f8e11d709ef6dfcd44f003c",
+        "citationCount": 193,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Hey, you have given me too many knobs!: understanding and dealing with over-designed configuration in system software",
+      "authors": [
+        "Tianyin Xu",
+        "Long Jin",
+        "Xuepeng Fan",
+        "Yuanyuan Zhou",
+        "Shankar Pasupathy",
+        "Rukma Talwadker"
+      ],
+      "doi": "10.1145/2786805.2786852",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1521c2c45835a1dd3d29f9886010c652063b7bad",
+        "citationCount": 185,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    11,
+    {
+      "title": "When, how, and why developers (do not) test in their IDEs",
+      "authors": [
+        "Moritz Beller",
+        "Georgios Gousios",
+        "Annibale Panichella",
+        "Andy Zaidman"
+      ],
+      "doi": "10.1145/2786805.2786843",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7a15b4080b4368711ccfd1dea52b9ec0eafdbe75",
+        "citationCount": 169,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Heterogeneous cross-company defect prediction by unified metric representation and CCA-based transfer learning",
+      "authors": [
+        "Xiaoyuan Jing",
+        "Fei Wu",
+        "Xiwei Dong",
+        "Fumin Qi",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2786805.2786813",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "74ac1cd3aa429581cfb8302bcbb689d70b9377c3",
+        "citationCount": 166,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    13,
+    {
+      "title": "How practitioners perceive the relevance of software engineering research",
+      "authors": [
+        "David Lo",
+        "Nachiappan Nagappan",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1145/2786805.2786809",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bab109d4a72bc56be7889e2e6d83556a285e60d7",
+        "citationCount": 136,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Information retrieval and spectrum based bug localization: better together",
+      "authors": [
+        "Tien-Duy B. Le",
+        "Richard J. Oentaryo",
+        "David Lo"
+      ],
+      "doi": "10.1145/2786805.2786880",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d8e4b5f3b48287e23fc03dd30de9528797ed15a3",
+        "citationCount": 133,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Modeling readability to improve unit tests",
+      "authors": [
+        "Ermira Daka",
+        "Jos\u00e9 Campos",
+        "Gordon Fraser",
+        "Jonathan Dorn",
+        "Westley Weimer"
+      ],
+      "doi": "10.1145/2786805.2786838",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7472bd9514be1a96bc5a0ec91b157e5079e4ab29",
+        "citationCount": 129,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Commit guru: analytics and risk prediction of software commits",
+      "authors": [
+        "Christoffer Rosen",
+        "Ben Grawi",
+        "Emad Shihab"
+      ],
+      "doi": "10.1145/2786805.2803183",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "868ef975337faa4e55513e88bdd90fa151f1a7ca",
+        "citationCount": 127,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Developer onboarding in GitHub: the role of prior social links and language experience",
+      "authors": [
+        "Casey Casalnuovo",
+        "Bogdan Vasilescu",
+        "Premkumar Devanbu",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1145/2786805.2786854",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8afc3d1de495c4e1f92a805bef05e891523022ae",
+        "citationCount": 118,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Impact of developer turnover on quality in open-source software",
+      "authors": [
+        "Matthieu Foucault",
+        "Marc Palyart",
+        "Xavier Blanc",
+        "Gail C. Murphy",
+        "Jean-R\u00e9my Falleri"
+      ],
+      "doi": "10.1145/2786805.2786870",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a382a779e1a2dc8c471bd574012f76e7b8fab41c",
+        "citationCount": 111,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    19,
+    {
+      "title": "MultiSE: multi-path symbolic execution using value summaries",
+      "authors": [
+        "Koushik Sen",
+        "George Necula",
+        "Liang Gong",
+        "Wontae Choi"
+      ],
+      "doi": "10.1145/2786805.2786830",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8a0eb38db21aab815888ca73963a5bca18c4323d",
+        "citationCount": 105,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Tracing software developers' eyes and interactions for change tasks",
+      "authors": [
+        "Katja Kevic",
+        "Braden M. Walters",
+        "Timothy R. Shaffer",
+        "Bonita Sharif",
+        "David C. Shepherd",
+        "Thomas Fritz"
+      ],
+      "doi": "10.1145/2786805.2786864",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7dcd0d812796e4f87f70e7cabb799d900797821c",
+        "citationCount": 103,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    21,
+    {
+      "title": "The making of cloud applications: an empirical study on software development for the cloud",
+      "authors": [
+        "J\u00fcrgen Cito",
+        "Philipp Leitner",
+        "Thomas Fritz",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1145/2786805.2786826",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a9fe19d63d38df7af4ba0cb67015789c9668c96a",
+        "citationCount": 92,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Assertions are strongly correlated with test suite effectiveness",
+      "authors": [
+        "Yucheng Zhang",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1145/2786805.2786858",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5f7802eae509384b7dd6456a3a0eba07f8223be1",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Auto-completing bug reports for Android applications",
+      "authors": [
+        "Kevin Moran",
+        "Mario Linares-V\u00e1squez",
+        "Carlos Bernal-C\u00e1rdenas",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/2786805.2786857",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5e1f83dd5e5785c1963386cf2566997eb7bfe0b6",
+        "citationCount": 90,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Quantifying developers' adoption of security tools",
+      "authors": [
+        "Jim Witschey",
+        "Olga Zielinska",
+        "Allaire Welk",
+        "Emerson Murphy-Hill",
+        "Chris Mayhorn",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1145/2786805.2786816",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "27422c3a5c5e7ab1f982119252d81eaa61dec2ea",
+        "citationCount": 88,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Comparing and combining test-suite reduction and regression test selection",
+      "authors": [
+        "August Shi",
+        "Tifany Yung",
+        "Alex Gyori",
+        "Darko Marinov"
+      ],
+      "doi": "10.1145/2786805.2786878",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cd1d47f30b771969a77c19b21fbd5ae15a297a72",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Optimizing energy consumption of GUIs in Android apps: a multi-objective approach",
+      "authors": [
+        "Mario Linares-V\u00e1squez",
+        "Gabriele Bavota",
+        "Carlos Eduardo Bernal C\u00e1rdenas",
+        "Rocco Oliveto",
+        "Massimiliano Di Penta",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/2786805.2786847",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e18013c3cab86736d2d7e68dda3de7ba6121d95c",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Guided differential testing of certificate validation in SSL/TLS implementations",
+      "authors": [
+        "Yuting Chen",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/2786805.2786835",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9df43be762464434ae29eafb65b94fe2ea829958",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Automated multi-objective control for self-adaptive software design",
+      "authors": [
+        "Antonio Filieri",
+        "Henry Hoffmann",
+        "Martina Maggio"
+      ],
+      "doi": "10.1145/2786805.2786833",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "69b48d0063bfd462a7d02172510b64794a479643",
+        "citationCount": 82,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Questions developers ask while diagnosing potential security vulnerabilities with static analysis",
+      "authors": [
+        "Justin Smith",
+        "Brittany Johnson",
+        "Emerson Murphy-Hill",
+        "Bill Chu",
+        "Heather Richter Lipford"
+      ],
+      "doi": "10.1145/2786805.2786812",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6cd10197d339d5ae2822a5b0810b16f297a32d02",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Witness validation and stepwise testification across software verifiers",
+      "authors": [
+        "Dirk Beyer",
+        "Matthias Dangl",
+        "Daniel Dietsch",
+        "Matthias Heizmann",
+        "Andreas Stahlbauer"
+      ],
+      "doi": "10.1145/2786805.2786867",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cabc97715d13ace7de94d9623d2ef17d47c8e1e6",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    31,
+    {
+      "title": "A user-guided approach to program analysis",
+      "authors": [
+        "Ravi Mangal",
+        "Xin Zhang",
+        "Aditya V. Nori",
+        "Mayur Naik"
+      ],
+      "doi": "10.1145/2786805.2786851",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bd06a0d166957b169be53434f1192cc985a587cc",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Efficient dependency detection for safe Java test acceleration",
+      "authors": [
+        "Jonathan Bell",
+        "Gail Kaiser",
+        "Eric Melski",
+        "Mohan Dattatreya"
+      ],
+      "doi": "10.1145/2786805.2786823",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "adcecacf1b44f6f18369c60c0a46d2964be08094",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    33,
+    {
+      "title": "GR(1) synthesis for LTL specification patterns",
+      "authors": [
+        "Shahar Maoz",
+        "Jan Oliver Ringert"
+      ],
+      "doi": "10.1145/2786805.2786824",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "adaad02bbe24a75fef1b1359ac224f5c11b46be6",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    34,
+    {
+      "title": "FlexJava: language support for safe and modular approximate programming",
+      "authors": [
+        "Jongse Park",
+        "Hadi Esmaeilzadeh",
+        "Xin Zhang",
+        "Mayur Naik",
+        "William Harris"
+      ],
+      "doi": "10.1145/2786805.2786807",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "82efbb29228bfdb0a389a1dcca360437307dd41e",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    35,
+    {
+      "title": "iTrace: enabling eye tracking on software artifacts within the IDE to support software engineering tasks",
+      "authors": [
+        "Timothy R. Shaffer",
+        "Jenna L. Wise",
+        "Braden M. Walters",
+        "Sebastian C. M\u00fcller",
+        "Michael Falcone",
+        "Bonita Sharif"
+      ],
+      "doi": "10.1145/2786805.2803188",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f04e55106ceffff7e78f95d9a982973cc5572b4c",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Test report prioritization to assist crowdsourced testing",
+      "authors": [
+        "Yang Feng",
+        "Zhenyu Chen",
+        "James A. Jones",
+        "Chunrong Fang",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2786805.2786862",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "93ae06d64b5a74f85904389af1c2b93a35572952",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    37,
+    {
+      "title": "JITProf: pinpointing JIT-unfriendly JavaScript code",
+      "authors": [
+        "Liang Gong",
+        "Michael Pradel",
+        "Koushik Sen"
+      ],
+      "doi": "10.1145/2786805.2786831",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5f5a69b7f00de52bbaa1684adb784fa05bdc7eb8",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Crash reproduction via test case mutation: let existing test cases help",
+      "authors": [
+        "Jifeng Xuan",
+        "Xiaoyuan Xie",
+        "Martin Monperrus"
+      ],
+      "doi": "10.1145/2786805.2803206",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ebd91e1f59711e7dcf1d388949372722b28218ca",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing",
+      "authors": [
+        "Ulf Karg\u00e9n",
+        "Nahid Shahmehri"
+      ],
+      "doi": "10.1145/2786805.2786844",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0ff3bc9d452f44ab93b5feb1763118837c77fec3",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Assertion guided symbolic execution of multithreaded programs",
+      "authors": [
+        "Shengjian Guo",
+        "Markus Kusano",
+        "Chao Wang",
+        "Zijiang Yang",
+        "Aarti Gupta"
+      ],
+      "doi": "10.1145/2786805.2786841",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "89ac03d4f127ab6b1242bb00d64b160576c5d00e",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Summarizing and measuring development activity",
+      "authors": [
+        "Christoph Treude",
+        "Fernando Figueira Filho",
+        "Uir\u00e1 Kulesza"
+      ],
+      "doi": "10.1145/2786805.2786827",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9e91dcf27ee6ff63251712b6fb023ed37a045bab",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    42,
+    {
+      "title": "String analysis for Java and Android applications",
+      "authors": [
+        "Ding Li",
+        "Yingjun Lyu",
+        "Mian Wan",
+        "William G. J. Halfond"
+      ],
+      "doi": "10.1145/2786805.2786879",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2166b458f5a5b7b6f5ebdc66c1d7381279f7a608",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Detecting event anomalies in event-based systems",
+      "authors": [
+        "Gholamreza Safi",
+        "Arman Shahbazian",
+        "William G. J. Halfond",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1145/2786805.2786836",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a5d9c6bb2f4665341db2d0959cedfd200cd8e362",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    44,
+    {
+      "title": "JSketch: sketching for Java",
+      "authors": [
+        "Jinseong Jeon",
+        "Xiaokang Qiu",
+        "Jeffrey S. Foster",
+        "Armando Solar-Lezama"
+      ],
+      "doi": "10.1145/2786805.2803189",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "87f70a948104b83ea8e80c416d7bc5fa409b1859",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Crowd debugging",
+      "authors": [
+        "Fuxiang Chen",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1145/2786805.2786819",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cec75614d668df03d988c2776554108d94b915d1",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Query-based configuration of text retrieval solutions for software engineering tasks",
+      "authors": [
+        "Laura Moreno",
+        "Gabriele Bavota",
+        "Sonia Haiduc",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Barbara Russo",
+        "Andrian Marcus"
+      ],
+      "doi": "10.1145/2786805.2786859",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "444658c830c294a34d1e4e162dce4128c79576bb",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Detecting JavaScript races that matter",
+      "authors": [
+        "Erdal Mutlu",
+        "Serdar Tasiran",
+        "Benjamin Livshits"
+      ],
+      "doi": "10.1145/2786805.2786820",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1a6df344e298ddce54bd8c3c4a75311b5a65e786",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Effective and precise dynamic detection of hidden races for Java programs",
+      "authors": [
+        "Yan Cai",
+        "Lingwei Cao"
+      ],
+      "doi": "10.1145/2786805.2786839",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9e710492155f6fd3286e2abdb7f3c0c503f20b8e",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Effective test suites for mixed discrete-continuous stateflow controllers",
+      "authors": [
+        "Reza Matinnejad",
+        "Shiva Nejati",
+        "Lionel C. Briand",
+        "Thomas Bruckmann"
+      ],
+      "doi": "10.1145/2786805.2786818",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f6f24e2e7d74b2dd804c31c3cd64a9c9356dc9e1",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    50,
+    {
+      "title": "What change history tells us about thread synchronization",
+      "authors": [
+        "Rui Gu",
+        "Guoliang Jin",
+        "Linhai Song",
+        "Linjie Zhu",
+        "Shan Lu"
+      ],
+      "doi": "10.1145/2786805.2786815",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "01225251abeb1bd491c589ded10c88c6ddf01527",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Targeted program transformations for symbolic execution",
+      "authors": [
+        "Cristian Cadar"
+      ],
+      "doi": "10.1145/2786805.2803205",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4b2ca71411f088c2a18abc42ec57a8e2cad9d3a6",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    52,
+    {
+      "title": "DexterJS: robust testing platform for DOM-based XSS vulnerabilities",
+      "authors": [
+        "Inian Parameshwaran",
+        "Enrico Budianto",
+        "Shweta Shinde",
+        "Hung Dang",
+        "Atul Sadhu",
+        "Prateek Saxena"
+      ],
+      "doi": "10.1145/2786805.2803191",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b63ec2d07c2761e47feb3d5ae071c0914f1fa07e",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    53,
+    {
+      "title": "CLAPP: characterizing loops in Android applications",
+      "authors": [
+        "Yanick Fratantonio",
+        "Aravind Machiry",
+        "Antonio Bianchi",
+        "Christopher Kruegel",
+        "Giovanni Vigna"
+      ],
+      "doi": "10.1145/2786805.2786873",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "160720f53edbef3468a041a25c848c20d3bc02b7",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    54,
+    {
+      "title": "On the use of delta debugging to reduce recordings and facilitate debugging of web applications",
+      "authors": [
+        "Mouna Hammoudi",
+        "Brian Burg",
+        "Gigon Bae",
+        "Gregg Rothermel"
+      ],
+      "doi": "10.1145/2786805.2786846",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "441429acebd9de5749c99a39eb7612b42c495c6a",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Mimic: computing models for opaque code",
+      "authors": [
+        "Stefan Heule",
+        "Manu Sridharan",
+        "Satish Chandra"
+      ],
+      "doi": "10.1145/2786805.2786875",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6a03c27032acf7df4ccc8a4ac6951813ed08659a",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Iterative distribution-aware sampling for probabilistic symbolic execution",
+      "authors": [
+        "Mateus Borges",
+        "Antonio Filieri",
+        "Marcelo D'Amorim",
+        "Corina S. P\u0103s\u0103reanu"
+      ],
+      "doi": "10.1145/2786805.2786832",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a27fd6c321d3be08708eaf10c09873449b45e5de",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Cross-language program slicing for dynamic web applications",
+      "authors": [
+        "Hung Viet Nguyen",
+        "Christian K\u00e4stner",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/2786805.2786872",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b2e34ce84f5c93738c89da7a8f3ff1872e1acf58",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Systematic testing of asynchronous reactive systems",
+      "authors": [
+        "Ankush Desai",
+        "Shaz Qadeer",
+        "Sanjit A. Seshia"
+      ],
+      "doi": "10.1145/2786805.2786861",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e971a9a1f8d0d436f7d7cc0c03998ec66fd065bc",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Synthesizing tests for detecting atomicity violations",
+      "authors": [
+        "Malavika Samak",
+        "Murali Krishna Ramanathan"
+      ],
+      "doi": "10.1145/2786805.2786874",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9d1ec79b8e224c74cec56363aa6505074a809ec7",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    60,
+    {
+      "title": "REMI: defect prediction for efficient API testing",
+      "authors": [
+        "Mijung Kim",
+        "Jaechang Nam",
+        "Jaehyuk Yeon",
+        "Soonhwang Choi",
+        "Sunghun Kim"
+      ],
+      "doi": "10.1145/2786805.2804429",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5a401b655875d985be51573198b248dbc0781537",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Symbolic execution of programs with heap inputs",
+      "authors": [
+        "Pietro Braione",
+        "Giovanni Denaro",
+        "Mauro Pezz\u00e8"
+      ],
+      "doi": "10.1145/2786805.2786842",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f80260cf1f31b5e0f21f462cafba883c8a0fd300",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Detecting semantic merge conflicts with variability-aware execution",
+      "authors": [
+        "Hung Viet Nguyen",
+        "My Huu Nguyen",
+        "Son Cuu Dang",
+        "Christian K\u00e4stner",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/2786805.2803208",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d526ed22ebd8fe1b0a94754407f1404a32eddcc8",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    63,
+    {
+      "title": "MemInsight: platform-independent memory debugging for JavaScript",
+      "authors": [
+        "Simon Holm Jensen",
+        "Manu Sridharan",
+        "Koushik Sen",
+        "Satish Chandra"
+      ],
+      "doi": "10.1145/2786805.2786860",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f54ea7b91d13d8039fc4c4c4ed246130ceba1c6b",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Users beware: preference inconsistencies ahead",
+      "authors": [
+        "Farnaz Behrang",
+        "Myra B. Cohen",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1145/2786805.2786869",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3046c4bde694f175b0ac248256aa9cb539a8efb4",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Clone-based and interactive recommendation for modifying pasted code",
+      "authors": [
+        "Yun Lin",
+        "Xin Peng",
+        "Zhenchang Xing",
+        "Diwen Zheng",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1145/2786805.2786871",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f6b0d7beccd3de3e3b6e01ecf68039b94f56d3f1",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Semantic degrees for Industrie 4.0 engineering: deciding on the degree of semantic formalization to select appropriate technologies",
+      "authors": [
+        "Chih-Hong Cheng",
+        "Tuncay Guelfirat",
+        "Christian Messinger",
+        "Johannes O. Schmitt",
+        "Matthias Schnelte",
+        "Peter Weber"
+      ],
+      "doi": "10.1145/2786805.2804434",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3aa9da9aafc2fde4ab7c05927eb23f24ba7bda68",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Rule-based extraction of goal-use case models from text",
+      "authors": [
+        "Tuong Huan Nguyen",
+        "John Grundy",
+        "Mohamed Almorsy"
+      ],
+      "doi": "10.1145/2786805.2786876",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "618f60f9d32def018c93d7a1237661c1f0653463",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Auto-patching DOM-based XSS at scale",
+      "authors": [
+        "Inian Parameshwaran",
+        "Enrico Budianto",
+        "Shweta Shinde",
+        "Hung Dang",
+        "Atul Sadhu",
+        "Prateek Saxena"
+      ],
+      "doi": "10.1145/2786805.2786821",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "64ec9c920ff1e594555fc34aad2626a60f5c5210",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Gamification for enforcing coding conventions",
+      "authors": [
+        "Christian R. Prause",
+        "Matthias Jarke"
+      ],
+      "doi": "10.1145/2786805.2786806",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7a0de775b7ad9bc88759885156b50b1e8a2c0240",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    70,
+    {
+      "title": "UMTG: a toolset to automatically generate system test cases from use case specifications",
+      "authors": [
+        "Chunhui Wang",
+        "Fabrizio Pastore",
+        "Arda Goknil",
+        "Lionel C. Briand",
+        "Zohaib Iqbal"
+      ],
+      "doi": "10.1145/2786805.2803187",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2b4887166f4142c140c060097d0b9758e8114419",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Generating TCP/UDP network data for automated unit test generation",
+      "authors": [
+        "Andrea Arcuri",
+        "Gordon Fraser",
+        "Juan Pablo Galeotti"
+      ],
+      "doi": "10.1145/2786805.2786828",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ca39d0a89f213670167db0dcaa4d461d0d6c841b",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Nyx: a display energy optimizer for mobile web apps",
+      "authors": [
+        "Ding Li",
+        "Angelica Huyen Tran",
+        "William G. J. Halfond"
+      ],
+      "doi": "10.1145/2786805.2803190",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "84a15d0b43e48212c49c3c9062b93a247ebb1b97",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Automated unit test generation for evolving software",
+      "authors": [
+        "Sina Shamshiri"
+      ],
+      "doi": "10.1145/2786805.2803196",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6c950af7d964972f0830a58a4ad54366e46b82ad",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    74,
+    {
+      "title": "T3i: a tool for generating and querying test suites for Java",
+      "authors": [
+        "I. S. Wishnu B. Prasetya"
+      ],
+      "doi": "10.1145/2786805.2803182",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c87c6745fd0568ae94554a198ee0f42c1b9d8bf3",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Automatically computing path complexity of programs",
+      "authors": [
+        "Lucas Bang",
+        "Abdulbaki Aydin",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/2786805.2786863",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9ca7bebc1443c73de999392fe6f9c7a770be2b22",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Automatically recommending test code examples to inexperienced developers",
+      "authors": [
+        "Raphael Pham",
+        "Yauheni Stoliar",
+        "Kurt Schneider"
+      ],
+      "doi": "10.1145/2786805.2803202",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f1baf989395969c6caee969293feb43da32aba32",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    77,
+    {
+      "title": "I heart hacker news: expanding qualitative research findings by analyzing social news websites",
+      "authors": [
+        "Titus Barik",
+        "Brittany Johnson",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1145/2786805.2803200",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e0641bbac3a091c932b81c449a0c6facf71de4d1",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Efficient and reasonable object-oriented concurrency",
+      "authors": [
+        "Scott West",
+        "Sebastian Nanz",
+        "Bertrand Meyer"
+      ],
+      "doi": "10.1145/2786805.2786822",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1b209954a4284c1f404f037afc72d296ce8cba1f",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    79,
+    {
+      "title": "A method to identify and correct problematic software activity data: exploiting capacity constraints and data redundancies",
+      "authors": [
+        "Qimu Zheng",
+        "Audris Mockus",
+        "Minghui Zhou"
+      ],
+      "doi": "10.1145/2786805.2786866",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c0d001870e3dcd9b94f72ce7e9fecb6c18fe54c6",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    80,
+    {
+      "title": "TLV: abstraction through testing, learning, and validation",
+      "authors": [
+        "Jun Sun",
+        "Hao Xiao",
+        "Yang Liu",
+        "Shang-Wei Lin",
+        "Shengchao Qin"
+      ],
+      "doi": "10.1145/2786805.2786817",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "484706e1f0b2ca72915292b709d54e99fe474b75",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    81,
+    {
+      "title": "NARCIA: an automated tool for change impact analysis in natural language requirements",
+      "authors": [
+        "Chetan Arora",
+        "Mehrdad Sabetzadeh",
+        "Arda Goknil",
+        "Lionel C. Briand",
+        "Frank Zimmer"
+      ],
+      "doi": "10.1145/2786805.2803185",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c1eedd561423193857b4f1026ff8f7d2c57e5ebc",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Responsive designs in a snap",
+      "authors": [
+        "Nishant Sinha",
+        "Rezwana Karim"
+      ],
+      "doi": "10.1145/2786805.2786808",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0b7705bfba71e71e0a2d3a3a3f689f706b39f02d",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Vehicle level continuous integration in the automotive industry",
+      "authors": [
+        "Sebastian V\u00f6st"
+      ],
+      "doi": "10.1145/2786805.2803193",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "54dec70a1e436a858f841db28af39c9f7fcb274f",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Finding schedule-sensitive branches",
+      "authors": [
+        "Jeff Huang",
+        "Lawrence Rauchwerger"
+      ],
+      "doi": "10.1145/2786805.2786840",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "86adb0dd8f7a2dbd971aaa8ea79f30e81e434fda",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Hidden truths in dead software paths",
+      "authors": [
+        "Michael Eichberg",
+        "Ben Hermann",
+        "Mira Mezini",
+        "Leonid Glanz"
+      ],
+      "doi": "10.1145/2786805.2786865",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ca13da3b5de9f47eff70e5c5f031127f0299dbd8",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Evaluating a formal scenario-based method for the requirements analysis in automotive software engineering",
+      "authors": [
+        "Joel Greenyer",
+        "Max Haase",
+        "J\u00f6rg Marhenke",
+        "Rene Bellmer"
+      ],
+      "doi": "10.1145/2786805.2804432",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c8dfd11fea351d52908dd2860ac145fefe6537d8",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Decentralized self-adaptation in large-scale distributed systems",
+      "authors": [
+        "Luca Florio"
+      ],
+      "doi": "10.1145/2786805.2803192",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "44ac3811ff64113312bc31b7e6c4d5aca387ae33",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Bespoke tools: adapted to the concepts developers know",
+      "authors": [
+        "Brittany Johnson",
+        "Rahul Pandita",
+        "Emerson Murphy-Hill",
+        "Sarah Heckman"
+      ],
+      "doi": "10.1145/2786805.2803197",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "cfecdbe2b1998fcccafafae8c1378cacbfd79e2d",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Enhancing Android application bug reporting",
+      "authors": [
+        "Kevin Moran"
+      ],
+      "doi": "10.1145/2786805.2807557",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "30f09549aec7841f80e85260db01a3047a349bee",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Product lines can jeopardize their trade secrets",
+      "authors": [
+        "Mathieu Acher",
+        "Guillaume B\u00e9can",
+        "Benoit Combemale",
+        "Benoit Baudry",
+        "Jean-Marc J\u00e9z\u00e9quel"
+      ],
+      "doi": "10.1145/2786805.2803210",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "091f6ca843202410d0c3119034d6203d6dc4fb30",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    91,
+    {
+      "title": "User-centric security: optimization of the security-usability trade-off",
+      "authors": [
+        "Denis Feth"
+      ],
+      "doi": "10.1145/2786805.2803195",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "30211768c5731c544322e9bd6ce6730930301eb6",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    92,
+    {
+      "title": "RDIT: race detection from incomplete traces",
+      "authors": [
+        "Arun K. Rajagopalan",
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/2786805.2803209",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "118539bccfc74a1ddeaed1803ba8b98e0653ea26",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    93,
+    {
+      "title": "MatrixMiner: a red pill to architect informal product descriptions in the matrix",
+      "authors": [
+        "Sana Ben Nasr",
+        "Guillaume B\u00e9can",
+        "Mathieu Acher",
+        "Jo\u00e3o Bosco Ferreira Filho",
+        "Benoit Baudry",
+        "Nicolas Sannier",
+        "Jean-Marc Davril"
+      ],
+      "doi": "10.1145/2786805.2803180",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3e6e8e3ee84888c768c4d0b3a6a3897f53c39e7b",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    94,
+    {
+      "title": "UEDashboard: awareness of unusual events in commit histories",
+      "authors": [
+        "Larissa Leite",
+        "Christoph Treude",
+        "Fernando Figueira Filho"
+      ],
+      "doi": "10.1145/2786805.2803184",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4a8e8b97cf72f0d7b093d16c627292920677b4d5",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Automatically deriving pointer reference expressions from binary code for memory dump analysis",
+      "authors": [
+        "Yangchun Fu",
+        "Zhiqiang Lin",
+        "David Brumley"
+      ],
+      "doi": "10.1145/2786805.2786810",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1414b21aca92f4a00a8b736143a1526a149e5689",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Products, developers, and milestones: how should I build my N-Gram language model",
+      "authors": [
+        "Juliana Saraiva",
+        "Christian Bird",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1145/2786805.2804431",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "61ffb9ee39427604841703a1ba29ad07a9995595",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Don't panic: reverse debugging of kernel drivers",
+      "authors": [
+        "Pavel Dovgalyuk",
+        "Denis Dmitriev",
+        "Vladimir Makarov"
+      ],
+      "doi": "10.1145/2786805.2803179",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a017a33031f1db22ff924c8399c1a3a70b233111",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    98,
+    {
+      "title": "CLOTHO: saving programs from malformed strings and incorrect string-handling",
+      "authors": [
+        "Aritra Dhar",
+        "Rahul Purandare",
+        "Mohan Dhawan",
+        "Suresh Rangaswamy"
+      ],
+      "doi": "10.1145/2786805.2786877",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6b9eae62b23ab59f689d653e24624c60f57712a9",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    99,
+    {
+      "title": "GitSonifier: using sound to portray developer conflict history",
+      "authors": [
+        "Kevin J. North",
+        "Shane Bolan",
+        "Anita Sarma",
+        "Myra B. Cohen"
+      ],
+      "doi": "10.1145/2786805.2803199",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "794a3b5547eff8ee87ab4beaf80f328860da32ab",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    100,
+    {
+      "title": "OSSMETER: a software measurement platform for automatically analysing open source software projects",
+      "authors": [
+        "Davide Di Ruscio",
+        "Dimitris S. Kolovos",
+        "Ioannis Korkontzelos",
+        "Nicholas Matragkas",
+        "Jurgen J. Vinju"
+      ],
+      "doi": "10.1145/2786805.2803186",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3c99a86510308b2ec0c313f263d6a7702c43abd0",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Getting to know you: towards a capability model for Java",
+      "authors": [
+        "Ben Hermann",
+        "Michael Reif",
+        "Michael Eichberg",
+        "Mira Mezini"
+      ],
+      "doi": "10.1145/2786805.2786829",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1306bc5ec1d6d4eb6f348aa7d4572266a38690c4",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Inner oracles: input-specific assertions on internal states",
+      "authors": [
+        "Yingfei Xiong",
+        "Dan Hao",
+        "Lu Zhang",
+        "Tao Zhu",
+        "Muyao Zhu",
+        "Tian Lan"
+      ],
+      "doi": "10.1145/2786805.2803204",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "66113ce84bf25699bf66a052bd2cb8cead2217d5",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Navigating through the archipelago of refactorings",
+      "authors": [
+        "Apostolos V. Zarras",
+        "Theofanis Vartziotis",
+        "Panos Vassiliadis"
+      ],
+      "doi": "10.1145/2786805.2803203",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "10db88a326870bb7e24c311b50f9fed5726b5331",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    104,
+    {
+      "title": "P3: partitioned path profiling",
+      "authors": [
+        "Mohammed Afraz",
+        "Diptikalyan Saha",
+        "Aditya Kanade"
+      ],
+      "doi": "10.1145/2786805.2786868",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8c2915e56d93e3454e7a04e64d1ef35c7cd44fd8",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    105,
+    {
+      "title": "A textual domain specific language for requirement modelling",
+      "authors": [
+        "Oyindamola Olajubu"
+      ],
+      "doi": "10.1145/2786805.2807562",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "40468544ac26b64f08c57cdeb4560bdeeb027f5b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Using software theater for the demonstration of innovative ubiquitous applications",
+      "authors": [
+        "Han Xu",
+        "Stephan Krusche",
+        "Bernd Bruegge"
+      ],
+      "doi": "10.1145/2786805.2803207",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9b3dcb985c9139ab728e6aed6af26e1a07e0f805",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Combining eye tracking with navigation paths for identification of cross-language code dependencies",
+      "authors": [
+        "Martin Konopka"
+      ],
+      "doi": "10.1145/2786805.2807561",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a7272202f6da5c197924fdef1a0bb9b2c445cb44",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Towards automating the security compliance value chain",
+      "authors": [
+        "Smita Ghaisas",
+        "Manish Motwani",
+        "Balaji Balasubramaniam",
+        "Anjali Gajendragadkar",
+        "Rahul Kelkar",
+        "Harrick Vin"
+      ],
+      "doi": "10.1145/2786805.2804435",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7836008e53ec7dafae8e37d783b71540d1eb2321",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Quantifying architectural debts",
+      "authors": [
+        "Lu Xiao"
+      ],
+      "doi": "10.1145/2786805.2803194",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f899d503ce33597b096c6f1b636680f91574af0f",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Barriers and enablers for shortening software development lead-time in mechatronics organizations: a case study",
+      "authors": [
+        "Mahshad M.Mahally",
+        "Miroslaw Staron",
+        "Jan Bosch"
+      ],
+      "doi": "10.1145/2786805.2804433",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "96e66138a82a7a899020fa667af5bc21f8edd523",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    111,
+    {
+      "title": "TACO: test suite augmentation for concurrent programs",
+      "authors": [
+        "Tingting Yu"
+      ],
+      "doi": "10.1145/2786805.2803201",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9b6e2b3a14a944f61abeeef31ff8f9d7fd51cff0",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Improving model-based test generation by model decomposition",
+      "authors": [
+        "Paolo Arcaini",
+        "Angelo Gargantini",
+        "Elvinia Riccobene"
+      ],
+      "doi": "10.1145/2786805.2786837",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "05d2ddce4e9616a96159a4ee9936e35b94ec6036",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Automated generation of programming language quizzes",
+      "authors": [
+        "Shuktika Jain"
+      ],
+      "doi": "10.1145/2786805.2807559",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a45b25ee42ac49a9567d815c7da071eee61762a9",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Spotting familiar code snippet structures for program comprehension",
+      "authors": [
+        "Venkatesh Vinayakarao"
+      ],
+      "doi": "10.1145/2786805.2807560",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1510d55d4546f7f37d2984d219858a48c153a379",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    115,
+    {
+      "title": "OnSpot system: test impact visibility during code edits in real software",
+      "authors": [
+        "Muhammad Umar Janjua"
+      ],
+      "doi": "10.1145/2786805.2804430",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5e518d39ad8b626849c6e170ec2a56c69654a8a4",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Automated attack surface approximation",
+      "authors": [
+        "Christopher Theisen"
+      ],
+      "doi": "10.1145/2786805.2807563",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f6408852bba5d2298e8dfee4c57acdb49aa288a6",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Behavioral log analysis with statistical guarantees",
+      "authors": [
+        "Nimrod Busany",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1145/2786805.2803198",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "290e6d5955000d87b077afe9b42f6750398cc866",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Improving energy consumption in Android apps",
+      "authors": [
+        "Carlos Bernal-C\u00e1rdenas"
+      ],
+      "doi": "10.1145/2786805.2807558",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "49c6b378e7c2ca460d20051cc39de2be17b1bc1c",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Increasing the efficiency of search-based unit test generation using parameter control",
+      "authors": [
+        "Thomas White"
+      ],
+      "doi": "10.1145/2786805.2807556",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e4579a4093bacb3c368131a9610aac441722b253",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Comprehensive service matching with MatchBox",
+      "authors": [
+        "Paul B\u00f6rding",
+        "Melanie Bruns",
+        "Marie Christin Platenius"
+      ],
+      "doi": "10.1145/2786805.2803181",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "508c3b11fc663bf506ff73826be09aae5392337a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Predicting field reliability",
+      "authors": [
+        "Pete Rotella",
+        "Sunita Chulani",
+        "Devesh Goyal"
+      ],
+      "doi": "10.1145/2786805.2804428",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a326040089beb3334466bf55bb56fd506e7411e3",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Pockets: a tool to support exploratory programming for novices and educators",
+      "authors": [
+        "Erina Makihara"
+      ],
+      "doi": "10.1145/2786805.2807564",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "732eecad7a1adcd9a8d8d4e529a3714166cd30b8",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    123,
+    {
+      "title": "An empirical study of goto in C code from GitHub repositories",
+      "authors": [
+        "Meiyappan Nagappan",
+        "Romain Robbes",
+        "Yasutaka Kamei",
+        "\u00c9ric Tanter",
+        "Shane McIntosh",
+        "Audris Mockus",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1145/2786805.2786834",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e73933b7c500d1275bd459bc5943cc025d34e0e2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Requirements, architecture, and quality in a mission critical system: 12 lessons learned",
+      "authors": [
+        "Aapo Koski",
+        "Tommi Mikkonen"
+      ],
+      "doi": "10.1145/2786805.2804436",
+      "venue": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ff7d877930593df4905d7b2cce19f590a863fb80",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2015
+    }
+  ]
+]

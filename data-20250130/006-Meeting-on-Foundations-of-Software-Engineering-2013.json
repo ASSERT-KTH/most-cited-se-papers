@@ -1,0 +1,1840 @@
+[
+  [
+    1,
+    {
+      "title": "Dynodroid: an input generation system for Android apps",
+      "authors": [
+        "Aravind Machiry",
+        "Rohan Tahiliani",
+        "Mayur Naik"
+      ],
+      "doi": "10.1145/2491411.2491450",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0b7f62a2ac217e035e0cd9cb73d2de4fb6135af5",
+        "citationCount": 688,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Convergent contemporary software peer review practices",
+      "authors": [
+        "Peter C. Rigby",
+        "Christian Bird"
+      ],
+      "doi": "10.1145/2491411.2491444",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b726137451e8c5e962ad7597c71c912a682848bf",
+        "citationCount": 300,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Jalangi: a selective record-replay and dynamic analysis framework for JavaScript",
+      "authors": [
+        "Koushik Sen",
+        "Swaroop Kalasapur",
+        "Tasneem Brutch",
+        "Simon Gibbs"
+      ],
+      "doi": "10.1145/2491411.2491447",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "72df5ef4cb7403a1ab5ab817f1ecbe16d83cd23b",
+        "citationCount": 297,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    4,
+    {
+      "title": "API change and fault proneness: a threat to the success of Android apps",
+      "authors": [
+        "Mario Linares-V\u00e1squez",
+        "Gabriele Bavota",
+        "Carlos Bernal-C\u00e1rdenas",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/2491411.2491428",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8c25c441b4d806fae7d1aea634a4c662732eb4cb",
+        "citationCount": 277,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Z3-str: a z3-based string solver for web application analysis",
+      "authors": [
+        "Yunhui Zheng",
+        "Xiangyu Zhang",
+        "Vijay Ganesh"
+      ],
+      "doi": "10.1145/2491411.2491456",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ef8bdc7f6d8dc3ce7ac3fae92f9ea80f99aa491d",
+        "citationCount": 240,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    6,
+    {
+      "title": "A statistical semantic language model for source code",
+      "authors": [
+        "Tung Thanh Nguyen",
+        "Anh Tuan Nguyen",
+        "Hoan Anh Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/2491411.2491458",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9769e24c45c87e0daa5cff39991e0313882213fd",
+        "citationCount": 225,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Diversity in software engineering research",
+      "authors": [
+        "Meiyappan Nagappan",
+        "Thomas Zimmermann",
+        "Christian Bird"
+      ],
+      "doi": "10.1145/2491411.2491415",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0bfca74dd16aad83216742115231d400d60a9f0d",
+        "citationCount": 174,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Scalable analysis of variable software",
+      "authors": [
+        "J\u00f6rg Liebig",
+        "Alexander von Rhein",
+        "Christian K\u00e4stner",
+        "Sven Apel",
+        "Jens D\u00f6rre",
+        "Christian Lengauer"
+      ],
+      "doi": "10.1145/2491411.2491437",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a06459a8e08e5f3b676cfe32b452660394539a2b",
+        "citationCount": 168,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Searching for better configurations: a rigorous approach to clone evaluation",
+      "authors": [
+        "Tiantian Wang",
+        "Mark Harman",
+        "Yue Jia",
+        "Jens Krinke"
+      ],
+      "doi": "10.1145/2491411.2491420",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e132cd195fdac5fee58ccd21afb0403294362312",
+        "citationCount": 158,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Understanding gamification mechanisms for software development",
+      "authors": [
+        "Daniel J. Dubois",
+        "Giordano Tamburrelli"
+      ],
+      "doi": "10.1145/2491411.2494589",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "85f1949b530071ee79740860d55a4f0239d0e52b",
+        "citationCount": 157,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    11,
+    {
+      "title": "KATCH: high-coverage testing of software patches",
+      "authors": [
+        "Paul Dan Marinescu",
+        "Cristian Cadar"
+      ],
+      "doi": "10.1145/2491411.2491438",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6ee3d925a24ee51a460ebe40310673c3a08677fa",
+        "citationCount": 155,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Feature model extraction from large collections of informal product descriptions",
+      "authors": [
+        "Jean-Marc Davril",
+        "Edouard Delfosse",
+        "Negar Hariri",
+        "Mathieu Acher",
+        "Jane Cleland-Huang",
+        "Patrick Heymans"
+      ],
+      "doi": "10.1145/2491411.2491455",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d84c0d4dbab81757490213742b1e75dc258bd3ba",
+        "citationCount": 155,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Lexical statistical machine translation for language migration",
+      "authors": [
+        "Anh Tuan Nguyen",
+        "Tung Thanh Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/2491411.2494584",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5447a3b8701d59f3a2f1a7f7af030f687ba495c3",
+        "citationCount": 134,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Differential assertion checking",
+      "authors": [
+        "Shuvendu K. Lahiri",
+        "Kenneth L. McMillan",
+        "Rahul Sharma",
+        "Chris Hawblitzel"
+      ],
+      "doi": "10.1145/2491411.2491452",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b488e04594290a20b0268e5a761685848d93be7e",
+        "citationCount": 127,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Practical static analysis of JavaScript applications in the presence of frameworks and libraries",
+      "authors": [
+        "Magnus Madsen",
+        "Benjamin Livshits",
+        "Michael Fanning"
+      ],
+      "doi": "10.1145/2491411.2491417",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "80cdba84c127541a242d8c3f1a0f027a92272fe1",
+        "citationCount": 125,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Sample size vs. bias in defect prediction",
+      "authors": [
+        "Foyzur Rahman",
+        "Daryl Posnett",
+        "Israel Herraiz",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1145/2491411.2491418",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "24b906e2d318bce7bedb3f4d8686ae33840b6bf2",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Towards emotional awareness in software development teams",
+      "authors": [
+        "Emitza Guzman",
+        "Bernd Bruegge"
+      ],
+      "doi": "10.1145/2491411.2494578",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "20b5080b5aaff4fc4bd6bd8c2d4d71d82c2ef80c",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    18,
+    {
+      "title": "An empirical analysis of the co-evolution of schema and code in database applications",
+      "authors": [
+        "Dong Qiu",
+        "Bixin Li",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/2491411.2491431",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5f814359ec3072e1bb0dd566e81e98f8c8185e0e",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Efficiency and early fault detection with lower and higher strength combinatorial interaction testing",
+      "authors": [
+        "Justyna Petke",
+        "Shin Yoo",
+        "Myra B. Cohen",
+        "Mark Harman"
+      ],
+      "doi": "10.1145/2491411.2491436",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4883246e0de5b854484efca5060545b1a23e9386",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    20,
+    {
+      "title": "N-way model merging",
+      "authors": [
+        "Julia Rubin",
+        "Marsha Chechik"
+      ],
+      "doi": "10.1145/2491411.2491446",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "8c9b9808041d133bfa312e52d0dc216abd293649",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Improving trace accuracy through data-driven configuration and composition of tracing features",
+      "authors": [
+        "Sugandha Lohar",
+        "Sorawit Amornborvornwong",
+        "Andrea Zisman",
+        "Jane Cleland-Huang"
+      ],
+      "doi": "10.1145/2491411.2491432",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f287388112e95c116a2083b6159d524ff49768df",
+        "citationCount": 82,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    22,
+    {
+      "title": "SPLat: lightweight dynamic analysis for reducing combinatorics in testing configurable systems",
+      "authors": [
+        "Chang Hwan Peter Kim",
+        "Darko Marinov",
+        "Sarfraz Khurshid",
+        "Don Batory",
+        "Sabrina Souto",
+        "Paulo Barros",
+        "Marcelo D'Amorim"
+      ],
+      "doi": "10.1145/2491411.2491459",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f6e5cbed87b927a489a31df3e846a7a3d7cd10bf",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Code fragment summarization",
+      "authors": [
+        "Annie T. T. Ying",
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1145/2491411.2494587",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "139eb52cb427d91f6d8728ea82220e85fa11f5cd",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Cachetor: detecting cacheable data to remove bloat",
+      "authors": [
+        "Khanh Nguyen",
+        "Guoqing Xu"
+      ],
+      "doi": "10.1145/2491411.2491416",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d7aa22f4db5ca61d029b93db3770a2a05cb169a8",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Con2colic testing",
+      "authors": [
+        "Azadeh Farzan",
+        "Andreas Holzer",
+        "Niloofar Razavi",
+        "Helmut Veith"
+      ],
+      "doi": "10.1145/2491411.2491453",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4cf5e042d3ab2fe1eefa447207951a826239f081",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Bayesian inference using data flow analysis",
+      "authors": [
+        "Guillaume Claret",
+        "Sriram K. Rajamani",
+        "Aditya V. Nori",
+        "Andrew D. Gordon",
+        "Johannes Borgstr\u00f6m"
+      ],
+      "doi": "10.1145/2491411.2491423",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2ac4a229172baf5920486fcd8cc65414a7dccb36",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Boosting concolic testing via interpolation",
+      "authors": [
+        "Joxan Jaffar",
+        "Vijayaraghavan Murali",
+        "Jorge A. Navas"
+      ],
+      "doi": "10.1145/2491411.2491425",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c631d4cc28587a932165e7cf5002ba11c9628c6f",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Crossing the gap from imperative to functional programming through refactoring",
+      "authors": [
+        "Alex Gyori",
+        "Lyle Franklin",
+        "Danny Dig",
+        "Jan Lahoda"
+      ],
+      "doi": "10.1145/2491411.2491461",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "d133ff3956ae67987ea1eca578034c5e8df91f57",
+        "citationCount": 59,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Design and optimization of multi-clocked embedded systems using formal technique",
+      "authors": [
+        "Yu Jiang",
+        "Zonghui Li",
+        "Hehua Zhang",
+        "Yangdong Deng",
+        "Xiaoyu Song",
+        "Ming Gu",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1145/2491411.2494575",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4f762aa3881094a1c4de7fff2dac8d8f3c1106cf",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Mining behavior models from enterprise web applications",
+      "authors": [
+        "Matthias Schur",
+        "Andreas Roth",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1145/2491411.2491426",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "72f4dc290303c48f20672885d561c234cb9f7e4b",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Precision reuse for efficient regression verification",
+      "authors": [
+        "Dirk Beyer",
+        "Stefan L\u00f6we",
+        "Evgeny Novikov",
+        "Andreas Stahlbauer",
+        "Philipp Wendler"
+      ],
+      "doi": "10.1145/2491411.2491429",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "de7b1409b8deb3db9d0a9435c0a4a05d2126751e",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Regression tests to expose change interaction errors",
+      "authors": [
+        "Marcel B\u00f6hme",
+        "Bruno C. d. S. Oliveira",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/2491411.2491430",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "595efac73d5401e2d9b60de3dc921ea7d2632f6d",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Scalable and incremental software bug detection",
+      "authors": [
+        "Scott McPeak",
+        "Charles-Henri Gros",
+        "Murali Krishna Ramanathan"
+      ],
+      "doi": "10.1145/2491411.2501854",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "70d9549572608f9090000a0782c97515c2a6a307",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Prediction of atomic web services reliability based on k-means clustering",
+      "authors": [
+        "Marin Silic",
+        "Goran Delac",
+        "Sinisa Srbljic"
+      ],
+      "doi": "10.1145/2491411.2491424",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3d92b69ce84f8dd3ee3461d4028ec29038ba94ed",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Synthesis of component and connector models from crosscutting structural views",
+      "authors": [
+        "Shahar Maoz",
+        "Jan Oliver Ringert",
+        "Bernhard Rumpe"
+      ],
+      "doi": "10.1145/2491411.2491414",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5af17897d1071c757acd2be112374603ddb14fcc",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    36,
+    {
+      "title": "RiTHM: a tool for enabling time-triggered runtime verification for C programs",
+      "authors": [
+        "Samaneh Navabpour",
+        "Yogi Joshi",
+        "Wallace Wu",
+        "Shay Berkovich",
+        "Ramy Medhat",
+        "Borzoo Bonakdarpour",
+        "Sebastian Fischmeister"
+      ],
+      "doi": "10.1145/2491411.2494596",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "bf7229c147466a73f2fc794c13cca5e770db20a3",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Data debugging with continuous testing",
+      "authors": [
+        "K\u0131van\u00e7 Mu\u015flu",
+        "Yuriy Brun",
+        "Alexandra Meliou"
+      ],
+      "doi": "10.1145/2491411.2494580",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1d3ec7e676566efd1b5cd279bb7257fc1ae91ed9",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Incrementally synthesizing controllers from scenario-based product line specifications",
+      "authors": [
+        "Joel Greenyer",
+        "Christian Brenner",
+        "Maxime Cordy",
+        "Patrick Heymans",
+        "Erika Gressi"
+      ],
+      "doi": "10.1145/2491411.2491445",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "edacd90ba5310bd0028ee67bdb0ffb5bb1a2e2f3",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Will you still compile me tomorrow? static cross-version compiler validation",
+      "authors": [
+        "Chris Hawblitzel",
+        "Shuvendu K. Lahiri",
+        "Kshama Pawar",
+        "Hammad Hashmi",
+        "Sedar Gokbulut",
+        "Lakshan Fernando",
+        "Dave Detlefs",
+        "Scott Wadsworth"
+      ],
+      "doi": "10.1145/2491411.2491442",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5e74f5ba5c7174e3ecf6ab2581a5e745bb69dd54",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Toward understanding the causes of unanswered questions in software information sites: a case study of stack overflow",
+      "authors": [
+        "Ripon K. Saha",
+        "Avigit K. Saha",
+        "Dewayne E. Perry"
+      ],
+      "doi": "10.1145/2491411.2494585",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3a0e3a3b376e61ef0737a444cc64a1710504d82b",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Termination proofs from tests",
+      "authors": [
+        "Aditya V. Nori",
+        "Rahul Sharma"
+      ],
+      "doi": "10.1145/2491411.2491413",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "feeb007735cfbc23251cef7b13f519873ac96bc6",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization",
+      "authors": [
+        "Pietro Braione",
+        "Giovanni Denaro",
+        "Mauro Pezz\u00e8"
+      ],
+      "doi": "10.1145/2491411.2491433",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "56a647d7c9ac30639b712e526562b1ffb56d54e0",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    43,
+    {
+      "title": "PoMMaDe: pushdown model-checking for malware detection",
+      "authors": [
+        "Fu Song",
+        "Tayssir Touili"
+      ],
+      "doi": "10.1145/2491411.2494599",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "c6e160c0102859ebba57623b501edde3a6279c4d",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Mining succinct predicated bug signatures",
+      "authors": [
+        "Chengnian Sun",
+        "Siau-Cheng Khoo"
+      ],
+      "doi": "10.1145/2491411.2491449",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "be5ebd886d6d3fbaa13217bc972b21e575999b5f",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Identifying message flow in distributed event-based systems",
+      "authors": [
+        "Joshua Garcia",
+        "Daniel Popescu",
+        "Gholamreza Safi",
+        "William G. J. Halfond",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1145/2491411.2491462",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1b6f2be8615d504933575763b0c47433c7332cb3",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Automated oracles: an empirical study on cost and effectiveness",
+      "authors": [
+        "Cu D. Nguyen",
+        "Alessandro Marchetto",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1145/2491411.2491434",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f10135daaa6590e848bb95ec926ad88140921708",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    47,
+    {
+      "title": "ShAir: extensible middleware for mobile peer-to-peer resource sharing",
+      "authors": [
+        "Daniel J. Dubois",
+        "Yosuke Bando",
+        "Konosuke Watanabe",
+        "Henry Holtzman"
+      ],
+      "doi": "10.1145/2491411.2494573",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4b68101e0d6cf1879ab67faf63cc76f85d465d9d",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Preventing database deadlocks in applications",
+      "authors": [
+        "Mark Grechanik",
+        "B. M. Mainul Hossain",
+        "Ugo Buy",
+        "Haisheng Wang"
+      ],
+      "doi": "10.1145/2491411.2491412",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "468d3f3bbf9f4a1bcbb4d278cb9c7c490ebc6f8d",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Effective dynamic detection of alias analysis errors",
+      "authors": [
+        "Jingyue Wu",
+        "Gang Hu",
+        "Yang Tang",
+        "Junfeng Yang"
+      ],
+      "doi": "10.1145/2491411.2491439",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "858a538baedfab4baf1b2870a2a6cfdd306bab32",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Do all task dependencies require coordination? the role of task properties in identifying critical coordination needs in software projects",
+      "authors": [
+        "Kelly Blincoe",
+        "Giuseppe Valetto",
+        "Daniela Damian"
+      ],
+      "doi": "10.1145/2491411.2491440",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e509ed4e4731e818a6a0e3caabc0e33cbd2da776",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Making offline analyses continuous",
+      "authors": [
+        "K\u0131van\u00e7 Mu\u015flu",
+        "Yuriy Brun",
+        "Michael D. Ernst",
+        "David Notkin"
+      ],
+      "doi": "10.1145/2491411.2491460",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "871e76a3553e3ac931a5e1ee5eb383acbb14324a",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Explaining inconsistent code",
+      "authors": [
+        "Martin Sch\u00e4f",
+        "Daniel Schwartz-Narbonne",
+        "Thomas Wies"
+      ],
+      "doi": "10.1145/2491411.2491448",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2b9416686faae970344639643ee4349709c24344",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Finding incorrect compositions of atomicity",
+      "authors": [
+        "Peng Liu",
+        "Julian Dolby",
+        "Charles Zhang"
+      ],
+      "doi": "10.1145/2491411.2491435",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a19d465bff70c65445ec37a2e08b62f01ff1fcdc",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    54,
+    {
+      "title": "RUBRIC: a flexible tool for automated checking of conformance to requirement boilerplates",
+      "authors": [
+        "Chetan Arora",
+        "Mehrdad Sabetzadeh",
+        "Lionel Briand",
+        "Frank Zimmer",
+        "Raul Gnaga"
+      ],
+      "doi": "10.1145/2491411.2494591",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9fe17c65eae274645723be8aa5eee985c3aeff3b",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Jalangi: a tool framework for concolic testing, selective record-replay, and dynamic analysis of JavaScript",
+      "authors": [
+        "Koushik Sen",
+        "Swaroop Kalasapur",
+        "Tasneem Brutch",
+        "Simon Gibbs"
+      ],
+      "doi": "10.1145/2491411.2494598",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b7ba028f6ba48da094ab06010d198a0b0f4dfa5f",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Iterative test suites refinement for elastic computing systems",
+      "authors": [
+        "Alessio Gambi",
+        "Antonio Filieri",
+        "Schahram Dustdar"
+      ],
+      "doi": "10.1145/2491411.2494579",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "72be8a86a4cfdbc30b56441beb9e6fe912274bb7",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Precise range analysis on large industry code",
+      "authors": [
+        "Shrawan Kumar",
+        "Bharti Chimdyalwar",
+        "Ulka Shrotri"
+      ],
+      "doi": "10.1145/2491411.2494569",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "79403a356dc8e7aa20e7cb609a2f452ea3fc98c0",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    58,
+    {
+      "title": "System reliability calculation based on the run-time analysis of ladder program",
+      "authors": [
+        "Yu Jiang",
+        "Hehua Zhang",
+        "Han Liu",
+        "Xiaoyu Song",
+        "William N. N. Hung",
+        "Ming Gu",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1145/2491411.2494570",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "e6fe4e9539c2e8e9ed6eec6fea8e539a0c03ae71",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    59,
+    {
+      "title": "SocialCDE: a social awareness tool for global software teams",
+      "authors": [
+        "Fabio Calefato",
+        "Filippo Lanubile"
+      ],
+      "doi": "10.1145/2491411.2494592",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6fbaa98bcabf24c6f479f5a21bda3c259e4fa549",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    60,
+    {
+      "title": "A cost-effectiveness criterion for applying software defect prediction models",
+      "authors": [
+        "Hongyu Zhang",
+        "S. C. Cheung"
+      ],
+      "doi": "10.1145/2491411.2494581",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "7199eece5a8f697a3293b1d158dd78aef72999ad",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    61,
+    {
+      "title": "aPET: a test case generation tool for concurrent objects",
+      "authors": [
+        "Elvira Albert",
+        "Puri Arenas",
+        "Miguel G\u00f3mez-Zamalloa",
+        "Peter Y. H. Wong"
+      ],
+      "doi": "10.1145/2491411.2494590",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0b603fd3648f062593feb1bcdac45edbc39ae23c",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Compiling mockups to flexible UIs",
+      "authors": [
+        "Nishant Sinha",
+        "Rezwana Karim"
+      ],
+      "doi": "10.1145/2491411.2491427",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "11f8c5bb5bed6f95a49f5d41ebf314f866fa482e",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Server interface descriptions for automated testing of JavaScript web applications",
+      "authors": [
+        "Casper S. Jensen",
+        "Anders M\u00f8ller",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/2491411.2491421",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b9b7f1b32d64fc1af790541f51d0532a1eb4f999",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Fuzzy service matching in on-the-fly computing",
+      "authors": [
+        "Marie Christin Platenius"
+      ],
+      "doi": "10.1145/2491411.2492405",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "25ddba98056e66d77573b1eb9b880b6ff73b74a2",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Inferring project-specific bug patterns for detecting sibling bugs",
+      "authors": [
+        "Guangtai Liang",
+        "Qianxiang Wang",
+        "Tao Xie",
+        "Hong Mei"
+      ],
+      "doi": "10.1145/2491411.2491422",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1e0497becae1c63dc1d0abcbb68dbd84d35ca682",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    66,
+    {
+      "title": "The economics of static analysis tools",
+      "authors": [
+        "Rahul Kumar",
+        "Aditya V. Nori"
+      ],
+      "doi": "10.1145/2491411.2494574",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "50586d9b55083befe1a6ca500b1db0ddaae16487",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Second-order constraints in dynamic invariant inference",
+      "authors": [
+        "Kaituo Li",
+        "Christoph Reichenbach",
+        "Yannis Smaragdakis",
+        "Michal Young"
+      ],
+      "doi": "10.1145/2491411.2491457",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ea0f310ed8b827545c194d4ee98581b43ab3690f",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    68,
+    {
+      "title": "RADA: a tool for reasoning about algebraic data types with abstractions",
+      "authors": [
+        "Tuan-Hung Pham",
+        "Michael W. Whalen"
+      ],
+      "doi": "10.1145/2491411.2494597",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ba7170ad7f2837346ff8ed0cab045fe3d14fde10",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Risky files: an approach to focus quality improvement effort",
+      "authors": [
+        "Audris Mockus",
+        "Randy Hackbarth",
+        "John Palframan"
+      ],
+      "doi": "10.1145/2491411.2494572",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "74f5cfed8fdb8a74520907a134c97e0742dc4e85",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    70,
+    {
+      "title": "USMMC: a self-contained model checker for UML state machines",
+      "authors": [
+        "Shuang Liu",
+        "Yang Liu",
+        "Jun Sun",
+        "Manchun Zheng",
+        "Bimlesh Wadhwa",
+        "Jin Song Dong"
+      ],
+      "doi": "10.1145/2491411.2494595",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1a5d432585da3a6d5fbc4d269aeca92eaf4d13d5",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Adequate monitoring of service compositions",
+      "authors": [
+        "Antonia Bertolino",
+        "Eda Marchetti",
+        "Andrea Morichetta"
+      ],
+      "doi": "10.1145/2491411.2491441",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "1ea22c1559fa2cc13116674107728b07d7d1f0d5",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Using fault history to improve mutation reduction",
+      "authors": [
+        "Laura Inozemtseva",
+        "Hadi Hemmati",
+        "Reid Holmes"
+      ],
+      "doi": "10.1145/2491411.2494586",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "b2f1488bd02fe1bfb9d6ce7b17867d2b222e7d3d",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    73,
+    {
+      "title": "BugMap: a topographic map of bugs",
+      "authors": [
+        "Jiangtao Gong",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1145/2491411.2494582",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "4996a150d6b696961f7624e00ed1d16967722f6a",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Cascading verification: an integrated method for domain-specific model checking",
+      "authors": [
+        "Fokion Zervoudakis",
+        "David S. Rosenblum",
+        "Sebastian Elbaum",
+        "Anthony Finkelstein"
+      ],
+      "doi": "10.1145/2491411.2491454",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "21989df5341dc646d5720b89786c7199727f3488",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Extracting URLs from JavaScript via program analysis",
+      "authors": [
+        "Qi Wang",
+        "Jingyu Zhou",
+        "Yuting Chen",
+        "Yizhou Zhang",
+        "Jianjun Zhao"
+      ],
+      "doi": "10.1145/2491411.2494583",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ae283ece337c29412103d969f56c724c91d424a3",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Producing software by integration: challenges and research directions (keynote)",
+      "authors": [
+        "Paola Inverardi",
+        "Marco Autili",
+        "Davide Di Ruscio",
+        "Patrizio Pelliccione",
+        "Massimo Tivoli"
+      ],
+      "doi": "10.1145/2491411.2505428",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6b1fde690832f03427a73f6c4abb6566530eea4a",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Using topic models to understand the evolution of a software ecosystem",
+      "authors": [
+        "Nicolas Lopez"
+      ],
+      "doi": "10.1145/2491411.2492402",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "3244f1ade7cfd09ad93af96867cc3683ceb775d1",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Towards open architecture system",
+      "authors": [
+        "Bahtijar Vogel"
+      ],
+      "doi": "10.1145/2491411.2492407",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a6a4530bbb8d6625770ec84639ae4fb06fe74549",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Distributed program tracing",
+      "authors": [
+        "Diptikalyan Saha",
+        "Pankaj Dhoolia",
+        "Gaurab Paul"
+      ],
+      "doi": "10.1145/2491411.2491451",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6881e926e3b579e1a6a99f5d54f08a3ff283a161",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    80,
+    {
+      "title": "h-ubu: an industrial-strength service-oriented component framework for JavaScript applications",
+      "authors": [
+        "Clement Escoffier",
+        "Philippe Lalanda",
+        "Nicolas Rempulski"
+      ],
+      "doi": "10.1145/2491411.2494577",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5c071c96bba2d09d94021d1a7f00d2e84cc6a70c",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Tightfit: adaptive parallelization with foresight",
+      "authors": [
+        "Omer Tripp",
+        "Noam Rinetzky"
+      ],
+      "doi": "10.1145/2491411.2491443",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "31139b48b43c0be413f249a224abf173ae61c2d8",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Empirical answers to fundamental software engineering problems (panel)",
+      "authors": [
+        "Bertrand Meyer",
+        "Harald Gall",
+        "Mark Harman",
+        "Giancarlo Succi"
+      ],
+      "doi": "10.1145/2491411.2505430",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "5cd5d7322dcc380a5277e7c6d133ee2c5c615096",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Automotive architecture description and its quality",
+      "authors": [
+        "Yanja Dajsuren"
+      ],
+      "doi": "10.1145/2491411.2492403",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "ae015d8e38fbd8c4163d11e2a06c3cef27a3d615",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Artifact evaluation (summary)",
+      "authors": [
+        "Alexandre Bergel",
+        "Lorenzo Bettini"
+      ],
+      "doi": "10.1145/2491411.2508114",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "29120c5c2ae8c52c521e1ecf5afe28fa5cb23347",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Good technology makes the difficult task easy",
+      "authors": [
+        "Andrey Terekhov"
+      ],
+      "doi": "10.1145/2491411.2494571",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "a5ce82be70ba88a5be1034c210697178c2c38f45",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    86,
+    {
+      "title": "A logical revolution (keynote)",
+      "authors": [
+        "Moshe Y. Vardi"
+      ],
+      "doi": "10.1145/2491411.2505427",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "369ab534349c8dad423ba7ebb8ffc35bdf5e8161",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    87,
+    {
+      "title": "REDACT: preventing database deadlocks from application-based transactions",
+      "authors": [
+        "B. M. Mainul Hossain",
+        "Mark Grechanik",
+        "Ugo Buy",
+        "Haisheng Wang"
+      ],
+      "doi": "10.1145/2491411.2494594",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "0f6a1defb98f8f428318237f1e400dc6ba9e5cbe",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Agreements for software reuse in corporations",
+      "authors": [
+        "Thijmen De Gooijer",
+        "Heiko Koziolek"
+      ],
+      "doi": "10.1145/2491411.2494576",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6cf0b30932d081dfe2599a31e84cc8e342b5e806",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    89,
+    {
+      "title": "A framework for defining the dynamic semantics of DSLs",
+      "authors": [
+        "Ulyana Tikhonova"
+      ],
+      "doi": "10.1145/2491411.2492404",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "aafdba0c0c0074ea1b0d3bf13064ae15fea63d3f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    90,
+    {
+      "title": "A publication culture in software engineering (panel)",
+      "authors": [
+        "Steven Fraser",
+        "Luciano Baresi",
+        "Jane Cleland-Huang",
+        "Carlo A. Furia",
+        "Georges Gonthier",
+        "Paola Inverardi",
+        "Moshe Y. Vardi"
+      ],
+      "doi": "10.1145/2491411.2505431",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "f77b23ea73ec73515fd89593879dcd2ed4bbf618",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    91,
+    {
+      "title": "RSA-MBT: a test tool for generating test artifacts based on models",
+      "authors": [
+        "Andrew Diniz da Costa",
+        "Ricardo Venieris",
+        "Gustavo Carvalho",
+        "Carlos Jos\u00e9 Pereira De Lucena"
+      ],
+      "doi": "10.1145/2491411.2494593",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "9db4968e334c85be41a0beb4eb5bdb2483d8e4ef",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Where is the business logic?",
+      "authors": [
+        "Yael Dubinsky",
+        "Yishai Feldman",
+        "Maayan Goldstein"
+      ],
+      "doi": "10.1145/2491411.2494588",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "message": "Network error communicating with endpoint",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    93,
+    {
+      "title": "PHRT: a model and programmable tool for hardware reengineering automation",
+      "authors": [
+        "Oleg Nenashev"
+      ],
+      "doi": "10.1145/2491411.2492406",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "86ce704c422aa1553d73ef8f65138a60e4149831",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Software engineering for mathematics (keynote)",
+      "authors": [
+        "Georges Gonthier"
+      ],
+      "doi": "10.1145/2491411.2505429",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "6b886dc874d80546a7d6df108f61ff8ea7865c1c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Automatically describing software faults",
+      "authors": [
+        "Nicholas DiGiuseppe"
+      ],
+      "doi": "10.1145/2491411.2492401",
+      "venue": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+      "citations": {
+        "paperId": "2918ddb2551a339bc066d905a9b63a11fd93493e",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ]
+]

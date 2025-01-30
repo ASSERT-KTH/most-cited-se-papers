@@ -1,0 +1,2543 @@
+[
+  [
+    1,
+    {
+      "title": "A Novel Neural Source Code Representation Based on Abstract Syntax Tree",
+      "authors": [
+        "Jian Zhang",
+        "Xu Wang",
+        "Hongyu Zhang",
+        "Hailong Sun",
+        "Kaixuan Wang",
+        "Xudong Liu"
+      ],
+      "doi": "10.1109/icse.2019.00086",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1432c8378b1cafa3f91f09fa743082d154fdab92",
+        "citationCount": 515,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Guiding Deep Learning System Testing Using Surprise Adequacy",
+      "authors": [
+        "Jinhan Kim",
+        "Robert Feldt",
+        "Shin Yoo"
+      ],
+      "doi": "10.1109/icse.2019.00108",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "851ec332236952a37236d229521584963f28d150",
+        "citationCount": 400,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    3,
+    {
+      "title": "A Neural Model for Generating Natural Language Summaries of Program Subroutines",
+      "authors": [
+        "Alexander LeClair",
+        "Siyuan Jiang",
+        "Collin McMillan"
+      ],
+      "doi": "10.1109/icse.2019.00087",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3092325d55f6aa9ba28b0841bdcfd61991a38d48",
+        "citationCount": 273,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Superion: Grammar-Aware Greybox Fuzzing",
+      "authors": [
+        "Junjie Wang",
+        "Bihuan Chen",
+        "Lei Wei",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/icse.2019.00081",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a91625e7a8828c8ed33e16e732d9e6d969b9bfcd",
+        "citationCount": 223,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    5,
+    {
+      "title": "On Learning Meaningful Code Changes Via Neural Machine Translation",
+      "authors": [
+        "Michele Tufano",
+        "Jevgenija Pantiuchina",
+        "Cody Watson",
+        "Gabriele Bavota",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/icse.2019.00021",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b3a6e5a38bb5984a27823ecc040526cde10eb730",
+        "citationCount": 193,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing",
+      "authors": [
+        "Jingyi Wang",
+        "Guoliang Dong",
+        "Jun Sun",
+        "Xinyu Wang",
+        "Peixin Zhang"
+      ],
+      "doi": "10.1109/icse.2019.00126",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0392b5ea89298dbef3bd6532cdaa3e1e37df285d",
+        "citationCount": 181,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    7,
+    {
+      "title": "RESTler: Stateful REST API Fuzzing",
+      "authors": [
+        "Vaggelis Atlidakis",
+        "Patrice Godefroid",
+        "Marina Polishchuk"
+      ],
+      "doi": "10.1109/icse.2019.00083",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "19674c67bebb6c0e27f7882dc4100b1597e47645",
+        "citationCount": 166,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    8,
+    {
+      "title": "CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries",
+      "authors": [
+        "Hung Viet Pham",
+        "Thibaud Lutellier",
+        "Weizhen Qi",
+        "Lin Tan"
+      ],
+      "doi": "10.1109/icse.2019.00107",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c1f55baff1e8bce91de083d9741045342ddb0b29",
+        "citationCount": 155,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Software Documentation Issues Unveiled",
+      "authors": [
+        "Emad Aghajani",
+        "Csaba Nagy",
+        "Olga Lucero Vega-Marquez",
+        "Mario Linares-Vasquez",
+        "Laura Moreno",
+        "Gabriele Bavota",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/icse.2019.00122",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "55b6029411225a6eee4f88b3fc4bf3869e667e01",
+        "citationCount": 137,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    10,
+    {
+      "title": "The Seven Sins: Security Smells in Infrastructure as Code Scripts",
+      "authors": [
+        "Akond Rahman",
+        "Chris Parnin",
+        "Laurie Williams"
+      ],
+      "doi": "10.1109/icse.2019.00033",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1cc47e5aea8d6d71817c438e4e790972c04722e2",
+        "citationCount": 136,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Practical GUI Testing of Android Applications Via Model Abstraction and Refinement",
+      "authors": [
+        "Tianxiao Gu",
+        "Chengnian Sun",
+        "Xiaoxing Ma",
+        "Chun Cao",
+        "Chang Xu",
+        "Yuan Yao",
+        "Qirun Zhang",
+        "Jian Lu",
+        "Zhendong Su"
+      ],
+      "doi": "10.1109/icse.2019.00042",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f109140cd6bd469ed0140d8e779747cf9ca0e6bb",
+        "citationCount": 134,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    12,
+    {
+      "title": "NL2Type: Inferring JavaScript Function Types from Natural Language Information",
+      "authors": [
+        "Rabee Sohail Malik",
+        "Jibesh Patra",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/icse.2019.00045",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8e71af3fbec666e67c0fcfefedb38881027a0254",
+        "citationCount": 121,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Harnessing Evolution for Multi-Hunk Program Repair",
+      "authors": [
+        "Seemanta Saha",
+        "Ripon k. Saha",
+        "Mukul r. Prasad"
+      ],
+      "doi": "10.1109/icse.2019.00020",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fd139f10f803cbfeb7d5cf019b39eeeabcb2b696",
+        "citationCount": 111,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Learning to Spot and Refactor Inconsistent Method Names",
+      "authors": [
+        "Kui Liu",
+        "Dongsun Kim",
+        "Tegawende F. Bissyande",
+        "Taeyoung Kim",
+        "Kisub Kim",
+        "Anil Koyuncu",
+        "Suntae Kim",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1109/icse.2019.00019",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0073547de99221662cc1dd3ea4babab91a2512f6",
+        "citationCount": 110,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source",
+      "authors": [
+        "Huilian Sophie Qiu",
+        "Alexander Nolte",
+        "Anita Brown",
+        "Alexander Serebrenik",
+        "Bogdan Vasilescu"
+      ],
+      "doi": "10.1109/icse.2019.00078",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e3e2ebf973741456386e9602063a2d1885a7108d",
+        "citationCount": 109,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Distance-Based Sampling of Software Configuration Spaces",
+      "authors": [
+        "Christian Kaltenecker",
+        "Alexander Grebhahn",
+        "Norbert Siegmund",
+        "Jianmei Guo",
+        "Sven Apel"
+      ],
+      "doi": "10.1109/icse.2019.00112",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e9e3fc1824f710eef0d98fa1f2e0951cfc0ab358",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Gigahorse: Thorough, Declarative Decompilation of Smart Contracts",
+      "authors": [
+        "Neville Grech",
+        "Lexi Brent",
+        "Bernhard Scholz",
+        "Yannis Smaragdakis"
+      ],
+      "doi": "10.1109/icse.2019.00120",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1c3ce2e546f2e53e886844d9dc415857ce84cd1e",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    18,
+    {
+      "title": "StoryDroid: Automated Generation of Storyboard for Android Apps",
+      "authors": [
+        "Sen Chen",
+        "Lingling Fan",
+        "Chunyang Chen",
+        "Ting Su",
+        "Wenhe Li",
+        "Yang Liu",
+        "Lihua Xu"
+      ],
+      "doi": "10.1109/icse.2019.00070",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1447d6acfd8ec8a6f9a18e2c255898ae5bcf3cab",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    19,
+    {
+      "title": "DeepPerf: Performance Prediction for Configurable Software with Deep Sparse Neural Network",
+      "authors": [
+        "Huong Ha",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/icse.2019.00113",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "033ffaa82a8516e20f695a219c31b5727ea35558",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    20,
+    {
+      "title": "FOCUS: A Recommender System for Mining API Function Calls and Usage Patterns",
+      "authors": [
+        "Phuong T. Nguyen",
+        "Juri Di Rocco",
+        "Davide Di Ruscio",
+        "Lina Ochoa",
+        "Thomas Degueule",
+        "Massimiliano Di Penta"
+      ],
+      "doi": "10.1109/icse.2019.00109",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "683b1f1e5390d188d09c4ca9f1d86955f4b92193",
+        "citationCount": 91,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Investigating the Effects of Gender Bias on GitHub",
+      "authors": [
+        "Nasif Imtiaz",
+        "Justin Middleton",
+        "Joymallya Chakraborty",
+        "Neill Robson",
+        "Gina Bai",
+        "Emerson Murphy-Hill"
+      ],
+      "doi": "10.1109/icse.2019.00079",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a7662f2232d3da3a7ab6307d4d7a411bccf14f11",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    22,
+    {
+      "title": "DifFuzz: Differential Fuzzing for Side-Channel Analysis",
+      "authors": [
+        "Shirin Nilizadeh",
+        "Yannic Noller",
+        "Corina S. Pasareanu"
+      ],
+      "doi": "10.1109/icse.2019.00034",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2a0ec832afe7d72ead6b70b743c32a91802502b8",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    23,
+    {
+      "title": "LEOPARD: Identifying Vulnerable Code for Vulnerability Assessment Through Program Metrics",
+      "authors": [
+        "Xiaoning Du",
+        "Bihuan Chen",
+        "Yuekang Li",
+        "Jianmin Guo",
+        "Yaqin Zhou",
+        "Yang Liu",
+        "Yu Jiang"
+      ],
+      "doi": "10.1109/icse.2019.00024",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b9c86aebba3b0542dafe51db7398ae5a9bfa1c5b",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Mining Software Defects: Should We Consider Affected Releases?",
+      "authors": [
+        "Suraj Yatish",
+        "Jirayus Jiarpakdee",
+        "Patanamon Thongtanunam",
+        "Chakkrit Tantithamthavorn"
+      ],
+      "doi": "10.1109/icse.2019.00075",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3097abfde15d20c5a34756080adfb18f52436df0",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    25,
+    {
+      "title": "On Reliability of Patch Correctness Assessment",
+      "authors": [
+        "Xuan-Bach D. Le",
+        "Lingfeng Bao",
+        "David Lo",
+        "Xin Xia",
+        "Shanping Li",
+        "Corina Pasareanu"
+      ],
+      "doi": "10.1109/icse.2019.00064",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0b6a0ef119073a43fa8374dcc3c304914ce83eb1",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Deep Differential Testing of JVM Implementations",
+      "authors": [
+        "Yuting Chen",
+        "Ting Su",
+        "Zhendong Su"
+      ],
+      "doi": "10.1109/icse.2019.00127",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70bb70bf8584ff17c869ebf1a607f7beb43d6cf3",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    27,
+    {
+      "title": "ReCDroid: Automatically Reproducing Android Application Crashes from Bug Reports",
+      "authors": [
+        "Yu Zhao",
+        "Tingting Yu",
+        "Ting Su",
+        "Yang Liu",
+        "Wei Zheng",
+        "Jingzhi Zhang",
+        "William G.J. Halfond"
+      ],
+      "doi": "10.1109/icse.2019.00030",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b903d91c1df09d4ea282898af8b798354295d1e6",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Grey-Box Concolic Testing on Binary Code",
+      "authors": [
+        "Jaeseung Choi",
+        "Joonun Jang",
+        "Choongwoo Han",
+        "Sang Kil Cha"
+      ],
+      "doi": "10.1109/icse.2019.00082",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b85b68312afb0d7b3f0758b3e22618b214f44c14",
+        "citationCount": 75,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    29,
+    {
+      "title": "BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes",
+      "authors": [
+        "David A. Tomassi",
+        "Naji Dmeiri",
+        "Yichen Wang",
+        "Antara Bhowmick",
+        "Yen-Chuan Liu",
+        "Premkumar T. Devanbu",
+        "Bogdan Vasilescu",
+        "Cindy Rubio-Gonzalez"
+      ],
+      "doi": "10.1109/icse.2019.00048",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b549f387e582816ae507c69baabc6a11f78d9965",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    30,
+    {
+      "title": "When Code Completion Fails: A Case Study on Real-World Completions",
+      "authors": [
+        "Vincent J. Hellendoorn",
+        "Sebastian Proksch",
+        "Harald C. Gall",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1109/icse.2019.00101",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d02285385fd2b53a6100b8d62421bba6693b788c",
+        "citationCount": 71,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    31,
+    {
+      "title": "9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay",
+      "authors": [
+        "Hideaki Hata",
+        "Christoph Treude",
+        "Raula Gaikovina Kula",
+        "Takashi Ishio"
+      ],
+      "doi": "10.1109/icse.2019.00123",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "60cda3765d398f2a137a1352fbbaa0a3940fd5e9",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Class Imbalance Evolution and Verification Latency in Just-in-Time Software Defect Prediction",
+      "authors": [
+        "George G. Cabral",
+        "Leandro L. Minku",
+        "Emad Shihab",
+        "Suhaib Mujahid"
+      ],
+      "doi": "10.1109/icse.2019.00076",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a13fbb3b141c9e9c28003dc01a6ff3a7e9e8ec14",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Analysis and Detection of Information Types of Open Source Software Issue Discussions",
+      "authors": [
+        "Deeksha Arya",
+        "Wenting Wang",
+        "Jin L.C. Guo",
+        "Jinghui Cheng"
+      ],
+      "doi": "10.1109/icse.2019.00058",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c8533a9a29b692fb8f053b0cd3dafdbd417cfe84",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    34,
+    {
+      "title": "AutoTap: Synthesizing and Repairing Trigger-Action Programs Using LTL Properties",
+      "authors": [
+        "Lefan Zhang",
+        "Weijia He",
+        "Jesse Martinez",
+        "Noah Brackenbury",
+        "Shan Lu",
+        "Blase Ur"
+      ],
+      "doi": "10.1109/icse.2019.00043",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7b735fabba56447aa042858667278e6cec1f054",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    35,
+    {
+      "title": "SMOKE: Scalable Path-Sensitive Memory Leak Detection for Millions of Lines of Code",
+      "authors": [
+        "Gang Fan",
+        "Rongxin Wu",
+        "Qingkai Shi",
+        "Xiao Xiao",
+        "Jinguo Zhou",
+        "Charles Zhang"
+      ],
+      "doi": "10.1109/icse.2019.00025",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d0e23baf655713857e7eef0cf9b6320a8cad5c55",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Graph Embedding Based Familial Analysis of Android Malware using Unsupervised Learning",
+      "authors": [
+        "Ming Fan",
+        "Xiapu Luo",
+        "Jun Liu",
+        "Meng Wang",
+        "Chunyin Nong",
+        "Qinghua Zheng",
+        "Ting Liu"
+      ],
+      "doi": "10.1109/icse.2019.00085",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e2fd006900e7d70bf504abddd847ec24dc49a2d1",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Pattern-Based Mining of Opinions in Q&amp;A Websites",
+      "authors": [
+        "Bin Lin",
+        "Fiorella Zampetti",
+        "Gabriele Bavota",
+        "Massimiliano Di Penta",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/icse.2019.00066",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0759ca55b62181e8c0b692f46f95c65d0b32ba0a",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    38,
+    {
+      "title": "IconIntent: Automatic Identification of Sensitive UI Widgets Based on Icon Classification for Android Apps",
+      "authors": [
+        "Xusheng Xiao",
+        "Xiaoyin Wang",
+        "Zhihao Cao",
+        "Hanlin Wang",
+        "Peng Gao"
+      ],
+      "doi": "10.1109/icse.2019.00041",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7a2b59cc6bdcf62b573413796f64f6adf0fd7caa",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    39,
+    {
+      "title": "DLFinder: Characterizing and Detecting Duplicate Logging Code Smells",
+      "authors": [
+        "Zhenhao Li",
+        "Tse-Hsun Chen",
+        "Jinqiu Yang",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1109/icse.2019.00032",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5a86974ba82aca52164515b145af411f66e4e38c",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    40,
+    {
+      "title": "SLF: Fuzzing without Valid Seed Inputs",
+      "authors": [
+        "Wei You",
+        "Xuwei Liu",
+        "Shiqing Ma",
+        "David Perry",
+        "Xiangyu Zhang",
+        "Bin Liang"
+      ],
+      "doi": "10.1109/icse.2019.00080",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3a70e211386337152976b7ba01e3bf043640cabf",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    41,
+    {
+      "title": "How Reliable is the Crowdsourced Knowledge of Security Implementation?",
+      "authors": [
+        "Mengsu Chen",
+        "Felix Fischer",
+        "Na Meng",
+        "Xiaoyin Wang",
+        "Jens Grossklags"
+      ],
+      "doi": "10.1109/icse.2019.00065",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "da0d0c80aa583cbdc856b44d1212956a21ff87ce",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Mining Historical Test Logs to Predict Bugs and Localize Faults in the Test Logs",
+      "authors": [
+        "Anunay Amar",
+        "Peter C. Rigby"
+      ],
+      "doi": "10.1109/icse.2019.00031",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9bdce16603224064a8f1d84d2ace899b671d6c81",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Graph-Based Mining of In-the-Wild, Fine-Grained, Semantic Code Change Patterns",
+      "authors": [
+        "Hoan Anh Nguyen",
+        "Tien N. Nguyen",
+        "Danny Dig",
+        "Son Nguyen",
+        "Hieu Tran",
+        "Michael Hilton"
+      ],
+      "doi": "10.1109/icse.2019.00089",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f447af61da8ade946e0eaa096aaee23f79da1961",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Automated Reporting of Anti-Patterns and Decay in Continuous Integration",
+      "authors": [
+        "Carmine Vassallo",
+        "Sebastian Proksch",
+        "Harald C. Gall",
+        "Massimiliano Di Penta"
+      ],
+      "doi": "10.1109/icse.2019.00028",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ecf73c7245989a298206f24f6af2da49e565a6f3",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Probabilistic Disassembly",
+      "authors": [
+        "Kenneth Miller",
+        "Yonghwi Kwon",
+        "Yi Sun",
+        "Zhuo Zhang",
+        "Xiangyu Zhang",
+        "Zhiqiang Lin"
+      ],
+      "doi": "10.1109/icse.2019.00121",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e8154c71ae8bdb1b7bed4fbe8fa36a0704a904e6",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    46,
+    {
+      "title": "DockerizeMe: Automatic Inference of Environment Dependencies for Python Code Snippets",
+      "authors": [
+        "Eric Horton",
+        "Chris Parnin"
+      ],
+      "doi": "10.1109/icse.2019.00047",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dc416fe1d66413011ef64a693c771be0759ab45a",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    47,
+    {
+      "title": "FLOSS Participants' Perceptions About Gender and Inclusiveness: A Survey",
+      "authors": [
+        "Amanda Lee",
+        "Jeffrey C. Carver"
+      ],
+      "doi": "10.1109/icse.2019.00077",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3e2751ea8e904579a488f57fa9a81f539df88733",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    48,
+    {
+      "title": "VFix: Value-Flow-Guided Precise Program Repair for Null Pointer Dereferences",
+      "authors": [
+        "Xuezheng Xu",
+        "Yulei Sui",
+        "Hua Yan",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/icse.2019.00063",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6044177df211bdae4d66ca8c471f3d0ce7b89aa0",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    49,
+    {
+      "title": "PIVOT: Learning API-Device Correlations to Facilitate Android Compatibility Issue Detection",
+      "authors": [
+        "Lili Wei",
+        "Yepang Liu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1109/icse.2019.00094",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "654f9770d2ca818bb1018e45940194df48f7378e",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    50,
+    {
+      "title": "ActionNet: Vision-Based Workflow Action Recognition From Programming Screencasts",
+      "authors": [
+        "Dehai Zhao",
+        "Zhenchang Xing",
+        "Chunyang Chen",
+        "Xin Xia",
+        "Guoqiang Li"
+      ],
+      "doi": "10.1109/icse.2019.00049",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "958bc43014acbc4857e761df0383b8070ec2ffee",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Natural Software Revisited",
+      "authors": [
+        "Musfiqur Rahman",
+        "Dharani Palani",
+        "Peter C. Rigby"
+      ],
+      "doi": "10.1109/icse.2019.00022",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0f444967c164c4cd0d27400be383fd4329cedc64",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Safe Automated Refactoring for Intelligent Parallelization of Java 8 Streams",
+      "authors": [
+        "Raffi Khatchadourian",
+        "Yiming Tang",
+        "Mehdi Bagherzadeh",
+        "Syed Ahmed"
+      ],
+      "doi": "10.1109/icse.2019.00072",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3c5370ec745e50c83c9dd653a5c21824513b150f",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Developer Reading Behavior While Summarizing Java Methods: Size and Context Matters",
+      "authors": [
+        "Nahla J. Abid",
+        "Bonita Sharif",
+        "Natalia Dragan",
+        "Hend Alrasheed",
+        "Jonathan I. Maletic"
+      ],
+      "doi": "10.1109/icse.2019.00052",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ed9fdc8c81be3a61d62b09adb44c4a40131e740e",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Scalable Approaches for Test Suite Reduction",
+      "authors": [
+        "Emilio Cruciani",
+        "Breno Miranda",
+        "Roberto Verdecchia",
+        "Antonia Bertolino"
+      ],
+      "doi": "10.1109/icse.2019.00055",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4b7f01ad1fa09ea1ca09db245e37b43abd258d65",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Exposing Library API Misuses Via Mutation Analysis",
+      "authors": [
+        "Ming Wen",
+        "Yepang Liu",
+        "Rongxin Wu",
+        "Xuan Xie",
+        "Shing-Chi Cheung",
+        "Zhendong Su"
+      ],
+      "doi": "10.1109/icse.2019.00093",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "226a62c11dd4845af592ac4e2fa46eaef2ecc41e",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Search-Based Energy Testing of Android",
+      "authors": [
+        "Reyhaneh Jabbarvand",
+        "Jun-Wei Lin",
+        "Sam Malek"
+      ],
+      "doi": "10.1109/icse.2019.00115",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "32c78814964ba6f18e9acd4b7404dda3f592fe7b",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Automatically Generating Precise Oracles from Structured Natural Language Specifications",
+      "authors": [
+        "Manish Motwani",
+        "Yuriy Brun"
+      ],
+      "doi": "10.1109/icse.2019.00035",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5270162e952a227c27f1806f1501651383f278a3",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects",
+      "authors": [
+        "David Kavaler",
+        "Asher Trockman",
+        "Bogdan Vasilescu",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1109/icse.2019.00060",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "881879ac341325f4de19c19f2037968ae505b20d",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Analyzing and Supporting Adaptation of Online Code Examples",
+      "authors": [
+        "Tianyi Zhang",
+        "Di Yang",
+        "Crista Lopes",
+        "Miryung Kim"
+      ],
+      "doi": "10.1109/icse.2019.00046",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dcea252469995f6fe443dcdfa12ca0f0ab6a365c",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    60,
+    {
+      "title": "A Framework for Checking Regression Test Selection Tools",
+      "authors": [
+        "Chenguang Zhu",
+        "Owolabi Legunsen",
+        "August Shi",
+        "Milos Gligoric"
+      ],
+      "doi": "10.1109/icse.2019.00056",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "151ff515a83439b6155abe5c74b51243be35bdf0",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    61,
+    {
+      "title": "CTRAS: Crowdsourced Test Report Aggregation and Summarization",
+      "authors": [
+        "Rui Hao",
+        "Yang Feng",
+        "James A. Jones",
+        "Yuying Li",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/icse.2019.00096",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b15778d4381cbd3e2a4367b31a113d5bfeb60efe",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Distilling Neural Representations of Data Structure Manipulation using fMRI and fNIRS",
+      "authors": [
+        "Yu Huang",
+        "Xinyu Liu",
+        "Ryan Krueger",
+        "Tyler Santander",
+        "Xiaosu Hu",
+        "Kevin Leach",
+        "Westley Weimer"
+      ],
+      "doi": "10.1109/icse.2019.00053",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "76b1c6fb9b3eb44b75549bbc8d176106d758adf6",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Symbolic Repairs for GR(1) Specifications",
+      "authors": [
+        "Shahar Maoz",
+        "Jan Oliver Ringert",
+        "Rafi Shalom"
+      ],
+      "doi": "10.1109/icse.2019.00106",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "91279168ea93dd0d5907b1a6bd72fbc8f989d344",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Active Inductive Logic Programming for Code Search",
+      "authors": [
+        "Aishwarya Sivaraman",
+        "Tianyi Zhang",
+        "Guy Van den Broeck",
+        "Miryung Kim"
+      ],
+      "doi": "10.1109/icse.2019.00044",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "55fc91a1728fdaccc20d886ac10a958174e9275b",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Could I Have a Stack Trace to Examine the Dependency Conflict Issue?",
+      "authors": [
+        "Ying Wang",
+        "Ming Wen",
+        "Rongxin Wu",
+        "Zhenwei Liu",
+        "Shin Hwei Tan",
+        "Zhiliang Zhu",
+        "Hai Yu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1109/icse.2019.00068",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8f7cb9775da8c0e91399c9e7ae68a41763a889db",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Redundant Loads: A Software Inefficiency Indicator",
+      "authors": [
+        "Pengfei Su",
+        "Shasha Wen",
+        "Hailong Yang",
+        "Milind Chabbi",
+        "Xu Liu"
+      ],
+      "doi": "10.1109/icse.2019.00103",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "836112889f4ad78886081b9e96dd40678cd376d5",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Mimic: UI Compatibility Testing System for Android Apps",
+      "authors": [
+        "Taeyeon Ki",
+        "Chang Min Park",
+        "Karthik Dantu",
+        "Steven Y. Ko",
+        "Lukasz Ziarek"
+      ],
+      "doi": "10.1109/icse.2019.00040",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39be431337392783ddbf9d0e03543a26d913d368",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Why Does Code Review Work for Open Source Software Communities?",
+      "authors": [
+        "Adam Alami",
+        "Marisa Leavitt Cohn",
+        "Andrzej Wasowski"
+      ],
+      "doi": "10.1109/icse.2019.00111",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8194def1ac2313190a53487a5f246c587796d857",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Test-Driven Code Review: An Empirical Study",
+      "authors": [
+        "Davide Spadini",
+        "Fabio Palomba",
+        "Tobias Baum",
+        "Stefan Hanenberg",
+        "Magiel Bruntink",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1109/icse.2019.00110",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "722c096d63a766e6f07e73cc9c480c8019718e01",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    70,
+    {
+      "title": "A System Identification Based Oracle for Control-CPS Software Fault Localization",
+      "authors": [
+        "Zhijian He",
+        "Yao Chen",
+        "Enyan Huang",
+        "Qixin Wang",
+        "Yu Pei",
+        "Haidong Yuan"
+      ],
+      "doi": "10.1109/icse.2019.00029",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "081f5112375d8f2f5c00aba4579e835d962428e6",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Intention-Based Integration of Software Variants",
+      "authors": [
+        "Max Lillack",
+        "Stefan Stanciulescu",
+        "Wilhelm Hedman",
+        "Thorsten Berger",
+        "Andrzej Wasowski"
+      ],
+      "doi": "10.1109/icse.2019.00090",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "838a53823941a83360cae69b1a2bda20a663d4ff",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    72,
+    {
+      "title": "FastLane: Test Minimization for Rapidly Deployed Large-Scale Online Services",
+      "authors": [
+        "Adithya Abraham Philip",
+        "Ranjita Bhagwan",
+        "Rahul Kumar",
+        "Chandra Sekhar Maddila",
+        "Nachiappan Nagppan"
+      ],
+      "doi": "10.1109/icse.2019.00054",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7c0a93cfc7884a5e365d1b17a6293a77ec5a2be5",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Detecting Atomicity Violations for Event-Driven Node.js Applications",
+      "authors": [
+        "Xiaoning Chang",
+        "Wensheng Dou",
+        "Yu Gao",
+        "Jie Wang",
+        "Jun Wei",
+        "Tao Huang"
+      ],
+      "doi": "10.1109/icse.2019.00073",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1484103996a0088cf1792db5842e016feeb7e767",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    74,
+    {
+      "title": "How Practitioners Perceive Coding Proficiency",
+      "authors": [
+        "Xin Xia",
+        "Zhiyuan Wan",
+        "Pavneet Singh Kochhar",
+        "David Lo"
+      ],
+      "doi": "10.1109/icse.2019.00098",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7244fb9236b6153d113134daca5420f6aebfe50",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Hunting for Bugs in Code Coverage Tools via Randomized Differential Testing",
+      "authors": [
+        "Yibiao Yang",
+        "Yuming Zhou",
+        "Hao Sun",
+        "Zhendong Su",
+        "Zhiqiang Zuo",
+        "Lei Xu",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/icse.2019.00061",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "95ab336822e36ad2c67662ca25c1ab348f101889",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Resource-Aware Program Analysis Via Online Abstraction Coarsening",
+      "authors": [
+        "Kihong Heo",
+        "Hakjoo Oh",
+        "Hongseok Yang"
+      ],
+      "doi": "10.1109/icse.2019.00027",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4b55d8f19b4c5b5cf05dcdb16ba01fb402a9f719",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Dynamic Slicing for Android",
+      "authors": [
+        "Tanzirul Azim",
+        "Arash Alavi",
+        "Iulian Neamtiu",
+        "Rajiv Gupta"
+      ],
+      "doi": "10.1109/icse.2019.00118",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f537ecc234126f3e8e28738a2143f3aebfde3752",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    78,
+    {
+      "title": "View-Centric Performance Optimization for Database-Backed Web Applications",
+      "authors": [
+        "Junwen Yang",
+        "Cong Yan",
+        "Chengcheng Wan",
+        "Shan Lu",
+        "Alvin Cheung"
+      ],
+      "doi": "10.1109/icse.2019.00104",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de7f9e96615d0a38371b8f9bdb96eb2425b50068",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Why Do Episodic Volunteers Stay in FLOSS Communities?",
+      "authors": [
+        "Ann Barcomb",
+        "Klaas-Jan Stol",
+        "Dirk Riehle",
+        "Brian Fitzgerald"
+      ],
+      "doi": "10.1109/icse.2019.00100",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a8d8890b915309da97b6c598540a814b8a51e445",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Supporting the Statistical Analysis of Variability Models",
+      "authors": [
+        "Ruben Heradio",
+        "David Fernandez-Amoros",
+        "Christoph Mayr-Dorn",
+        "Alexander Egyed"
+      ],
+      "doi": "10.1109/icse.2019.00091",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6dbfc307b8d31f108280422cdbb4d9ec54363a56",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    81,
+    {
+      "title": "GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing",
+      "authors": [
+        "Shaiful Alam Chowdhury",
+        "Abram Hindle",
+        "Rick Kazman",
+        "Takumi Shuto",
+        "Ken Matsui",
+        "Yasutaka Kamei"
+      ],
+      "doi": "10.1109/icse.2019.00114",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "80ebb5db527d85d82bb78ab94fe205876659368f",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Investigating the Impact of Multiple Dependency Structures on Software Defects",
+      "authors": [
+        "Di Cui",
+        "Ting Liu",
+        "Yuanfang Cai",
+        "Qinghua Zheng",
+        "Qiong Feng",
+        "Wuxia Jin",
+        "Jiaqi Guo",
+        "Yu Qu"
+      ],
+      "doi": "10.1109/icse.2019.00069",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "689626edc4e5edf5691e868a7a04b6e813559c81",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Recovering Variable Names for Minified Code with Usage Contexts",
+      "authors": [
+        "Hieu Tran",
+        "Ngoc Tran",
+        "Son Nguyen",
+        "Hoan Nguyen",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2019.00119",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "308c7a3a2335bc11ec9cd8ea5b120acde87f161b",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Leveraging Artifact Trees to Evolve and Reuse Safety Cases",
+      "authors": [
+        "Ankit Agrawal",
+        "Seyedehzahra Khoshmanesh",
+        "Michael Vierhauser",
+        "Mona Rahimi",
+        "Jane Cleland-Huang",
+        "Robyn Lutz"
+      ],
+      "doi": "10.1109/icse.2019.00124",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "db8341dbd365e81aacd65988c3b7042c99bfaef6",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Latent Patterns in Activities: A Field Study of How Developers Manage Context",
+      "authors": [
+        "Souti Chattopadhyay",
+        "Nicholas Nelson",
+        "Yenifer Ramirez Gonzalez",
+        "Annel Amelia Leon",
+        "Rahul Pandita",
+        "Anita Sarma"
+      ],
+      "doi": "10.1109/icse.2019.00051",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6daccacdf23f4d97518308f0f438e712ad0178f5",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Rotten Green Tests",
+      "authors": [
+        "Julien Delplanque",
+        "Stephane Ducasse",
+        "Guillermo Polito",
+        "Andrew P. Black",
+        "Anne Etien"
+      ],
+      "doi": "10.1109/icse.2019.00062",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5bb86268c4840882388ab7f4216deff871258704",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Interactive Production Performance Feedback in the IDE",
+      "authors": [
+        "Jurgen Cito",
+        "Philipp Leitner",
+        "Martin Rinard",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1109/icse.2019.00102",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6056759c7a2f296e94e03a61414ea35637d98882",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Multifaceted Automated Analyses for Variability-Intensive Embedded Systems",
+      "authors": [
+        "Sami Lazreg",
+        "Maxime Cordy",
+        "Philippe Collet",
+        "Patrick Heymans",
+        "Sebastien Mosser"
+      ],
+      "doi": "10.1109/icse.2019.00092",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e6f6930ee90056ae125d86cd64eac7909d5461b7",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Type Migration in Ultra-Large-Scale Codebases",
+      "authors": [
+        "Ameya Ketkar",
+        "Ali Mesbah",
+        "Davood Mazinanian",
+        "Danny Dig",
+        "Edward Aftandilian"
+      ],
+      "doi": "10.1109/icse.2019.00117",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "32eda21aad0f15ce80d983fbbe4671490662766d",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Training Binary Classifiers as Data Structure Invariants",
+      "authors": [
+        "Facundo Molina",
+        "Renzo Degiovanni",
+        "Pablo Ponzio",
+        "German Regis",
+        "Nazareno Aguirre",
+        "Marcelo Frias"
+      ],
+      "doi": "10.1109/icse.2019.00084",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a6806eb55494d6c15c71b747a0b3e92b44d9dbba",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects",
+      "authors": [
+        "Farhana Sarker",
+        "Bogdan Vasilescu",
+        "Kelly Blincoe",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1109/icse.2019.00099",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "89ea48a7e0c28ee87e04166e64f3b3814fd4af86",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Detection and Repair of Architectural Inconsistencies in Java",
+      "authors": [
+        "Negar Ghorbani",
+        "Joshua Garcia",
+        "Sam Malek"
+      ],
+      "doi": "10.1109/icse.2019.00067",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "95818dabe717e85ccb7642e917d8b472df479d7d",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Towards Understanding and Reasoning About Android Interoperations",
+      "authors": [
+        "Sora Bae",
+        "Sungho Lee",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1109/icse.2019.00038",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f075a448f0276b6719874ecc7eb93748166cb0c7",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Statistical Algorithmic Profiling for Randomized Approximate Programs",
+      "authors": [
+        "Keyur Joshi",
+        "Vimuth Fernando",
+        "Sasa Misailovic"
+      ],
+      "doi": "10.1109/icse.2019.00071",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "80491c5fdd2d71a717d1e3e99a58acad1ceec514",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    95,
+    {
+      "title": "iSENSE: Completion-Aware Crowdtesting Management",
+      "authors": [
+        "Junjie Wang",
+        "Ye Yang",
+        "Rahul Krishna",
+        "Tim Menzies",
+        "Qing Wang"
+      ],
+      "doi": "10.1109/icse.2019.00097",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1a265211b880a0b683d63e8fb1884aa5d1282ebf",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    96,
+    {
+      "title": "SafeCheck: Safety Enhancement of Java Unsafe API",
+      "authors": [
+        "Shiyou Huang",
+        "Jianmei Guo",
+        "Sanhong Li",
+        "Xiang Li",
+        "Yumin Qi",
+        "Kingsum Chow",
+        "Jeff Huang"
+      ],
+      "doi": "10.1109/icse.2019.00095",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e3f849ce065721853b1385de7764bd6f310c3129",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Supporting Analysts by Dynamic Extraction and Classification of Requirements-Related Knowledge",
+      "authors": [
+        "Zahra Shakeri Hossein Abad",
+        "Vincenzo Gervasi",
+        "Didar Zowghi",
+        "Behrouz H. Far"
+      ],
+      "doi": "10.1109/icse.2019.00057",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f759b43626dceb4d1c46c66fdaee36ca371eeb3",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Detecting Incorrect Build Rules",
+      "authors": [
+        "Nandor Licker",
+        "Andrew Rice"
+      ],
+      "doi": "10.1109/icse.2019.00125",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb95294c9449c490c11c5fce5793ee382414000d",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    99,
+    {
+      "title": "The List is the Process: Reliable Pre-Integration Tracking of Commits on Mailing Lists",
+      "authors": [
+        "Ralf Ramsauer",
+        "Daniel Lohmann",
+        "Wolfgang Mauerer"
+      ],
+      "doi": "10.1109/icse.2019.00088",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bfad8b9e1324858b06c39d0b5c0e499d587490c9",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Reasonably-Most-General Clients for JavaScript Library Analysis",
+      "authors": [
+        "Erik Krogh Kristensen",
+        "Anders Moller"
+      ],
+      "doi": "10.1109/icse.2019.00026",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61567eaa1f98e4844e0ce29e7d8fee2f62a31289",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Zero-Overhead Path Prediction with Progressive Symbolic Execution",
+      "authors": [
+        "Richard Rutledge",
+        "Sunjae Park",
+        "Haider Khan",
+        "Alessandro Orso",
+        "Milos Prvulovic",
+        "Alenka Zajic"
+      ],
+      "doi": "10.1109/icse.2019.00039",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "eea27fdac929bf0bb00cd90b50f0136ef1cc558b",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Easy Modelling and Verification of Unpredictable and Preemptive Interrupt-Driven Systems",
+      "authors": [
+        "Minxue Pan",
+        "Shouyu Chen",
+        "Yu Pei",
+        "Tian Zhang",
+        "Xuandong Li"
+      ],
+      "doi": "10.1109/icse.2019.00037",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "082b076a100a67ac3c6bbe9a1c6031b98b5bd012",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Do Developers Discover New Tools On The Toilet?",
+      "authors": [
+        "Emerson Murphy-Hill",
+        "Edward K. Smith",
+        "Caitlin Sadowski",
+        "Ciera Jaspan",
+        "Collin Winter",
+        "Matthew Jorde",
+        "Andrea Knight",
+        "Andrew Trenk",
+        "Steve Gross"
+      ],
+      "doi": "10.1109/icse.2019.00059",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "25b82fbdabcae52dc2b11a9a8ca4ef0badd403e6",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Towards Automating Precision Studies of Clone Detectors",
+      "authors": [
+        "Vaibhav Saini",
+        "Farima Farmahinifarahani",
+        "Yadong Lu",
+        "Di Yang",
+        "Pedro Martins",
+        "Hitesh Sajnani",
+        "Pierre Baldi",
+        "Cristina V. Lopes"
+      ],
+      "doi": "10.1109/icse.2019.00023",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d99e9ffa3d871b2f9eadc0a49a398bfda73ccd24",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Global Optimization of Numerical Programs Via Prioritized Stochastic Algebraic Transformations",
+      "authors": [
+        "Xie Wang",
+        "Huaijin Wang",
+        "Zhendong Su",
+        "Enyi Tang",
+        "Xin Chen",
+        "Weijun Shen",
+        "Zhenyu Chen",
+        "Linzhang Wang",
+        "Xianpei Zhang",
+        "Xuandong Li"
+      ],
+      "doi": "10.1109/icse.2019.00116",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ac76d2c285abe186f26ca6692d56f7d3e5b96e96",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    106,
+    {
+      "title": "The Product Backlog",
+      "authors": [
+        "Todd Sedano",
+        "Paul Ralph",
+        "Cecile Peraire"
+      ],
+      "doi": "10.1109/icse.2019.00036",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "115906e02520c39b471a447010b9cf732e9ba1f0",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Parallel Refinement for Multi-Threaded Program Verification",
+      "authors": [
+        "Liangze Yin",
+        "Wei Dong",
+        "Wanwei Liu",
+        "Ji Wang"
+      ],
+      "doi": "10.1109/icse.2019.00074",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c3571938c2aa040f14b3a62b85d9e0fa7bf813ff",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    108,
+    {
+      "title": "AdJust: Runtime Mitigation of Resource Abusing Third-Party Online Ads",
+      "authors": [
+        "Weihang Wang",
+        "I Luk Kim",
+        "Yunhui Zheng"
+      ],
+      "doi": "10.1109/icse.2019.00105",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "342a1a689b72b2e731392886c0f6c8b7731d3124",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    109,
+    {
+      "title": "How C++ Developers Use Immutability Declarations: An Empirical Study",
+      "authors": [
+        "Jonathan Eyolfson",
+        "Patrick Lam"
+      ],
+      "doi": "10.1109/icse.2019.00050",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "abfe9d119fef667478d4b8701c5b885e318031b5",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Message from the Journal-First Chair of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00007",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ff60f2017da45f9eea015399d71598b0fe8a1f0c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Workshops Program Committee of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00016",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6ae35491a8193a57f96029645bba93a6c2921b34",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Message from the Workshop Chairs of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00008",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0e6cddfb2898a22dcda60e9d02dcad580daa2bce",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Program Committee of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00014",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "20a9f8427cc68558cd4a97fa66debb2d4baea9d5",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    114,
+    {
+      "title": "Journal First Program Committee of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00015",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "104a88fe7dffe5b6f57efbc2a3db6e2f1584f1e1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Author Index",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00128",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Message from the Social Media Chairs of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00011",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "881483572a16c2c10bd40bc67aa652eb70b13c09",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Message from the Artifact Evaluation Chairs of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00009",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3d7b316e640fd1f10cfc33500de858465bf7cd42",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00004",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d041cfb5ac3032058e9d901dd6b1bc175923c587",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Title Page i",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00001",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a168dd73e85bceda4e754d5e6aa0c2eea10ea865",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Copyright Page",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00003",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Organizing Committee of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00012",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af1dd060f706ef78fd4868a9dad1f467d8fc0062",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Message from the Web Chairs of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00010",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b2cf3988a52d8e46795c10fb245b6249df0dc8d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Sponsors and Supporters of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00018",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Program Board of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00013",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9a2b55574db9d1ae453fbd2c6678be9eb396d36a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Artifact Evaluation Committee of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00017",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "302caa246e2d9bdac56d068664225440f765da1a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    126,
+    {
+      "title": "Message from the Program Chairs of ICSE 2019",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00006",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "paperId": "53f55c5316679e9919badfe47c26d340aab7df3b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Title Page iii",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00002",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Message from the ICSE 2019 General Chair",
+      "authors": [],
+      "doi": "10.1109/icse.2019.00005",
+      "venue": "2019 IEEE/ACM 41st International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2019
+    }
+  ]
+]

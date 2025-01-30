@@ -1,0 +1,2763 @@
+[
+  [
+    1,
+    {
+      "title": "A systematic review of systematic review process research in software engineering",
+      "authors": [
+        "Barbara Kitchenham",
+        "Pearl Brereton"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.010",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "41116eae430b585242e2b1e4cd2daa7f74a0a950",
+        "citationCount": 785,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Software fault prediction metrics: A systematic literature review",
+      "authors": [
+        "Danijel Radjenovi\u0107",
+        "Marjan Heri\u010dko",
+        "Richard Torkar",
+        "Ale\u0161 \u017divkovi\u010d"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2f053cc01420728b036859e8935d4bc684d1c647",
+        "citationCount": 492,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Software clone detection: A systematic review",
+      "authors": [
+        "Dhavleesh Rattan",
+        "Rajesh Bhatia",
+        "Maninder Singh"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "7f069ac5897dbe9d16b7edeb2efd056fe0fbd58e",
+        "citationCount": 412,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Systematic literature reviews in software engineering",
+      "authors": [
+        "Claes Wohlin",
+        "Rafael Prikladnicki"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "be779149798a217e81a4d9deb46a68db218a22c2",
+        "citationCount": 189,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Graphical user interface (GUI) testing: Systematic mapping and repository",
+      "authors": [
+        "Ishan Banerjee",
+        "Bao Nguyen",
+        "Vahid Garousi",
+        "Atif Memon"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f5763fe540d217f0afe613c932d410962e9b8cb6",
+        "citationCount": 165,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Interpretative case studies on agile team productivity and management",
+      "authors": [
+        "Claudia de O. Melo",
+        "Daniela S. Cruzes",
+        "Fabio Kon",
+        "Reidar Conradi"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0e4b87f4a04ab23fe60f6657da8d80e7750ddb2e",
+        "citationCount": 164,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Acquiring and sharing tacit knowledge in software development teams: An empirical study",
+      "authors": [
+        "Sharon Ryan",
+        "Rory V. O\u2019Connor"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.013",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "28cba144e225fd867d763cf0a17e0c72dbbce576",
+        "citationCount": 159,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Scalable prediction of non-functional properties in software product lines: Footprint and memory consumption",
+      "authors": [
+        "Norbert Siegmund",
+        "Marko Rosenm\u00fcller",
+        "Christian K\u00e4stner",
+        "Paolo G. Giarrusso",
+        "Sven Apel",
+        "Sergiy S. Kolesnikov"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.020",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6348f3550c15ed5112e3e16e1fee279684a2f708",
+        "citationCount": 147,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Systematic reviews in software engineering: An empirical investigation",
+      "authors": [
+        "He Zhang",
+        "Muhammad Ali Babar"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "35a125397e9ec06bd5260e7c2229a31befdc7c16",
+        "citationCount": 128,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Empirical evaluation of the effects of mixed project data on learning defect predictors",
+      "authors": [
+        "Burak Turhan",
+        "Ay\u015fe Tosun M\u0131s\u0131rl\u0131",
+        "Ay\u015fe Bener"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "db1d6269a916976b5ea3b7990c1552fb9d379847",
+        "citationCount": 127,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    11,
+    {
+      "title": "When agile meets the enterprise",
+      "authors": [
+        "Guus van Waardenburg",
+        "Hans van Vliet"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.012",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "05cc38ae4f7a0aa281496c0b2ef603034357b6b6",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Interactive requirements prioritization using a genetic algorithm",
+      "authors": [
+        "Paolo Tonella",
+        "Angelo Susi",
+        "Francis Palma"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "48468a8a12e6572011658eafbda3b3e09c241670",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    13,
+    {
+      "title": "A systematic mapping study of web application testing",
+      "authors": [
+        "Vahid Garousi",
+        "Ali Mesbah",
+        "Aysu Betin-Can",
+        "Shabnam Mirshokraie"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "da3b4e13ad86f29082291ac96dbbdb9a75119360",
+        "citationCount": 110,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Metamorphic slice: An application in spectrum-based fault localization",
+      "authors": [
+        "Xiaoyuan Xie",
+        "W. Eric Wong",
+        "Tsong Yueh Chen",
+        "Baowen Xu"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "097c9b76677b0b1244caf397b0610984e4016404",
+        "citationCount": 104,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Object-oriented class maintainability prediction using internal quality attributes",
+      "authors": [
+        "Jehad Al Dallal"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "47c2a009508381a4fe7beb734e9b31dba9006ce7",
+        "citationCount": 100,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Variability in quality attributes of service-based software systems: A systematic literature review",
+      "authors": [
+        "Sara Mahdavi-Hezavehi",
+        "Matthias Galster",
+        "Paris Avgeriou"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.010",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2ec14b6a7205e8ec41310560ca79904ef14ec4b5",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    17,
+    {
+      "title": "To what extent can maintenance problems be predicted by code smell detection? \u2013 An empirical study",
+      "authors": [
+        "Aiko Yamashita",
+        "Leon Moonen"
+      ],
+      "doi": "10.1016/j.infsof.2013.08.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "895bdcb6a8035ddb9b09588c0084587c7cf2b214",
+        "citationCount": 98,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Software evolution visualization: A systematic mapping study",
+      "authors": [
+        "Renato Lima Novais",
+        "Andr\u00e9 Torres",
+        "Thiago Souto Mendes",
+        "Manoel Mendon\u00e7a",
+        "Nico Zazworka"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5a5ba2f233e4d66d290525a53018c1594b486cea",
+        "citationCount": 98,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Software verification and graph similarity for automated evaluation of students\u2019 assignments",
+      "authors": [
+        "Milena Vujo\u0161evi\u0107-Jani\u010di\u0107",
+        "Mladen Nikoli\u0107",
+        "Du\u0161an To\u0161i\u0107",
+        "Viktor Kuncak"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3e2a07af9e1c902a1cb08fed1004baf452c14725",
+        "citationCount": 96,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    20,
+    {
+      "title": "A systematic review of software robustness",
+      "authors": [
+        "Ali Shahrokni",
+        "Robert Feldt"
+      ],
+      "doi": "10.1016/j.infsof.2012.06.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "88812c36ba3090edb3d3cbd8d2ec78e85f9fa4d9",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    21,
+    {
+      "title": "The state of the art in automated requirements elicitation",
+      "authors": [
+        "Hendrik Meth",
+        "Manuel Brhel",
+        "Alexander Maedche"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f2c4b9421d89bf21473779e0ae37d4536594a637",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Predicting SQL injection and cross site scripting vulnerabilities through mining input sanitization patterns",
+      "authors": [
+        "Lwin Khin Shar",
+        "Hee Beng Kuan Tan"
+      ],
+      "doi": "10.1016/j.infsof.2013.04.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "daa7c3206ceca08d44e4444945a26dedbd36bd46",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Application of knowledge-based approaches in software architecture: A systematic mapping study",
+      "authors": [
+        "Zengyang Li",
+        "Peng Liang",
+        "Paris Avgeriou"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ae6008049f4dbfad28ef2e514cb4cb4d8785fbc3",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Reasoning with contextual requirements: Detecting inconsistency and conflicts",
+      "authors": [
+        "Raian Ali",
+        "Fabiano Dalpiaz",
+        "Paolo Giorgini"
+      ],
+      "doi": "10.1016/j.infsof.2012.06.013",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a1d85ff2c04a3da8771389d22062dd94712493c9",
+        "citationCount": 78,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Successful extreme programming: Fidelity to the methodology or good teamworking?",
+      "authors": [
+        "Stephen Wood",
+        "George Michaelides",
+        "Chris Thomson"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "905f85d6d061f9ecb85aa4a26798134e660b474f",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Empirical studies on the use of social software in global software development \u2013 A systematic mapping study",
+      "authors": [
+        "Rosalba Giuffrida",
+        "Yvonne Dittrich"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2b5b4c40f93f289575408073a60eecb7271653c0",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Model-based verification of quantitative non-functional properties for software product lines",
+      "authors": [
+        "Carlo Ghezzi",
+        "Amir Molzam Sharifloo"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.017",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "de7a1641701100bea2f5855fe3aa7fcbcf28c7ac",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Analyzing an automotive testing process with evidence-based software engineering",
+      "authors": [
+        "Abhinaya Kasoju",
+        "Kai Petersen",
+        "Mika V. M\u00e4ntyl\u00e4"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "745e44e3b93546a84a283fde16cae74e73955c92",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    29,
+    {
+      "title": "The use of software product lines for business process management: A systematic literature review",
+      "authors": [
+        "Roberto dos Santos Rocha",
+        "Marcelo Fantinato"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5986c9c70626ed25a78c0ea6b07248871d308b1c",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Supporting the verification of compliance to safety standards via model-driven engineering: Approach, tool-support and empirical validation",
+      "authors": [
+        "Rajwinder Kaur Panesar-Walawege",
+        "Mehrdad Sabetzadeh",
+        "Lionel Briand"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c7493c8c2f45c3cf9b6498c564019199b3d42b23",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    31,
+    {
+      "title": "AUSTIN: An open source tool for search based software testing of C programs",
+      "authors": [
+        "Kiran Lakhotia",
+        "Mark Harman",
+        "Hamilton Gross"
+      ],
+      "doi": "10.1016/j.infsof.2012.03.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9e22ded4f21ee9014d102c25163b450e5c3e5ec1",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Aspect-oriented model-driven code generation: A systematic mapping study",
+      "authors": [
+        "Abid Mehmood",
+        "Dayang N.A. Jawawi"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b547f8e9b17121f93b98c034322609fbaa4a2082",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Static analysis of source code security: Assessment of tools against SAMATE tests",
+      "authors": [
+        "Gabriel D\u00edaz",
+        "Juan Ram\u00f3n Bermejo"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "00b69ddb4f30b83f2f409953515410e00b6ea32c",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    34,
+    {
+      "title": "SimPL: A product-line modeling methodology for families of integrated control systems",
+      "authors": [
+        "Razieh Behjati",
+        "Tao Yue",
+        "Lionel Briand",
+        "Bran Selic"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "57ba568356e6e7563201ddc345c2d074162f8dc7",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Empirical evaluation of search based requirements interaction management",
+      "authors": [
+        "Yuanyuan Zhang",
+        "Mark Harman",
+        "Soo Ling Lim"
+      ],
+      "doi": "10.1016/j.infsof.2012.03.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "268ab2d9d62037cb2b3847c773876b24566f3ea0",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Applying MDE to the (semi-)automatic development of model transformations",
+      "authors": [
+        "Ver\u00f3nica Andrea Bollati",
+        "Juan Manuel Vara",
+        "\u00c1lvaro Jim\u00e9nez",
+        "Esperanza Marcos"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "bf751a7f1a50663eaf0aa53b554b71545219ddd3",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    37,
+    {
+      "title": "A visual token-based formalization of BPMN 2.0 based on in-place transformations",
+      "authors": [
+        "Pieter Van Gorp",
+        "Remco Dijkman"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.014",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "03fb7c4d7c9483ade868792e47061f3457dc5c3e",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    38,
+    {
+      "title": "A comparison of the efficiency and effectiveness of vulnerability discovery techniques",
+      "authors": [
+        "Andrew Austin",
+        "Casper Holmgreen",
+        "Laurie Williams"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8760957b9f16cc7a4573356ed2665a6075ea0c8e",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Ontological and linguistic metamodelling revisited: A language use approach",
+      "authors": [
+        "Owen Eriksson",
+        "Brian Henderson-Sellers",
+        "P\u00e4r J. \u00c5gerfalk"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "dda9214d1797ea322513ebe0fd18cb6f17007e9a",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    40,
+    {
+      "title": "More testers \u2013 The effect of crowd size and time restriction in software testing",
+      "authors": [
+        "Mika V. M\u00e4ntyl\u00e4",
+        "Juha Itkonen"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "dca733f1f00196219e65324650b5188516f849a1",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Comparing the comprehensibility of requirements models expressed in Use Case and Tropos: Results from a family of experiments",
+      "authors": [
+        "Irit Hadar",
+        "Iris Reinhartz-Berger",
+        "Tsvi Kuflik",
+        "Anna Perini",
+        "Filippo Ricca",
+        "Angelo Susi"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "d3587f7b4a6f369a48f3219c34dc10ca511409e0",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Empirical studies concerning the maintenance of UML diagrams and their use in the maintenance of code: A systematic mapping study",
+      "authors": [
+        "Ana M. Fern\u00e1ndez-S\u00e1ez",
+        "Marcela Genero",
+        "Michel R.V. Chaudron"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9fd3b4ded4c24ffc703c65ce10585048f6bf267c",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    43,
+    {
+      "title": "MDD vs. traditional software development: A practitioner\u2019s subjective perspective",
+      "authors": [
+        "Yulkeidi Mart\u00ednez",
+        "Cristina Cachero",
+        "Santiago Meli\u00e1"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9fd3f3140a5b4f1716c4992b417dd0a2f9c905a6",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Is lines of code a good measure of effort in effort-aware models?",
+      "authors": [
+        "Emad Shihab",
+        "Yasutaka Kamei",
+        "Bram Adams",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1016/j.infsof.2013.06.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "d51fb5bbdc0715ae2fc35939dcb90e8dc5828392",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Combining service-orientation and software product line engineering: A systematic mapping study",
+      "authors": [
+        "Bardia Mohabbati",
+        "Mohsen Asadi",
+        "Dragan Ga\u0161evi\u0107",
+        "Marek Hatala",
+        "Hausi A. M\u00fcller"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "d5f242aabee1691d5d9c23155db5623b32b159c9",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Test case selection for black-box regression testing of database applications",
+      "authors": [
+        "Erik Rogstad",
+        "Lionel Briand",
+        "Richard Torkar"
+      ],
+      "doi": "10.1016/j.infsof.2013.04.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "092d9af03798aed5944e843f54ec09933807d7de",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    47,
+    {
+      "title": "AREION: Software effort estimation based on multiple regressions with adaptive recursive data partitioning",
+      "authors": [
+        "Yeong-Seok Seo",
+        "Doo-Hwan Bae",
+        "Ross Jeffery"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "085075bed551583da13ad333d60cbf89493fb20f",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    48,
+    {
+      "title": "A study of subgroup discovery approaches for defect prediction",
+      "authors": [
+        "Daniel Rodriguez",
+        "Roberto Ruiz",
+        "Jose C. Riquelme",
+        "Rachel Harrison"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e6fe0f0d0163ac2b5268c20c8ddcd1b5663fa7ca",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Round-trip support for extra-functional property management in model-driven engineering of embedded systems",
+      "authors": [
+        "Federico Ciccozzi",
+        "Antonio Cicchetti",
+        "Mikael Sj\u00f6din"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.014",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "184be8af4f1875d0b8b255753552ce965dd078ea",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Automated generation of test oracles using a model-driven approach",
+      "authors": [
+        "Beatriz P\u00e9rez Lamancha",
+        "Macario Polo",
+        "Danilo Caivano",
+        "Mario Piattini",
+        "Giuseppe Visaggio"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3503cf6075df3e1cd0ab142f4dab6cde550a4820",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Efficient software clustering technique using an adaptive and preventive dendrogram cutting approach",
+      "authors": [
+        "Chun Yong Chong",
+        "Sai Peck Lee",
+        "Teck Chaw Ling"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6e7d418508b4f78d0f42fe76b4f74af5e0dd33ab",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Quality evaluation of floss projects: Application to ERP systems",
+      "authors": [
+        "Lerina Aversano",
+        "Maria Tortorella"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4d6972f602035edcc43bb2f616ab5e6b65ffd529",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Design of an empirical study for comparing the usability of concurrent programming languages",
+      "authors": [
+        "Sebastian Nanz",
+        "Faraz Torshizi",
+        "Michela Pedroni",
+        "Bertrand Meyer"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.013",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "718058f576e606c5d85fd371996e1de893d5df48",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Evaluating test suite characteristics, cost, and effectiveness of FSM-based testing methods",
+      "authors": [
+        "Andre Takeshi Endo",
+        "Adenilso Simao"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "d6473eedd473a2cddfee9f28b0e30fa944e59660",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Architectural evolution of FamiWare using cardinality-based feature models",
+      "authors": [
+        "Nadia Gamez",
+        "Lidia Fuentes"
+      ],
+      "doi": "10.1016/j.infsof.2012.06.012",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "481fba6f3d85642fe443b9d3d70aa7453795f3da",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Constraints for the design of variability-intensive service-oriented reference architectures \u2013 An industrial case study",
+      "authors": [
+        "Matthias Galster",
+        "Paris Avgeriou",
+        "Dan Tofan"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.011",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "701b1f632ed3c3c9003e0bebcdfe45403cfa613a",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    57,
+    {
+      "title": "A survey of experienced user perceptions about software design patterns",
+      "authors": [
+        "Cheng Zhang",
+        "David Budgen"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ffa58300087245754822acb5c6fc39ab21d96562",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    58,
+    {
+      "title": "A taxonomy of design methods process models",
+      "authors": [
+        "Eric C\u00e9ret",
+        "Sophie Dupuy-Chessa",
+        "Ga\u00eblle Calvary",
+        "Agn\u00e8s Front",
+        "Dominique Rieu"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0e11c9c2f55dcaead9194ee0a3a2ae0e81a377a4",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Modeling optimal release policy under fuzzy paradigm in imperfect debugging environment",
+      "authors": [
+        "Bhoopendra Pachauri",
+        "Ajay Kumar",
+        "Joydip Dhar"
+      ],
+      "doi": "10.1016/j.infsof.2013.06.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "446399fe776331148293ed94327b321c8868db96",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Estimating software testing complexity",
+      "authors": [
+        "Javier Ferrer",
+        "Francisco Chicano",
+        "Enrique Alba"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "945da8967014005caa32153e6e31f6335414f78e",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    61,
+    {
+      "title": "An architectural model for software testing lesson learned systems",
+      "authors": [
+        "Javier Andrade",
+        "Juan Ares",
+        "Mar\u00eda-Aurora Mart\u00ednez",
+        "Juan Pazos",
+        "Santiago Rodr\u00edguez",
+        "Julio Romera",
+        "Sonia Su\u00e1rez"
+      ],
+      "doi": "10.1016/j.infsof.2012.03.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3ed781b47a7021d1a824b441029895c07c02a9e4",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    62,
+    {
+      "title": "A general noise-reduction framework for fault localization of Java programs",
+      "authors": [
+        "Jian Xu",
+        "Zhenyu Zhang",
+        "W.K. Chan",
+        "T.H. Tse",
+        "Shanping Li"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2ed87a8ca54ed691b35ffd2a4887ecd89431c7f2",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Enhancing software reliability estimates using modified adaptive testing",
+      "authors": [
+        "Hai Hu",
+        "Chang-Hai Jiang",
+        "Kai-Yuan Cai",
+        "W. Eric Wong",
+        "Aditya P. Mathur"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.012",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "17a3b884d84f0c9f34e5e801281f396b5b2b99e4",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    64,
+    {
+      "title": "An investigation of how quality requirements are specified in industrial practice",
+      "authors": [
+        "Richard Berntsson Svensson",
+        "Thomas Olsson",
+        "Bj\u00f6rn Regnell"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "12d6907a698780de95afae12e6a97a18f99313ee",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Obsolete software requirements",
+      "authors": [
+        "Krzysztof Wnuk",
+        "Tony Gorschek",
+        "Showayb Zahda"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e99a35b2c62473b0257e82c1e53da45971313d44",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Model-driven performance analysis of rule-based domain specific visual models",
+      "authors": [
+        "Javier Troya",
+        "Antonio Vallecillo",
+        "Francisco Dur\u00e1n",
+        "Steffen Zschaler"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c0f92084c4714d324c752cf519546105962d15dc",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Concept location using program dependencies and information retrieval (DepIR)",
+      "authors": [
+        "Maksym Petrenko",
+        "V\u00e1clav Rajlich"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.013",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "57fe9190b9cba5afc604ec4efc9bfb1ee95778e9",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    68,
+    {
+      "title": "The influence of selection bias on effort overruns in software development projects",
+      "authors": [
+        "Magne J\u00f8rgensen"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "cc7aec68c83fe5b05299389b013b4e3b429389cd",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Comparison and integration of genetic algorithms and dynamic symbolic execution for security testing of cross-site scripting vulnerabilities",
+      "authors": [
+        "Andrea Avancini",
+        "Mariano Ceccato"
+      ],
+      "doi": "10.1016/j.infsof.2013.08.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "db0e8f98e8363661f14836630adb50f7fca10d50",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation",
+      "authors": [
+        "Andrea De Lucia",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Annibale Panichella",
+        "Sebastiano Panichella"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "550426ac9d03254ee75a37c48e559aeae8386bb5",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    71,
+    {
+      "title": "MOD2-SCM: A model-driven product line for software configuration management systems",
+      "authors": [
+        "Thomas Buchmann",
+        "Alexander Dotor",
+        "Bernhard Westfechtel"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.010",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "2340318245a4ba9c7eb17253ae59686de73a8b6e",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Probabilistic size proxy for software effort prediction: A framework",
+      "authors": [
+        "Moataz A. Ahmed",
+        "Irfan Ahmad",
+        "Jarallah S. AlGhamdi"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9c108915132ade7e508ffad8a9330f7ea854981c",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Applying Q-methodology to analyse the success factors in GSD",
+      "authors": [
+        "Aurora Vizca\u00edno",
+        "F\u00e9lix Garc\u00eda",
+        "Jos\u00e9 Carlos Villar",
+        "Mario Piattini",
+        "Javier Portillo"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a4ea579e8891142e742bb351870575e8c447119e",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Analyzing and handling local bias for calibrating parametric cost estimation models",
+      "authors": [
+        "Ye Yang",
+        "Zhimin He",
+        "Ke Mao",
+        "Qi Li",
+        "Vu Nguyen",
+        "Barry Boehm",
+        "Ricardo Valerdi"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c6042eea15404f1308d7c5b06a2b6d45b5c8b635",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Towards a simplified definition of Function Points",
+      "authors": [
+        "Luigi Lavazza",
+        "Sandro Morasca",
+        "Gabriela Robiolo"
+      ],
+      "doi": "10.1016/j.infsof.2013.04.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "66018b44e1a4ca111419a9b77564ca8843fd249f",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Equality in cumulative voting: A systematic review with an improvement proposal",
+      "authors": [
+        "K. Ri\u0146\u0137evi\u010ds",
+        "R. Torkar"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9bbf1a2cbd6f2348dd56cf0da0afe2922267cc85",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    77,
+    {
+      "title": "A modular package manager architecture",
+      "authors": [
+        "Pietro Abate",
+        "Roberto Di Cosmo",
+        "Ralf Treinen",
+        "Stefano Zacchiroli"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0ed28b4ce14fce73fe052761f115d54b621326e6",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Enforcement of entailment constraints in distributed service-based business processes",
+      "authors": [
+        "Waldemar Hummer",
+        "Patrick Gaubatz",
+        "Mark Strembeck",
+        "Uwe Zdun",
+        "Schahram Dustdar"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4eb3606173788794e85734aa86dafc6abfcad0ed",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Discovering how end-user programmers and their communities use public repositories: A study on Yahoo! Pipes",
+      "authors": [
+        "Kathryn T. Stolee",
+        "Sebastian Elbaum",
+        "Anita Sarma"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "169b376f21c0fcc5ff4941a8c16f46b780f2163c",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    80,
+    {
+      "title": "A process for managing interaction between experimenters to get useful similar replications",
+      "authors": [
+        "Natalia Juristo",
+        "Sira Vegas",
+        "Mart\u00edn Solari",
+        "Silvia Abrah\u00e3o",
+        "Isabel Ramos"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.016",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8693bf207cd592d77b0d10218df0dbec8b528b6f",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Towards the automatic and optimal selection of risk treatments for business processes using a constraint programming approach",
+      "authors": [
+        "Angel Jesus Varela-Vaca",
+        "Rafael M. Gasca"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "017cee99f1881ffb9816f573fc6174f100b30af6",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Test overlay in an emerging software product line \u2013 An industrial case study",
+      "authors": [
+        "Emelie Engstr\u00f6m",
+        "Per Runeson"
+      ],
+      "doi": "10.1016/j.infsof.2012.04.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6b4d360780123c1a2737cda11143e2f9c7a4ecc4",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Answering software evolution questions: An empirical evaluation",
+      "authors": [
+        "Lile Hattori",
+        "Marco D\u2019Ambros",
+        "Michele Lanza",
+        "Mircea Lungu"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c6c02a237f5504b0c15fc54b9c94339ba96431f6",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Transforming and tracing reused requirements models to home automation models",
+      "authors": [
+        "Bego\u00f1a Moros",
+        "Ambrosio Toval",
+        "Francisca Rosique",
+        "Pedro S\u00e1nchez"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "fae8be77eb7d3efc6614b8d82d38d821529fd464",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    85,
+    {
+      "title": "The impact of distributed programming abstractions on application energy consumption",
+      "authors": [
+        "Young-Woo Kwon",
+        "Eli Tilevich"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.014",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "54b0fc96b023406ef921e0d96a978abdcd4aadbf",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Using argumentation to evaluate software assurance standards",
+      "authors": [
+        "Patrick J. Graydon",
+        "Tim P. Kelly"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9e56dc5ed9687e3632bc4764ca5fe42d2322e00b",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Efficient and deterministic application deployment in component-based enterprise distributed real-time and embedded systems",
+      "authors": [
+        "William R. Otte",
+        "Aniruddha Gokhale",
+        "Douglas C. Schmidt"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9cce298a1c78bed9e6f773512e635cdfc038cf22",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Dynamic profiling-based approach to identifying cost-effective refactorings",
+      "authors": [
+        "Ah-Rim Han",
+        "Doo-Hwan Bae"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "dbb7cc9c815b2115a2989cbd2cebce0025558fda",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    89,
+    {
+      "title": "On the adoption of MC/DC and control-flow adequacy for a tight integration of program testing and statistical fault localization",
+      "authors": [
+        "Bo Jiang",
+        "Ke Zhai",
+        "W.K. Chan",
+        "T.H. Tse",
+        "Zhenyu Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6d3a5ba3f5d1f63e3173a8366fa49e7eee28407b",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    90,
+    {
+      "title": "FCA\u2013CIA: An approach of using FCA to support cross-level change impact analysis for object oriented Java programs",
+      "authors": [
+        "Bixin Li",
+        "Xiaobing Sun",
+        "Jacky Keung"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ace4ad2abc3080583b4d2dd5122037aee22ac48e",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    91,
+    {
+      "title": "An identification of program factors that impact crossover performance in evolutionary test input generation for the branch coverage of C programs",
+      "authors": [
+        "Phil McMinn"
+      ],
+      "doi": "10.1016/j.infsof.2012.03.010",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "068d7a40bfb20d6bc7745d4ff75b91f0c7bd968e",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Mutation-oriented test data augmentation for GUI software fault localization",
+      "authors": [
+        "Zhongxing Yu",
+        "Chenggang Bai",
+        "Kai-Yuan Cai"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "8701a7308c7c4010f33f7e05d060c95663573517",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Systematic scenario test case generation for nuclear safety systems",
+      "authors": [
+        "Wan-Hui Tseng",
+        "Chin-Feng Fan"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.016",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "104cedc0f974a96f9b56d7c17e09806042f30411",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Improving software product line configuration: A quality attribute-driven approach",
+      "authors": [
+        "Victor Guana",
+        "Dario Correal"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b9d1acdb30741bdb07bdeb4670747b7fe2ecf5c2",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Usage and testability of AOP: An empirical study of AspectJ",
+      "authors": [
+        "Freddy Munoz",
+        "Benoit Baudry",
+        "Romain Delamare",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "69438d86a2219f3e4a965c90c90d6992bcdbce32",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Applying a selection method to choose Quality Attribute Techniques",
+      "authors": [
+        "Yin Kia Chiam",
+        "Mark Staples",
+        "Xin Ye",
+        "Liming Zhu"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "abdc3af152af8bca51fecaeaeeefb9b60b086d4e",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Vertical software industry evolution: The impact of software costs and limited customer base",
+      "authors": [
+        "Oleksiy Mazhelis",
+        "Pasi Tyrv\u00e4inen",
+        "Lauri Frank"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "3664c2723892f166a718c9da892f70aa01aa5753",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Development of Secure XML Data Warehouses with QVT",
+      "authors": [
+        "B. Vela",
+        "J.N. Maz\u00f3n",
+        "C. Blanco",
+        "E. Fern\u00e1ndez-Medina",
+        "J. Trujillo",
+        "E. Marcos"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "95c07d6e639eca843d0b184b9924c50bd57bf617",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Architecture-based testing of service-oriented applications in distributed systems",
+      "authors": [
+        "Changsup Keum",
+        "Sungwon Kang",
+        "Myungchul Kim"
+      ],
+      "doi": "10.1016/j.infsof.2013.01.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f0144094a95602e62791de1a3a4c9b394371f7d2",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Automated reasoning on UML conceptual schemas with derived information and queries",
+      "authors": [
+        "Carles Farr\u00e9",
+        "Anna Queralt",
+        "Guillem Rull",
+        "Ernest Teniente",
+        "Toni Urp\u00ed"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.010",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f95b6a82406b1a4f0ce97b2d959d0fbbf301f902",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Standardizing the narrative of use cases: A controlled vocabulary of web user tasks",
+      "authors": [
+        "Sara Tena",
+        "David D\u00edez",
+        "Paloma D\u00edaz",
+        "Ignacio Aedo"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.012",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "b742fadb5ec58b1a961aba5e56effdd50a29a4e5",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    102,
+    {
+      "title": "A pattern-based approach for the verification of business process descriptions",
+      "authors": [
+        "Susanne Patig",
+        "Manuela Stolz"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.002",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "1f120be27dbad73b01c530449aeba56915aaa8c5",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    103,
+    {
+      "title": "BPELDebugger: An effective BPEL-specific fault localization framework",
+      "authors": [
+        "Chang-ai Sun",
+        "Yi Meng Zhai",
+        "Yan Shang",
+        "Zhenyu Zhang"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4e25c9fc02c08bc4de21545ddd6f2f07977ee608",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Testing component compatibility in evolving configurations",
+      "authors": [
+        "Ilchul Yoon",
+        "Alan Sussman",
+        "Atif Memon",
+        "Adam Porter"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.010",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "f922c2e09e8f3f7bc3bd8098a51c9d0a300a3c82",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Suitability assessment framework of agent-based software architectures",
+      "authors": [
+        "Ghassan Beydoun",
+        "Graham Low",
+        "Paul Bogg"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "289ae9198cc2ad9824d1e19952fc383798c7d484",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Context aware exception handling in business process execution language",
+      "authors": [
+        "Jurij Laznik",
+        "Matjaz B. Juric"
+      ],
+      "doi": "10.1016/j.infsof.2013.04.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "08274a7761189161e4110ae8d8ed09c00189415a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    107,
+    {
+      "title": "A formal framework for software product lines",
+      "authors": [
+        "C\u00e9sar Andr\u00e9s",
+        "Carlos Camacho",
+        "Luis Llana"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5a1a6c76e6c12eaa6a893f5e077346d8095646ba",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Experience from model and software reuse in aircraft simulator product line engineering",
+      "authors": [
+        "Henric Andersson",
+        "Erik Herzog",
+        "Johan \u00d6lvander"
+      ],
+      "doi": "10.1016/j.infsof.2012.06.014",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "05b7fe43a8f798a266d5f6e39e1a85da9db07018",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    109,
+    {
+      "title": "A formal approach for run-time verification of web applications using scope-extended LTL",
+      "authors": [
+        "May Haydar",
+        "Alexandre Petrenko",
+        "Sergiy Boroday",
+        "Houari Sahraoui"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.013",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5244be9a97ba6b80c9ad526779e12e793d2d73c1",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    110,
+    {
+      "title": "AiOLoS: A model for assessing organizational learning in software development organizations",
+      "authors": [
+        "Oumout Chouseinoglou",
+        "Deniz \u0130ren",
+        "N. Alpay Karag\u00f6z",
+        "Semih Bilgen"
+      ],
+      "doi": "10.1016/j.infsof.2013.05.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "a4518325205527b773f4feec2def78c62a546700",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    111,
+    {
+      "title": "Trusted Product Lines",
+      "authors": [
+        "Stuart Hutchesson",
+        "John McDermid"
+      ],
+      "doi": "10.1016/j.infsof.2012.06.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0fa71ba0e4f84213821a186ee40a220e910bbf7a",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Investigating measurement scales and aggregation methods in SPICE assessment method",
+      "authors": [
+        "Ho-Won Jung"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.004",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "e7c445a618f7564ffa18511a6245969e15ccfe11",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Translation of Z specifications to executable code: Application to the database domain",
+      "authors": [
+        "Saeed Khalafinejad",
+        "Seyed-Hassan Mirian-Hosseinabadi"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.007",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "65aa40d270440952ef52059f9845f2518fe2fd5e",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    114,
+    {
+      "title": "An object-oriented implementation of concurrent and hierarchical state machines",
+      "authors": [
+        "Volker Spinke"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c58ce417c84177bc0c3b4525ad5fdcdba107bdc3",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Aspect-orientation is a rewarding investment into future code changes \u2013 As long as the aspects hardly change",
+      "authors": [
+        "Stefan Hanenberg",
+        "Stefan Endrikat"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0dca88448456c3fbcdeb8937dcede76b686395b8",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Determining the effectiveness of three software evaluation techniques through informal aggregation",
+      "authors": [
+        "Babatunde Kazeem Olorisade",
+        "Sira Vegas",
+        "Natalia Juristo"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.015",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "6b27c4c15e99c96049f77691890d0a504b14f5e9",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Defining a test coverage criterion for model-level testing of FBD programs",
+      "authors": [
+        "Yi-Chen Wu",
+        "Chin-Feng Fan"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.003",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9e8aeed2846a5d7a05f1078a718e005656b703bc",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    118,
+    {
+      "title": "ODEP-DPS: Ontology-driven engineering process for the collaborative development of semantic data providing services",
+      "authors": [
+        "Kevin P. Brown",
+        "Miriam A.M. Capretz"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.011",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "71d78bb3c0c539720dd50a398050238b2f9cc124",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Guest Editorial for the Special Section on the Euromicro 2011 Conference on Software Engineering and Advanced Applications (SEAA)",
+      "authors": [
+        "Stefan Biffl"
+      ],
+      "doi": "10.1016/j.infsof.2012.10.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "46803d689442dfc6227754622506f13ba7e64883",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Retainment policies \u2013 A formal framework for change retainment for trace-based model transformations",
+      "authors": [
+        "Thomas Goldschmidt",
+        "Axel Uhl"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.013",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "0875b2359bccf9b15755798861d7534f421869e4",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Guest editorial for the Special Section on BEST PAPERS from the 2011 conference on Predictive Models in Software Engineering (PROMISE)",
+      "authors": [
+        "Tim Menzies"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5f7f6cc9cb561b8effda71f5ec48820b0921f802",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    122,
+    {
+      "title": "System integration by developing adapters using a database abstraction",
+      "authors": [
+        "Arjan J. Mooij"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.015",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "5d6466b4f5596cf8713087aecfd9c22a5a9e068b",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Multidimensional characterization of evolutionary clusters: An experience report",
+      "authors": [
+        "Adam Vanya",
+        "Steven Klusener",
+        "Nico van Rooijen",
+        "Hans van Vliet"
+      ],
+      "doi": "10.1016/j.infsof.2013.02.016",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c1c29f313956cfe3a7c6f78a280673a64e423978",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    124,
+    {
+      "title": "A metric towards evaluating understandability of state machines: An empirical study",
+      "authors": [
+        "Jung Ho Bae",
+        "Heung Seok Chae",
+        "Carl K. Chang"
+      ],
+      "doi": "10.1016/j.infsof.2013.07.011",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9f32135861cba9d69febc9cf302727ef12f13b35",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Action-based discovery of satisfying subsets: A distributed method for model correction",
+      "authors": [
+        "Ali Ebnenasir"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.018",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "02ab8f6173a9cccb73f094261ae56823f9e8f2dd",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    126,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00137-7",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    127,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(12)00189-9",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    128,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00047-5",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    129,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00179-1",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    130,
+    {
+      "title": "Guest Editorial for Special Section from Component-based Software Engineering (CBSE) 2011",
+      "authors": [
+        "Antonia Bertolino",
+        "Kendra Cooper"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.005",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "ffbd84a2f1bd048f774e75d7f55f44cb1e8202f4",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Guest Editorial: Special section of the best papers from the 2nd International Symposium on Search Based Software Engineering 2010",
+      "authors": [
+        "Lionel Briand",
+        "John Clark"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.012",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "837004268fb95fc6be2d04943698e8dc8c0755b7",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Guest Editors\u2019 Introduction: Special Issue on Software Reuse and Product Lines",
+      "authors": [
+        "Klaus Schmid",
+        "Eduardo Santana de Almeida",
+        "Tomoji Kishi"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.001",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "c9ac220bcd4018439210880e064fcdc252e01d6b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    133,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00070-0",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    134,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00004-9",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Ensembles and locality: Insight on improving software effort estimation",
+      "authors": [
+        "Leandro L. Minku",
+        "Xin Yao"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.012",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    136,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00088-8",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Guest Editorial: Special Section from the 11th International Conference on Quality Software (QSIC 2011)",
+      "authors": [
+        "Robert M. Hierons",
+        "Mercedes G. Merayo"
+      ],
+      "doi": "10.1016/j.infsof.2012.09.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "7b318dbb37b44dc80b39dccd7a7b7d7c73699b82",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    138,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00103-1",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Predicting failure-proneness in an evolving software product line",
+      "authors": [
+        "Sandeep Krishnan",
+        "Chris Strasburg",
+        "Robyn R. Lutz",
+        "Katerina Goseva-Popstojanova",
+        "Karin S. Dorman"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "69290fef02a68dd180331d802e1631e4c5237746",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    140,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00119-5",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Guest Editorial for Special Section from Empirical Software Engineering &amp; Measurement (ESEM) 2011",
+      "authors": [
+        "Martin Shepperd",
+        "Forrest Shull"
+      ],
+      "doi": "10.1016/j.infsof.2012.12.008",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "4592bffdc55791ba846ef71ab5c144462d1ae910",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Team building criteria in software projects: A mix-method replicated study",
+      "authors": [
+        "Fabio Q.B. da Silva",
+        "A. C\u00e9sar C. Fran\u00e7a",
+        "Marcos Suassuna",
+        "Leila M.R. de Sousa Mariz",
+        "Isabella Rossiley",
+        "Regina C.G. de Miranda",
+        "Tatiana B. Gouveia",
+        "Cleviton V.F. Monteiro",
+        "Evisson Lucena",
+        "Elisa S.F. Cardozo",
+        "Edval Espindola"
+      ],
+      "doi": "10.1016/j.infsof.2012.11.006",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    143,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(12)00214-5",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    144,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00163-8",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Guest Editorial: Special Section on International Conference on Program Comprehension, 2011",
+      "authors": [
+        "Filippo Ricca",
+        "Thomas R. Dean",
+        "Susan Elliott Sim"
+      ],
+      "doi": "10.1016/j.infsof.2012.08.011",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "9510a9c7d10dcbda6fdd90986ee77d08f62e7065",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    146,
+    {
+      "title": "IFC Editorial Board",
+      "authors": [],
+      "doi": "10.1016/s0950-5849(13)00019-0",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    147,
+    {
+      "title": "How influential has academic and industrial research been in current software life cycles? A retrospective analysis of four mainstream activities",
+      "authors": [
+        "Jos\u00e9 Miguel Ca\u00f1ete-Valde\u00f3n"
+      ],
+      "doi": "10.1016/j.infsof.2012.07.019",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "paperId": "13fa7a57f84d04168cd0fc50b79a392321dfe141",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    148,
+    {
+      "title": "An investigation of \u2018build vs. buy\u2019 decision for software acquisition by small to medium enterprises",
+      "authors": [
+        "Farhad Daneshgar",
+        "Graham C. Low",
+        "Lugkana Worasinchai"
+      ],
+      "doi": "10.1016/j.infsof.2013.03.009",
+      "venue": "Information and Software Technology",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ]
+]

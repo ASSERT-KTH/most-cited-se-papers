@@ -1,0 +1,4494 @@
+[
+  [
+    1,
+    {
+      "title": "An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair",
+      "authors": [
+        "Kai Huang",
+        "Xiangxin Meng",
+        "Jian Zhang",
+        "Yang Liu",
+        "Wenjie Wang",
+        "Shuhao Li",
+        "Yuqing Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00181",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "012a1885351785b62ab8273830197f1e759911ec",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    2,
+    {
+      "title": "What Makes Good In-Context Demonstrations for Code Intelligence Tasks with LLMs?",
+      "authors": [
+        "Shuzheng Gao",
+        "Xin-Cheng Wen",
+        "Cuiyun Gao",
+        "Wenxuan Wang",
+        "Hongyu Zhang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00109",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9a31b2ce43fe198ab1fd046ca4ec70fded154aee",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting",
+      "authors": [
+        "Tsz-On Li",
+        "Wenxi Zong",
+        "Yibo Wang",
+        "Haoye Tian",
+        "Ying Wang",
+        "Shing-Chi Cheung",
+        "Jeff Kramer"
+      ],
+      "doi": "10.1109/ase56229.2023.00089",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c63f92f5598f72e214291e54cacda43eaf26c04c",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    4,
+    {
+      "title": "CAT-LM Training Language Models on Aligned Code And Tests",
+      "authors": [
+        "Nikitha Rao",
+        "Kush Jain",
+        "Uri Alon",
+        "Claire Le Goues",
+        "Vincent J. Hellendoorn"
+      ],
+      "doi": "10.1109/ase56229.2023.00193",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1153b05709be3dd0dc5e5d4d4ee8f631995ad768",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Log Parsing: How Far Can ChatGPT Go?",
+      "authors": [
+        "Van-Hoang Le",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00206",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d589c49e1cd1dd3b994dcac01b4c6e7fb8eef161",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction",
+      "authors": [
+        "Quanjun Zhang",
+        "Chunrong Fang",
+        "Tongke Zhang",
+        "Bowen Yu",
+        "Weisong Sun",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1109/ase56229.2023.00063",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "abc44cc20885d32046b67aecac1cea0a3e8c4603",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Towards Autonomous Testing Agents via Conversational Large Language Models",
+      "authors": [
+        "Robert Feldt",
+        "Sungmin Kang",
+        "Juyeon Yoon",
+        "Shin Yoo"
+      ],
+      "doi": "10.1109/ase56229.2023.00148",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "beca17564ef9a03d42ce9db4e303689fba3ffcc1",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    8,
+    {
+      "title": "The Plastic Surgery Hypothesis in the Era of Large Language Models",
+      "authors": [
+        "Chunqiu Steven Xia",
+        "Yifeng Ding",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00047",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8a356d27587a1fc3d80d62c8344ae4aed2325700",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    9,
+    {
+      "title": "An Empirical Study of Malicious Code In PyPI Ecosystem",
+      "authors": [
+        "Wenbo Guo",
+        "Zhengzi Xu",
+        "Chengwei Liu",
+        "Cheng Huang",
+        "Yong Fang",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00135",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fa19205d574e9e7b676a62aa8ab9b4a98d988b6b",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    10,
+    {
+      "title": "CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation",
+      "authors": [
+        "Mingwei Liu",
+        "Tianyong Yang",
+        "Yiling Lou",
+        "Xueying Du",
+        "Ying Wang",
+        "Xin Peng"
+      ],
+      "doi": "10.1109/ase56229.2023.00159",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2953c720fb8539474346b91ecff825e396efad74",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Better Patching Using LLM Prompting, via Self-Consistency",
+      "authors": [
+        "Toufique Ahmed",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1109/ase56229.2023.00065",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "32426b96ff3c680125bde3b835bfa931288b8ade",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    12,
+    {
+      "title": "From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining",
+      "authors": [
+        "Xiaoxue Ren",
+        "Xinyuan Ye",
+        "Dehai Zhao",
+        "Zhenchang Xing",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/ase56229.2023.00143",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "648ba65a59b9e907ca0636876bcd2c3732f0931e",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases",
+      "authors": [
+        "Ze Tang",
+        "Jidong Ge",
+        "Shangqing Liu",
+        "Tingwei Zhu",
+        "Tongtong Xu",
+        "Liguo Huang",
+        "Bin Luo"
+      ],
+      "doi": "10.1109/ase56229.2023.00076",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8e460e470cdd6c9ee3263aa877ff94e851f10762",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    14,
+    {
+      "title": "On the Evaluation of Neural Code Translation: Taxonomy and Benchmark",
+      "authors": [
+        "Mingsheng Jiao",
+        "Tingrui Yu",
+        "Xuan Li",
+        "Guanjie Qiu",
+        "Xiaodong Gu",
+        "Beijun Shen"
+      ],
+      "doi": "10.1109/ase56229.2023.00114",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "20d94650a47e00e395db9fc48b6f7e9b4470d370",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    15,
+    {
+      "title": "When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection",
+      "authors": [
+        "Xin-Cheng Wen",
+        "Xinchen Wang",
+        "Cuiyun Gao",
+        "Shaohua Wang",
+        "Yang Liu",
+        "Zhaoquan Gu"
+      ],
+      "doi": "10.1109/ase56229.2023.00144",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "83a9f120ace9ae0cb3c9f3fb6b1dfc9654ebc0aa",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    16,
+    {
+      "title": "From Commit Message Generation to History-Aware Commit Message Completion",
+      "authors": [
+        "Aleksandra Eliseeva",
+        "Yaroslav Sokolov",
+        "Egor Bogomolov",
+        "Yaroslav Golubev",
+        "Danny Dig",
+        "Timofey Bryksin"
+      ],
+      "doi": "10.1109/ase56229.2023.00078",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8bca33276bd6c0f423eceb1a15d362f2f6b2163f",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Perfce: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis",
+      "authors": [
+        "Zhenlan Ji",
+        "Pingchuan Ma",
+        "Shuai Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00106",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d0da09b12d16ea685532cdd47185ad2b888fc03a",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Adaptive REST API Testing with Reinforcement Learning",
+      "authors": [
+        "Myeongsoo Kim",
+        "Saurabh Sinha",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1109/ase56229.2023.00218",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5fce4d39cebae1f95dc2850fc45f4b8b8ba56b4c",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Are We Ready to Embrace Generative AI for Software Q&amp;A?",
+      "authors": [
+        "Bowen Xu",
+        "Thanh-Dat Nguyen",
+        "Thanh Le-Cong",
+        "Thong Hoang",
+        "Jiakun Liu",
+        "Kisub Kim",
+        "Chen Gong",
+        "Changan Niu",
+        "Chenyu Wang",
+        "Bach Le",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase56229.2023.00023",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "43633a1a90a3991ffcf108859bb25720330c145f",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    20,
+    {
+      "title": "SmartBugs 2.0: An Execution Framework for Weakness Detection in Ethereum Smart Contracts",
+      "authors": [
+        "Monika di Angelo",
+        "Thomas Durieux",
+        "Jo\u00e3o F. Ferreira",
+        "Gernot Salzer"
+      ],
+      "doi": "10.1109/ase56229.2023.00060",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "27997aaf800eb5930fdd2f1ab751b868d1057a4d",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    21,
+    {
+      "title": "An Empirical Study of Parameter-Efficient Fine-Tuning Methods for Pre-Trained Code Models",
+      "authors": [
+        "Jiaxing Liu",
+        "Chaofeng Sha",
+        "Xin Peng"
+      ],
+      "doi": "10.1109/ase56229.2023.00125",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cc868dab55231fce1c7a6b76af5bb1516a16c48a",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Code Difference Guided Adversarial Example Generation for Deep Code Models",
+      "authors": [
+        "Zhao Tian",
+        "Junjie Chen",
+        "Zhi Jin"
+      ],
+      "doi": "10.1109/ase56229.2023.00149",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "90d6adb9eda4641f60c4de0579946ff0f7481690",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    23,
+    {
+      "title": "HexT5: Unified Pre-Training for Stripped Binary Code Information Inference",
+      "authors": [
+        "Jiaqi Xiong",
+        "Guoqiang Chen",
+        "Kejiang Chen",
+        "Han Gao",
+        "Shaoyin Cheng",
+        "Weiming Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00099",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "04c3fccfe01f42afe18dcdb027385f350ab3c9d1",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Twin Graph-Based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System",
+      "authors": [
+        "Jun Huang",
+        "Yang Yang",
+        "Hang Yu",
+        "Jianguo Li",
+        "Xiao Zheng"
+      ],
+      "doi": "10.1109/ase56229.2023.00138",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "711f960c212651f3519edeb43fdac9788aeb6de2",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Identify and Update Test Cases When Production Code Changes: A Transformer-Based Approach",
+      "authors": [
+        "Xing Hu",
+        "Zhuang Liu",
+        "Xin Xia",
+        "Zhongxin Liu",
+        "Tongtong Xu",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/ase56229.2023.00165",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f2f66dc5e005a7df35b3962183a6a73e431fc156",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    26,
+    {
+      "title": "A Closer Look at Different Difficulty Levels Code Generation Abilities of ChatGPT",
+      "authors": [
+        "Dapeng Yan",
+        "Zhipeng Gao",
+        "Zhiming Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00096",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f1847504a4895a3d31c31e7464e5b34d9eda8ef8",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem",
+      "authors": [
+        "Weiwei Xu",
+        "Hao He",
+        "Kai Gao",
+        "Minghui Zhou"
+      ],
+      "doi": "10.1109/ase56229.2023.00175",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "403fda22187f4a7ce55b4b8ce2b8fac89038e9e1",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    28,
+    {
+      "title": "The Devil is in the Tails: How Long-Tailed Code Distributions Impact Large Language Models",
+      "authors": [
+        "Xin Zhou",
+        "Kisub Kim",
+        "Bowen Xu",
+        "Jiakun Liu",
+        "DongGyun Han",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase56229.2023.00157",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e161e9b8475278994752f26d685afd5bcdb53deb",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    29,
+    {
+      "title": "SMT Solver Validation Empowered by Large Pre-Trained Language Models",
+      "authors": [
+        "Maolin Sun",
+        "Yibiao Yang",
+        "Yang Wang",
+        "Ming Wen",
+        "Haoxiang Jia",
+        "Yuming Zhou"
+      ],
+      "doi": "10.1109/ase56229.2023.00180",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "743f2a45902db1c184fa90c4167c9dfbb9461948",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Generative Type Inference for Python",
+      "authors": [
+        "Yun Peng",
+        "Chaozheng Wang",
+        "Wenxuan Wang",
+        "Cuiyun Gao",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00031",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ddf2e20427e24b422cc11f58a27458b75e1d3cca",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    31,
+    {
+      "title": "REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes",
+      "authors": [
+        "Chaozheng Wang",
+        "Zongjie Li",
+        "Yun Pena",
+        "Shuzheng Gao",
+        "Sirong Chen",
+        "Shuai Wang",
+        "Cuiyun Gao",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00199",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "17c2018e3f928eeda2ae3a9cd66c691c524e2d7c",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem",
+      "authors": [
+        "Lyuye Zhang",
+        "Chengwei Liu",
+        "Sen Chen",
+        "Zhengzi Xu",
+        "Lingling Fan",
+        "Lida Zhao",
+        "Yiran Zhang",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00058",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "36537f3d135c962f1da48c3c7168e7bbe0a9f36c",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Learning to Locate and Describe Vulnerabilities",
+      "authors": [
+        "Jian Zhang",
+        "Shangqing Liu",
+        "Xu Wang",
+        "Tianlin Li",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00045",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1fef2ce7ee9191e24637fabe86496f0335d2fb17",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    34,
+    {
+      "title": "AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection",
+      "authors": [
+        "Yintong Huo",
+        "Yichen Li",
+        "Yuxin Su",
+        "Pinjia He",
+        "Zifan Xie",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00133",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7060da08c261459dd733f70fc08db185238866f5",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Software Engineering Using Autonomous Agents: Are We There Yet?",
+      "authors": [
+        "Samdyuti Suri",
+        "Sankar Narayan Das",
+        "Kapil Singi",
+        "Kuntal Dey",
+        "Vibhu Saujanya Sharma",
+        "Vikrant Kaulgud"
+      ],
+      "doi": "10.1109/ase56229.2023.00174",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9999424777de140e1fbd6823a8a5c67faf790c5b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    36,
+    {
+      "title": "EALink: An Efficient and Accurate Pre-Trained Framework for Issue-Commit Link Recovery",
+      "authors": [
+        "Chenyuan Zhang",
+        "Yanlin Wang",
+        "Zhao Wei",
+        "Yong Xu",
+        "Juhong Wang",
+        "Hui Li",
+        "Rongrong Ji"
+      ],
+      "doi": "10.1109/ase56229.2023.00059",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3a4b35aea307a3a8692c33ede876231875c79f97",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Generative Model-Based Testing on Decision-Making Policies",
+      "authors": [
+        "Zhuo Li",
+        "Xiongfei Wu",
+        "Derui Zhu",
+        "Mingfei Cheng",
+        "Siyuan Chen",
+        "Fuyuan Zhang",
+        "Xiaofei Xie",
+        "Lei Ma",
+        "Jianjun Zhao"
+      ],
+      "doi": "10.1109/ase56229.2023.00153",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c9f798a2b2fbbf67dbde219e0505b9ab01df8bcb",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    38,
+    {
+      "title": "WADIFF: A Differential Testing Framework for WebAssembly Runtimes",
+      "authors": [
+        "Shiyao Zhou",
+        "Muhui Jiang",
+        "Weimin Chen",
+        "Hao Zhou",
+        "Haoyu Wang",
+        "Xiapu Luo"
+      ],
+      "doi": "10.1109/ase56229.2023.00188",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8bea5e777fc9bc629ecdf45eef122cf35e484729",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Towards a Formal Framework for Normative Requirements Elicitation",
+      "authors": [
+        "Nick Feng",
+        "Lina Marsso",
+        "Sinem Getir Yaman",
+        "Beverley Townsend",
+        "Ana Cavalcanti",
+        "Radu Calinescu",
+        "Marsha Chechik"
+      ],
+      "doi": "10.1109/ase56229.2023.00152",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "502fdc8013483e119a3d30d26972ef22dbe6c92c",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    40,
+    {
+      "title": "Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages",
+      "authors": [
+        "Zhenhao Li",
+        "An Ran Chen",
+        "Xing Hu",
+        "Xin Xia",
+        "Tse-Hsun Chen",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1109/ase56229.2023.00136",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "177710b4cd84c3dbcfe972f2ededfe2db339012f",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    41,
+    {
+      "title": "QuraTest: Integrating Quantum Specific Features in Quantum Program Testing",
+      "authors": [
+        "Jiaming Ye",
+        "Shangzhou Xia",
+        "Fuyuan Zhang",
+        "Paolo Arcaini",
+        "Lei Ma",
+        "Jianjun Zhao",
+        "Fuyuki Ishikawa"
+      ],
+      "doi": "10.1109/ase56229.2023.00196",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5d24fd032d652d87d7db95e43d0eecaf7ed177f0",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    42,
+    {
+      "title": "DeepScaler: Holistic Autoscaling for Microservices Based on Spatiotemporal GNN with Adaptive Graph Learning",
+      "authors": [
+        "Chunyang Meng",
+        "Shijie Song",
+        "Haogang Tong",
+        "Maolin Pan",
+        "Yang Yu"
+      ],
+      "doi": "10.1109/ase56229.2023.00038",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6efa554ce8dac337e9f9ad0e6a715982f8338d10",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Repeated Builds During Code Review: An Empirical Study of the OpenStack Community",
+      "authors": [
+        "Rungroj Maipradit",
+        "Dong Wang",
+        "Patanamon Thongtanunam",
+        "Raula Gaikovina Kula",
+        "Yasutaka Kamei",
+        "Shane McIntosh"
+      ],
+      "doi": "10.1109/ase56229.2023.00030",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "425beecf02120510f139ae927ac7d9a950497f5a",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Automated Fixing of Web UI Tests via Iterative Element Matching",
+      "authors": [
+        "Yuanzhang Lin",
+        "Guoyao Wen",
+        "Xiang Gao"
+      ],
+      "doi": "10.1109/ase56229.2023.00048",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "76b7ebf5f06f70bd15a0647d97bc83905f746731",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Revealing Performance Issues in Server-Side WebAssembly Runtimes Via Differential Testing",
+      "authors": [
+        "Shuyao Jiang",
+        "Ruiying Zeng",
+        "Zihao Rao",
+        "Jiazhen Gu",
+        "Yangfan Zhou",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00088",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1041839f1ac663688d1f39ac80b421200fb473fe",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Towards Self-Adaptive Machine Learning-Enabled Systems Through QoS-Aware Model Switching",
+      "authors": [
+        "Shubham Kulkarni",
+        "Arya Marda",
+        "Karthik Vaidhyanathan"
+      ],
+      "doi": "10.1109/ase56229.2023.00172",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5e4a7713a3ea9e68ee213ee9dc4e09ee8fbe537b",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Enhancing Malware Detection for Android Apps: Detecting Fine-Granularity Malicious Components",
+      "authors": [
+        "Zhijie Liu",
+        "Liang Feng Zhang",
+        "Yutian Tang"
+      ],
+      "doi": "10.1109/ase56229.2023.00074",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c0e84535aa836ad4502f90ff53476bf6a45f795e",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    48,
+    {
+      "title": "DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities",
+      "authors": [
+        "Jianzhong Su",
+        "Xingwei Lin",
+        "Zhiyuan Fang",
+        "Zhirong Zhu",
+        "Jiachi Chen",
+        "Zibin Zheng",
+        "Wei Lv",
+        "Jiashui Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00110",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4458f50432f74b61f9cbe1838c9944db5b5ec44e",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Causality-Aided Trade-Off Analysis for Machine Learning Fairness",
+      "authors": [
+        "Zhenlan Ji",
+        "Pingchuan Ma",
+        "Shuai Wang",
+        "Yanhui Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00105",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a85c6d3863e748374b631ecdd66e8e0cbf5a7440",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Scene-Driven Exploration and GUI Modeling for Android Apps",
+      "authors": [
+        "Xiangyu Zhang",
+        "Lingling Fan",
+        "Sen Chen",
+        "Yucheng Su",
+        "Boyuan Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00179",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8af558802624d2408e33834b2ab1ebc83a4f516e",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks",
+      "authors": [
+        "Paschal C. Amusuo",
+        "Ricardo Andr\u00e9s Calvo M\u00e9ndez",
+        "Zhongwei Xu",
+        "Aravind Machiry",
+        "James C. Davis"
+      ],
+      "doi": "10.1109/ase56229.2023.00095",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "088cb996387f249dbf2784048659ae4855de01e7",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    52,
+    {
+      "title": "ExpressAPR: Efficient Patch Validation for Java Automated Program Repair Systems",
+      "authors": [
+        "Yuan-An Xiao",
+        "Chenyang Yang",
+        "Bo Wang",
+        "Yingfei Xiong"
+      ],
+      "doi": "10.1109/ase56229.2023.00012",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "23511f95653338cbaae44d3d4e5eed381a0da17b",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    53,
+    {
+      "title": "MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains",
+      "authors": [
+        "Ningke Li",
+        "Shenao Wang",
+        "Mingxi Feng",
+        "Kailong Wang",
+        "Meizhen Wang",
+        "Haoyu Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00073",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "be1360f3ea10a9ec0d5f555326f73e6100cc93b9",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    54,
+    {
+      "title": "On-the-fly Improving Performance of Deep Code Models via Input Denoising",
+      "authors": [
+        "Zhao Tian",
+        "Junjie Chen",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00166",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "aa1679987391908451d3c341c0a4fe0fb451b7d2",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    55,
+    {
+      "title": "Generating Variable Explanations via Zero-shot Prompt Learning",
+      "authors": [
+        "Chong Wang",
+        "Yiling Lou",
+        "Junwei Liu",
+        "Xin Peng"
+      ],
+      "doi": "10.1109/ase56229.2023.00130",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1674d41575fd497808338dfb1c3f94c430fa29a2",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    56,
+    {
+      "title": "ACWRecommender: A Tool for Validating Actionable Warnings with Weak Supervision",
+      "authors": [
+        "Zhipeng Xue",
+        "Zhipeng Gao",
+        "Xing Hu",
+        "Shanping Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00169",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a9446900ecf726ed49f6a3932f2a58587f7a4956",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion",
+      "authors": [
+        "Cheryl Lee",
+        "Tianyi Yang",
+        "Zhuangbin Chen",
+        "Yuxin Su",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00082",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3b215e9ab32d3bd4fa4f1f80f7f2e5adf10e2f3e",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    58,
+    {
+      "title": "ConfTainter: Static Taint Analysis For Configuration Options",
+      "authors": [
+        "Teng Wang",
+        "Haochen He",
+        "Xiaodong Liu",
+        "Shanshan Li",
+        "Zhouyang Jia",
+        "Yu Jiang",
+        "Qing Liao",
+        "Wang Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00067",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f735b906cf9438f80ac72ae0c6b4e6a0c31cebd3",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Towards Automatically Addressing Self-Admitted Technical Debt: How Far Are We?",
+      "authors": [
+        "Antonio Mastropaolo",
+        "Massimiliano Di Penta",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1109/ase56229.2023.00103",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5ff180524742c1641dda3b9dbca20b0a32558364",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    60,
+    {
+      "title": "An Image is Worth a Thousand Toxic Words: A Metamorphic Testing Framework for Content Moderation Software",
+      "authors": [
+        "Wenxuan Wang",
+        "Jingyuan Huang",
+        "Jen-tse Huang",
+        "Chang Chen",
+        "Jiazhen Gu",
+        "Pinjia He",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00189",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "07b3e7c3327de6340c4ffdeff536318f3adb1275",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    61,
+    {
+      "title": "VRGuide: Efficient Testing of Virtual Reality Scenes via Dynamic Cut Coverage",
+      "authors": [
+        "Xiaoyin Wang",
+        "Tahmid Rafi",
+        "Na Meng"
+      ],
+      "doi": "10.1109/ase56229.2023.00197",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5bdaf33fe8304152ac0be15ee7ed7bd3da381638",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    62,
+    {
+      "title": "BUGSC++: A Highly Usable Real World Defect Benchmark for C/C++",
+      "authors": [
+        "Gabin An",
+        "Minhyuk Kwon",
+        "Kyunghwa Choi",
+        "Jooyong Yi",
+        "Shin Yoo"
+      ],
+      "doi": "10.1109/ase56229.2023.00208",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6d2c28a61da8c7dbe8116c9aaddb86b0a631a0ea",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Wemint:Tainting Sensitive Data Leaks in WeChat Mini-Programs",
+      "authors": [
+        "Shi Meng",
+        "Liu Wang",
+        "Shenao Wang",
+        "Kailong Wang",
+        "Xusheng Xiao",
+        "Guangdong Bai",
+        "Haoyu Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00151",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d6a789f32c380321cbf6f26aaf5249444a9ec52c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Fault Localization for Buggy Deep Learning Framework Conversions in Image Recognition",
+      "authors": [
+        "Nikolaos Louloudakis",
+        "Perry Gibson",
+        "Jos\u00e9 Cano",
+        "Ajitha Rajan"
+      ],
+      "doi": "10.1109/ase56229.2023.00147",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "abdfd0bfa9d20e0848370abd3b4de849d9a3d1c6",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    65,
+    {
+      "title": "CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space",
+      "authors": [
+        "Haibin Zheng",
+        "Jinyin Chen",
+        "Haibo Jin"
+      ],
+      "doi": "10.1109/ase56229.2023.00126",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "44f20f01e0054e25b6935f3df3e5ccc6db2a2da6",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    66,
+    {
+      "title": "QuCAT: A Combinatorial Testing Tool for Quantum Software",
+      "authors": [
+        "Xinyi Wang",
+        "Paolo Arcaini",
+        "Tao Yue",
+        "Shaukat Ali"
+      ],
+      "doi": "10.1109/ase56229.2023.00062",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2be21292d6fdf77848eb9a0e673d5c3661fbe638",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    67,
+    {
+      "title": "MELT: Mining Effective Lightweight Transformations from Pull Requests",
+      "authors": [
+        "Daniel Ramos",
+        "Hailie Mitchell",
+        "In\u00eas Lynce",
+        "Vasco Manquinho",
+        "Ruben Martins",
+        "Claire Le Goues"
+      ],
+      "doi": "10.1109/ase56229.2023.00117",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a57e12fdf0ca208b64e9e177a1f7b0a67cd71e60",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    68,
+    {
+      "title": "A Comparative Study of Transformer-Based Neural Text Representation Techniques on Bug Triaging",
+      "authors": [
+        "Atish Kumar Dipongkor",
+        "Kevin Moran"
+      ],
+      "doi": "10.1109/ase56229.2023.00217",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cddc42e4cd06ace08d2bd72a2022a21ac2e836ce",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    69,
+    {
+      "title": "LEAP: Efficient and Automated Test Method for NLP Software",
+      "authors": [
+        "Mingxuan Xiao",
+        "Yan Xiao",
+        "Hai Dong",
+        "Shunhui Ji",
+        "Pengcheng Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00052",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a2eb419def74db3ed16971928fe508eb3e0263bf",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    70,
+    {
+      "title": "CPA-DF: A Tool for Configurable Interval Analysis to Boost Program Verification",
+      "authors": [
+        "Dirk Beyer",
+        "Po-Chun Chien",
+        "Nian-Ze Lee"
+      ],
+      "doi": "10.1109/ase56229.2023.00213",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c109f61927fbc8721687e9e084fcc6aa2c9fd281",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Delving into Commit-Issue Correlation to Enhance Commit Message Generation Models",
+      "authors": [
+        "Liran Wang",
+        "Xunzhu Tang",
+        "Yichen He",
+        "Changyu Ren",
+        "Shuhua Shi",
+        "Chaoran Yan",
+        "Zhoujun Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00050",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fc3aa1d980b6aa38bb3e557626900e47e744e693",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    72,
+    {
+      "title": "ATOM: Automated Black-Box Testing of Multi-Label Image Classification Systems",
+      "authors": [
+        "Shengyou Hu",
+        "Huayao Wu",
+        "Peng Wang",
+        "Jing Chang",
+        "Yongjun Tu",
+        "Xiu Jiang",
+        "Xintao Niu",
+        "Changhai Nie"
+      ],
+      "doi": "10.1109/ase56229.2023.00156",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "33cc9f7cec66afa20ae83f5ddfdf6d55663b3818",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Personalized First Issue Recommender for Newcomers in Open Source Projects",
+      "authors": [
+        "Wenxin Xiao",
+        "Jingyue Li",
+        "Hao He",
+        "Ruiqiao Qiu",
+        "Minghui Zhou"
+      ],
+      "doi": "10.1109/ase56229.2023.00158",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2affa26a120d641f73bde6753fe48f3f418629b1",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Symbolic Fixpoint Algorithms for Logical LTL Games",
+      "authors": [
+        "Stanly Samuel",
+        "Deepak D'Souza",
+        "Raghavan Komondoor"
+      ],
+      "doi": "10.1109/ase56229.2023.00212",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "81477fbdcf6e660ced8cde2177510ece5daa35cc",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    75,
+    {
+      "title": "MLIRSmith: Random Program Generation for Fuzzing MLIR Compiler Infrastructure",
+      "authors": [
+        "Haoyu Wang",
+        "Junjie Chen",
+        "Chuyue Xie",
+        "Shuang Liu",
+        "Zan Wang",
+        "Qingchao Shen",
+        "Yingquan Zhao"
+      ],
+      "doi": "10.1109/ase56229.2023.00120",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3054972bfe32c6524dab3f09ffa03fdbeca6a601",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Revisiting and Improving Retrieval-Augmented Deep Assertion Generation",
+      "authors": [
+        "Weifeng Sun",
+        "Hongyan Li",
+        "Meng Yan",
+        "Yan Lei",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00090",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f6a957deade29c17033cb6693a5c65360f42b47c",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Two Birds with One Stone: Multi-Derivation for Fast Context-Free Language Reachability Analysis",
+      "authors": [
+        "Chenghang Shi",
+        "Haofeng Li",
+        "Yulei Sui",
+        "Jie Lu",
+        "Lian Li",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/ase56229.2023.00118",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "15b07413a0125dea61f394bcb53cdc8e7d2ab5b7",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Evolve the Model Universe of a System Universe",
+      "authors": [
+        "Tao Yue",
+        "Shaukat Ali"
+      ],
+      "doi": "10.1109/ase56229.2023.00022",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "eb6f92b6a6739a2563591e47c98d67b7298d4c04",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    79,
+    {
+      "title": "InfeRE: Step-by-Step Regex Generation via Chain of Inference",
+      "authors": [
+        "Shuai Zhang",
+        "Xiaodong Gu",
+        "Yuting Chen",
+        "Beijun Shen"
+      ],
+      "doi": "10.1109/ase56229.2023.00111",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ddc3615079a20a60b095889baa523a69cb367a66",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    80,
+    {
+      "title": "ASTER: Automatic Speech Recognition System Accessibility Testing for Stutterers",
+      "authors": [
+        "Yi Liu",
+        "Yuekang Li",
+        "Gelei Deng",
+        "Felix Juefei-Xu",
+        "Yao Du",
+        "Cen Zhang",
+        "Chengwei Liu",
+        "Yeting Li",
+        "Lei Ma",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00107",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "78df34312a10babec42b342e1a20e3eece90e6d5",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Challenges of Accurate and Efficient AutoML",
+      "authors": [
+        "Swarnava Dey",
+        "Avik Ghose",
+        "Soumik Das"
+      ],
+      "doi": "10.1109/ase56229.2023.00182",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "fa03c9386cfbacaefc987f6aa2cc9e63f099e278",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    82,
+    {
+      "title": "ZC<sup>3</sup>: Zero-Shot Cross-Language Code Clone Detection",
+      "authors": [
+        "Jia Li",
+        "Chongyang Tao",
+        "Zhi Jin",
+        "Fang Liu",
+        "Jia Li",
+        "Ge Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00210",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5c6b24c3c861433a3e1c383b5205f934af026be4",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Fast and Reliable Program Synthesis via User Interaction",
+      "authors": [
+        "Yanju Chen",
+        "Chenglong Wang",
+        "Xinyu Wang",
+        "Osbert Bastani",
+        "Yu Feng"
+      ],
+      "doi": "10.1109/ase56229.2023.00129",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e4641fff0bcba64f619b6be8a45187b3e9b6317b",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    84,
+    {
+      "title": "RJoules: An Energy Measurement Tool for R",
+      "authors": [
+        "Rajrupa Chattaraj",
+        "Sridhar Chimalakonda"
+      ],
+      "doi": "10.1109/ase56229.2023.00207",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7af1ef3ddb0e48d02dd8d7cece390af584813321",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Automated Software Entity Matching Between Successive Versions",
+      "authors": [
+        "Bo Liu",
+        "Hui Liu",
+        "Nan Niu",
+        "Yuxia Zhang",
+        "Guangjie Li",
+        "Yanjie Jiang"
+      ],
+      "doi": "10.1109/ase56229.2023.00132",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8b255e356cdbfd16018bee75bff13ed826fc62d1",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    86,
+    {
+      "title": "To Share, or Not to Share: Exploring Test-Case Reusability in Fork Ecosystems",
+      "authors": [
+        "Mukelabai Mukelabai",
+        "Christoph Derks",
+        "Jacob Kr\u00fcger",
+        "Thorsten Berger"
+      ],
+      "doi": "10.1109/ase56229.2023.00191",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "1183c011df30b91e6a04f601520b928b467b93d5",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Software Entity Recognition with Noise-Robust Learning",
+      "authors": [
+        "Tai Nguyen",
+        "Yifeng Di",
+        "Joohan Lee",
+        "Muhao Chen",
+        "Tianyi Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00203",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "116eef204491b82b4bfa23345f1645935faedbad",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Modeling Programmer Attention as Scanpath Prediction",
+      "authors": [
+        "Aakash Bansal",
+        "Chia-Yi Su",
+        "Zachary Karas",
+        "Yifan Zhang",
+        "Yu Huang",
+        "Toby Jia-Jun Li",
+        "Collin McMillan"
+      ],
+      "doi": "10.1109/ase56229.2023.00092",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f637ed66c4feec84bed9319c9bc27ebe4d6c23a8",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain",
+      "authors": [
+        "Qing Huang",
+        "Zhenyu Wan",
+        "Zhenchang Xing",
+        "Changjing Wang",
+        "Jieshan Chen",
+        "Xiwei Xu",
+        "Qinghua Lu"
+      ],
+      "doi": "10.1109/ase56229.2023.00075",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0de4f608e8264e783548a462e4dde006d24fe94e",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    90,
+    {
+      "title": "On Automated Assistants for Software Development: The Role of LLMs",
+      "authors": [
+        "Mira Leung",
+        "Gail Murphy"
+      ],
+      "doi": "10.1109/ase56229.2023.00035",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "83f9cca022a4a194e8b3cc78bb12a65a7b142aa7",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Polyglot Code Smell Detection for Infrastructure as Code with GLITCH",
+      "authors": [
+        "Nuno Saavedra",
+        "Jo\u00e3o Gon\u00e7alves",
+        "Miguel Henriques",
+        "Jo\u00e3o F. Ferreira",
+        "Alexandra Mendes"
+      ],
+      "doi": "10.1109/ase56229.2023.00162",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "300dd1aa74607980f3ba6eea8d4d260d53888e6f",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    92,
+    {
+      "title": "COMEX: A Tool for Generating Customized Source Code Representations",
+      "authors": [
+        "Debeshee Das",
+        "Noble Saji Mathews",
+        "Alex Mathai",
+        "Srikanth Tamilselvam",
+        "Kranthi Sedamaki",
+        "Sridhar Chimalakonda",
+        "Atul Kumar"
+      ],
+      "doi": "10.1109/ase56229.2023.00010",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "65d44118b734afc659d36a623756f0b8646be763",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Hot Patching Hot Fixes: Reflection and Perspectives",
+      "authors": [
+        "Carol Hanna",
+        "Justyna Petke"
+      ],
+      "doi": "10.1109/ase56229.2023.00021",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3707ea3eee23bb9d4412d9a92f69894e22cc22b8",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Merge Conflict Resolution: Classification or Generation?",
+      "authors": [
+        "Jinhao Dong",
+        "Qihao Zhu",
+        "Zeyu Sun",
+        "Yiling Lou",
+        "Dan Hao"
+      ],
+      "doi": "10.1109/ase56229.2023.00155",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b73ee68b11f6fab3ae56a312c5ee2483f88c4fc5",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Cell2Doc: ML Pipeline for Generating Documentation in Computational Notebooks",
+      "authors": [
+        "Tamal Mondal",
+        "Scott Barnett",
+        "Akash Lal",
+        "Jyothi Vedurada"
+      ],
+      "doi": "10.1109/ase56229.2023.00200",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0490ad904619cade66911b9347b7bbc610acd321",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Unifying Defect Prediction, Categorization, and Repair by Multi-Task Deep Learning",
+      "authors": [
+        "Chao Ni",
+        "Kaiwen Yang",
+        "Yan Zhu",
+        "Xiang Chen",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/ase56229.2023.00083",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7c41eec403caaf1ab07d54ec03aee81f57ddf245",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    97,
+    {
+      "title": "ReuNify: A Step Towards Whole Program Analysis for React Native Android Apps",
+      "authors": [
+        "Yonghui Liu",
+        "Xiao Chen",
+        "Pei Liu",
+        "John Grundy",
+        "Chunyang Chen",
+        "Li Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00113",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "087d2d5f8bb28daaae3f3b3fe33634a3e89ed919",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Vicious Cycles in Distributed Software Systems",
+      "authors": [
+        "Shangshu Qian",
+        "Wen Fan",
+        "Lin Tan",
+        "Yongle Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00032",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2d406284296499409247c706756343efd18e926d",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    99,
+    {
+      "title": "A Needle is an Outlier in a Haystack: Hunting Malicious PyPI Packages with Code Clustering",
+      "authors": [
+        "Wentao Liang",
+        "Xiang Ling",
+        "Jingzheng Wu",
+        "Tianyue Luo",
+        "Yanjun Wu"
+      ],
+      "doi": "10.1109/ase56229.2023.00085",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7319c2bd0824849e8793d8066b49ff4ae6a56826",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Automating Bias Testing of LLMs",
+      "authors": [
+        "Sergio Morales",
+        "Robert Claris\u00f3",
+        "Jordi Cabot"
+      ],
+      "doi": "10.1109/ase56229.2023.00018",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "9c7231245715018490593c75381824c591027c4e",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Neural SZZ Algorithm",
+      "authors": [
+        "Lingxiao Tang",
+        "Lingfeng Bao",
+        "Xin Xia",
+        "Zhongdong Huang"
+      ],
+      "doi": "10.1109/ase56229.2023.00037",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "10dae5c6404b9687da1ffb9a57009aa8306ac2c8",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    102,
+    {
+      "title": "PURLTL: Mining LTL Specification from Imperfect Traces in Testing",
+      "authors": [
+        "Bo Peng",
+        "Pingjia Liang",
+        "Tingchen Han",
+        "Weilin Luo",
+        "Jianfeng Du",
+        "Hai Wan",
+        "Rongzhen Ye",
+        "Yuhang Zheng"
+      ],
+      "doi": "10.1109/ase56229.2023.00202",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c7f78910a1fb289b0ad8c46f777be0f2125bd257",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Zero-Config Fuzzing for Microservices",
+      "authors": [
+        "Wei Wang",
+        "Andrei Benea",
+        "Franjo Ivancic"
+      ],
+      "doi": "10.1109/ase56229.2023.00036",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2a04fe519d4f966e9609ea043dfc7b2a4ffdeec5",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem",
+      "authors": [
+        "Suhaib Mujahid",
+        "Diego Elias Costa",
+        "Rabe Abdalkareem",
+        "Emad Shihab"
+      ],
+      "doi": "10.1109/ase56229.2023.00119",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f35e05b0901eb7800e74fbbda218357164c18e82",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Provengo: A Tool Suite for Scenario Driven Model-Based Testing",
+      "authors": [
+        "Michael Bar-Sinai",
+        "Achiya Elyasaf",
+        "Gera Weiss",
+        "Yeshayahu Weiss"
+      ],
+      "doi": "10.1109/ase56229.2023.00146",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "811013104405b13659bb2220223f85c2a6b8fa36",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Mutation-based Fault Localization of Deep Neural Networks",
+      "authors": [
+        "Ali Ghanbari",
+        "Deepak-George Thomas",
+        "Muhammad Arbab Arshad",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1109/ase56229.2023.00171",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8c79ff6f57aa7ce9152b45b20fe44474e50aa802",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    107,
+    {
+      "title": "FLUX: Finding Bugs with LLVM IR Based Unit Test Crossovers",
+      "authors": [
+        "Eric Liu",
+        "Shengjie Xu",
+        "David Lie"
+      ],
+      "doi": "10.1109/ase56229.2023.00100",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b313013389691d5d327ed1821a56fa5e6502a817",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Minecraft: Automated Mining of Software Bug Fixes with Precise Code Context",
+      "authors": [
+        "Sai Krishna Avula",
+        "Venkatesh Vobbilisetti",
+        "Shouvick Mondal"
+      ],
+      "doi": "10.1109/ase56229.2023.00116",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2d6a531e8d14d36bf782c9f630e25de94005b264",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    109,
+    {
+      "title": "A Large-Scale Empirical Study on Semantic Versioning in Golang Ecosystem",
+      "authors": [
+        "Wenke Li",
+        "Feng Wu",
+        "Cai Fu",
+        "Fan Zhou"
+      ],
+      "doi": "10.1109/ase56229.2023.00140",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f9a611a264cf03e94507bc3c50fbef9ef7a8d3f3",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Pluggable Type Inference for Free",
+      "authors": [
+        "Martin Kellogg",
+        "Daniel Daskiewicz",
+        "Loi Ngo Duc Nguyen",
+        "Muyeed Ahmed",
+        "Michael D. Ernst"
+      ],
+      "doi": "10.1109/ase56229.2023.00186",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "534e8540a5997d90255829b25232c0b068d48bb3",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    111,
+    {
+      "title": "ESRO: Experience Assisted Service Reliability against Outages",
+      "authors": [
+        "Sarthak Chakraborty",
+        "Shubham Agarwal",
+        "Shaddy Garg",
+        "Abhimanyu Sethia",
+        "Udit Narayan Pandey",
+        "Videh Aggarwal",
+        "Shiv Saini"
+      ],
+      "doi": "10.1109/ase56229.2023.00131",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bde1c30be910b61e89f6b6b14a270aae9ab81efc",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    112,
+    {
+      "title": "LIV: Loop-Invariant Validation Using Straight-Line Programs",
+      "authors": [
+        "Dirk Beyer",
+        "Martin Spiessl"
+      ],
+      "doi": "10.1109/ase56229.2023.00214",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "148b7a244d98a0df545f6db88f6ba725cdbdf782",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    113,
+    {
+      "title": "DroneReqValidator: Facilitating High Fidelity Simulation Testing for Uncrewed Aerial Systems Developers",
+      "authors": [
+        "Bohan Zhang",
+        "Yashaswini Shivalingaiah",
+        "Ankit Agrawal"
+      ],
+      "doi": "10.1109/ase56229.2023.00011",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "503be256141af5c87e64207f323de13a1ef53302",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    114,
+    {
+      "title": "A Comprehensive Study on Code Clones in Automated Driving Software",
+      "authors": [
+        "Ran Mo",
+        "Yingjie Jiang",
+        "Wenjing Zhan",
+        "Dongyu Wang",
+        "Zengyang Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00053",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5933ad980f92aba44a9ba616f32d36f9a92c75c4",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Increasing the Responsiveness of Web Applications by Introducing Lazy Loading",
+      "authors": [
+        "Alexi Turcotte",
+        "Satyajit Gokhale",
+        "Frank Tip"
+      ],
+      "doi": "10.1109/ase56229.2023.00192",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d3971602c980a89d97d7ff3c0dd0044742fd151b",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Optimizing Continuous Development by Detecting and Preventing Unnecessary Content Generation",
+      "authors": [
+        "Talank Baral",
+        "Shanto Rahman",
+        "Bala Naren Chanumolu",
+        "Ba\u015fak Balc\u0131",
+        "Tuna Tuncer",
+        "August Shi",
+        "Wing Lam"
+      ],
+      "doi": "10.1109/ase56229.2023.00216",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c5e4d3ef6d61cbeea895863856501e2e35a67dd0",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Prism: Revealing Hidden Functional Clusters from Massive Instances in Cloud Systems",
+      "authors": [
+        "Jinyang Liu",
+        "Zhihan Jiang",
+        "Jiazhen Gu",
+        "Junjie Huang",
+        "Zhuangbin Chen",
+        "Cong Feng",
+        "Zengyin Yang",
+        "Yongqiang Yang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1109/ase56229.2023.00077",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b50309efcbb5fddd54ee4ab22dfb32c30e7693fc",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Green AI Quotient: Assessing Greenness of AI-based software and the way forward",
+      "authors": [
+        "Samarth Sikand",
+        "Vibhu Saujanya Sharma",
+        "Vikrant Kaulgud",
+        "Sanjay Podder"
+      ],
+      "doi": "10.1109/ase56229.2023.00115",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "618c4f35e06f79e1c71657b9e6c00df97e6ece12",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    119,
+    {
+      "title": "The MAP Metric in Information Retrieval Fault Localization",
+      "authors": [
+        "Thomas Hirsch",
+        "Birgit Hofer"
+      ],
+      "doi": "10.1109/ase56229.2023.00041",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "636c30b09eff1c40a2ab0e5d88810a96d3a9f2d1",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    120,
+    {
+      "title": "EXPRESS 2.0: An Intelligent Service Management Framework for AIoT Systems in the Edge",
+      "authors": [
+        "Jia Xu",
+        "Xiao Liu",
+        "Wuzhen Pan",
+        "Xuejun Li",
+        "Aiting Yao",
+        "Yun Yang"
+      ],
+      "doi": "10.1109/ase56229.2023.00020",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "354699b49088b1d61bd038e86d01cec0c906d5e7",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    121,
+    {
+      "title": "LogOnline: A Semi-Supervised Log-Based Anomaly Detector Aided with Online Learning Mechanism",
+      "authors": [
+        "Xuheng Wang",
+        "Jiaxing Song",
+        "Xu Zhang",
+        "Junshu Tang",
+        "Weihe Gao",
+        "Qingwei Lin"
+      ],
+      "doi": "10.1109/ase56229.2023.00043",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e32cdfc6dbb2380c716b58e65dba80b48eb45a01",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    122,
+    {
+      "title": "PreciseBugCollector: Extensible, Executable and Precise Bug-Fix Collection: Solution for Challenge 8: Automating Precise Data Collection for Code Snippets with Bugs, Fixes, Locations, and Types",
+      "authors": [
+        "Ye He",
+        "Zimin Chen",
+        "Claire Le Goues"
+      ],
+      "doi": "10.1109/ase56229.2023.00163",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "442ad9d26fd31b3663fe98ade1c2707d1bb76798",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    123,
+    {
+      "title": "An Industrial Practice for Securing Android Apps in the Banking Domain",
+      "authors": [
+        "Vikas K. Malviya",
+        "Phong Phan",
+        "Yan Naing Tun",
+        "Albert Ching",
+        "Lwin Khin Shar"
+      ],
+      "doi": "10.1109/ase56229.2023.00057",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "745a75b0937f7505386c3df144bbcfd48b95e213",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    124,
+    {
+      "title": "EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software",
+      "authors": [
+        "Yao Zhang",
+        "Xiaofei Xie",
+        "Yi Li",
+        "Sen Chen",
+        "Cen Zhang",
+        "Xiaohong Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00061",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "23e652775dd8d43a737da922bc9a767d3e9d4853",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    125,
+    {
+      "title": "CoMSA: A Modeling-Driven Sampling Approach for Configuration Performance Testing",
+      "authors": [
+        "Yuanjie Xia",
+        "Zishuo Ding",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1109/ase56229.2023.00091",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "45f7142efb25a5c88c61dbb661012ac7476c9f43",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    126,
+    {
+      "title": "Information Retrieval-Based Fault Localization for Concurrent Programs",
+      "authors": [
+        "Shuai Shao",
+        "Tingting Yu"
+      ],
+      "doi": "10.1109/ase56229.2023.00122",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7f1baaf36e6e897699f52db7a0148904af2e9fa8",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    127,
+    {
+      "title": "VD-Guard: DMA Guided Fuzzing for Hypervisor Virtual Device",
+      "authors": [
+        "Yuwei Liu",
+        "Siqi Chen",
+        "Yuchong Xie",
+        "Yanhao Wang",
+        "Libo Chen",
+        "Bin Wang",
+        "Yingming Zeng",
+        "Zhi Xue",
+        "Purui Su"
+      ],
+      "doi": "10.1109/ase56229.2023.00051",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f9dc01bc60adff7a6e8c1d8eb026be4b2a17d5cd",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    128,
+    {
+      "title": "TEASER: Simulation-Based CAN Bus Regression Testing for Self-Driving Cars Software",
+      "authors": [
+        "Christian Birchler",
+        "Cyrill Rohrbach",
+        "Hyeongkyun Kim",
+        "Alessio Gambi",
+        "Tianhai Liu",
+        "Jens Horneber",
+        "Timo Kehrer",
+        "Sebastiano Panichella"
+      ],
+      "doi": "10.1109/ase56229.2023.00154",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bb34b25096a873d0af41a3eb518d15e24d93e7d2",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Who is the Real Hero? Measuring Developer Contribution via Multi-Dimensional Data Integration",
+      "authors": [
+        "Yuqiang Sun",
+        "Zhengzi Xu",
+        "Chengwei Liu",
+        "Yiran Zhang",
+        "Yang Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00102",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "204831054457eccfda1767e089e7b291767fa9f1",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    130,
+    {
+      "title": "Improving Code Extraction from Coding Screencasts Using a Code-Aware Encoder-Decoder Model",
+      "authors": [
+        "Abdulkarim Malkadi",
+        "Ahmad Tayeb",
+        "Sonia Haiduc"
+      ],
+      "doi": "10.1109/ase56229.2023.00184",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5f284de8dfd406ee252450a44a560dd340470dda",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    131,
+    {
+      "title": "CEGAR-PT: A Tool for Abstraction by Program Transformation",
+      "authors": [
+        "Dirk Beyer",
+        "Marian Lingsch-Rosenfeld",
+        "Martin Spiessl"
+      ],
+      "doi": "10.1109/ase56229.2023.00215",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7cc046aa19ed6438ce13c83bc06eb2e46290364a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    132,
+    {
+      "title": "Automatic Generation and Reuse of Precise Library Summaries for Object-Sensitive Pointer Analysis",
+      "authors": [
+        "Jingbo Lu",
+        "Dongjie He",
+        "Wei Li",
+        "Yaoqing Gao",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/ase56229.2023.00039",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "73e5ce9c01347d1fbd526631103c40cbf3c68af7",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Compsuite: A Dataset of Java Library Upgrade Incompatibility Issues",
+      "authors": [
+        "Xiufeng Xu",
+        "Chenguang Zhu",
+        "Yi Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00127",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5f5824a34dc96e89954519c69e9931e963ce4c32",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    134,
+    {
+      "title": "VALAR: Streamlining Alarm Ranking in Static Analysis with Value-Flow Assisted Active Learning",
+      "authors": [
+        "Pengcheng Liu",
+        "Yifei Lu",
+        "Wenhua Yang",
+        "Minxue Pan"
+      ],
+      "doi": "10.1109/ase56229.2023.00098",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "82d3c6cd90c7bf2fae7a97b1ebf8964ade1e43c0",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    135,
+    {
+      "title": "Function-Level Vulnerability Detection Through Fusing Multi-Modal Knowledge",
+      "authors": [
+        "Chao Ni",
+        "Xinrong Guo",
+        "Yan Zhu",
+        "Xiaodan Xu",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1109/ase56229.2023.00084",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d6b517de0cade82d8c50918346a7fdda3835ba4e",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    136,
+    {
+      "title": "MUT4SLX: Fast Mutant Generation for Simulink",
+      "authors": [
+        "Halil Ibrahim Ceylan",
+        "Onur Kilincceker",
+        "Mutlu Beyazit",
+        "Serge Demeyer"
+      ],
+      "doi": "10.1109/ase56229.2023.00093",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8f0e4c14f98ccbc40c1562675eadb5163e258a62",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Leakpair: Proactive Repairing of Memory Leaks in Single Page Web Applications",
+      "authors": [
+        "Arooba Shahoor",
+        "Askar Yeltayuly Khamit",
+        "Jooyong Yi",
+        "Dongsun Kim"
+      ],
+      "doi": "10.1109/ase56229.2023.00097",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e3163d44fe8992ef6ca6311fd076d1ee4d321221",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    138,
+    {
+      "title": "Fine-Grained In-Context Permission Classification for Android Apps Using Control-Flow Graph Embedding",
+      "authors": [
+        "Vikas K. Malviya",
+        "Yan Naing Tun",
+        "Chee Wei Leow",
+        "Ailys Tee Xynyn",
+        "Lwin Khin Shar",
+        "Lingxiao Jiang"
+      ],
+      "doi": "10.1109/ase56229.2023.00056",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c5a0c1a77c8234cec4d50ebeae87ec3aa6d3b1db",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation",
+      "authors": [
+        "Zuoyan Zhang",
+        "Bei Zhou",
+        "Jiangwei Hao",
+        "Hongru Yang",
+        "Mengqi Cui",
+        "Yuchang Zhou",
+        "Guanghui Song",
+        "Fei Li",
+        "Jinchen Xu",
+        "Jie Zhao"
+      ],
+      "doi": "10.1109/ase56229.2023.00139",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e4f3702f66ad8719cc6c4703beb552f1de3f1cc5",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    140,
+    {
+      "title": "NaturalFuzz: Natural Input Generation for Big Data Analytics",
+      "authors": [
+        "Ahmad Humayun",
+        "Yaoxuan Wu",
+        "Miryung Kim",
+        "Muhammad Ali Gulzar"
+      ],
+      "doi": "10.1109/ase56229.2023.00034",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8ed20e3059c2853ed39a87632ee2c9a3d70d18a6",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Fixing Privilege Escalations in Cloud Access Control with MaxSAT and Graph Neural Networks",
+      "authors": [
+        "Yang Hu",
+        "Wenxi Wang",
+        "Sarfraz Khurshid",
+        "Kenneth L. McMillan",
+        "Mohit Tiwari"
+      ],
+      "doi": "10.1109/ase56229.2023.00167",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b01608d2e1ec0419e7bb5d6b48dd15b657fcbb24",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    142,
+    {
+      "title": "Dynamic Graph Neural Networks-Based Alert Link Prediction for Online Service Systems",
+      "authors": [
+        "Yiru Chen",
+        "Chenxi Zhang",
+        "Zhen Dong",
+        "Dingyu Yang",
+        "Xin Peng",
+        "Jiayu Ou",
+        "Hong Yang",
+        "Zheshun Wu",
+        "Xiaojun Qu",
+        "Wei Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00177",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5cd96696db0b278096c2a7f1d511dc5b6d5ba771",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    143,
+    {
+      "title": "Precise Data-Driven Approximation for Program Analysis via Fuzzing",
+      "authors": [
+        "Nikhil Parasaram",
+        "Earl T. Barr",
+        "Sergey Mechtaev",
+        "Marcel B\u00f6hme"
+      ],
+      "doi": "10.1109/ase56229.2023.00185",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6e40bd9e0794a2b4011ffbcf65ee479ca9903b61",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Detecting Memory Errors in Python Native Code by Tracking Object Lifecycle with Reference Count",
+      "authors": [
+        "Xutong Ma",
+        "Jiwei Yan",
+        "Hao Zhang",
+        "Jun Yan",
+        "Jian Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00198",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3c1f3a37ec68e8de24d43a3a84cc37661b085d33",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Towards a Knowledge Base of Common Sustainability Weaknesses in Green Software Development",
+      "authors": [
+        "Priyavanshi Pathania",
+        "Rohit Mehra",
+        "Vibhu Saujanya Sharma",
+        "Vikrant Kaulgud",
+        "Sanjay Podder",
+        "Adam P. Burden"
+      ],
+      "doi": "10.1109/ase56229.2023.00204",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7299bd5adfeeb91a947866fdcba2e3a69f38474a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    146,
+    {
+      "title": "Symbolic Verification of Fuzzy Logic Models",
+      "authors": [
+        "Siang Zhao",
+        "Zhongyang Li",
+        "Zhenbang Chen",
+        "Ji Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00087",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6ea401f9963319f428032f684dc07cd88a0d75a5",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    147,
+    {
+      "title": "OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability",
+      "authors": [
+        "Wenjie Zhang",
+        "Guancheng Wang",
+        "Junjie Chen",
+        "Yingfei Xiong",
+        "Yong Liu",
+        "Lu Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00072",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cda688fe04142873ebbf0ef8c5ef56d073902806",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Expediting Neural Network Verification via Network Reduction",
+      "authors": [
+        "Yuyi Zhong",
+        "Ruiwei Wang",
+        "Siau-Cheng Khoo"
+      ],
+      "doi": "10.1109/ase56229.2023.00081",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bc0892c9beced5086700c62d9f85e3d2e23b54b8",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    149,
+    {
+      "title": "An Energy-Aware Approach to Design Self-Adaptive AI-based Applications on the Edge",
+      "authors": [
+        "Alessandro Tundo",
+        "Marco Mobilio",
+        "Shashikant Ilager",
+        "Ivona Brandi\u0107",
+        "Ezio Bartocci",
+        "Leonardo Mariani"
+      ],
+      "doi": "10.1109/ase56229.2023.00046",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "60c7966d1632e2f7a15f0bab90754d843b138fa9",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    150,
+    {
+      "title": "Demystifying Template-Based Invariant Generation for Bit-Vector Programs",
+      "authors": [
+        "Peisen Yao",
+        "Jingyu Ke",
+        "Jiahui Sun",
+        "Hongfei Fu",
+        "Rongxin Wu",
+        "Kui Ren"
+      ],
+      "doi": "10.1109/ase56229.2023.00069",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "00735869ba4ac447a54cc232b0756fdc7773b278",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Smart Prompt Advisor: Multi-Objective Prompt Framework for Consistency and Best Practices",
+      "authors": [
+        "Kanchanjot Kaur Phokela",
+        "Samarth Sikand",
+        "Kapil Singi",
+        "Kuntal Dey",
+        "Vibhu Saujanya Sharma",
+        "Vikrant Kaulgud"
+      ],
+      "doi": "10.1109/ase56229.2023.00019",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cd6d16fa15d9bfc4cff1713a13da8dcf654bfb75",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    152,
+    {
+      "title": "Effective Concurrency Testing for Go via Directional Primitive-Constrained Interleaving Exploration",
+      "authors": [
+        "Zongze Jiang",
+        "Ming Wen",
+        "Yixin Yang",
+        "Chao Peng",
+        "Ping Yang",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/ase56229.2023.00086",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "13207e4824560ae6504badd13dcf5a500e419e4a",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Fuzzing for CPS Mutation Testing",
+      "authors": [
+        "Jaekwon Lee",
+        "Enrico Vigan\u00f2",
+        "Oscar Cornejo",
+        "Fabrizio Pastore",
+        "Lionel Briand"
+      ],
+      "doi": "10.1109/ase56229.2023.00079",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "80060b60dde63ffa6d72de76335222316620b96c",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    154,
+    {
+      "title": "SmartCoCo: Checking Comment-Code Inconsistency in Smart Contracts via Constraint Propagation and Binding",
+      "authors": [
+        "Sicheng Hao",
+        "Yuhong Nan",
+        "Zibin Zheng",
+        "Xiaohui Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00142",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d42a8a876403053eb67e108a50b611a732320005",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    155,
+    {
+      "title": "AutoConf: Automated Configuration of Unsupervised Learning Systems Using Metamorphic Testing and Bayesian Optimization",
+      "authors": [
+        "Lwin Khin Shar",
+        "Arda Goknil",
+        "Erik Johannes Husom",
+        "Sagar Sen",
+        "Yan Naing Tun",
+        "Kisub Kim"
+      ],
+      "doi": "10.1109/ase56229.2023.00094",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "542d2c1471d79710a39e4c873b258c0ab03e4bcd",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    156,
+    {
+      "title": "Fork Entropy: Assessing the Diversity of Open Source Software Projects' Forks",
+      "authors": [
+        "Liang Wang",
+        "Zhiwen Zheng",
+        "Xiangchen Wu",
+        "Baihui Sang",
+        "Jierui Zhang",
+        "Xianping Tao"
+      ],
+      "doi": "10.1109/ase56229.2023.00168",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bd569cd8f16ba0a38e43ff64ea1502e8894ada63",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    157,
+    {
+      "title": "Government Mobile Apps: Analysing Citizen Feedback via App Reviews",
+      "authors": [
+        "Tooba Aamir",
+        "Mohan Baruwal Chhetri",
+        "M.A.P. Chamikara",
+        "Marthie Grobler"
+      ],
+      "doi": "10.1109/ase56229.2023.00190",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b8fc9efae88eb662269e00d7622d244bf0ee6047",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Enhancing Code Safety in Quantum Intermediate Representation",
+      "authors": [
+        "Junjie Luo",
+        "Jianjun Zhao"
+      ],
+      "doi": "10.1109/ase56229.2023.00195",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e08431098db2eed01da6176a4dc2780152943731",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    159,
+    {
+      "title": "ArduinoProg: Towards Automating Arduino Programming",
+      "authors": [
+        "Imam Nur Bani Yusuf",
+        "Diyanah Binte Abdul Jamal",
+        "Lingxiao Jiang"
+      ],
+      "doi": "10.1109/ase56229.2023.00055",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "4ae0e9b600bb45a5c72dd64d67fd5b1f56b3424d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    160,
+    {
+      "title": "How to Train Your Neural Bug Detector: Artificial vs Real Bugs",
+      "authors": [
+        "Cedric Richter",
+        "Heike Wehrheim"
+      ],
+      "doi": "10.1109/ase56229.2023.00104",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3da90938a5315a9f61b5a300631f6bb0eb71a69b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    161,
+    {
+      "title": "BugMiner: Automating Precise Bug Dataset Construction by Code Evolution History Mining",
+      "authors": [
+        "Xuezhi Song",
+        "Yijian Wu",
+        "Junming Cao",
+        "Bihuan Chen",
+        "Yun Lin",
+        "Zhengjie Lu",
+        "Dingji Wang",
+        "Xin Peng"
+      ],
+      "doi": "10.1109/ase56229.2023.00201",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "738d078a32b7e7e2834029ca77e7e999a76b2b4c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    162,
+    {
+      "title": "Assessing the Impact of Refactoring Energy-Inefficient Code Patterns on Software Sustainability: An Industry Case Study",
+      "authors": [
+        "Rohit Mehra",
+        "Priyavanshi Pathania",
+        "Vibhu Saujanya Sharma",
+        "Vikrant Kaulgud",
+        "Sanjay Podder",
+        "Adam P. Burden"
+      ],
+      "doi": "10.1109/ase56229.2023.00205",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2d0ecec7accfddaa542b389b4010b53895672144",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    163,
+    {
+      "title": "AutoDebloater: Automated Android App Debloating",
+      "authors": [
+        "Jiakun Liu",
+        "Xing Hu",
+        "Ferdian Thung",
+        "Shahar Maoz",
+        "Eran Toch",
+        "Debin Gao",
+        "David Lo"
+      ],
+      "doi": "10.1109/ase56229.2023.00017",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "b9614e03c949e7b761a7662fb637c74b40ead6e9",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    164,
+    {
+      "title": "Towards Safe Automated Refactoring of Imperative Deep Learning Programs to Graph Execution",
+      "authors": [
+        "Raffi Khatchadourian",
+        "Tatiana Castro V\u00e9lez",
+        "Mehdi Bagherzadeh",
+        "Nan Jia",
+        "Anita Raja"
+      ],
+      "doi": "10.1109/ase56229.2023.00187",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "05509a66545d57916d821cc712be19cefff867bd",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Vision-Based Widget Mapping for Test Migration Across Mobile Platforms: Are We There Yet?",
+      "authors": [
+        "Ruihua Ji",
+        "Tingwei Zhu",
+        "Xiaoqing Zhu",
+        "Chunyang Chen",
+        "Minxue Pan",
+        "Tian Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00068",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f885ba1c075b2b8509e044c8938acc4184ef683c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    166,
+    {
+      "title": "Program Committee",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00007",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    167,
+    {
+      "title": "Copyright",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00003",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "5a3d9a3f964dc4dd8c46cdcc496fad6731f52fa6",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    168,
+    {
+      "title": "Improving Design Reviews at Google",
+      "authors": [
+        "Celal Ziftci",
+        "Ben Greenberg"
+      ],
+      "doi": "10.1109/ase56229.2023.00066",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a161bfd88d36d84d9deb4b15cc23dabb02d3b254",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    169,
+    {
+      "title": "Predicting Compilation Resources for Adaptive Build in an Industrial Setting",
+      "authors": [
+        "Junhao Hu",
+        "Chaozheng Wang",
+        "Hailiang Huang",
+        "Huang Luo",
+        "Yu Jin",
+        "Yuetang Deng",
+        "Tao Xie"
+      ],
+      "doi": "10.1109/ase56229.2023.00128",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e3fc815a9b7e4b7ca6fd12c337b2f76576be25ff",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    170,
+    {
+      "title": "Compiler Auto-Tuning via Critical Flag Selection",
+      "authors": [
+        "Mingxuan Zhu",
+        "Dan Hao"
+      ],
+      "doi": "10.1109/ase56229.2023.00209",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ac1f0cb8da98f3229177b7951573bd2b9e2c9244",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    171,
+    {
+      "title": "Merge-Replay: Efficient IFDS-Based Taint Analysis by Consolidating Equivalent Value Flows",
+      "authors": [
+        "Yujiang Gui",
+        "Dongjie He",
+        "Jingling Xue"
+      ],
+      "doi": "10.1109/ase56229.2023.00027",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "55cf90c551f4c5cb134b5f44537a48f603142924",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    172,
+    {
+      "title": "Persisting and Reusing Results of Static Program Analyses on a Large Scale",
+      "authors": [
+        "Johannes D\u00fcsing",
+        "Ben Hermann"
+      ],
+      "doi": "10.1109/ase56229.2023.00080",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2f6e313eadf506d87a5dd69f6060c06595f56f80",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    173,
+    {
+      "title": "Message from the Chairs: ASE 2023",
+      "authors": [
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein",
+        "Christian Bird",
+        "Federica Sarro"
+      ],
+      "doi": "10.1109/ase56229.2023.00005",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a87d2b3068fd8f12d102e833bcc639070d068ff2",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    174,
+    {
+      "title": "Title Page i",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00001",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    175,
+    {
+      "title": "Title Page iii",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00002",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    176,
+    {
+      "title": "Detection of Java Basic Thread Misuses Based on Static Event Analysis",
+      "authors": [
+        "Baoquan Cui",
+        "Miaomiao Wang",
+        "Chi Zhang",
+        "Jiwei Yan",
+        "Jun Yan",
+        "Jian Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00145",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "dca46b540bda7d95a4805af7bc9951e71c985afb",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    177,
+    {
+      "title": "Coding and Debugging by Separating Secret Code Toward Secure Remote Development",
+      "authors": [
+        "Shinobu Saito"
+      ],
+      "doi": "10.1109/ase56229.2023.00160",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2395af3a378926e0534f10d35e07a13046860163",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    178,
+    {
+      "title": "Characterizing Flaky Tests in Node.js Applications",
+      "authors": [
+        "Xiaoning Chang",
+        "Zheheng Liang",
+        "Guoquan Wu",
+        "Yu Gao",
+        "Wei Chen",
+        "Jun Wei",
+        "Zhenyue Long",
+        "Lei Cui",
+        "Tao Huang"
+      ],
+      "doi": "10.1109/ase56229.2023.00025",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "08c5b6e0002fcf079a78161d4d45b5de874e65bf",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    179,
+    {
+      "title": "RPCover: Recovering gRPC Dependency in Multilingual Projects",
+      "authors": [
+        "Aoyang Fang",
+        "Ruiyu Zhou",
+        "Xiaoying Tang",
+        "Pinjia He"
+      ],
+      "doi": "10.1109/ase56229.2023.00108",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "ded4e66642efe29e324b8e57f003469e72f03af7",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    180,
+    {
+      "title": "Robin: A Novel Method to Produce Robust Interpreters for Deep Learning-Based Code Classifiers",
+      "authors": [
+        "Zhen Li",
+        "Ruqian Zhang",
+        "Deqing Zou",
+        "Ning Wang",
+        "Yating Li",
+        "Shouhuai Xu",
+        "Chen Chen",
+        "Hai Jin"
+      ],
+      "doi": "10.1109/ase56229.2023.00164",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "3f863db0ddefce3007dfb021a0d91385a480a451",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    181,
+    {
+      "title": "iASTMapper: An Iterative Similarity-Based Abstract Syntax Tree Mapping Algorithm",
+      "authors": [
+        "Neng Zhang",
+        "Qinde Chen",
+        "Zibin Zheng",
+        "Ying Zou"
+      ],
+      "doi": "10.1109/ase56229.2023.00178",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "638425641ca6075effc33d1eeb7153338b6af5be",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    182,
+    {
+      "title": "DCLINK: Bridging Data Constraint Changes and Implementations in FinTech Systems",
+      "authors": [
+        "Wensheng Tange",
+        "Chengpeng Wang",
+        "Peisen Yao",
+        "Rongxin Wu",
+        "Xianjin Fu",
+        "Gang Fan",
+        "Charles Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00170",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "86e4f56e9115590b484da77fdb9b8c5a6c5918ec",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    183,
+    {
+      "title": "PSMT: Satisfiability Modulo Theories Meets Probability Distribution",
+      "authors": [
+        "Fuqi Jia",
+        "Rui Han",
+        "Xutong Ma",
+        "Baoquan Cui",
+        "Minghao Liu",
+        "Pei Huang",
+        "Feifei Ma",
+        "Jian Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00183",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "cd5eaa966228dd4bbf1d65c6ee330ffbdbb8f7d1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    184,
+    {
+      "title": "Semantic Data Augmentation for Deep Learning Testing Using Generative AI",
+      "authors": [
+        "Sondess Missaoui",
+        "Simos Gerasimou",
+        "Nicholas Matragkas"
+      ],
+      "doi": "10.1109/ase56229.2023.00194",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "a1ede60358dae4074172f61f4945d8fb82968d72",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    185,
+    {
+      "title": "PhyFu: Fuzzing Modern Physics Simulation Engines",
+      "authors": [
+        "Dongwei Xiao",
+        "Zhibo Liu",
+        "Shuai Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00054",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f5314b7b1bb7d7d27a5239b4865cbb0e565ac0f5",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    186,
+    {
+      "title": "Bus Factor Explorer",
+      "authors": [
+        "Egor Klimov",
+        "Muhammad Umair Ahmed",
+        "Nikolai Sviridov",
+        "Pouria Derakhshanfar",
+        "Eray T\u00fcz\u00fcn",
+        "Vladimir Kovalenko"
+      ],
+      "doi": "10.1109/ase56229.2023.00015",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "8d7404f390e058b528c21fb8db55475974119875",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    187,
+    {
+      "title": "SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices",
+      "authors": [
+        "Ziyou Jiang",
+        "Lin Shi",
+        "Guowei Yang",
+        "Qing Wang"
+      ],
+      "doi": "10.1109/ase56229.2023.00040",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "7d8dd530278eb443409ba862bfc4e57c66c84640",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    188,
+    {
+      "title": "An Intentional Forgetting-Driven Self-Healing Method for Deep Reinforcement Learning Systems",
+      "authors": [
+        "Ahmed Haj Yahmed",
+        "Rached Bouchoucha",
+        "Houssem Ben Braiek",
+        "Foutse Khomh"
+      ],
+      "doi": "10.1109/ase56229.2023.00121",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f6e23a78fd94ca68692f72c41ce7e551cd961996",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    189,
+    {
+      "title": "Author Index",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00009",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    190,
+    {
+      "title": "Organizing Committee",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00006",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    191,
+    {
+      "title": "Table of Contents",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00004",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    192,
+    {
+      "title": "ICTDroid: Parameter-Aware Combinatorial Testing for Components of Android Apps",
+      "authors": [
+        "Shixin Zhang",
+        "Shanna Li",
+        "Xi Deng",
+        "Jiwei Yan",
+        "Jun Yan"
+      ],
+      "doi": "10.1109/ase56229.2023.00071",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6204ca6b1c60c90d3d6fac6c6907085b02e38b86",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    193,
+    {
+      "title": "Bridging the Gap Between Academia and Industry in Machine Learning Software Defect Prediction: Thirteen Considerations",
+      "authors": [
+        "Szymon Stradowski",
+        "Lech Madeyski"
+      ],
+      "doi": "10.1109/ase56229.2023.00026",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f73a82a37402de2fdfd8c7c4f3afb2e9247fbe56",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    194,
+    {
+      "title": "MUTEN: Mutant-Based Ensembles for Boosting Gradient-Based Adversarial Attack",
+      "authors": [
+        "Qiang Hu",
+        "Yuejun Guo",
+        "Maxime Cordy",
+        "Mike Papadakis",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1109/ase56229.2023.00042",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "55dda5dcaf0bdd2160c2a8f38ce43729ff302223",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    195,
+    {
+      "title": "Understanding and Enhancing Issue Prioritization in GitHub",
+      "authors": [
+        "Yingying He",
+        "Wenhua Yang",
+        "Minxue Pan",
+        "Yasir Hussain",
+        "Yu Zhou"
+      ],
+      "doi": "10.1109/ase56229.2023.00044",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "29df09f83bd4089989f2eee73a05601af2c420b3",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    196,
+    {
+      "title": "PTDETECTOR: An Automated JavaScript Front-end Library Detector",
+      "authors": [
+        "Xinyue Liu",
+        "Lukasz Ziarek"
+      ],
+      "doi": "10.1109/ase56229.2023.00049",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2ab38043dd924cea730d99c319b5bab2fc62f638",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    197,
+    {
+      "title": "An Automated and Flexible Multilingual Bug-Fix Dataset Construction System",
+      "authors": [
+        "Wenkang Zhong",
+        "Chuanyi Li",
+        "Yunfei Zhang",
+        "Ziwen Ge",
+        "Jingyu Wang",
+        "Jidong Ge",
+        "Bin Luo"
+      ],
+      "doi": "10.1109/ase56229.2023.00176",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "d12b1d9febf5dfbc9144cae059cc37a8954b2e3a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    198,
+    {
+      "title": "Open Source Software Tools for Data Management and Deep Model Training Automation",
+      "authors": [
+        "Umut T\u0131ra\u015fo\u011flu",
+        "Abdussamet T\u00fcrker",
+        "Adnan Ekici",
+        "Hayri Yi\u011fit",
+        "Yusuf Enes B\u00f6l\u00fckba\u015f\u0131",
+        "Toygar Akg\u00fcn"
+      ],
+      "doi": "10.1109/ase56229.2023.00014",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "53796f991539d6db08bed47cafcfcfb2f351034c",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    199,
+    {
+      "title": "RocketHA: A High Availability Design Paradigm for Distributed Log-Based Storage System",
+      "authors": [
+        "Juntao Ji",
+        "Rongtong Jin",
+        "Yubao Fu",
+        "Yinyou Gu",
+        "Tsung-han Tsai",
+        "Qingshan Lin"
+      ],
+      "doi": "10.1109/ase56229.2023.00123",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "85ba041e145806b6a252544d31dd66d5b9b1d153",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    200,
+    {
+      "title": "Using Deep Learning to Automatically Improve Code Readability",
+      "authors": [
+        "Antonio Vitale",
+        "Valentina Piantadosi",
+        "Simone Scalabrino",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1109/ase56229.2023.00112",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0bc8ff089af3330c530b676c2ab796330b7cf175",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    201,
+    {
+      "title": "CiD4HMOS: A Solution to HarmonyOS Compatibility Issues",
+      "authors": [
+        "Tianzhi Ma",
+        "Yanjie Zhao",
+        "Li Li",
+        "Liang Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00134",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e1648f1ef29232607efaead60cd4b31722acd59b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    202,
+    {
+      "title": "A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models",
+      "authors": [
+        "Qilin Zhou",
+        "Zhengyuan Wei",
+        "Haipeng Wang",
+        "W.K. Chan"
+      ],
+      "doi": "10.1109/ase56229.2023.00137",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "08f52f4374dff64f304da038b5e94aea9c454089",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    203,
+    {
+      "title": "LiSum: Open Source Software License Summarization with Multi-Task Learning",
+      "authors": [
+        "Linyu Li",
+        "Sihan Xu",
+        "Yang Liu",
+        "Ya Gao",
+        "Xiangrui Cai",
+        "Jiarun Wu",
+        "Wenli Song",
+        "Zheli Liu"
+      ],
+      "doi": "10.1109/ase56229.2023.00150",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "759ef9d3c5591299e9ff2d002e6add3d27efaeca",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    204,
+    {
+      "title": "Scalable Industrial Control System Analysis via XAI-Based Gray-Box Fuzzing",
+      "authors": [
+        "Justin Kur",
+        "Jingshu Chen",
+        "Jun Huang"
+      ],
+      "doi": "10.1109/ase56229.2023.00161",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bfe6d575745ab9655f0992accc5027e5a391f6fc",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    205,
+    {
+      "title": "HOBAT: Batch Verification for Homogeneous Structural Neural Networks",
+      "authors": [
+        "Jingyang Li",
+        "Guoqiang Li"
+      ],
+      "doi": "10.1109/ase56229.2023.00033",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "bfa9b990cc81ff40e78ca1d4aa57e279f1d48575",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    206,
+    {
+      "title": "Potential Solutions to Challenges in C Program Repair: A Practical Perspective",
+      "authors": [
+        "Jifeng Xuan",
+        "Qi Xin",
+        "Liqian Chen",
+        "Xiaoguang Mao"
+      ],
+      "doi": "10.1109/ase56229.2023.00211",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "2e14d9e926b671e00ff95860308a34408d02931f",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    207,
+    {
+      "title": "Steering Committee",
+      "authors": [],
+      "doi": "10.1109/ase56229.2023.00008",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    208,
+    {
+      "title": "NRAgo: Solving SMT(NRA) Formulas with Gradient-Based Optimization",
+      "authors": [
+        "Minghao Liu",
+        "Kunhang Lv",
+        "Pei Huang",
+        "Rui Han",
+        "Fuqi Jia",
+        "Yu Zhang",
+        "Feifei Ma",
+        "Jian Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00013",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "6331e7ab63c9add6816c56f1c1161e330ef57645",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    209,
+    {
+      "title": "How Android Apps Break the Data Minimization Principle: An Empirical Study",
+      "authors": [
+        "Shaokun Zhang",
+        "Hanwen Lei",
+        "Yuanpeng Wang",
+        "Ding Li",
+        "Yao Guo",
+        "Xiangqun Chen"
+      ],
+      "doi": "10.1109/ase56229.2023.00141",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "37e17a0b8f5cfe8de4c0f6e405f2f3d522abcd2d",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    210,
+    {
+      "title": "SAT-Verifiable LTL Satisfiability Checking via Graph Representation Learning",
+      "authors": [
+        "Weilin Luo",
+        "Yuhang Zheng",
+        "Rongzhen Ye",
+        "Hai Wan",
+        "Jianfeng Du",
+        "Pingjia Liang",
+        "Polong Chen"
+      ],
+      "doi": "10.1109/ase56229.2023.00173",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c0c1fa7c8c882e8c7247ec071c39ac72bbc0e39b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    211,
+    {
+      "title": "Detecting Smart Home Automation Application Interferences with Domain Knowledge",
+      "authors": [
+        "Tao Wang",
+        "Wei Chen",
+        "Liwei Liu",
+        "Guoquan Wu",
+        "Jun Wei",
+        "Tao Huang"
+      ],
+      "doi": "10.1109/ase56229.2023.00070",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "f3df1358a6be90dcab8fff977d75e0ce578dbd90",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    212,
+    {
+      "title": "An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering",
+      "authors": [
+        "Prantik Chatterjee",
+        "Pankaj Kumar Kalita",
+        "Sumit Lahiri",
+        "Sujit Kumar Muduli",
+        "Vishal Singh",
+        "Gourav Takhar",
+        "Subhajit Roy"
+      ],
+      "doi": "10.1109/ase56229.2023.00101",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "39f1b301d1bbfb2cc7f3a38a9d64710d867cd2b1",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    213,
+    {
+      "title": "Contrastive Learning for API Aspect Analysis",
+      "authors": [
+        "G. M. Shahariar",
+        "Tahmid Hasan",
+        "Anindya Iqbal",
+        "Gias Uddin"
+      ],
+      "doi": "10.1109/ase56229.2023.00064",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "0cd622f8043e59bc7b831150cfc7b3b41f36c23a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    214,
+    {
+      "title": "Thunderkaller: Profiling and Improving the Performance of Syzkaller",
+      "authors": [
+        "Yang Lan",
+        "Di Jin",
+        "Zhun Wang",
+        "Wende Tan",
+        "Zheyu Ma",
+        "Chao Zhang"
+      ],
+      "doi": "10.1109/ase56229.2023.00124",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "69716873d7f1320924ba3ee09a16b595993c4c98",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    215,
+    {
+      "title": "Live Programming for Finite Model Finders",
+      "authors": [
+        "Allison Sullivan"
+      ],
+      "doi": "10.1109/ase56229.2023.00016",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "e38bba34ec9c73c8b1091eceac0875091f07120a",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    216,
+    {
+      "title": "SpecFuzzer: A Tool for Inferring Class Specifications via Grammar-Based Fuzzing",
+      "authors": [
+        "Facundo Molina",
+        "Marcelo d'Amorim",
+        "Nazareno Aguirre"
+      ],
+      "doi": "10.1109/ase56229.2023.00024",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "40e415a175d8bb3ace3e0a7fca1395c706f56316",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ],
+  [
+    217,
+    {
+      "title": "Contextuality of Code Representation Learning",
+      "authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/ase56229.2023.00029",
+      "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering",
+      "citations": {
+        "paperId": "c94a876e855768774c9969d4dddf47fcb8b0bf14",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2023
+    }
+  ]
+]

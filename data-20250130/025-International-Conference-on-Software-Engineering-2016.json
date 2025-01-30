@@ -1,0 +1,2058 @@
+[
+  [
+    1,
+    {
+      "title": "Automatically learning semantic features for defect prediction",
+      "authors": [
+        "Song Wang",
+        "Taiyue Liu",
+        "Lin Tan"
+      ],
+      "doi": "10.1145/2884781.2884804",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6334ee3a7812d9912263c5d616215509fe2b4f15",
+        "citationCount": 629,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Angelix",
+      "authors": [
+        "Sergey Mechtaev",
+        "Jooyong Yi",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/2884781.2884807",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3f215e83b39a0887257a03274002f353c5a57537",
+        "citationCount": 523,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    3,
+    {
+      "title": "SourcererCC",
+      "authors": [
+        "Hitesh Sajnani",
+        "Vaibhav Saini",
+        "Jeffrey Svajlenko",
+        "Chanchal K. Roy",
+        "Cristina V. Lopes"
+      ],
+      "doi": "10.1145/2884781.2884877",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e1abe96610cb3bc989e727f0b59cebedb14260f1",
+        "citationCount": 516,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Grounded theory in software engineering research",
+      "authors": [
+        "Klaas-Jan Stol",
+        "Paul Ralph",
+        "Brian Fitzgerald"
+      ],
+      "doi": "10.1145/2884781.2884833",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8fe2f59ff3733f9ee50ffa295beda502f4e268e2",
+        "citationCount": 449,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Work practices and challenges in pull-based development",
+      "authors": [
+        "Georgios Gousios",
+        "Margaret-Anne Storey",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1145/2884781.2884826",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8455b1a9c02e256cf9bc3244f31110db12eb62fc",
+        "citationCount": 446,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Automated parameter optimization of classification techniques for defect prediction models",
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E. Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1145/2884781.2884857",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "238b86b8b9be468bbebef2c9e68b2a00d875e358",
+        "citationCount": 326,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    7,
+    {
+      "title": "From word embeddings to document similarities for improved information retrieval in software engineering",
+      "authors": [
+        "Xin Ye",
+        "Hui Shen",
+        "Xiao Ma",
+        "Razvan Bunescu",
+        "Chang Liu"
+      ],
+      "doi": "10.1145/2884781.2884862",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3041a9265afb2ebdb4915aa9572668bb7f32b0ef",
+        "citationCount": 287,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Augmenting API documentation with insights from stack overflow",
+      "authors": [
+        "Christoph Treude",
+        "Martin P. Robillard"
+      ],
+      "doi": "10.1145/2884781.2884800",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aba1ab5d07beb3b04c099e4609526920f1128bb7",
+        "citationCount": 255,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    9,
+    {
+      "title": "On the \"naturalness\" of buggy code",
+      "authors": [
+        "Baishakhi Ray",
+        "Vincent Hellendoorn",
+        "Saheel Godhane",
+        "Zhaopeng Tu",
+        "Alberto Bacchelli",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1145/2884781.2884848",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cfb0d0a633957b232d467fd122d3ec5244d24184",
+        "citationCount": 246,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Release planning of mobile apps based on user reviews",
+      "authors": [
+        "Lorenzo Villarroel",
+        "Gabriele Bavota",
+        "Barbara Russo",
+        "Rocco Oliveto",
+        "Massimiliano Di Penta"
+      ],
+      "doi": "10.1145/2884781.2884818",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8204559805f2b45b43ce17efcb8adc6b631d9dca",
+        "citationCount": 242,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Jumping through hoops",
+      "authors": [
+        "Sarah Nadi",
+        "Stefan Kr\u00fcger",
+        "Mira Mezini",
+        "Eric Bodden"
+      ],
+      "doi": "10.1145/2884781.2884790",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ffb2003551fa97cde9d82f8219fb2754090e37b3",
+        "citationCount": 233,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Cross-project defect prediction using a connectivity-based unsupervised classifier",
+      "authors": [
+        "Feng Zhang",
+        "Quan Zheng",
+        "Ying Zou",
+        "Ahmed E. Hassan"
+      ],
+      "doi": "10.1145/2884781.2884839",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2be4e80fd939c815f9b2be3a32fac64ba6966529",
+        "citationCount": 226,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    13,
+    {
+      "title": "The emerging role of data scientists on software development teams",
+      "authors": [
+        "Miryung Kim",
+        "Thomas Zimmermann",
+        "Robert DeLine",
+        "Andrew Begel"
+      ],
+      "doi": "10.1145/2884781.2884783",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c575eb25feb0f06d2702fcf7751f6b4f61b892ee",
+        "citationCount": 210,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Toward a framework for detecting privacy policy violations in android application code",
+      "authors": [
+        "Rocky Slavin",
+        "Xiaoyin Wang",
+        "Mitra Bokaei Hosseini",
+        "James Hester",
+        "Ram Krishnan",
+        "Jaspreet Bhatia",
+        "Travis D. Breaux",
+        "Jianwei Niu"
+      ],
+      "doi": "10.1145/2884781.2884855",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bd1e244e0ad95d4603968de4399d0937714ea9f7",
+        "citationCount": 191,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Comparing white-box and black-box test prioritization",
+      "authors": [
+        "Christopher Henard",
+        "Mike Papadakis",
+        "Mark Harman",
+        "Yue Jia",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1145/2884781.2884791",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3e5c576a95c1421e3892474702e442c577da7547",
+        "citationCount": 189,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Code review quality",
+      "authors": [
+        "Oleksii Kononenko",
+        "Olga Baysal",
+        "Michael W. Godfrey"
+      ],
+      "doi": "10.1145/2884781.2884840",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "88997c8b7daa74cd822d82bf33581c8fa966a347",
+        "citationCount": 185,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    17,
+    {
+      "title": "A comparison of 10 sampling algorithms for configurable systems",
+      "authors": [
+        "Fl\u00e1vio Medeiros",
+        "Christian K\u00e4stner",
+        "M\u00e1rcio Ribeiro",
+        "Rohit Gheyi",
+        "Sven Apel"
+      ],
+      "doi": "10.1145/2884781.2884793",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "58657b8a52133fd9aff02af78ddfaa177c287425",
+        "citationCount": 183,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    18,
+    {
+      "title": "An analysis of the search spaces for generate and validate patch generation systems",
+      "authors": [
+        "Fan Long",
+        "Martin Rinard"
+      ],
+      "doi": "10.1145/2884781.2884872",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "245f735b70e71d4ee2d3ab944c8a7508a27e88c2",
+        "citationCount": 166,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Belief &amp; evidence in empirical software engineering",
+      "authors": [
+        "Prem Devanbu",
+        "Thomas Zimmermann",
+        "Christian Bird"
+      ],
+      "doi": "10.1145/2884781.2884812",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d1cc35e2a547ba79f1b07fdd81ee0da264c0d6b6",
+        "citationCount": 163,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    20,
+    {
+      "title": "SWIM",
+      "authors": [
+        "Mukund Raghothaman",
+        "Yi Wei",
+        "Youssef Hamadi"
+      ],
+      "doi": "10.1145/2884781.2884808",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "493ecb754c8c772e1e1f91e4330e631116e8ba87",
+        "citationCount": 162,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    21,
+    {
+      "title": "An empirical study of practitioners' perspectives on green software engineering",
+      "authors": [
+        "Irene Manotas",
+        "Christian Bird",
+        "Rui Zhang",
+        "David Shepherd",
+        "Ciera Jaspan",
+        "Caitlin Sadowski",
+        "Lori Pollock",
+        "James Clause"
+      ],
+      "doi": "10.1145/2884781.2884810",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "64cc4ef5def3919049bdd3a645af198922d626c2",
+        "citationCount": 162,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Multi-objective software effort estimation",
+      "authors": [
+        "Federica Sarro",
+        "Alessio Petrozziello",
+        "Mark Harman"
+      ],
+      "doi": "10.1145/2884781.2884830",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f1e7bc48a708c7be8a0aae88444243519307884d",
+        "citationCount": 158,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Overcoming open source project entry barriers with a portal for newcomers",
+      "authors": [
+        "Igor Steinmacher",
+        "Tayana Uchoa Conte",
+        "Christoph Treude",
+        "Marco Aur\u00e9lio Gerosa"
+      ],
+      "doi": "10.1145/2884781.2884806",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4bea2b4029a895bf898701329409e5a784fc2090",
+        "citationCount": 142,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Program synthesis using natural language",
+      "authors": [
+        "Aditya Desai",
+        "Sumit Gulwani",
+        "Vineet Hingorani",
+        "Nidhi Jain",
+        "Amey Karkare",
+        "Mark Marron",
+        "Sailesh R",
+        "Subhajit Roy"
+      ],
+      "doi": "10.1145/2884781.2884786",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2579e826f22da988fbc1b5d545aa59ab68bde4f3",
+        "citationCount": 139,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Reducing combinatorics in GUI testing of android applications",
+      "authors": [
+        "Nariman Mirzaei",
+        "Joshua Garcia",
+        "Hamid Bagheri",
+        "Alireza Sadeghi",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/2884781.2884853",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "282c96f60af8a72563d618f44ec7b76a59b15668",
+        "citationCount": 139,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Energy profiles of Java collections classes",
+      "authors": [
+        "Samir Hasan",
+        "Zachary King",
+        "Munawar Hafiz",
+        "Mohammed Sayagh",
+        "Bram Adams",
+        "Abram Hindle"
+      ],
+      "doi": "10.1145/2884781.2884869",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4d125e263c46f397a17758ec3cae63b81615889a",
+        "citationCount": 132,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Revisiting code ownership and its relationship with software quality in the scope of modern code review",
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Shane McIntosh",
+        "Ahmed E. Hassan",
+        "Hajimu Iida"
+      ],
+      "doi": "10.1145/2884781.2884852",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "db61996c021c2c9fcbc40aee63d248d61dce97d3",
+        "citationCount": 130,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Performance issues and optimizations in JavaScript",
+      "authors": [
+        "Marija Selakovic",
+        "Michael Pradel"
+      ],
+      "doi": "10.1145/2884781.2884829",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b144280204f0bb3d8308adb796219eb545b3feb9",
+        "citationCount": 128,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    29,
+    {
+      "title": "The impact of test case summaries on bug fixing performance",
+      "authors": [
+        "Sebastiano Panichella",
+        "Annibale Panichella",
+        "Moritz Beller",
+        "Andy Zaidman",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1145/2884781.2884847",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "51561c36462bb5b72f4c7b3e767fed72e487b5ae",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    30,
+    {
+      "title": "A practical guide to select quality indicators for assessing pareto-based search algorithms in search-based software engineering",
+      "authors": [
+        "Shuai Wang",
+        "Shaukat Ali",
+        "Tao Yue",
+        "Yan Li",
+        "Marius Liaaen"
+      ],
+      "doi": "10.1145/2884781.2884880",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4c75c109e9abadd5498f5ae92fe3a1738a05f23b",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Using (bio)metrics to predict code quality online",
+      "authors": [
+        "Sebastian C. M\u00fcller",
+        "Thomas Fritz"
+      ],
+      "doi": "10.1145/2884781.2884803",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "55ec9f24642c13ca139fa967c327358943cae49d",
+        "citationCount": 109,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    32,
+    {
+      "title": "How does regression test prioritization perform in real-world software evolution?",
+      "authors": [
+        "Yafeng Lu",
+        "Yiling Lou",
+        "Shiyang Cheng",
+        "Lingming Zhang",
+        "Dan Hao",
+        "Yangfan Zhou",
+        "Lu Zhang"
+      ],
+      "doi": "10.1145/2884781.2884874",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "47da099731ddc18bcb04e814ed81b50bfc889d85",
+        "citationCount": 107,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Are \"non-functional\" requirements really non-functional?",
+      "authors": [
+        "Jonas Eckhardt",
+        "Andreas Vogelsang",
+        "Daniel M\u00e9ndez Fern\u00e1ndez"
+      ],
+      "doi": "10.1145/2884781.2884788",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1861efcd6efc6823609e5ae416bb644ea940fd5a",
+        "citationCount": 107,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Automated energy optimization of HTTP requests for mobile applications",
+      "authors": [
+        "Ding Li",
+        "Yingjun Lyu",
+        "Jiaping Gui",
+        "William G. J. Halfond"
+      ],
+      "doi": "10.1145/2884781.2884867",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "033f6b3dbe92eae1d52c3cccfb92ecd2f9ac068e",
+        "citationCount": 105,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    35,
+    {
+      "title": "An empirical comparison of compiler testing techniques",
+      "authors": [
+        "Junjie Chen",
+        "Wenxiang Hu",
+        "Dan Hao",
+        "Yingfei Xiong",
+        "Hongyu Zhang",
+        "Lu Zhang",
+        "Bing Xie"
+      ],
+      "doi": "10.1145/2884781.2884878",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c4190b294381806cc9eb12440a7fced1004ece71",
+        "citationCount": 96,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Identifying and quantifying architectural debt",
+      "authors": [
+        "Lu Xiao",
+        "Yuanfang Cai",
+        "Rick Kazman",
+        "Ran Mo",
+        "Qiong Feng"
+      ],
+      "doi": "10.1145/2884781.2884822",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3e6174e5e941b752c8fae14b355651cfc064bc8d",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Guiding dynamic symbolic execution toward unverified program executions",
+      "authors": [
+        "Maria Christakis",
+        "Peter M\u00fcller",
+        "Valentin W\u00fcstholz"
+      ],
+      "doi": "10.1145/2884781.2884843",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "42c2b452fa1a25324ff4ef67d16234a27cc364aa",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Code anomalies flock together",
+      "authors": [
+        "Willian Oizumi",
+        "Alessandro Garcia",
+        "Leonardo da Silva Sousa",
+        "Bruno Cafeo",
+        "Yixue Zhao"
+      ],
+      "doi": "10.1145/2884781.2884868",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a9b421b2b2019d1013569a5f5162bbba8b828d15",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    39,
+    {
+      "title": "StubDroid",
+      "authors": [
+        "Steven Arzt",
+        "Eric Bodden"
+      ],
+      "doi": "10.1145/2884781.2884816",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "54943f66a73914cb84609cd25660f0f192db6459",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    40,
+    {
+      "title": "BigDebug",
+      "authors": [
+        "Muhammad Ali Gulzar",
+        "Matteo Interlandi",
+        "Seunghyun Yoo",
+        "Sai Deep Tetali",
+        "Tyson Condie",
+        "Todd Millstein",
+        "Miryung Kim"
+      ],
+      "doi": "10.1145/2884781.2884813",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4bace0a37589ec16246805d167c831343c9bd241",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Quantifying and mitigating turnover-induced knowledge loss",
+      "authors": [
+        "Peter C. Rigby",
+        "Yue Cai Zhu",
+        "Samuel M. Donadelli",
+        "Audris Mockus"
+      ],
+      "doi": "10.1145/2884781.2884851",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5dd7843ed2d78fc9a5e6b76fb5f26dc77e6ebd6d",
+        "citationCount": 83,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    42,
+    {
+      "title": "MobiPlay",
+      "authors": [
+        "Zhengrui Qin",
+        "Yutao Tang",
+        "Ed Novak",
+        "Qun Li"
+      ],
+      "doi": "10.1145/2884781.2884854",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dc503167cc25a4ff0b7608a177464337eafc2827",
+        "citationCount": 81,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    43,
+    {
+      "title": "The sky is not the limit",
+      "authors": [
+        "Bogdan Vasilescu",
+        "Kelly Blincoe",
+        "Qi Xuan",
+        "Casey Casalnuovo",
+        "Daniela Damian",
+        "Premkumar Devanbu",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1145/2884781.2884875",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90db52f2f2c12494d63d4305afd9ab15a0de155b",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Floating-point precision tuning using blame analysis",
+      "authors": [
+        "Cindy Rubio-Gonz\u00e1lez",
+        "Cuong Nguyen",
+        "Benjamin Mehne",
+        "Koushik Sen",
+        "James Demmel",
+        "William Kahan",
+        "Costin Iancu",
+        "Wim Lavrijsen",
+        "David H. Bailey",
+        "David Hough"
+      ],
+      "doi": "10.1145/2884781.2884850",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9af25ea61fb6632a7d4860114152bdb3e3a275df",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Learning API usages from bytecode",
+      "authors": [
+        "Tam The Nguyen",
+        "Hung Viet Pham",
+        "Phong Minh Vu",
+        "Tung Thanh Nguyen"
+      ],
+      "doi": "10.1145/2884781.2884873",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "46ca11797ce2bd94676e3e49a3dd465da3c54d0f",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Decoupling level",
+      "authors": [
+        "Ran Mo",
+        "Yuanfang Cai",
+        "Rick Kazman",
+        "Lu Xiao",
+        "Qiong Feng"
+      ],
+      "doi": "10.1145/2884781.2884825",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "082655b75afa0254481c3f0927d10c224e6fd53e",
+        "citationCount": 74,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Too long; didn't watch!",
+      "authors": [
+        "Luca Ponzanelli",
+        "Gabriele Bavota",
+        "Andrea Mocci",
+        "Massimiliano Di Penta",
+        "Rocco Oliveto",
+        "Mir Hasan",
+        "Barbara Russo",
+        "Sonia Haiduc",
+        "Michele Lanza"
+      ],
+      "doi": "10.1145/2884781.2884824",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "29afdb3f12701cf1904c734a4c0947a59318dfa7",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    48,
+    {
+      "title": "An empirical study on the impact of C++ lambdas and programmer experience",
+      "authors": [
+        "Phillip Merlin Uesbeck",
+        "Andreas Stefik",
+        "Stefan Hanenberg",
+        "Jan Pedersen",
+        "Patrick Daleiden"
+      ],
+      "doi": "10.1145/2884781.2884849",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "94b4b20b42dbbe4c170eceee06c79f487e91196d",
+        "citationCount": 69,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Feature-model interfaces",
+      "authors": [
+        "Reimar Schr\u00f6ter",
+        "Sebastian Krieter",
+        "Thomas Th\u00fcm",
+        "Fabian Benduhn",
+        "Gunter Saake"
+      ],
+      "doi": "10.1145/2884781.2884823",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "daff4d1a1eb0036e90c4fbf4182fa204029ca8b4",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Finding and analyzing compiler warning defects",
+      "authors": [
+        "Chengnian Sun",
+        "Vu Le",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/2884781.2884879",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5680b51c34fae849be22a0a59ab828a1d9cde403",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    51,
+    {
+      "title": "RETracer",
+      "authors": [
+        "Weidong Cui",
+        "Marcus Peinado",
+        "Sang Kil Cha",
+        "Yanick Fratantonio",
+        "Vasileios P. Kemerlis"
+      ],
+      "doi": "10.1145/2884781.2884844",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "855af0ff0a3b2837402a191304e0465b65e0a36b",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Automated partitioning of android applications for trusted execution environments",
+      "authors": [
+        "Konstantin Rubinov",
+        "Lucia Rosculete",
+        "Tulika Mitra",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/2884781.2884817",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4643cf6081b98f88736c94220ced13e5ad3569fc",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Shadow of a doubt",
+      "authors": [
+        "Hristina Palikareva",
+        "Tomasz Kuchta",
+        "Cristian Cadar"
+      ],
+      "doi": "10.1145/2884781.2884845",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3bd72ae1d15b67a9c314332d247ffd80410e69a4",
+        "citationCount": 62,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    54,
+    {
+      "title": "Featured model-based mutation analysis",
+      "authors": [
+        "Xavier Devroey",
+        "Gilles Perrouin",
+        "Mike Papadakis",
+        "Axel Legay",
+        "Pierre-Yves Schobbens",
+        "Patrick Heymans"
+      ],
+      "doi": "10.1145/2884781.2884821",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "05da873d2d858de5aed4de0806c22df0475b2014",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    55,
+    {
+      "title": "iDice",
+      "authors": [
+        "Qingwei Lin",
+        "Jian-Guang Lou",
+        "Hongyu Zhang",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1145/2884781.2884795",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a79f23b151dedd9ff6f1f1a87666b2d4c5802fda",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Revisit of automatic debugging via human focus-tracking analysis",
+      "authors": [
+        "Xiaoyuan Xie",
+        "Zicong Liu",
+        "Shuo Song",
+        "Zhenyu Chen",
+        "Jifeng Xuan",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2884781.2884834",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f0e77f446589da64f689bb24803aadcb78baac0e",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Nomen est omen",
+      "authors": [
+        "Hui Liu",
+        "Qiurong Liu",
+        "Cristian-Alexandru Staicu",
+        "Michael Pradel",
+        "Yue Luo"
+      ],
+      "doi": "10.1145/2884781.2884841",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "437df83772a65f0c2419c26ca207b5e63415f7e3",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    58,
+    {
+      "title": "On the limits of mutation reduction strategies",
+      "authors": [
+        "Rahul Gopinath",
+        "Mohammad Amin Alipour",
+        "Iftekhar Ahmed",
+        "Carlos Jensen",
+        "Alex Groce"
+      ],
+      "doi": "10.1145/2884781.2884787",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1ab8f3322d145daf65007b2a0124ad46385c888d",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    59,
+    {
+      "title": "How does the degree of variability affect bug finding?",
+      "authors": [
+        "Jean Melo",
+        "Claus Brabrand",
+        "Andrzej W\u0105sowski"
+      ],
+      "doi": "10.1145/2884781.2884831",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2abd0c8c5117004d0b7b70282b251c4ba4386239",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Generating performance distributions via probabilistic symbolic execution",
+      "authors": [
+        "Bihuan Chen",
+        "Yang Liu",
+        "Wei Le"
+      ],
+      "doi": "10.1145/2884781.2884794",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b8c813fba53858633933fc73d2104abc81ffad5a",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Mining sandboxes",
+      "authors": [
+        "Konrad Jamrozik",
+        "Philipp von Styp-Rekowsky",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1145/2884781.2884782",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6bc94632c5f678abf3229fd38e0b819cf1853cb5",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    62,
+    {
+      "title": "AntMiner",
+      "authors": [
+        "Bin Liang",
+        "Pan Bian",
+        "Yan Zhang",
+        "Wenchang Shi",
+        "Wei You",
+        "Yan Cai"
+      ],
+      "doi": "10.1145/2884781.2884870",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7d0577772fe06b773d359d1b4060fce92fd4948f",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    63,
+    {
+      "title": "PRADA",
+      "authors": [
+        "Xuan Lu",
+        "Xuanzhe Liu",
+        "Huoran Li",
+        "Tao Xie",
+        "Qiaozhu Mei",
+        "Dan Hao",
+        "Gang Huang",
+        "Feng Feng"
+      ],
+      "doi": "10.1145/2884781.2884828",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6284ff122f72e818b8b7007ffbc2db8257f17a79",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Automatic model generation from documentation for Java API functions",
+      "authors": [
+        "Juan Zhai",
+        "Jianjun Huang",
+        "Shiqing Ma",
+        "Xiangyu Zhang",
+        "Lin Tan",
+        "Jianhua Zhao",
+        "Feng Qin"
+      ],
+      "doi": "10.1145/2884781.2884881",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c868d70ecf92f7ad944d8d6117aaabcb0776cd66",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Understanding asynchronous interactions in full-stack JavaScript",
+      "authors": [
+        "Saba Alimadadi",
+        "Ali Mesbah",
+        "Karthik Pattabiraman"
+      ],
+      "doi": "10.1145/2884781.2884864",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "99d1cb4cdb8f285c9f40f36c88232c22f7f22f94",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    66,
+    {
+      "title": "DoubleTake",
+      "authors": [
+        "Tongping Liu",
+        "Charlie Curtsinger",
+        "Emery D. Berger"
+      ],
+      "doi": "10.1145/2884781.2884784",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "683ae91af686095c19bbad9ff744740ebbddca2a",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    67,
+    {
+      "title": "CUSTODES",
+      "authors": [
+        "Shing-Chi Cheung",
+        "Wanjun Chen",
+        "Yepang Liu",
+        "Chang Xu"
+      ],
+      "doi": "10.1145/2884781.2884796",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c93f21e2bd9d1e0623a3ad99e54e62c8d904e535",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    68,
+    {
+      "title": "The challenges of staying together while moving fast",
+      "authors": [
+        "Julia Rubin",
+        "Martin Rinard"
+      ],
+      "doi": "10.1145/2884781.2884871",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3cecf44b4c8d6846630157deed053eb617a5a6f4",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Exploring language support for immutability",
+      "authors": [
+        "Michael Coblenz",
+        "Joshua Sunshine",
+        "Jonathan Aldrich",
+        "Brad Myers",
+        "Sam Weber",
+        "Forrest Shull"
+      ],
+      "doi": "10.1145/2884781.2884798",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8c5432dd9818f13b7d1a1528cf5cd82d75986f9b",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Improving refactoring speed by 10X",
+      "authors": [
+        "Jongwook Kim",
+        "Don Batory",
+        "Danny Dig",
+        "Maider Azanza"
+      ],
+      "doi": "10.1145/2884781.2884802",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a115925aaf088e89114e9dbef90158c5da1f1796",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Behavioral log analysis with statistical guarantees",
+      "authors": [
+        "Nimrod Busany",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1145/2884781.2884805",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5a38c4cae98e4dba02ef44d3b4e4be4170b80dd3",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Synthesizing framework models for symbolic execution",
+      "authors": [
+        "Jinseong Jeon",
+        "Xiaokang Qiu",
+        "Jonathan Fetter-Degges",
+        "Jeffrey S. Foster",
+        "Armando Solar-Lezama"
+      ],
+      "doi": "10.1145/2884781.2884856",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "542083839044cb95541dac0b37ac753efbc3ed72",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Finding security bugs in web applications using a catalog of access control patterns",
+      "authors": [
+        "Joseph P. Near",
+        "Daniel Jackson"
+      ],
+      "doi": "10.1145/2884781.2884836",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "559d79ba7c69b0589e30f6e8daabf0bb6412d799",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Debugging for reactive programming",
+      "authors": [
+        "Guido Salvaneschi",
+        "Mira Mezini"
+      ],
+      "doi": "10.1145/2884781.2884815",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b7920f5735df27d986f357e1ea3e13d0620b88cf",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Discovering \"unknown known\" security requirements",
+      "authors": [
+        "Awais Rashid",
+        "Syed Asad Ali Naqvi",
+        "Rajiv Ramdhany",
+        "Matthew Edwards",
+        "Ruzanna Chitchyan",
+        "M. Ali Babar"
+      ],
+      "doi": "10.1145/2884781.2884785",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "350b2ffaaa232bb856a0e2d450a28274a3ed020c",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Reliability of Run-Time Quality-of-Service evaluation using parametric model checking",
+      "authors": [
+        "Guoxin Su",
+        "David S. Rosenblum",
+        "Giordano Tamburrelli"
+      ],
+      "doi": "10.1145/2884781.2884814",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90347c132dd0d7f0f36d4bc24c1787a07f425e09",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Optimizing selection of competing services with probabilistic hierarchical refinement",
+      "authors": [
+        "Tian Huat Tan",
+        "Manman Chen",
+        "Jun Sun",
+        "Yang Liu",
+        "\u00c9tienne Andr\u00e9",
+        "Yinxing Xue",
+        "Jin Song Dong"
+      ],
+      "doi": "10.1145/2884781.2884861",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "021417af52bc6227afcbdbc11f05000e02dfea60",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    78,
+    {
+      "title": "PAC learning-based verification and model synthesis",
+      "authors": [
+        "Yu-Fang Chen",
+        "Chiao Hsieh",
+        "Ond\u0159ej Leng\u00e1l",
+        "Tsung-Ju Lii",
+        "Ming-Hsien Tsai",
+        "Bow-Yaw Wang",
+        "Farn Wang"
+      ],
+      "doi": "10.1145/2884781.2884860",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f04dcaa11717bedd2ff18e1c50cdacb8becfc59d",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Missing data imputation based on low-rank recovery and semi-supervised regression for software effort estimation",
+      "authors": [
+        "Xiao-Yuan Jing",
+        "Fumin Qi",
+        "Fei Wu",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2884781.2884827",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "38cc302b9204c222316a2ed34813f16d42e5c7b4",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Building a theory of job rotation in software engineering from an instrumental case study",
+      "authors": [
+        "Ronnie E. S. Santos",
+        "Fabio Q. B. da Silva",
+        "Cleyton V. C. de Magalh\u00e3es",
+        "Cleviton V. F. Monteiro"
+      ],
+      "doi": "10.1145/2884781.2884837",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "418d5eeeb2817a65581d899dc271e1d63d4cfe23",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Fixing deadlocks via lock pre-acquisitions",
+      "authors": [
+        "Yan Cai",
+        "Lingwei Cao"
+      ],
+      "doi": "10.1145/2884781.2884819",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "929b56109381ca03ef37af35c19b90f2c86bc58c",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    82,
+    {
+      "title": "On the techniques we create, the tools we build, and their misalignments",
+      "authors": [
+        "Eric F. Rizzi",
+        "Sebastian Elbaum",
+        "Matthew B. Dwyer"
+      ],
+      "doi": "10.1145/2884781.2884835",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0c3f6413b362992b5e7b6d20a6bd057ad18cf92f",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Feedback-directed instrumentation for deployed JavaScript applications",
+      "authors": [
+        "Magnus Madsen",
+        "Frank Tip",
+        "Esben Andreasen",
+        "Koushik Sen",
+        "Anders M\u00f8ller"
+      ],
+      "doi": "10.1145/2884781.2884846",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9084b4a680207eed17376904b654cde503c97fbb",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Coverage-driven test code generation for concurrent classes",
+      "authors": [
+        "Valerio Terragni",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1145/2884781.2884876",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "990f3a9e8580007be4a808f02ce510665ce9c12f",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Quality experience",
+      "authors": [
+        "Lutz Prechelt",
+        "Holger Schmeisky",
+        "Franz Zieris"
+      ],
+      "doi": "10.1145/2884781.2884789",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f17c5fc326f3434578bd7d1a765a39e48a0b89db",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Type-aware concolic testing of JavaScript programs",
+      "authors": [
+        "Monika Dhok",
+        "Murali Krishna Ramanathan",
+        "Nishant Sinha"
+      ],
+      "doi": "10.1145/2884781.2884859",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "82841f12eccc4c166dd1ffbcb8754f5822bc7848",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Scalable thread sharing analysis",
+      "authors": [
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/2884781.2884811",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "598ff86aa9cf9b73ad846fd2b36d053184546564",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    88,
+    {
+      "title": "Efficient large-scale trace checking using mapreduce",
+      "authors": [
+        "Marcello M. Bersani",
+        "Domenico Bianculli",
+        "Carlo Ghezzi",
+        "Sr\u0111an Krsti\u0107",
+        "Pierluigi San Pietro"
+      ],
+      "doi": "10.1145/2884781.2884832",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a93120f6b99990264f2bedb06d9e46280decdcb0",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Probing for requirements knowledge to stimulate architectural thinking",
+      "authors": [
+        "Preethu Rose Anish",
+        "Balaji Balasubramaniam",
+        "Abhishek Sainani",
+        "Jane Cleland-Huang",
+        "Maya Daneva",
+        "Roel J. Wieringa",
+        "Smita Ghaisas"
+      ],
+      "doi": "10.1145/2884781.2884801",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5946dded2958ada74bf3357145d0060a7436480b",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Reference hijacking",
+      "authors": [
+        "Wei You",
+        "Bin Liang",
+        "Wenchang Shi",
+        "Shuyang Zhu",
+        "Peng Wang",
+        "Sikefu Xie",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1145/2884781.2884863",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bd251047e29d51b82a4f4c9d780551e4e568f29e",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    91,
+    {
+      "title": "IntEQ",
+      "authors": [
+        "Hao Sun",
+        "Xiangyu Zhang",
+        "Yunhui Zheng",
+        "Qingkai Zeng"
+      ],
+      "doi": "10.1145/2884781.2884820",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "26aa6e90a98f29932d0a9efc8aeb194cd0ef63e1",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    92,
+    {
+      "title": "The evolution of C programming practices",
+      "authors": [
+        "Diomidis Spinellis",
+        "Panos Louridas",
+        "Maria Kechagia"
+      ],
+      "doi": "10.1145/2884781.2884799",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5c2d48b9ce94b4363e6d22e577567ab7b461adfb",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Disseminating architectural knowledge on open-source projects",
+      "authors": [
+        "Martin P. Robillard",
+        "Nenad Medvidovi\u0107"
+      ],
+      "doi": "10.1145/2884781.2884792",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cacd635de5c5477d9262327f1df9e1e5e0977311",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Cross-supervised synthesis of web-crawlers",
+      "authors": [
+        "Adi Omari",
+        "Sharon Shoham",
+        "Eran Yahav"
+      ],
+      "doi": "10.1145/2884781.2884842",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "325abd6eaef983f904146fd4b732a4f29e2c1ea2",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Crowdsourcing program preconditions via a classification game",
+      "authors": [
+        "Daniel Fava",
+        "Dan Shapiro",
+        "Joseph Osborn",
+        "Martin Sch\u00e4ef",
+        "E. James Whitehead"
+      ],
+      "doi": "10.1145/2884781.2884865",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d1f80be6a4597d3fa0cab70583ee3b6a453dea3c",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Locking discipline inference and checking",
+      "authors": [
+        "Michael D. Ernst",
+        "Alberto Lovato",
+        "Damiano Macedonio",
+        "Fausto Spoto",
+        "Javier Thaine"
+      ],
+      "doi": "10.1145/2884781.2884882",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6255248b889b118398256c33f8ce5e2dbc83ae67",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Termination-checking for LLVM peephole optimizations",
+      "authors": [
+        "David Menendez",
+        "Santosh Nagarakatte"
+      ],
+      "doi": "10.1145/2884781.2884809",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b46d11568ee12f4ba5aaaaf923b73dfc0f2d9593",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    98,
+    {
+      "title": "VDTest",
+      "authors": [
+        "Tingting Yu",
+        "Xiao Qu",
+        "Myra B. Cohen"
+      ],
+      "doi": "10.1145/2884781.2884866",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f452576de6eb14b3f0a294438a073f67957a6e31",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Risk-driven revision of requirements models",
+      "authors": [
+        "Dalal Alrajeh",
+        "Axel van Lamsweerde",
+        "Jeff Kramer",
+        "Alessandra Russo",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1145/2884781.2884838",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dd26167b177687548a70c25a0f798e79ee5e96a3",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Understanding and fixing multiple language interoperability issues",
+      "authors": [
+        "Nawrin Sultana",
+        "Justin Middleton",
+        "Jeffrey Overbey",
+        "Munawar Hafiz"
+      ],
+      "doi": "10.1145/2884781.2884858",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4a7c596b391a2fb987da271ea1aa558029a8f437",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Automated test suite generation for time-continuous simulink models",
+      "authors": [
+        "Reza Matinnejad",
+        "Shiva Nejati",
+        "Lionel C. Briand",
+        "Thomas Bruckmann"
+      ],
+      "doi": "10.1145/2884781.2884797",
+      "venue": "Proceedings of the 38th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ]
+]

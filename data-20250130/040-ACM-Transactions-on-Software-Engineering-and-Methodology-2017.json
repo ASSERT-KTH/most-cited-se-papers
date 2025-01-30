@@ -1,0 +1,356 @@
+[
+  [
+    1,
+    {
+      "title": "Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware",
+      "authors": [
+        "Joshua Garcia",
+        "Mahmoud Hammad",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/3162625",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8475211c237e544f651f67f2823edf4b968d8094",
+        "citationCount": 155,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Variability Bugs in Highly Configurable Systems",
+      "authors": [
+        "Iago Abal",
+        "Jean Melo",
+        "\u015etefan St\u0103nciulescu",
+        "Claus Brabrand",
+        "M\u00e1rcio Ribeiro",
+        "Andrzej W\u0105sowski"
+      ],
+      "doi": "10.1145/3149119",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f04f3fe09903e0a44ba06d37ea927aa4e3b76424",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Configuring Software Product Lines by Combining Many-Objective Optimization and SAT Solvers",
+      "authors": [
+        "Yi Xiang",
+        "Yuren Zhou",
+        "Zibin Zheng",
+        "Miqing Li"
+      ],
+      "doi": "10.1145/3176644",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d1b4a7de58bb250d5237c17af54a8f4f05414ed9",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Human Competitiveness of Genetic Programming in Spectrum-Based Fault Localisation",
+      "authors": [
+        "Shin Yoo",
+        "Xiaoyuan Xie",
+        "Fei-Ching Kuo",
+        "Tsong Yueh Chen",
+        "Mark Harman"
+      ],
+      "doi": "10.1145/3078840",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b8c3e45f28c5e2db0ea791d0b763ac88cedd2c6c",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks",
+      "authors": [
+        "Chris Mills",
+        "Gabriele Bavota",
+        "Sonia Haiduc",
+        "Rocco Oliveto",
+        "Andrian Marcus",
+        "Andrea De Lucia"
+      ],
+      "doi": "10.1145/3078841",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f27c888c550cc5918a810c6987802df3e1f8056c",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Generating API Call Rules from Version History and Stack Overflow Posts",
+      "authors": [
+        "Shams Azad",
+        "Peter C. Rigby",
+        "Latifa Guerrouj"
+      ],
+      "doi": "10.1145/2990497",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c920a6353df1cfe003bb880e51bfe41104736ded",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Fixing Faults in C and Java Source Code",
+      "authors": [
+        "Giuseppe Scanniello",
+        "Michele Risi",
+        "Porfirio Tramontana",
+        "Simone Romano"
+      ],
+      "doi": "10.1145/3104029",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9949fae64ea703371a9c6403b00b9f4bed61a3da",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Detecting the Behavior of Design Patterns through Model Checking and Dynamic Analysis",
+      "authors": [
+        "Andrea De Lucia",
+        "Vincenzo Deufemia",
+        "Carmine Gravino",
+        "Michele Risi"
+      ],
+      "doi": "10.1145/3176643",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c8a681520975d12652a76932e7ad3f33b50dfaf9",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Parallel Algorithms for Generating Distinguishing Sequences for Observable Non-deterministic FSMs",
+      "authors": [
+        "Robert M. Hierons",
+        "Uraz Cengiz T\u00fcrker"
+      ],
+      "doi": "10.1145/3051121",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "72e1b681316a605344c1894bd0470a759d1c4328",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Augmenting Field Data for Testing Systems Subject to Incremental Requirements Changes",
+      "authors": [
+        "Daniel Di Nardo",
+        "Fabrizio Pastore",
+        "Lionel Briand"
+      ],
+      "doi": "10.1145/3053430",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "3606a41b67e253ee6a2f6cbcbf65765bda29db24",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Understanding and Combating Memory Bloat in Managed Data-Intensive Systems",
+      "authors": [
+        "Khanh Nguyen",
+        "Kai Wang",
+        "Yingyi Bu",
+        "Lu Fang",
+        "Guoqing Xu"
+      ],
+      "doi": "10.1145/3162626",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "cf8f781f37e6edf5d3b957f7704a9d84b3f377a8",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    12,
+    {
+      "title": "<i>A Posteriori</i>\n            Typing for Model-Driven Engineering",
+      "authors": [
+        "Juan De Lara",
+        "Esther Guerra"
+      ],
+      "doi": "10.1145/3063384",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9b119169aeedc1a3fa76d4d0e2c6289ee6230519",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    13,
+    {
+      "title": "A Logic-Based Approach for the Verification of UML Timed Models",
+      "authors": [
+        "Luciano Baresi",
+        "Angelo Morzenti",
+        "Alfredo Motta",
+        "Mohammad Mehdi Pourhashem K.",
+        "Matteo Rossi"
+      ],
+      "doi": "10.1145/3106411",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "02d4e8c196bc90aec53c1b63324ebd5717640efa",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Ensuring the Consistency of Adaptation through Inter- and Intra-Component Dependency Analysis",
+      "authors": [
+        "Alireza Sadeghi",
+        "Naeem Esfahani",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/3063385",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8d72722033fec0a95c83a6981ca79c9667b0a29d",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Early Evaluation of Implementation Alternatives of Composite Data Structures Toward Maintainability",
+      "authors": [
+        "Chris Karanikolas",
+        "Grigoris Dimitroulakos",
+        "Konstantinos Masselos"
+      ],
+      "doi": "10.1145/3132731",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8d31f3294f33ccf0f64c6b0a105d9797d76ca08c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Global and Local Deadlock Freedom in BIP",
+      "authors": [
+        "Paul C. Attie",
+        "Saddek Bensalem",
+        "Marius Bozga",
+        "Mohamad Jaber",
+        "Joseph Sifakis",
+        "Fadi A. Zaraket"
+      ],
+      "doi": "10.1145/3152910",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b1c435b7792e82a7ef853940010eafd8b114842d",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Dynamic Dependence Summaries",
+      "authors": [
+        "Vijay Krishna Palepu",
+        "Guoqing Xu",
+        "James A. Jones"
+      ],
+      "doi": "10.1145/2968444",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "651604a96254b207b435d9efb8238dc09429b338",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/3136621",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8e834549a5b4e48cc44d2029b6c50a899d7c583b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ]
+]

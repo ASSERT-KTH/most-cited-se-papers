@@ -1,0 +1,725 @@
+[
+  [
+    1,
+    {
+      "title": "A theoretical analysis of the risk evaluation formulas for spectrum-based fault localization",
+      "authors": [
+        "Xiaoyuan Xie",
+        "Tsong Yueh Chen",
+        "Fei-Ching Kuo",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/2522920.2522924",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "5dabb0f044e7818a4ccc3b0f018afccd5341f5a6",
+        "citationCount": 325,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Business Process Model Merging",
+      "authors": [
+        "Marcello La Rosa",
+        "Marlon Dumas",
+        "Reina Uba",
+        "Remco Dijkman"
+      ],
+      "doi": "10.1145/2430545.2430547",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "4420a109d6d3ad0461249522926f0aa63e42225a",
+        "citationCount": 238,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Achieving scalable model-based testing through test case diversity",
+      "authors": [
+        "Hadi Hemmati",
+        "Andrea Arcuri",
+        "Lionel Briand"
+      ],
+      "doi": "10.1145/2430536.2430540",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "858cf30750999d906b35d734d8fcfb0db2b61aef",
+        "citationCount": 195,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Facilitating the transition from use case models to analysis models",
+      "authors": [
+        "Tao Yue",
+        "Lionel C. Briand",
+        "Yvan Labiche"
+      ],
+      "doi": "10.1145/2430536.2430539",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "787eff9a01b2fb68373ff7ce63acc7a61fd84d83",
+        "citationCount": 126,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Personalized Reliability Prediction of Web Services",
+      "authors": [
+        "Zibin Zheng",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/2430545.2430548",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "0fd49277e7ad0b0ef302f05ebcca772d28e34292",
+        "citationCount": 102,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Fault localization prioritization",
+      "authors": [
+        "Shin Yoo",
+        "Mark Harman",
+        "David Clark"
+      ],
+      "doi": "10.1145/2491509.2491513",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "db2d190eb65818bdb192835c8b0d49fa2e0daf07",
+        "citationCount": 101,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Portfolio",
+      "authors": [
+        "Collin Mcmillan",
+        "Denys Poshyvanyk",
+        "Mark Grechanik",
+        "Qing Xie",
+        "Chen Fu"
+      ],
+      "doi": "10.1145/2522920.2522930",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8d86ca942201fac7ff4a84970d19de58193577fe",
+        "citationCount": 86,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    8,
+    {
+      "title": "Software effort estimation as a multiobjective learning problem",
+      "authors": [
+        "Leandro L. Minku",
+        "Xin Yao"
+      ],
+      "doi": "10.1145/2522920.2522928",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "e74c555e8bd98e444fce0b16e1a20ce0c441f547",
+        "citationCount": 85,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Synthesizing nonanomalous event-based controllers for liveness goals",
+      "authors": [
+        "Nicol\u00e1s D'ippolito",
+        "Victor Braberman",
+        "Nir Piterman",
+        "Sebasti\u00e1n Uchitel"
+      ],
+      "doi": "10.1145/2430536.2430543",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "826118dae7a7c8becd0eaf5e9f6f5bd1d36ce63b",
+        "citationCount": 82,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    10,
+    {
+      "title": "An Information Foraging Theory Perspective on Tools for Debugging, Refactoring, and Reuse Tasks",
+      "authors": [
+        "Scott D. Fleming",
+        "Chris Scaffidi",
+        "David Piorkowski",
+        "Margaret Burnett",
+        "Rachel Bellamy",
+        "Joseph Lawrance",
+        "Irwin Kwan"
+      ],
+      "doi": "10.1145/2430545.2430551",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "cf889e0fbcfc185a338a98a2389733bdeb5b7c48",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Modeling and verifying hierarchical real-time systems using stateful timed CSP",
+      "authors": [
+        "Jun Sun",
+        "Yang Liu",
+        "Jin Song Dong",
+        "Yan Liu",
+        "Ling Shi",
+        "\u00c9tienne Andr\u00e9"
+      ],
+      "doi": "10.1145/2430536.2430537",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "3eb6fcd0e3d9e4674c9f9295d8810cf79c08dbc5",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Editorial\u2014looking back",
+      "authors": [],
+      "doi": "10.1145/2430536.2431201",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "67c02917da27810d4f31c997255be199db95e2f8",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Bounded satisfiability checking of metric temporal logic specifications",
+      "authors": [
+        "Matteo Pradella",
+        "Angelo Morzenti",
+        "Pierluigi San Pietro"
+      ],
+      "doi": "10.1145/2491509.2491514",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "f877bca1e50cd96d44e11663912737fc0c455fb0",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Finite satisfiability of UML class diagrams with constrained class hierarchy",
+      "authors": [
+        "Mira Balaban",
+        "Azzam Maraee"
+      ],
+      "doi": "10.1145/2491509.2491518",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d8474eb91c8dca98580d2cb98b776e987d6ae2c2",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    15,
+    {
+      "title": "The value of design rationale information",
+      "authors": [
+        "Davide Falessi",
+        "Lionel C. Briand",
+        "Giovanni Cantone",
+        "Rafael Capilla",
+        "Philippe Kruchten"
+      ],
+      "doi": "10.1145/2491509.2491515",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "7219870c0ec0b164f6838178ba47c07083583ff0",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Detecting missing method calls as violations of the majority rule",
+      "authors": [
+        "Martin Monperrus",
+        "Mira Mezini"
+      ],
+      "doi": "10.1145/2430536.2430541",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "8cbf7f4460ef7ab59a31bebf38880fafd0f75934",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    17,
+    {
+      "title": "An algebra of design patterns",
+      "authors": [
+        "Hong Zhu",
+        "Ian Bayley"
+      ],
+      "doi": "10.1145/2491509.2491517",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "155e953dfe0b0c5a0cf28ce24df04b252bb7a7c9",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Automated Comparison of State-Based Software Models in Terms of Their Language and Structure",
+      "authors": [
+        "Neil Walkinshaw",
+        "Kirill Bogdanov"
+      ],
+      "doi": "10.1145/2430545.2430549",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "ae073015b6f959800625c3ad9e97ea882c758672",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Enabledness-based program abstractions for behavior validation",
+      "authors": [
+        "Guido De Caso",
+        "Victor Braberman",
+        "Diego Garbervetsky",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1145/2491509.2491519",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "871fb77b94b5b90758daa869d506b1d98c349548",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Path exploration based on symbolic output",
+      "authors": [
+        "Dawei Qi",
+        "Hoang D. T. Nguyen",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/2522920.2522925",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d9414df759347831da04793ac003b1248fb6579d",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Scaling predictive analysis of concurrent programs by removing trace redundancy",
+      "authors": [
+        "Jeff Huang",
+        "Jinguo Zhou",
+        "Charles Zhang"
+      ],
+      "doi": "10.1145/2430536.2430542",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "95e5036ac8f3ea865b5f08ada0d25003de4ba9e6",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Exception handlers for healing component-based systems",
+      "authors": [
+        "Herv\u00e9 Chang",
+        "Leonardo Mariani",
+        "Mauro Pezz\u00e8"
+      ],
+      "doi": "10.1145/2522920.2522923",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "454ea2b6b39a8775bdc64eba7ddfec7381eb57e2",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    23,
+    {
+      "title": "ConMem",
+      "authors": [
+        "Wei Zhang",
+        "Chong Sun",
+        "Junghee Lim",
+        "Shan Lu",
+        "Thomas Reps"
+      ],
+      "doi": "10.1145/2430545.2430546",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "c721a5533a87b0fc5b0a5a8f8131bac98778f9df",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    24,
+    {
+      "title": "A methodology for testing CPU emulators",
+      "authors": [
+        "Lorenzo Martignoni",
+        "Roberto Paleari",
+        "Alessandro Reina",
+        "Giampaolo Fresi Roglia",
+        "Danilo Bruschi"
+      ],
+      "doi": "10.1145/2522920.2522922",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "86c75033e0b2ddf590846786574cbdb5c600fd28",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Use case and task models",
+      "authors": [
+        "Daniel Sinnig",
+        "Patrice Chalin",
+        "Ferhat Khendek"
+      ],
+      "doi": "10.1145/2491509.2491521",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d6b578eb15be064ec1d06ecfc26cfc763297ac0a",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Test-and-adapt",
+      "authors": [
+        "Giovanni Denaro",
+        "Mauro Pezz\u00e8",
+        "Davide Tosi"
+      ],
+      "doi": "10.1145/2522920.2522921",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "99e2011e81628dfb2d2e2048137267538f261631",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Using a functional size measurement procedure to evaluate the quality of models in MDD environments",
+      "authors": [
+        "Beatriz Mar\u00edn",
+        "Giovanni Giachetti",
+        "Oscar Pastor",
+        "Tanja E. J. Vos",
+        "Alain Abran"
+      ],
+      "doi": "10.1145/2491509.2491520",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d02ead70f4828f62d08c30ac87709a4ef9796dfd",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    28,
+    {
+      "title": "A web-centred approach to end-user software engineering",
+      "authors": [
+        "David Lizcano",
+        "Fernando Alonso",
+        "Javier Soriano",
+        "Genoveva Lopez"
+      ],
+      "doi": "10.1145/2522920.2522929",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9514f64dd8d57937d39ab7e1a01229b86003fef4",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Marple",
+      "authors": [
+        "Wei Le",
+        "Mary Lou Soffa"
+      ],
+      "doi": "10.1145/2491509.2491512",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "cdc874d09950f4b732fb45dc5af9cf8962470ade",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Precise memory leak detection for java software using container profiling",
+      "authors": [
+        "Guoqing Xu",
+        "Atanas Rountev"
+      ],
+      "doi": "10.1145/2491509.2491511",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "bfa6bb83bac509a1d2f7ff4f9589d35da77d13c2",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Evaluating a query framework for software evolution data",
+      "authors": [
+        "Michael W\u00fcrsch",
+        "Emanuel Giger",
+        "Harald C. Gall"
+      ],
+      "doi": "10.1145/2522920.2522931",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b50be15065f13902f4cc7a9befa74a9448b13162",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    32,
+    {
+      "title": "On software component co-installability",
+      "authors": [
+        "J\u00e9r\u00f4me Vouillon",
+        "Roberto Di Cosmo"
+      ],
+      "doi": "10.1145/2522920.2522927",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "4b7ff117e8f438130cd7edc2e36e22b0eeef5259",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Verification across Intellectual Property Boundaries",
+      "authors": [
+        "Sagar Chaki",
+        "Christian Schallhart",
+        "Helmut Veith"
+      ],
+      "doi": "10.1145/2430545.2430550",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "3fda8a3702d2466d381983237fe33d4c7f754a80",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Trading obliviousness for modularity with cooperative aspect-oriented programming",
+      "authors": [
+        "Kevin Hoffman",
+        "Patrick Eugster"
+      ],
+      "doi": "10.1145/2491509.2491516",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "abc5b5cd5533a57ac22265e5cb2b0db91a1e10ac",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Views",
+      "authors": [
+        "Brian Demsky",
+        "Patrick Lam"
+      ],
+      "doi": "10.1145/2430536.2430538",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "2f518a3722cf87fadc81019b337779fe9473ecb4",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Editorial\u2014looking forward",
+      "authors": [],
+      "doi": "10.1145/2430536.2431202",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "ec4a0e7d26253b37d68dbbd4c778300f0a3cfbba",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Path- and index-sensitive string analysis based on monadic second-order logic",
+      "authors": [
+        "Takaaki Tateishi",
+        "Marco Pistoia",
+        "Omer Tripp"
+      ],
+      "doi": "10.1145/2522920.2522926",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "252d924f4ce2e5ae045389aeb849fcadd6797f65",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ],
+  [
+    38,
+    {
+      "title": "In memoriam",
+      "authors": [
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1145/2491509.2491510",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "b7820be324cc04ea33035c225d91cfbef1fa1ab8",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2013
+    }
+  ]
+]

@@ -1,0 +1,1532 @@
+[
+  [
+    1,
+    {
+      "title": "Evaluating and Improving Fault Localization",
+      "authors": [
+        "Spencer Pearson",
+        "Jose Campos",
+        "Rene Just",
+        "Gordon Fraser",
+        "Rui Abreu",
+        "Michael D. Ernst",
+        "Deric Pang",
+        "Benjamin Keller"
+      ],
+      "doi": "10.1109/icse.2017.62",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "096079bfdd75c2baedbc049efd8b433a383650bd",
+        "citationCount": 356,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Precise Condition Synthesis for Program Repair",
+      "authors": [
+        "Yingfei Xiong",
+        "Jie Wang",
+        "Runfa Yan",
+        "Jiachen Zhang",
+        "Shi Han",
+        "Gang Huang",
+        "Lu Zhang"
+      ],
+      "doi": "10.1109/icse.2017.45",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ae067d3747764202ab7794808a25bd4f1e1efe1d",
+        "citationCount": 287,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Semantically Enhanced Software Traceability Using Deep Learning Techniques",
+      "authors": [
+        "Jin Guo",
+        "Jinghui Cheng",
+        "Jane Cleland-Huang"
+      ],
+      "doi": "10.1109/icse.2017.9",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d69a8e74a0c9c83a58ec98e36fdcd439d5bbd6c5",
+        "citationCount": 222,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Learning Syntactic Program Transformations from Examples",
+      "authors": [
+        "Reudismam Rolim",
+        "Gustavo Soares",
+        "Loris D'Antoni",
+        "Oleksandr Polozov",
+        "Sumit Gulwani",
+        "Rohit Gheyi",
+        "Ryo Suzuki",
+        "Bjorn Hartmann"
+      ],
+      "doi": "10.1109/icse.2017.44",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cf404026f1e66dc04417d699ef2b4731cbec842c",
+        "citationCount": 218,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Exploring API Embedding for API Usages and Applications",
+      "authors": [
+        "Trong Duc Nguyen",
+        "Anh Tuan Nguyen",
+        "Hung Dang Phan",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1109/icse.2017.47",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "06d1af9847d176b191e09ecb506ac0e172510231",
+        "citationCount": 154,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    6,
+    {
+      "title": "LibD: Scalable and Precise Third-Party Library Detection in Android Markets",
+      "authors": [
+        "Menghao Li",
+        "Wei Wang",
+        "Pei Wang",
+        "Shuai Wang",
+        "Dinghao Wu",
+        "Jian Liu",
+        "Rui Xue",
+        "Wei Huo"
+      ],
+      "doi": "10.1109/icse.2017.38",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5e491db0e11e71c6ed798052129712ef145b88bd",
+        "citationCount": 151,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Recommending and Localizing Change Requests for Mobile Apps Based on User Reviews",
+      "authors": [
+        "Fabio Palomba",
+        "Pasquale Salza",
+        "Adelina Ciurumelea",
+        "Sebastiano Panichella",
+        "Harald Gall",
+        "Filomena Ferrucci",
+        "Andrea De Lucia"
+      ],
+      "doi": "10.1109/icse.2017.18",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4486cc6be8d0ed5f10745d725152136fbbfa4b63",
+        "citationCount": 145,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    8,
+    {
+      "title": "An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation That Avoids the Unreliable Clean Program Assumption",
+      "authors": [
+        "Thierry Titcheu Chekam",
+        "Mike Papadakis",
+        "Yves Le Traon",
+        "Mark Harman"
+      ],
+      "doi": "10.1109/icse.2017.61",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "20d3466d7e81b506028e08653a39592574041f72",
+        "citationCount": 137,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    9,
+    {
+      "title": "SPAIN: Security Patch Analysis for Binaries towards Understanding the Pain and Pills",
+      "authors": [
+        "Zhengzi Xu",
+        "Bihuan Chen",
+        "Mahinthan Chandramohan",
+        "Yang Liu",
+        "Fu Song"
+      ],
+      "doi": "10.1109/icse.2017.49",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "18ec9aa174db18f94c4bab972d8631b3fee26881",
+        "citationCount": 135,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Decoding the Representation of Code in the Brain: An fMRI Study of Code Review and Expertise",
+      "authors": [
+        "Benjamin Floyd",
+        "Tyler Santander",
+        "Westley Weimer"
+      ],
+      "doi": "10.1109/icse.2017.24",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "91d186d0b2276d536c53f2193ab49881e3893594",
+        "citationCount": 119,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Challenges for Static Analysis of Java Reflection - Literature Review and Empirical Study",
+      "authors": [
+        "Davy Landman",
+        "Alexander Serebrenik",
+        "Jurgen J. Vinju"
+      ],
+      "doi": "10.1109/icse.2017.53",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90f4ee00e7d0d92b3e0b27dbcbda12a33fbd8616",
+        "citationCount": 115,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Becoming Agile: A Grounded Theory of Agile Transitions in Practice",
+      "authors": [
+        "Rashina Hoda",
+        "James Noble"
+      ],
+      "doi": "10.1109/icse.2017.21",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "659d38681c0edc768f917ee671cf433ed01c7230",
+        "citationCount": 111,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Analyzing APIs Documentation and Code to Detect Directive Defects",
+      "authors": [
+        "Yu Zhou",
+        "Ruihang Gu",
+        "Taolue Chen",
+        "Zhiqiu Huang",
+        "Sebastiano Panichella",
+        "Harald Gall"
+      ],
+      "doi": "10.1109/icse.2017.11",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8c453edad87f3a28a0702fde1928bc5c1438f84f",
+        "citationCount": 110,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    14,
+    {
+      "title": "The Evolution of Continuous Experimentation in Software Product Development: From Data to a Data-Driven Organization at Scale",
+      "authors": [
+        "Aleksander Fabijan",
+        "Pavel Dmitriev",
+        "Helena Holmstrom Olsson",
+        "Jan Bosch"
+      ],
+      "doi": "10.1109/icse.2017.76",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "931220b43cf9ffb2f66b62675641091e96f07f67",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Characterizing and Detecting Anti-Patterns in the Logging Code",
+      "authors": [
+        "Boyuan Chen",
+        "Zhen Ming Jiang"
+      ],
+      "doi": "10.1109/icse.2017.15",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "66b8112d0df644a3cb375b2bb04a23d8a21e3819",
+        "citationCount": 98,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Understanding the Impressions, Motivations, and Barriers of One Time Code Contributors to FLOSS Projects: A Survey",
+      "authors": [
+        "Amanda Lee",
+        "Jeffrey C. Carver",
+        "Amiangshu Bosu"
+      ],
+      "doi": "10.1109/icse.2017.25",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "65bf08fe6512d555381cd2015f4322ca168d538a",
+        "citationCount": 98,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Classifying Developers into Core and Peripheral: An Empirical Study on Count and Network Metrics",
+      "authors": [
+        "Mitchell Joblin",
+        "Sven Apel",
+        "Claus Hunsen",
+        "Wolfgang Mauerer"
+      ],
+      "doi": "10.1109/icse.2017.23",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "663253288c28e9471339adfc334a496129da025d",
+        "citationCount": 97,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Software Development Waste",
+      "authors": [
+        "Todd Sedano",
+        "Paul Ralph",
+        "Cecile Peraire"
+      ],
+      "doi": "10.1109/icse.2017.20",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "669b1f48d40a31017765a6bc4da93ccdaa13a130",
+        "citationCount": 95,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Do Developers Read Compiler Error Messages?",
+      "authors": [
+        "Titus Barik",
+        "Justin Smith",
+        "Kevin Lubick",
+        "Elisabeth Holmes",
+        "Jing Feng",
+        "Emerson Murphy-Hill",
+        "Chris Parnin"
+      ],
+      "doi": "10.1109/icse.2017.59",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "45fd73a3ea81bf1d5c614e2f68e8fb3d56fda5e0",
+        "citationCount": 81,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    20,
+    {
+      "title": "To Type or Not to Type: Quantifying Detectable Bugs in JavaScript",
+      "authors": [
+        "Zheng Gao",
+        "Christian Bird",
+        "Earl T. Barr"
+      ],
+      "doi": "10.1109/icse.2017.75",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "955baf8c8a2a42a78aca39fc5e755b8d7536636a",
+        "citationCount": 77,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Learning to Prioritize Test Programs for Compiler Testing",
+      "authors": [
+        "Junjie Chen",
+        "Yanwei Bai",
+        "Dan Hao",
+        "Yingfei Xiong",
+        "Hongyu Zhang",
+        "Bing Xie"
+      ],
+      "doi": "10.1109/icse.2017.70",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fdd2fb94b2f9ee85ba51d7409593498e93d9f8e7",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Adaptive Unpacking of Android Apps",
+      "authors": [
+        "Lei Xue",
+        "Xiapu Luo",
+        "Le Yu",
+        "Shuai Wang",
+        "Dinghao Wu"
+      ],
+      "doi": "10.1109/icse.2017.40",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bd6d0b72a004c3099ca7f2e49f894a053751646b",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    23,
+    {
+      "title": "A Test-Suite Diagnosability Metric for Spectrum-Based Fault Localization Approaches",
+      "authors": [
+        "Alexandre Perez",
+        "Rui Abreu",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/icse.2017.66",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "611d8975579df908d195f4d828e2f85cfcd09dcc",
+        "citationCount": 68,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    24,
+    {
+      "title": "Automatic Text Input Generation for Mobile Testing",
+      "authors": [
+        "Peng Liu",
+        "Xiangyu Zhang",
+        "Marco Pistoia",
+        "Yunhui Zheng",
+        "Manoel Marques",
+        "Lingfei Zeng"
+      ],
+      "doi": "10.1109/icse.2017.65",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "13d7ed3c5ef9c05c37aa068c7b4f014ae56008e5",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Detecting User Story Information in Developer-Client Conversations to Generate Extractive Summaries",
+      "authors": [
+        "Paige Rodeghero",
+        "Siyuan Jiang",
+        "Ameer Armaly",
+        "Collin McMillan"
+      ],
+      "doi": "10.1109/icse.2017.13",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c57c7df5fc2f8ce81b18ac66aebc07f696119229",
+        "citationCount": 65,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    26,
+    {
+      "title": "How Do Developers Fix Cross-Project Correlated Bugs? A Case Study on the GitHub Scientific Python Ecosystem",
+      "authors": [
+        "Wanwangying Ma",
+        "Lin Chen",
+        "Xiangyu Zhang",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1109/icse.2017.42",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d5d1bc73c684027465b2b14023138a32122e7a6b",
+        "citationCount": 61,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    27,
+    {
+      "title": "What Causes My Test Alarm? Automatic Cause Analysis for Test Alarms in System and Integration Testing",
+      "authors": [
+        "He Jiang",
+        "Xiaochen Li",
+        "Zijiang Yang",
+        "Jifeng Xuan"
+      ],
+      "doi": "10.1109/icse.2017.71",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "53870451ab5a51120ca1a2841393560c13f07cbf",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    28,
+    {
+      "title": "An Unsupervised Approach for Discovering Relevant Tutorial Fragments for APIs",
+      "authors": [
+        "He Jiang",
+        "Jingxuan Zhang",
+        "Zhilei Ren",
+        "Tao Zhang"
+      ],
+      "doi": "10.1109/icse.2017.12",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "40debe77b8be8f6c5f3ecba29754e64873f6a963",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Unsupervised Software-Specific Morphological Forms Inference from Informal Discussions",
+      "authors": [
+        "Chunyang Chen",
+        "Zhenchang Xing",
+        "Ximing Wang"
+      ],
+      "doi": "10.1109/icse.2017.48",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "329947aa599c968941ffc17a3f0df9f632ab9a62",
+        "citationCount": 57,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Making Malory Behave Maliciously: Targeted Fuzzing of Android Execution Environments",
+      "authors": [
+        "Siegfried Rasthofer",
+        "Steven Arzt",
+        "Stefan Triller",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/icse.2017.35",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6b6803ce97105b6f45acd1ec8512315f3fc64da2",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    31,
+    {
+      "title": "Machine-Learning-Guided Selectively Unsound Static Analysis",
+      "authors": [
+        "Kihong Heo",
+        "Hakjoo Oh",
+        "Kwangkeun Yi"
+      ],
+      "doi": "10.1109/icse.2017.54",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e3041097542921ad7de33572ccf398f649fe2d4",
+        "citationCount": 55,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Performance Diagnosis for Inefficient Loops",
+      "authors": [
+        "Linhai Song",
+        "Shan Lu"
+      ],
+      "doi": "10.1109/icse.2017.41",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "28e68c841cea31ea5d258b7230a956ac74e62850",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Clone Refactoring with Lambda Expressions",
+      "authors": [
+        "Nikolaos Tsantalis",
+        "Davood Mazinanian",
+        "Shahriar Rostami"
+      ],
+      "doi": "10.1109/icse.2017.14",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "acb5942773aeae239f12cf268afd61bfb950bc0f",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Feedback-Based Debugging",
+      "authors": [
+        "Yun Lin",
+        "Jun Sun",
+        "Yinxing Xue",
+        "Yang Liu",
+        "Jinsong Dong"
+      ],
+      "doi": "10.1109/icse.2017.43",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70928035199c5241abc032d555c971ff3a763e25",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    35,
+    {
+      "title": "From Diversity by Numbers to Diversity as Process: Supporting Inclusiveness in Software Development Teams with Brainstorming",
+      "authors": [
+        "Anna Filippova",
+        "Erik Trainer",
+        "James D. Herbsleb"
+      ],
+      "doi": "10.1109/icse.2017.22",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b04525821c1cb6edc726b29d82a253997a479147",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    36,
+    {
+      "title": "A Guided Genetic Algorithm for Automated Crash Reproduction",
+      "authors": [
+        "Mozhan Soltani",
+        "Annibale Panichella",
+        "Arie van Deursen"
+      ],
+      "doi": "10.1109/icse.2017.27",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0029e08c6926d52741f0ec2b2a9699751e5ee1ce",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Code Defenders: Crowdsourcing Effective Tests and Subtle Mutants with a Mutation Testing Game",
+      "authors": [
+        "Jose Miguel Rojas",
+        "Thomas D. White",
+        "Benjamin S. Clegg",
+        "Gordon Fraser"
+      ],
+      "doi": "10.1109/icse.2017.68",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "57bac2b7b2d1cb6b90b265b017596b796c96db29",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests",
+      "authors": [
+        "Ankit Choudhary",
+        "Shan Lu",
+        "Michael Pradel"
+      ],
+      "doi": "10.1109/icse.2017.32",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "744d5ace9546c5acc70b18141c97d31401ac6cdd",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Supporting Software Developers with a Holistic Recommender System",
+      "authors": [
+        "Luca Ponzanelli",
+        "Simone Scalabrino",
+        "Gabriele Bavota",
+        "Andrea Mocci",
+        "Rocco Oliveto",
+        "Massimiliano Di Penta",
+        "Michele Lanza"
+      ],
+      "doi": "10.1109/icse.2017.17",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e57634d1d3da618bcdf4d51c4e98b5bffda777f7",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    40,
+    {
+      "title": "A SEALANT for Inter-App Security Holes in Android",
+      "authors": [
+        "Youn Kyu Lee",
+        "Jae Young Bang",
+        "Gholamreza Safi",
+        "Arman Shahbazian",
+        "Yixue Zhao",
+        "Nenad Medvidovic"
+      ],
+      "doi": "10.1109/icse.2017.36",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cb2c9c9abbcbfb7b8365ed712d5e65ebcfe3117b",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Repairing Event Race Errors by Controlling Nondeterminism",
+      "authors": [
+        "Christoffer Quist Adamsen",
+        "Anders Moller",
+        "Rezwana Karim",
+        "Manu Sridharan",
+        "Frank Tip",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/icse.2017.34",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a457b1ddb4d071c6a92c7bda0144f24ca2e693c8",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Search-Driven String Constraint Solving for Vulnerability Detection",
+      "authors": [
+        "Julian Thome",
+        "Lwin Khin Shar",
+        "Domenico Bianculli",
+        "Lionel Briand"
+      ],
+      "doi": "10.1109/icse.2017.26",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "99337b0c34d7e353dd4fabdcca74cfcae84622bb",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Glacier: Transitive Class Immutability for Java",
+      "authors": [
+        "Michael Coblenz",
+        "Whitney Nelson",
+        "Jonathan Aldrich",
+        "Brad Myers",
+        "Joshua Sunshine"
+      ],
+      "doi": "10.1109/icse.2017.52",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d4b4d17f8c60f6d73dbed4870169b91bb1cfa75a",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Optimizing Test Placement for Module-Level Regression Testing",
+      "authors": [
+        "August Shi",
+        "Suresh Thummalapenta",
+        "Shuvendu K. Lahiri",
+        "Nikolaj Bjorner",
+        "Jacek Czerwonka"
+      ],
+      "doi": "10.1109/icse.2017.69",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "50cd9a81fe964caf6f76c07a058ba962de0bfcec",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    45,
+    {
+      "title": "Automated Transplantation and Differential Testing for Clones",
+      "authors": [
+        "Tianyi Zhang",
+        "Miryung Kim"
+      ],
+      "doi": "10.1109/icse.2017.67",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7902e4fb3e30e085c0b88ea84c611be2b601f0d7",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    46,
+    {
+      "title": "Machine Learning-Based Detection of Open Source License Exceptions",
+      "authors": [
+        "Christopher Vendome",
+        "Mario Linares-Vasquez",
+        "Gabriele Bavota",
+        "Massimiliano Di Penta",
+        "Daniel German",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1109/icse.2017.19",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4e3772f98d6b099cc578e0767af250a7bbe4c1e4",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Balancing Soundness and Efficiency for Practical Testing of Configurable Systems",
+      "authors": [
+        "Sabrina Souto",
+        "Marcelo D'Amorim",
+        "Rohit Gheyi"
+      ],
+      "doi": "10.1109/icse.2017.64",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "73178eb4453a4d877d9e51425271bdd0d2a1d7a9",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    48,
+    {
+      "title": "On Cross-Stack Configuration Errors",
+      "authors": [
+        "Mohammed Sayagh",
+        "Noureddine Kerzazi",
+        "Bram Adams"
+      ],
+      "doi": "10.1109/icse.2017.31",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0b95ad2141d6a35242a41ff5a4b96752b181cfee",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Statically Checking Web API Requests in JavaScript",
+      "authors": [
+        "Erik Wittern",
+        "Annie T.T. Ying",
+        "Yunhui Zheng",
+        "Julian Dolby",
+        "Jim A. Laredo"
+      ],
+      "doi": "10.1109/icse.2017.30",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0301bbe45c82db230adce9f0458d8f793ee2a995",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Stochastic Optimization of Program Obfuscation",
+      "authors": [
+        "Han Liu",
+        "Chengnian Sun",
+        "Zhendong Su",
+        "Yu Jiang",
+        "Ming Gu",
+        "Jiaguang Sun"
+      ],
+      "doi": "10.1109/icse.2017.28",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b569bd8e2d48fb6e0d175f18a9d06b9a40ffe76f",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    51,
+    {
+      "title": "PEoPL: Projectional Editing of Product Lines",
+      "authors": [
+        "Benjamin Behringer",
+        "Jochen Palz",
+        "Thorsten Berger"
+      ],
+      "doi": "10.1109/icse.2017.58",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3daf515a2ec2fb1349a1641bb54dcd0bc9f4428e",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    52,
+    {
+      "title": "An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps",
+      "authors": [
+        "Yutaka Tsutano",
+        "Shakthi Bachala",
+        "Witawas Srisa-An",
+        "Gregg Rothermel",
+        "Jackson Dinh"
+      ],
+      "doi": "10.1109/icse.2017.37",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7090af81680220c9e9a215af48d21cfef2632c19",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    53,
+    {
+      "title": "How Good Is a Security Policy against Real Breaches? A HIPAA Case Study",
+      "authors": [
+        "Ozgur Kafali",
+        "Jasmine Jones",
+        "Megan Petruso",
+        "Laurie Williams",
+        "Munindar P. Singh"
+      ],
+      "doi": "10.1109/icse.2017.55",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fd0196e23b6706816a2be152f3e0cc4086fe18f9",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    54,
+    {
+      "title": "RADAR: A Lightweight Tool for Requirements and Architecture Decision Analysis",
+      "authors": [
+        "Saheed A. Busari",
+        "Emmanuel Letier"
+      ],
+      "doi": "10.1109/icse.2017.57",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d1c324eba9a837c0e71b89db294c7e7a2a8c43df",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    55,
+    {
+      "title": "RClassify: Classifying Race Conditions in Web Applications via Deterministic Replay",
+      "authors": [
+        "Lu Zhang",
+        "Chao Wang"
+      ],
+      "doi": "10.1109/icse.2017.33",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2ae2e8e62befd7603c66c3bd1f10d2fa23e0ffe6",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    56,
+    {
+      "title": "Analysis and Testing of Notifications in Android Wear Applications",
+      "authors": [
+        "Hailong Zhang",
+        "Atanas Rountev"
+      ],
+      "doi": "10.1109/icse.2017.39",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0030c0587b239ed74cab4e9ab068fb259ce2c448",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Fuzzy Fine-Grained Code-History Analysis",
+      "authors": [
+        "Francisco Servant",
+        "James A. Jones"
+      ],
+      "doi": "10.1109/icse.2017.74",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e6034b1f40fdac28d1eb68ceedce72a3636a8a42",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Automated Refactoring of Legacy Java Software to Default Methods",
+      "authors": [
+        "Raffi Khatchadourian",
+        "Hidehiko Masuhara"
+      ],
+      "doi": "10.1109/icse.2017.16",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2f4db55d6d9b29c3ddf6a5520254c45a529f18f6",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    59,
+    {
+      "title": "UML Diagram Refinement (Focusing on Class-and Use Case Diagrams)",
+      "authors": [
+        "David Faitelson",
+        "Shmuel Tyszberowicz"
+      ],
+      "doi": "10.1109/icse.2017.73",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7395a56aa16be9e22dea6e4df0ff8e533ceee0df",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Adaptive Coverage and Operational Profile-Based Testing for Reliability Improvement",
+      "authors": [
+        "Antonia Bertolino",
+        "Breno Miranda",
+        "Roberto Pietrantuono",
+        "Stefano Russo"
+      ],
+      "doi": "10.1109/icse.2017.56",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2f4854bd3faec02f0b427eeac407a8c3fc813002",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Travioli: A Dynamic Analysis for Detecting Data-Structure Traversals",
+      "authors": [
+        "Rohan Padhye",
+        "Koushik Sen"
+      ],
+      "doi": "10.1109/icse.2017.50",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a999bfa7bcbd3cb4b58823f6e9796dd0ea49f372",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Heuristically Matching Solution Spaces of Arithmetic Formulas to Efficiently Reuse Solutions",
+      "authors": [
+        "Andrea Aquino",
+        "Giovanni Denaro",
+        "Mauro Pezze"
+      ],
+      "doi": "10.1109/icse.2017.46",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f66f3c34cd51693069e29d3ebcbae80f58692f3",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Can Latent Topics in Source Code Predict Missing Architectural Tactics?",
+      "authors": [
+        "Raghuram Gopalakrishnan",
+        "Palak Sharma",
+        "Mehdi Mirakhorli",
+        "Matthias Galster"
+      ],
+      "doi": "10.1109/icse.2017.10",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1c5099ec50bccf0858f0e2fead72fcc6808d5aed",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    64,
+    {
+      "title": "ZenIDS: Introspective Intrusion Detection for PHP Applications",
+      "authors": [
+        "Byron Hawkins",
+        "Brian Demsky"
+      ],
+      "doi": "10.1109/icse.2017.29",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "025329d5df551dc6c2895494f73853b7f85cfa34",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    65,
+    {
+      "title": "ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains",
+      "authors": [
+        "Guoxin Su",
+        "Taolue Chen",
+        "Yuan Feng",
+        "David S. Rosenblum"
+      ],
+      "doi": "10.1109/icse.2017.51",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7c154b789300f382cc4e4589ec402bc575e03f09",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    66,
+    {
+      "title": "A General Framework for Dynamic Stub Injection",
+      "authors": [
+        "Maria Christakis",
+        "Patrick Emmisberger",
+        "Patrice Godefroid",
+        "Peter Muller"
+      ],
+      "doi": "10.1109/icse.2017.60",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90953f89e5cb522c697297b3dc6f4c3d98386e06",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Syntactic and Semantic Differencing for Combinatorial Models of Test Designs",
+      "authors": [
+        "Rachel Tzoref-Brill",
+        "Shahar Maoz"
+      ],
+      "doi": "10.1109/icse.2017.63",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "01ac7c44f7c36151af01f82bdd787d6fa4022a2a",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Symbolic Model Extraction for Web Application Verification",
+      "authors": [
+        "Ivan Bocic",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1109/icse.2017.72",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "090b9f33bf878f7630e7715c1cd2897df6d89fbd",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    69,
+    {
+      "title": "Foreword",
+      "authors": [],
+      "doi": "10.1109/icse.2017.5",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    70,
+    {
+      "title": "[Publisher's information]",
+      "authors": [],
+      "doi": "10.1109/icse.2017.78",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    71,
+    {
+      "title": "[Title page iii]",
+      "authors": [],
+      "doi": "10.1109/icse.2017.2",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Sponsors and Benefactors",
+      "authors": [],
+      "doi": "10.1109/icse.2017.79",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    73,
+    {
+      "title": "[Front cover]",
+      "authors": [],
+      "doi": "10.1109/icse.2017.80",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Additional Reviewers",
+      "authors": [],
+      "doi": "10.1109/icse.2017.8",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Author index",
+      "authors": [],
+      "doi": "10.1109/icse.2017.77",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Organizing Committee",
+      "authors": [],
+      "doi": "10.1109/icse.2017.6",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Table of contents",
+      "authors": [],
+      "doi": "10.1109/icse.2017.4",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    78,
+    {
+      "title": "[Copyright notice]",
+      "authors": [],
+      "doi": "10.1109/icse.2017.3",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    79,
+    {
+      "title": "Program Committee",
+      "authors": [],
+      "doi": "10.1109/icse.2017.7",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ],
+  [
+    80,
+    {
+      "title": "[Title page i]",
+      "authors": [],
+      "doi": "10.1109/icse.2017.1",
+      "venue": "2017 IEEE/ACM 39th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2017
+    }
+  ]
+]

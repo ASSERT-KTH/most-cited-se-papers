@@ -1,0 +1,359 @@
+[
+  [
+    1,
+    {
+      "title": "Multi-Criteria Code Refactoring Using Search-Based Software Engineering",
+      "authors": [
+        "Ali Ouni",
+        "Marouane Kessentini",
+        "Houari Sahraoui",
+        "Katsuro Inoue",
+        "Kalyanmoy Deb"
+      ],
+      "doi": "10.1145/2932631",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "87d99e7b928e2f68972019d4e63997667dd93911",
+        "citationCount": 140,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Using Cohesion and Coupling for Software Remodularization",
+      "authors": [
+        "Ivan Candela",
+        "Gabriele Bavota",
+        "Barbara Russo",
+        "Rocco Oliveto"
+      ],
+      "doi": "10.1145/2928268",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "fcb7f88b36c924d40ec751c701d370a7c09c127e",
+        "citationCount": 81,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Inflow and Retention in OSS Communities with Commercial Involvement",
+      "authors": [
+        "Minghui Zhou",
+        "Audris Mockus",
+        "Xiujuan Ma",
+        "Lu Zhang",
+        "Hong Mei"
+      ],
+      "doi": "10.1145/2876443",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "286fa8a8270091f55192c261f51556de125808b8",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Impact-Driven Process Model Repair",
+      "authors": [
+        "Artem Polyvyanyy",
+        "Wil M. P. Van Der Aalst",
+        "Arthur H. M. Ter Hofstede",
+        "Moe T. Wynn"
+      ],
+      "doi": "10.1145/2980764",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1721f6e343d78f9fe383443a09fb8eec9b79c9a3",
+        "citationCount": 60,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition",
+      "authors": [
+        "Jaspreet Bhatia",
+        "Travis D. Breaux",
+        "Florian Schaub"
+      ],
+      "doi": "10.1145/2907942",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "46621e89036d957f7a14978a90c229aeb0eb0077",
+        "citationCount": 44,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    6,
+    {
+      "title": "The Effect of Program and Model Structure on the Effectiveness of MC/DC Test Adequacy Coverage",
+      "authors": [
+        "Gregory Gay",
+        "Ajitha Rajan",
+        "Matt Staats",
+        "Michael Whalen",
+        "Mats P. E. Heimdahl"
+      ],
+      "doi": "10.1145/2934672",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d1468972235ee1e3a3043d5cc2e6d55949a9c086",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    7,
+    {
+      "title": "Multi-Step Learning and Adaptive Search for Learning Complex Model Transformations from Examples",
+      "authors": [
+        "Islem Baki",
+        "Houari Sahraoui"
+      ],
+      "doi": "10.1145/2904904",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "d99f8753bbd14a432bec9ac6d1dda8857199b745",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    8,
+    {
+      "title": "D\n            <scp>ia</scp>\n            P\n            <scp>ro</scp>",
+      "authors": [
+        "Haipeng Cai",
+        "Raul Santelices",
+        "Douglas Thain"
+      ],
+      "doi": "10.1145/2894751",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "0905cd28142ff3dea927c159fbfb2e115457dd2c",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Learning Weighted Assumptions for Compositional Verification of Markov Decision Processes",
+      "authors": [
+        "Fei He",
+        "Xiaowei Gao",
+        "Miaofei Wang",
+        "Bow-Yaw Wang",
+        "Lijun Zhang"
+      ],
+      "doi": "10.1145/2907943",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "1a49c77944a0b29dbe4f0817b0625ff97fc030b6",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Stochastic Performance Analysis of Global Software Development Teams",
+      "authors": [
+        "Ricardo M. Czekster",
+        "Paulo Fernandes",
+        "Lucelene Lopes",
+        "Afonso Sales",
+        "Alan R. Santos",
+        "Thais Webber"
+      ],
+      "doi": "10.1145/2955093",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "6f678c7139b744ed3e98375af151d778866eda2b",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Understanding JavaScript Event-Based Interactions with Clematis",
+      "authors": [
+        "Saba Alimadadi",
+        "Sheldon Sequeira",
+        "Ali Mesbah",
+        "Karthik Pattabiraman"
+      ],
+      "doi": "10.1145/2876441",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "77dcb62253476f3d1ee60beb5d5a50553362192f",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Hierarchical Program Paths",
+      "authors": [
+        "Chunbai Yang",
+        "Shangru Wu",
+        "W. K. Chan"
+      ],
+      "doi": "10.1145/2963094",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "60ea9bce3205cf5358e7f4e6d197404b923468d1",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    13,
+    {
+      "title": "Concurrency Debugging with Differential Schedule Projections",
+      "authors": [
+        "Nuno Machado",
+        "Daniel Quinta",
+        "Brandon Lucia",
+        "Lu\u00eds Rodrigues"
+      ],
+      "doi": "10.1145/2885495",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "649261c9e57105eaa43418be00acc5cdb96036c7",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Control Explicit--Data Symbolic Model Checking",
+      "authors": [
+        "Petr Bauch",
+        "Vojt\u011bch Havel",
+        "Ji\u0159\u00ed Barnat"
+      ],
+      "doi": "10.1145/2888393",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "10965ba06efc2598bbf8b81d4b64065b9917ad3e",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Less is More",
+      "authors": [
+        "Esteban Pavese",
+        "V\u00edctor Braberman",
+        "Sebastian Uchitel"
+      ],
+      "doi": "10.1145/2890494",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "cde89f65f0d4abf72e3a7a0a92aa569c735ea916",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    16,
+    {
+      "title": "A Stack Memory Abstraction and Symbolic Analysis Framework for Executables",
+      "authors": [
+        "Kapil Anand",
+        "Khaled Elwazeer",
+        "Aparna Kotha",
+        "Matthew Smithson",
+        "Rajeev Barua",
+        "Angelos Keromytis"
+      ],
+      "doi": "10.1145/2897511",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "990cbf3497da2b2cbd5dfcb199af2e8fb79d5ab7",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    17,
+    {
+      "title": "Editorial",
+      "authors": [],
+      "doi": "10.1145/2904898",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "9694b30e0c008c44349cec043a60de8ed1e52089",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ],
+  [
+    18,
+    {
+      "title": "SIP",
+      "authors": [
+        "Robert M. Hierons",
+        "Miqing Li",
+        "Xiaohui Liu",
+        "Sergio Segura",
+        "Wei Zheng"
+      ],
+      "doi": "10.1145/2897760",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "citations": {
+        "paperId": "2e191d00095a8b3ceb325854002f92177847ff5b",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2016
+    }
+  ]
+]

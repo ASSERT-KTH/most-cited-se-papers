@@ -1,0 +1,2681 @@
+[
+  [
+    1,
+    {
+      "title": "Empirical review of automated analysis tools on 47,587 Ethereum smart contracts",
+      "authors": [
+        "Thomas Durieux",
+        "Jo\u00e3o F. Ferreira",
+        "Rui Abreu",
+        "Pedro Cruz"
+      ],
+      "doi": "10.1145/3377811.3380364",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "07e2c2eae0a754430e6d0d9d69ef0e54b54bb22c",
+        "citationCount": 279,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    2,
+    {
+      "title": "sFuzz",
+      "authors": [
+        "Tai D. Nguyen",
+        "Long H. Pham",
+        "Jun Sun",
+        "Yun Lin",
+        "Quang Tran Minh"
+      ],
+      "doi": "10.1145/3377811.3380334",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f9233720b7a26b7324a1cc1ecbadf83c529efd73",
+        "citationCount": 257,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Taxonomy of real faults in deep learning systems",
+      "authors": [
+        "Nargiz Humbatova",
+        "Gunel Jahangirova",
+        "Gabriele Bavota",
+        "Vincenzo Riccio",
+        "Andrea Stocco",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1145/3377811.3380395",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b217efca950461ddfaf2edcebb0f1962eaaa4782",
+        "citationCount": 246,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    4,
+    {
+      "title": "DLFix",
+      "authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/3377811.3380345",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e24c70ebdcf7aba490fdbdc62bf6436ddc9721af",
+        "citationCount": 232,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Retrieval-based neural source code summarization",
+      "authors": [
+        "Jian Zhang",
+        "Xu Wang",
+        "Hongyu Zhang",
+        "Hailong Sun",
+        "Xudong Liu"
+      ],
+      "doi": "10.1145/3377811.3380383",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bd47bb8cdd749a3356149da6155d2dcd7458779f",
+        "citationCount": 230,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Big code != big vocabulary",
+      "authors": [
+        "Rafael-Michael Karampatsis",
+        "Hlib Babii",
+        "Romain Robbes",
+        "Charles Sutton",
+        "Andrea Janes"
+      ],
+      "doi": "10.1145/3377811.3380342",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3944354c42ddfff7414ad06022f96c72858d5fa6",
+        "citationCount": 207,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    7,
+    {
+      "title": "CC2Vec",
+      "authors": [
+        "Thong Hoang",
+        "Hong Jin Kang",
+        "David Lo",
+        "Julia Lawall"
+      ],
+      "doi": "10.1145/3377811.3380361",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0dfe706526e5234338411489e1826b4060acc4e8",
+        "citationCount": 177,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    8,
+    {
+      "title": "DeepBillboard",
+      "authors": [
+        "Husheng Zhou",
+        "Wei Li",
+        "Zelun Kong",
+        "Junfeng Guo",
+        "Yuqun Zhang",
+        "Bei Yu",
+        "Lingming Zhang",
+        "Cong Liu"
+      ],
+      "doi": "10.1145/3377811.3380422",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87e414c840cb1107719b5f38389f832570cf3288",
+        "citationCount": 163,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    9,
+    {
+      "title": "Misbehaviour prediction for autonomous driving systems",
+      "authors": [
+        "Andrea Stocco",
+        "Michael Weiss",
+        "Marco Calzana",
+        "Paolo Tonella"
+      ],
+      "doi": "10.1145/3377811.3380353",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "87ed9bb65da95185ffbf57b019d28aa17d58fddd",
+        "citationCount": 142,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    10,
+    {
+      "title": "Fuzz testing based data augmentation to improve robustness of deep neural networks",
+      "authors": [
+        "Xiang Gao",
+        "Ripon K. Saha",
+        "Mukul R. Prasad",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3377811.3380415",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5b04e1f31c671e19cdd752c4c9a521c62b3ee6c7",
+        "citationCount": 134,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    11,
+    {
+      "title": "Unblind your apps",
+      "authors": [
+        "Jieshan Chen",
+        "Chunyang Chen",
+        "Zhenchang Xing",
+        "Xiwei Xu",
+        "Liming Zhu",
+        "Guoqiang Li",
+        "Jinshui Wang"
+      ],
+      "doi": "10.1145/3377811.3380327",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "62a0a22d9e57125dcc18ed71005b90ca3ec1b924",
+        "citationCount": 130,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    12,
+    {
+      "title": "On the efficiency of test suite based program repair",
+      "authors": [
+        "Kui Liu",
+        "Shangwen Wang",
+        "Anil Koyuncu",
+        "Kisub Kim",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Dongsun Kim",
+        "Peng Wu",
+        "Jacques Klein",
+        "Xiaoguang Mao",
+        "Yves Le Traon"
+      ],
+      "doi": "10.1145/3377811.3380338",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "22f01c95aa7dface60ceefdf09e113e64090b90b",
+        "citationCount": 128,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    13,
+    {
+      "title": "On learning meaningful assert statements for unit test cases",
+      "authors": [
+        "Cody Watson",
+        "Michele Tufano",
+        "Kevin Moran",
+        "Gabriele Bavota",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/3377811.3380429",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fd12fc2b3e825885f3b921c8f796abf45f5a5b91",
+        "citationCount": 122,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    14,
+    {
+      "title": "A comprehensive study of autonomous vehicle bugs",
+      "authors": [
+        "Joshua Garcia",
+        "Yang Feng",
+        "Junjie Shen",
+        "Sumaya Almanee",
+        "Yuan Xia",
+        "and Qi Alfred Chen"
+      ],
+      "doi": "10.1145/3377811.3380397",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ac33161a443dd326e29579e43daa3b12a69c573c",
+        "citationCount": 120,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    15,
+    {
+      "title": "Automatic testing and improvement of machine translation",
+      "authors": [
+        "Zeyu Sun",
+        "Jie M. Zhang",
+        "Mark Harman",
+        "Mike Papadakis",
+        "Lu Zhang"
+      ],
+      "doi": "10.1145/3377811.3380420",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ce0c02dba51f68f0f3ad8cbc01eb596977b2799b",
+        "citationCount": 117,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    16,
+    {
+      "title": "Repairing deep neural networks",
+      "authors": [
+        "Md Johirul Islam",
+        "Rangeet Pan",
+        "Giang Nguyen",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3377811.3380378",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "93120dfa6181d04179ce13146f0c3f4fe6c2f0e0",
+        "citationCount": 115,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    17,
+    {
+      "title": "White-box fairness testing through adversarial sampling",
+      "authors": [
+        "Peixin Zhang",
+        "Jingyi Wang",
+        "Jun Sun",
+        "Guoliang Dong",
+        "Xinyu Wang",
+        "Xingen Wang",
+        "Jin Song Dong",
+        "Ting Dai"
+      ],
+      "doi": "10.1145/3377811.3380331",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "eb0aac907dd0331655c713d892ec71a54ee45531",
+        "citationCount": 114,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    18,
+    {
+      "title": "Accessibility issues in Android apps",
+      "authors": [
+        "Abdulaziz Alshayban",
+        "Iftekhar Ahmed",
+        "Sam Malek"
+      ],
+      "doi": "10.1145/3377811.3380392",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "12ae46ec87ede7ee8d5674288c58ed11656e921f",
+        "citationCount": 108,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Typestate-guided fuzzer for discovering use-after-free vulnerabilities",
+      "authors": [
+        "Haijun Wang",
+        "Xiaofei Xie",
+        "Yi Li",
+        "Cheng Wen",
+        "Yuekang Li",
+        "Yang Liu",
+        "Shengchao Qin",
+        "Hongxu Chen",
+        "Yulei Sui"
+      ],
+      "doi": "10.1145/3377811.3380386",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9886cc1ad45abfef3815bca1546bc29bf86488f7",
+        "citationCount": 102,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Structure-invariant testing for machine translation",
+      "authors": [
+        "Pinjia He",
+        "Clara Meister",
+        "Zhendong Su"
+      ],
+      "doi": "10.1145/3377811.3380339",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f40bbf455f1fe4a8a063df0b7b6fbf69eac45c8a",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Software documentation",
+      "authors": [
+        "Emad Aghajani",
+        "Csaba Nagy",
+        "Mario Linares-V\u00e1squez",
+        "Laura Moreno",
+        "Gabriele Bavota",
+        "Michele Lanza",
+        "David C. Shepherd"
+      ],
+      "doi": "10.1145/3377811.3380405",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "01c2335c9e30965b291a27731bd355d1199da84f",
+        "citationCount": 99,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Importance-driven deep learning system testing",
+      "authors": [
+        "Simos Gerasimou",
+        "Hasan Ferit Eniser",
+        "Alper Sen",
+        "Alper Cakan"
+      ],
+      "doi": "10.1145/3377811.3380391",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b6dac61715ef453daad37f42575e7414742a48e",
+        "citationCount": 96,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    23,
+    {
+      "title": "An empirical study on program failures of deep learning jobs",
+      "authors": [
+        "Ru Zhang",
+        "Wencong Xiao",
+        "Hongyu Zhang",
+        "Yu Liu",
+        "Haoxiang Lin",
+        "Mao Yang"
+      ],
+      "doi": "10.1145/3377811.3380362",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0d10237707b3ce5f0236d4da013eb45ad18ac12b",
+        "citationCount": 94,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    24,
+    {
+      "title": "A study on the lifecycle of flaky tests",
+      "authors": [
+        "Wing Lam",
+        "K\u0131van\u00e7 Mu\u015flu",
+        "Hitesh Sajnani",
+        "Suresh Thummalapenta"
+      ],
+      "doi": "10.1145/3377811.3381749",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8262d29e5e793074e8198c031155658d3739ab45",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Time-travel testing of Android apps",
+      "authors": [
+        "Zhen Dong",
+        "Marcel B\u00f6hme",
+        "Lucia Cojocaru",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3377811.3380402",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fd2abfc767195843f3df50dfb50313b472257a8a",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Learning-to-rank vs ranking-to-learn",
+      "authors": [
+        "Antonia Bertolino",
+        "Antonio Guerriero",
+        "Breno Miranda",
+        "Roberto Pietrantuono",
+        "Stefano Russo"
+      ],
+      "doi": "10.1145/3377811.3380369",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "24503e5b63dd1f5cda74d6f9cc03ab7ce5be0779",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Towards characterizing adversarial defects of deep learning software from the lens of uncertainty",
+      "authors": [
+        "Xiyue Zhang",
+        "Xiaofei Xie",
+        "Lei Ma",
+        "Xiaoning Du",
+        "Qiang Hu",
+        "Yang Liu",
+        "Jianjun Zhao",
+        "Meng Sun"
+      ],
+      "doi": "10.1145/3377811.3380368",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b126f008af75f7fa9f4a199add2c837a3cb857da",
+        "citationCount": 73,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    28,
+    {
+      "title": "Software visualization and deep transfer learning for effective software defect prediction",
+      "authors": [
+        "Jinyin Chen",
+        "Keke Hu",
+        "Yue Yu",
+        "Zhuangzhi Chen",
+        "Qi Xuan",
+        "Yi Liu",
+        "Vladimir Filkov"
+      ],
+      "doi": "10.1145/3377811.3380389",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e05c187eb7918c28533b2de17fc8f5cb511852a4",
+        "citationCount": 72,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    29,
+    {
+      "title": "Is rust used safely by software developers?",
+      "authors": [
+        "Ana Nora Evans",
+        "Bradford Campbell",
+        "Mary Lou Soffa"
+      ],
+      "doi": "10.1145/3377811.3380413",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8f564873814a12526a844d69c216ba2b599bdf9a",
+        "citationCount": 70,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Dissector",
+      "authors": [
+        "Huiyan Wang",
+        "Jingwei Xu",
+        "Chang Xu",
+        "Xiaoxing Ma",
+        "Jian Lu"
+      ],
+      "doi": "10.1145/3377811.3380379",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a4f82c32400f51da31c6b4da3cc131cf055f74f5",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    31,
+    {
+      "title": "An empirical assessment of security risks of global Android banking apps",
+      "authors": [
+        "Sen Chen",
+        "Lingling Fan",
+        "Guozhu Meng",
+        "Ting Su",
+        "Minhui Xue",
+        "Yinxing Xue",
+        "Yang Liu",
+        "Lihua Xu"
+      ],
+      "doi": "10.1145/3377811.3380417",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6f940c29492add16a22d836e6f1c4fd05d56af01",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Approximation-refinement testing of compute-intensive cyber-physical models",
+      "authors": [
+        "Claudio Menghi",
+        "Shiva Nejati",
+        "Lionel Briand",
+        "Yago Isasi Parache"
+      ],
+      "doi": "10.1145/3377811.3380370",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "633d2ef003d378115a33540da680ce8b90857236",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    33,
+    {
+      "title": "Suggesting natural method names to check name consistencies",
+      "authors": [
+        "Son Nguyen",
+        "Hung Phan",
+        "Trinh Le",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/3377811.3380926",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "43850038e55be098645fecf91c52760e8737115f",
+        "citationCount": 63,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Watchman",
+      "authors": [
+        "Ying Wang",
+        "Ming Wen",
+        "Yepang Liu",
+        "Yibo Wang",
+        "Zhenming Li",
+        "Chao Wang",
+        "Hai Yu",
+        "Shing-Chi Cheung",
+        "Chang Xu",
+        "Zhiliang Zhu"
+      ],
+      "doi": "10.1145/3377811.3380426",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "adcbe700da16c90a6098baa06f731bc7f75f6433",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    35,
+    {
+      "title": "Translating video recordings of mobile app usages into replayable scenarios",
+      "authors": [
+        "Carlos Bernal-C\u00e1rdenas",
+        "Nathan Cooper",
+        "Kevin Moran",
+        "Oscar Chaparro",
+        "Andrian Marcus",
+        "Denys Poshyvanyk"
+      ],
+      "doi": "10.1145/3377811.3380328",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ca268090f41e48b5775ee60653d86567bd1787c5",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Targeted greybox fuzzing with static lookahead analysis",
+      "authors": [
+        "Valentin W\u00fcstholz",
+        "Maria Christakis"
+      ],
+      "doi": "10.1145/3377811.3380388",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b5abcc4f10da32cb26040a82e90a0c186d930ca",
+        "citationCount": 58,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Seenomaly",
+      "authors": [
+        "Dehai Zhao",
+        "Zhenchang Xing",
+        "Chunyang Chen",
+        "Xiwei Xu",
+        "Liming Zhu",
+        "Guoqiang Li",
+        "Jinshui Wang"
+      ],
+      "doi": "10.1145/3377811.3380411",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ad7b621f348655ee8ba75f3c9c36537133478069",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    38,
+    {
+      "title": "Understanding the automated parameter optimization on transfer learning for cross-project defect prediction",
+      "authors": [
+        "Ke Li",
+        "Zilin Xiang",
+        "Tao Chen",
+        "Shuo Wang",
+        "Kay Chen Tan"
+      ],
+      "doi": "10.1145/3377811.3380360",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a985ee33a4c4a4f5bc395fe0b8dd568f12f9bde7",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    39,
+    {
+      "title": "ComboDroid",
+      "authors": [
+        "Jue Wang",
+        "Yanyan Jiang",
+        "Chang Xu",
+        "Chun Cao",
+        "Xiaoxing Ma",
+        "Jian Lu"
+      ],
+      "doi": "10.1145/3377811.3380382",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a27776d184ceb3a3ea152a5798584b335c908239",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    40,
+    {
+      "title": "A study on the prevalence of human values in software engineering publications, 2015 -- 2018",
+      "authors": [
+        "Harsha Perera",
+        "Waqar Hussain",
+        "Jon Whittle",
+        "Arif Nurwidyantoro",
+        "Davoud Mougouei",
+        "Rifat Ara Shams",
+        "Gillian Oliver"
+      ],
+      "doi": "10.1145/3377811.3380393",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "470124050e20768e8741df772e100902300cd922",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    41,
+    {
+      "title": "An investigation of cross-project learning in online just-in-time software defect prediction",
+      "authors": [
+        "Sadia Tabassum",
+        "Leandro L. Minku",
+        "Danyi Feng",
+        "George G. Cabral",
+        "Liyan Song"
+      ],
+      "doi": "10.1145/3377811.3380403",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "91b3db79cb91c5b0653a86c7005f553d8a834deb",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    42,
+    {
+      "title": "Testing DNN image classifiers for confusion &amp; bias errors",
+      "authors": [
+        "Yuchi Tian",
+        "Ziyuan Zhong",
+        "Vicente Ordonez",
+        "Gail Kaiser",
+        "Baishakhi Ray"
+      ],
+      "doi": "10.1145/3377811.3380400",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3ce573e678778ead8db852780d00075967962d83",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    43,
+    {
+      "title": "Mitigating turnover with code review recommendation",
+      "authors": [
+        "Ehsan Mirsaeedi",
+        "Peter C. Rigby"
+      ],
+      "doi": "10.1145/3377811.3380335",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f9b6b88c36a3d8a41fa8144fa6261e709f7372ee",
+        "citationCount": 49,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    44,
+    {
+      "title": "ReluDiff",
+      "authors": [
+        "Brandon Paulsen",
+        "Jingbo Wang",
+        "Chao Wang"
+      ],
+      "doi": "10.1145/3377811.3380337",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cd4c02135b2c7f683e5096785c058e9a958ad583",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    45,
+    {
+      "title": "On the recall of static call graph construction in practice",
+      "authors": [
+        "Li Sui",
+        "Jens Dietrich",
+        "Amjed Tahir",
+        "George Fourtounis"
+      ],
+      "doi": "10.1145/3377811.3380441",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "74521e22b2ab07ff0be0caea600309b3f9723250",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    46,
+    {
+      "title": "SpecuSym",
+      "authors": [
+        "Shengjian Guo",
+        "Yueqi Chen",
+        "Peng Li",
+        "Yueqiang Cheng",
+        "Huibo Wang",
+        "Meng Wu",
+        "Zhiqiang Zuo"
+      ],
+      "doi": "10.1145/3377811.3380428",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "04614f9ae7c9276d00e4d381d3452d9e0e213a33",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Causal testing",
+      "authors": [
+        "Brittany Johnson",
+        "Yuriy Brun",
+        "Alexandra Meliou"
+      ],
+      "doi": "10.1145/3377811.3380377",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0c941874f21416f7576334bd23a1cc372b465f1f",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Learning from, understanding, and supporting DevOps artifacts for docker",
+      "authors": [
+        "Jordan Henkel",
+        "Christian Bird",
+        "Shuvendu K. Lahiri",
+        "Thomas Reps"
+      ],
+      "doi": "10.1145/3377811.3380406",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b1debd250d9cf2e1cea7edb4a665d56dfab08a67",
+        "citationCount": 45,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    49,
+    {
+      "title": "CPC",
+      "authors": [
+        "Juan Zhai",
+        "Xiangzhe Xu",
+        "Yu Shi",
+        "Guanhong Tao",
+        "Minxue Pan",
+        "Shiqing Ma",
+        "Lei Xu",
+        "Weifeng Zhang",
+        "Lin Tan",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1145/3377811.3380427",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dd1ef7e7dc6ab885d9d64218148f08354c3c6fdb",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Recognizing developers' emotions while programming",
+      "authors": [
+        "Daniela Girardi",
+        "Nicole Novielli",
+        "Davide Fucci",
+        "Filippo Lanubile"
+      ],
+      "doi": "10.1145/3377811.3380374",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d37a5e8d3ea995a5fee6366e622685a2b147bedd",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Gang of eight",
+      "authors": [
+        "Akond Rahman",
+        "Effat Farhana",
+        "Chris Parnin",
+        "Laurie Williams"
+      ],
+      "doi": "10.1145/3377811.3380409",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4078526b6ac5ad94b2aa55061d24648481682c2b",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    52,
+    {
+      "title": "How has forking changed in the last 20 years?",
+      "authors": [
+        "Shurui Zhou",
+        "Bogdan Vasilescu",
+        "Christian K\u00e4stner"
+      ],
+      "doi": "10.1145/3377811.3380412",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2b6f26384bbf3afdeef34f0008035d2a5399226f",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    53,
+    {
+      "title": "Quickly generating diverse valid test inputs with reinforcement learning",
+      "authors": [
+        "Sameer Reddy",
+        "Caroline Lemieux",
+        "Rohan Padhye",
+        "Koushik Sen"
+      ],
+      "doi": "10.1145/3377811.3380399",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "58766e205d1b12db8b5282e8288d71d81fc41b2c",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    54,
+    {
+      "title": "A cost-efficient approach to building in continuous integration",
+      "authors": [
+        "Xianhao Jin",
+        "Francisco Servant"
+      ],
+      "doi": "10.1145/3377811.3380437",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7485ebfd250c34f30be63c03026fe6186db8f07e",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    55,
+    {
+      "title": "A large-scale empirical study on vulnerability distribution within projects and the lessons learned",
+      "authors": [
+        "Bingchang Liu",
+        "Guozhu Meng",
+        "Wei Zou",
+        "Qi Gong",
+        "Feng Li",
+        "Min Lin",
+        "Dandan Sun",
+        "Wei Huo",
+        "Chao Zhang"
+      ],
+      "doi": "10.1145/3377811.3380923",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "307a392dd3b5bc1700f3e28bcc968f77e24aed2f",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    56,
+    {
+      "title": "HyDiff",
+      "authors": [
+        "Yannic Noller",
+        "Corina S. P\u0103s\u0103reanu",
+        "Marcel B\u00f6hme",
+        "Youcheng Sun",
+        "Hoang Lam Nguyen",
+        "Lars Grunske"
+      ],
+      "doi": "10.1145/3377811.3380363",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cc4109a3e3911727ec1d30a36b0bb4bb24830340",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Neurological divide",
+      "authors": [
+        "Ryan Krueger",
+        "Yu Huang",
+        "Xinyu Liu",
+        "Tyler Santander",
+        "Westley Weimer",
+        "Kevin Leach"
+      ],
+      "doi": "10.1145/3377811.3380348",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "00e661634b3284ee610eaa40910565c64c006085",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Predicting developers' negative feelings about code review",
+      "authors": [
+        "Carolyn D. Egelman",
+        "Emerson Murphy-Hill",
+        "Elizabeth Kammer",
+        "Margaret Morrow Hodges",
+        "Collin Green",
+        "Ciera Jaspan",
+        "James Lin"
+      ],
+      "doi": "10.1145/3377811.3380414",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e27c6782bb72547220c0ec33e03ab5c02a0abe8",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    59,
+    {
+      "title": "Towards the use of the readily available tests from the release pipeline as performance tests",
+      "authors": [
+        "Zishuo Ding",
+        "Jinfu Chen",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1145/3377811.3380351",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ddf582429fff1ba9abd24d5cd0ff80b6f200ed02",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    60,
+    {
+      "title": "SLEMI",
+      "authors": [
+        "Shafiul Azam Chowdhury",
+        "Sohil Lal Shrestha",
+        "Taylor T. Johnson",
+        "Christoph Csallner"
+      ],
+      "doi": "10.1145/3377811.3380381",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "77acdb196d42436937da36802cab54a002352c7d",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    61,
+    {
+      "title": "How Android developers handle evolution-induced API compatibility issues",
+      "authors": [
+        "Hao Xia",
+        "Yuan Zhang",
+        "Yingtian Zhou",
+        "Xiaoting Chen",
+        "Yang Wang",
+        "Xiangyu Zhang",
+        "Shuaishuai Cui",
+        "Geng Hong",
+        "Xiaohan Zhang",
+        "Min Yang",
+        "Zhemin Yang"
+      ],
+      "doi": "10.1145/3377811.3380357",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2b8b131e5807f6bfc8786e18dd4eb595f5efd4fb",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    62,
+    {
+      "title": "Securing unsafe rust programs with XRust",
+      "authors": [
+        "Peiming Liu",
+        "Gang Zhao",
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/3377811.3380325",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f3b75979611c111233c9cd5e6674e71be83b6f13",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    63,
+    {
+      "title": "Extracting taint specifications for JavaScript libraries",
+      "authors": [
+        "Cristian-Alexandru Staicu",
+        "Martin Toldam Torp",
+        "Max Sch\u00e4fer",
+        "Anders M\u00f8ller",
+        "Michael Pradel"
+      ],
+      "doi": "10.1145/3377811.3380390",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "64185638c55f9fbc13640d54072f21f2e99212be",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    64,
+    {
+      "title": "Schr\u00f6dinger's security",
+      "authors": [
+        "Dirk van der Linden",
+        "Pauline Anthonysamy",
+        "Bashar Nuseibeh",
+        "Thein Than Tun",
+        "Marian Petre",
+        "Mark Levine",
+        "John Towse",
+        "Awais Rashid"
+      ],
+      "doi": "10.1145/3377811.3380394",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3c0a29db4adfd055d6c94f32cd455682ff6309e3",
+        "citationCount": 34,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Near-duplicate detection in web app model inference",
+      "authors": [
+        "Rahulkrishna Yandrapally",
+        "Andrea Stocco",
+        "Ali Mesbah"
+      ],
+      "doi": "10.1145/3377811.3380416",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d076ff17f283ebb4a3764c8bf661bdbbde2c96a2",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Caspar",
+      "authors": [
+        "Hui Guo",
+        "Munindar P. Singh"
+      ],
+      "doi": "10.1145/3377811.3380924",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "20bcf62aab07398325a08785cb74b1f78abed279",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    67,
+    {
+      "title": "RoScript",
+      "authors": [
+        "Ju Qian",
+        "Zhengyu Shang",
+        "Shuoyan Yan",
+        "Yan Wang",
+        "Lin Chen"
+      ],
+      "doi": "10.1145/3377811.3380431",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2af32a8cae0bd5bce7015592826b87727223aa02",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    68,
+    {
+      "title": "Automatically testing string solvers",
+      "authors": [
+        "Alexandra Bugariu",
+        "Peter M\u00fcller"
+      ],
+      "doi": "10.1145/3377811.3380398",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de2ab4cd9f4d5cba3d48c0108ea1fe2b11b4832b",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    69,
+    {
+      "title": "How to not get rich",
+      "authors": [
+        "Cassandra Overney",
+        "Jens Meinicke",
+        "Christian K\u00e4stner",
+        "Bogdan Vasilescu"
+      ],
+      "doi": "10.1145/3377811.3380410",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f09862d3f044c2d574fbdc683f9d4301d2581404",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    70,
+    {
+      "title": "Engineering gender-inclusivity into software",
+      "authors": [
+        "Claudia Hilderbrand",
+        "Christopher Perdriau",
+        "Lara Letaw",
+        "Jillian Emard",
+        "Zoe Steine-Hanson",
+        "Margaret Burnett",
+        "Anita Sarma"
+      ],
+      "doi": "10.1145/3377811.3380371",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af0396fc0ed6cd5d1b7b241bc3afba0a9953bd27",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    71,
+    {
+      "title": "Unsuccessful story about few shot malware family classification and siamese network to the rescue",
+      "authors": [
+        "Yude Bai",
+        "Zhenchang Xing",
+        "Xiaohong Li",
+        "Zhiyong Feng",
+        "Duoyuan Ma"
+      ],
+      "doi": "10.1145/3377811.3380354",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "84fed8c377745399be99036421b742feadcbff2b",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    72,
+    {
+      "title": "Efficient generation of error-inducing floating-point inputs via symbolic execution",
+      "authors": [
+        "Hui Guo",
+        "Cindy Rubio-Gonz\u00e1lez"
+      ],
+      "doi": "10.1145/3377811.3380359",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "57f2a6f30e5bbebb4dbe774367dd037b2ef953bb",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Detection of hidden feature requests from massive chat messages via deep siamese network",
+      "authors": [
+        "Lin Shi",
+        "Mingzhe Xing",
+        "Mingyang Li",
+        "Yawen Wang",
+        "Shoubin Li",
+        "Qing Wang"
+      ],
+      "doi": "10.1145/3377811.3380356",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "90bc3f3656bea0fc851c3d3b159da2654385c067",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    74,
+    {
+      "title": "Taming behavioral backward incompatibilities via cross-project testing and analysis",
+      "authors": [
+        "Lingchao Chen",
+        "Foyzul Hassan",
+        "Xiaoyin Wang",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1145/3377811.3380436",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "299b1087c723d0a0ad6b9c2af96665e6eb73d420",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Interpreting cloud computer vision pain-points",
+      "authors": [
+        "Alex Cummaudo",
+        "Rajesh Vasa",
+        "Scott Barnett",
+        "John Grundy",
+        "Mohamed Abdelrazek"
+      ],
+      "doi": "10.1145/3377811.3380404",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e6735d6edefb857a6dd6cb35be3efb9f1ad0545b",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    76,
+    {
+      "title": "SAVER",
+      "authors": [
+        "Seongjoon Hong",
+        "Junhee Lee",
+        "Jeongsoo Lee",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1145/3377811.3380323",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "de42d2a48ad863dd2c3174d81886762a4649fb2e",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Multiple-entry testing of Android applications by constructing activity launching contexts",
+      "authors": [
+        "Jiwei Yan",
+        "Hao Liu",
+        "Linjie Pan",
+        "Jun Yan",
+        "Jian Zhang",
+        "Bin Liang"
+      ],
+      "doi": "10.1145/3377811.3380347",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d8d7c579acc1f5ee1f4158e58cad4785d7fd9035",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Here we go again",
+      "authors": [
+        "Nischal Shrestha",
+        "Colton Botta",
+        "Titus Barik",
+        "Chris Parnin"
+      ],
+      "doi": "10.1145/3377811.3380352",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4227dc1657d2fe5d4671c0f03fceb2adc74c1ee8",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    79,
+    {
+      "title": "How does misconfiguration of analytic services compromise mobile privacy?",
+      "authors": [
+        "Xueling Zhang",
+        "Xiaoyin Wang",
+        "Rocky Slavin",
+        "Travis Breaux",
+        "Jianwei Niu"
+      ],
+      "doi": "10.1145/3377811.3380401",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "08e44edccaa5dcd0e26a2123131aea074df1c69e",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Establishing multilevel test-to-code traceability links",
+      "authors": [
+        "Robert White",
+        "Jens Krinke",
+        "Raymond Tan"
+      ],
+      "doi": "10.1145/3377811.3380921",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b91a9c02f58752a5858dbdb705eba69f33eae426",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Comparing formal tools for system design",
+      "authors": [
+        "Alessio Ferrari",
+        "Franco Mazzanti",
+        "Davide Basile",
+        "Maurice H. ter Beek",
+        "Alessandro Fantechi"
+      ],
+      "doi": "10.1145/3377811.3380373",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d27faf1761fc166e071e9dbe06b6423e558acab0",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    82,
+    {
+      "title": "How do companies collaborate in open source ecosystems?",
+      "authors": [
+        "Yuxia Zhang",
+        "Minghui Zhou",
+        "Klaas-Jan Stol",
+        "Jianyu Wu",
+        "Zhi Jin"
+      ],
+      "doi": "10.1145/3377811.3380376",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1a434b68cdbcb2308939e6d84e52c9db61f24531",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Context-aware in-process crowdworker recommendation",
+      "authors": [
+        "Junjie Wang",
+        "Ye Yang",
+        "Song Wang",
+        "Yuanzhe Hu",
+        "Dandan Wang",
+        "Qing Wang"
+      ],
+      "doi": "10.1145/3377811.3380380",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a283edefe91f6b51ce4f74180ef6cc7abfb8efe3",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    84,
+    {
+      "title": "One size does not fit all",
+      "authors": [
+        "Anastasia Danilova",
+        "Alena Naiakshina",
+        "Matthew Smith"
+      ],
+      "doi": "10.1145/3377811.3380387",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4e972b987c0ae4ac98d6f078fa59e99804742a44",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    85,
+    {
+      "title": "JVM fuzzing for JIT-induced side-channel detection",
+      "authors": [
+        "Tegan Brennan",
+        "Seemanta Saha",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/3377811.3380432",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1ef1475aa49d8bb7eea4687fd50225ed18103d09",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Studying the use of Java logging utilities in the wild",
+      "authors": [
+        "Boyuan Chen",
+        "Zhen Ming (Jack) Jiang"
+      ],
+      "doi": "10.1145/3377811.3380408",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "be39720a72f04c92b9aece9548171d5fa3a627e6",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    87,
+    {
+      "title": "Gap between theory and practice",
+      "authors": [
+        "Sungjae Hwang",
+        "Sukyoung Ryu"
+      ],
+      "doi": "10.1145/3377811.3380424",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9dcd7b3836935d81f00c1d5462b716495ded76b6",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    88,
+    {
+      "title": "SLACC",
+      "authors": [
+        "George Mathew",
+        "Chris Parnin",
+        "Kathryn T Stolee"
+      ],
+      "doi": "10.1145/3377811.3380407",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "47adf2557630323c762dffbd375169662a374e37",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Demystify official API usage directives with crowdsourced API misuse scenarios, erroneous code examples and patches",
+      "authors": [
+        "Xiaoxue Ren",
+        "Jiamou Sun",
+        "Zhenchang Xing",
+        "Xin Xia",
+        "Jianling Sun"
+      ],
+      "doi": "10.1145/3377811.3380430",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1ddf9344a88721e930ad2928d8bc1c7bf96ccce7",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Simulee",
+      "authors": [
+        "Mingyuan Wu",
+        "Yicheng Ouyang",
+        "Husheng Zhou",
+        "Lingming Zhang",
+        "Cong Liu",
+        "Yuqun Zhang"
+      ],
+      "doi": "10.1145/3377811.3380358",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "415465d569f7ad18b8f915fc211a568f0af43592",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Practical fault detection in puppet programs",
+      "authors": [
+        "Thodoris Sotiropoulos",
+        "Dimitris Mitropoulos",
+        "Diomidis Spinellis"
+      ],
+      "doi": "10.1145/3377811.3380384",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "547d2218eddcd7c8ff52c6a6928b2f4ab1795a83",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Scaling open source communities",
+      "authors": [
+        "Xin Tan",
+        "Minghui Zhou",
+        "Brian Fitzgerald"
+      ],
+      "doi": "10.1145/3377811.3380920",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "78e80d47f9c5151bebb813ff0a50d139c1277aa9",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Adapting requirements models to varying environments",
+      "authors": [
+        "Dalal Alrajeh",
+        "Antoine Cailliau",
+        "Axel van Lamsweerde"
+      ],
+      "doi": "10.1145/3377811.3380927",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9a3e5ed045c88f7ee7713b5bbc1bdd53c4fc5ccc",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    94,
+    {
+      "title": "POSIT",
+      "authors": [
+        "Profir-Petru P\u00e2rtachi",
+        "Santanu Kumar Dash",
+        "Christoph Treude",
+        "Earl T. Barr"
+      ],
+      "doi": "10.1145/3377811.3380440",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4a7e7b24389d190d20f214054156e43dc269e595",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    95,
+    {
+      "title": "An empirical study on API parameter rules",
+      "authors": [
+        "Hao Zhong",
+        "Na Meng",
+        "Zexuan Li",
+        "Li Jia"
+      ],
+      "doi": "10.1145/3377811.3380922",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "db0ebf3f505ceda331541042095574180f0dfb8e",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    96,
+    {
+      "title": "A tale from the trenches",
+      "authors": [
+        "Souti Chattopadhyay",
+        "Nicholas Nelson",
+        "Audrey Au",
+        "Natalia Morales",
+        "Christopher Sanchez",
+        "Rahul Pandita",
+        "Anita Sarma"
+      ],
+      "doi": "10.1145/3377811.3380330",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "728cb006fe4a4cee2bcba3c0d5a52f83abd3de54",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    97,
+    {
+      "title": "Collaborative bug finding for Android apps",
+      "authors": [
+        "Shin Hwei Tan",
+        "Ziqiang Li"
+      ],
+      "doi": "10.1145/3377811.3380349",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f7c168c046adc74e61ce767a09926524965e140",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Primers or reminders?",
+      "authors": [
+        "Davide Spadini",
+        "G\u00fcl \u00c7alikli",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1145/3377811.3380385",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a07e684155d9ddba1d4886e449f31e0f4e25b5b9",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    99,
+    {
+      "title": "An evidence-based inquiry into the use of grey literature in software engineering",
+      "authors": [
+        "He Zhang",
+        "Xin Zhou",
+        "Xin Huang",
+        "Huang Huang",
+        "Muhammad Ali Babar"
+      ],
+      "doi": "10.1145/3377811.3380336",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0efce74c27f7460bb7fef591509e14fd93f03343",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Planning for untangling",
+      "authors": [
+        "Caius Brindescu",
+        "Iftekhar Ahmed",
+        "Rafael Leano",
+        "Anita Sarma"
+      ],
+      "doi": "10.1145/3377811.3380344",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "314439b1c8213acecb94c3e38f997ebaa86ea030",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Impact analysis of cross-project bugs on software ecosystems",
+      "authors": [
+        "Wanwangying Ma",
+        "Lin Chen",
+        "Xiangyu Zhang",
+        "Yang Feng",
+        "Zhaogui Xu",
+        "Zhifei Chen",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/3377811.3380442",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "508cda94f9bfaace948b8f8ab6703dfa459f8f97",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Improving the effectiveness of traceability link recovery using hierarchical bayesian networks",
+      "authors": [
+        "Kevin Moran",
+        "David N. Palacio",
+        "Carlos Bernal-C\u00e1rdenas",
+        "Daniel McCrystal",
+        "Denys Poshyvanyk",
+        "Chris Shenefiel",
+        "Jeff Johnson"
+      ],
+      "doi": "10.1145/3377811.3380418",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c6bf9390dfe9b4fdc9fc91f158aa18fbb3f074fd",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Symbolic verification of message passing interface programs",
+      "authors": [
+        "Hengbiao Yu",
+        "Zhenbang Chen",
+        "Xianjin Fu",
+        "Ji Wang",
+        "Zhendong Su",
+        "Jun Sun",
+        "Chun Huang",
+        "Wei Dong"
+      ],
+      "doi": "10.1145/3377811.3380419",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8d6345232c50006f7b8973bed4c26cd75afbe17d",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    104,
+    {
+      "title": "TRADER",
+      "authors": [
+        "Guanhong Tao",
+        "Shiqing Ma",
+        "Yingqi Liu",
+        "Qiuling Xu",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1145/3377811.3380423",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3c3811ae69eba912dfa3b13c9cc411381dc82654",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    105,
+    {
+      "title": "Debugging inputs",
+      "authors": [
+        "Lukas Kirschner",
+        "Ezekiel Soremekun",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1145/3377811.3380329",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a8b46782067f7cef1c059bc9d3e9ac4e08bab627",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Conquering the extensional scalability problem for value-flow analysis frameworks",
+      "authors": [
+        "Qingkai Shi",
+        "Rongxin Wu",
+        "Gang Fan",
+        "Charles Zhang"
+      ],
+      "doi": "10.1145/3377811.3380346",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fcf257a80347e960fcc067ed6ad49acccf2816bb",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Reducing run-time adaptation space via analysis of possible utility bounds",
+      "authors": [
+        "Clay Stevens",
+        "Hamid Bagheri"
+      ],
+      "doi": "10.1145/3377811.3380365",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "52bfddbb1ce6b7af1a7e3525a8555c5753280d2e",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    108,
+    {
+      "title": "Managing data constraints in database-backed web applications",
+      "authors": [
+        "Junwen Yang",
+        "Utsav Sethi",
+        "Cong Yan",
+        "Alvin Cheung",
+        "Shan Lu"
+      ],
+      "doi": "10.1145/3377811.3380375",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6f75609908af95d7a254ca9d6a209236b711cf3d",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    109,
+    {
+      "title": "A novel approach to tracing safety requirements and state-based design models",
+      "authors": [
+        "Mounifah Alenazi",
+        "Nan Niu",
+        "Juha Savolainen"
+      ],
+      "doi": "10.1145/3377811.3380332",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "13220059967822bf604a9a5fe8f7d0ba50a997ab",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    110,
+    {
+      "title": "Pipelining bottom-up data flow analysis",
+      "authors": [
+        "Qingkai Shi",
+        "Charles Zhang"
+      ],
+      "doi": "10.1145/3377811.3380425",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "873e8a67cb603fcdc5ad414fd71da2d0d5e87a43",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    111,
+    {
+      "title": "When APIs are intentionally bypassed",
+      "authors": [
+        "Maxime Lamothe",
+        "Weiyi Shang"
+      ],
+      "doi": "10.1145/3377811.3380433",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fb267600eaac25398f0748eb21ae32a1c2728bb8",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    112,
+    {
+      "title": "HeteroRefactor",
+      "authors": [
+        "Jason Lau",
+        "Aishwarya Sivaraman",
+        "Qian Zhang",
+        "Muhammad Ali Gulzar",
+        "Jason Cong",
+        "Miryung Kim"
+      ],
+      "doi": "10.1145/3377811.3380340",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f2a98cc5586a0cd078b9fbe663cb120e4dea48dd",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Verifying object construction",
+      "authors": [
+        "Martin Kellogg",
+        "Manli Ran",
+        "Manu Sridharan",
+        "Martin Sch\u00e4f",
+        "Michael D. Ernst"
+      ],
+      "doi": "10.1145/3377811.3380341",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "089825543c8de82a02e3bd39cde5cfc523336da1",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    114,
+    {
+      "title": "HARP",
+      "authors": [
+        "Weijie Zhou",
+        "Yue Zhao",
+        "Guoqiang Zhang",
+        "Xipeng Shen"
+      ],
+      "doi": "10.1145/3377811.3380434",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "55a860ccb3e740250ba910e3c054c16402d3a8be",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Heaps'n leaks",
+      "authors": [
+        "Manuel Benz",
+        "Erik Krogh Kristensen",
+        "Linghui Luo",
+        "Nataniel P. Borges",
+        "Eric Bodden",
+        "Andreas Zeller"
+      ],
+      "doi": "10.1145/3377811.3380438",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5c4a0ade7077fae773d9f71d48a161b1d9f08de1",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Low-overhead deadlock prediction",
+      "authors": [
+        "Yan Cai",
+        "Ruijie Meng",
+        "Jens Palsberg"
+      ],
+      "doi": "10.1145/3377811.3380367",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8a82b322d2a5c64ce908f59bca088124df4dcfa0",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    117,
+    {
+      "title": "Lazy product discovery in huge configuration spaces",
+      "authors": [
+        "Michael Lienhardt",
+        "Ferruccio Damiani",
+        "Einar Broch Johnsen",
+        "Jacopo Mauro"
+      ],
+      "doi": "10.1145/3377811.3380372",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "06853f8ff8b679ce20f0023b6b6269e572080c30",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Co-evolving code with evolving metamodels",
+      "authors": [
+        "Djamel Eddine Khelladi",
+        "Benoit Combemale",
+        "Mathieu Acher",
+        "Olivier Barais",
+        "Jean-Marc J\u00e9z\u00e9quel"
+      ],
+      "doi": "10.1145/3377811.3380324",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b27ab30dda5b9a7fc695170a1f5b61424077360c",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Finding client-side business flow tampering vulnerabilities",
+      "authors": [
+        "I Luk Kim",
+        "Yunhui Zheng",
+        "Hogun Park",
+        "Weihang Wang",
+        "Wei You",
+        "Yousra Aafer",
+        "Xiangyu Zhang"
+      ],
+      "doi": "10.1145/3377811.3380355",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "49f1ff0155c1eb619fd7de650a854abc232e7054",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    120,
+    {
+      "title": "Explaining pair programming session dynamics from knowledge gaps",
+      "authors": [
+        "Franz Zieris",
+        "Lutz Prechelt"
+      ],
+      "doi": "10.1145/3377811.3380925",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fe1c1f82b365e1db8be721bc28391ef4074b9670",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    121,
+    {
+      "title": "How software practitioners use informal local meetups to share software engineering knowledge",
+      "authors": [
+        "Claire Ingram",
+        "Anders Drachen"
+      ],
+      "doi": "10.1145/3377811.3380333",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d1ff87ce931f6b4324a917e12986fcd4806aaf0a",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Burn after reading",
+      "authors": [
+        "Changwei Zou",
+        "Jingling Xue"
+      ],
+      "doi": "10.1145/3377811.3380439",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3d89f89d29c9001c2f2d996f3291ea4fc76e4414",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    123,
+    {
+      "title": "Revealing injection vulnerabilities by leveraging existing tests",
+      "authors": [
+        "Katherine Hough",
+        "Gebrehiwet Welearegai",
+        "Christian Hammer",
+        "Jonathan Bell"
+      ],
+      "doi": "10.1145/3377811.3380326",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "637175bd967fcda945a33a4c147fee830b691154",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Improving data scientist efficiency with provenance",
+      "authors": [
+        "Jingmei Hu",
+        "Jiwon Joung",
+        "Maia Jacobs",
+        "Krzysztof Z. Gajos",
+        "Margo I. Seltzer"
+      ],
+      "doi": "10.1145/3377811.3380366",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c3f71557509be83f32e63e5c88f15bd3dc1addcd",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Tailoring programs for static analysis via program transformation",
+      "authors": [
+        "Rijnard van Tonder",
+        "Claire Le Goues"
+      ],
+      "doi": "10.1145/3377811.3380343",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b1f1ead6cc6166b1f50c1d744a21d0df7dab068c",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    126,
+    {
+      "title": "BCFA",
+      "authors": [
+        "Ramanathan Ramu",
+        "Ganesha B Upadhyaya",
+        "Hoan Anh Nguyen",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3377811.3380435",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d80b47352c173ad506d2f1f161a614d955655cfd",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Testing file system implementations on layered models",
+      "authors": [
+        "Dongjie Chen",
+        "Yanyan Jiang",
+        "Chang Xu",
+        "Xiaoxing Ma",
+        "Jian Lu"
+      ],
+      "doi": "10.1145/3377811.3380350",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8a05b0545310fd8f3a20b744d3b273681b1f6316",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    128,
+    {
+      "title": "MemLock",
+      "authors": [
+        "Cheng Wen",
+        "Haijun Wang",
+        "Yuekang Li",
+        "Shengchao Qin",
+        "Yang Liu",
+        "Zhiwu Xu",
+        "Hongxu Chen",
+        "Xiaofei Xie",
+        "Geguang Pu",
+        "Ting Liu"
+      ],
+      "doi": "10.1145/3377811.3380396",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c4cffedef07ebd8c200a82edb79e2011354bc0ca",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Ankou",
+      "authors": [
+        "Valentin J. M. Man\u00e8s",
+        "Soomin Kim",
+        "Sang Kil Cha"
+      ],
+      "doi": "10.1145/3377811.3380421",
+      "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7b692ee7fb29e92cff8e8638178840b6565daffb",
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2020
+    }
+  ]
+]

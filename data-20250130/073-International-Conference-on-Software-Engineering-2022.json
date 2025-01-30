@@ -1,0 +1,4121 @@
+[
+  [
+    1,
+    {
+      "title": "Jigsaw",
+      "authors": [
+        "Naman Jain",
+        "Skanda Vaidyanath",
+        "Arun Iyer",
+        "Nagarajan Natarajan",
+        "Suresh Parthasarathy",
+        "Sriram Rajamani",
+        "Rahul Sharma"
+      ],
+      "doi": "10.1145/3510003.3510203",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d095f9ffcb5905bf0858ad1769d3d90e2e8737e2",
+        "citationCount": 173,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    2,
+    {
+      "title": "Neural program repair with execution-based backpropagation",
+      "authors": [
+        "He Ye",
+        "Matias Martinez",
+        "Martin Monperrus"
+      ],
+      "doi": "10.1145/3510003.3510222",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9426793c4eb8e582bae529e7b712b2959725482e",
+        "citationCount": 142,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    3,
+    {
+      "title": "Log-based anomaly detection with deep learning",
+      "authors": [
+        "Van-Hoang Le",
+        "Hongyu Zhang"
+      ],
+      "doi": "10.1145/3510003.3510155",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "687d0ebe2c89670f190f9202449005beadcda377",
+        "citationCount": 138,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    4,
+    {
+      "title": "Natural attack for pre-trained models of code",
+      "authors": [
+        "Zhou Yang",
+        "Jieke Shi",
+        "Junda He",
+        "David Lo"
+      ],
+      "doi": "10.1145/3510003.3510146",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2c3111cbd1327e9b8616082eef39dc0a3a516b2a",
+        "citationCount": 120,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    5,
+    {
+      "title": "Using pre-trained models to boost code review automation",
+      "authors": [
+        "Rosalia Tufano",
+        "Simone Masiero",
+        "Antonio Mastropaolo",
+        "Luca Pascarella",
+        "Denys Poshyvanyk",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1145/3510003.3510621",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c7cbbbdba2c942180675c2a69035e506d9378679",
+        "citationCount": 116,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    6,
+    {
+      "title": "Collaboration challenges in building ML-enabled systems",
+      "authors": [
+        "Nadia Nahar",
+        "Shurui Zhou",
+        "Grace Lewis",
+        "Christian K\u00e4stner"
+      ],
+      "doi": "10.1145/3510003.3510209",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "317ee6fc16d4aedc5bf7815038fe45bf83b123fa",
+        "citationCount": 110,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    7,
+    {
+      "title": "SPT-code",
+      "authors": [
+        "Changan Niu",
+        "Chuanyi Li",
+        "Vincent Ng",
+        "Jidong Ge",
+        "Liguo Huang",
+        "Bin Luo"
+      ],
+      "doi": "10.1145/3510003.3510096",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a2dffcaf0aac23101f067b710f6b65753b1d5956",
+        "citationCount": 102,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    8,
+    {
+      "title": "What do they capture?",
+      "authors": [
+        "Yao Wan",
+        "Wei Zhao",
+        "Hongyu Zhang",
+        "Yulei Sui",
+        "Guandong Xu",
+        "Hai Jin"
+      ],
+      "doi": "10.1145/3510003.3510050",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9e92039847c5ce7186ca579dc863e887601b38ca",
+        "citationCount": 98,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    9,
+    {
+      "title": "DeepTraLog",
+      "authors": [
+        "Chenxi Zhang",
+        "Xin Peng",
+        "Chaofeng Sha",
+        "Ke Zhang",
+        "Zhenqing Fu",
+        "Xiya Wu",
+        "Qingwei Lin",
+        "Dongmei Zhang"
+      ],
+      "doi": "10.1145/3510003.3510180",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "57264c57ef7ff68767f977cf30436bb7bbac465a",
+        "citationCount": 93,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    10,
+    {
+      "title": "CodeFill",
+      "authors": [
+        "Maliheh Izadi",
+        "Roberta Gismondi",
+        "Georgios Gousios"
+      ],
+      "doi": "10.1145/3510003.3510172",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d407aa1cc3f9ce8478d3052344947fb49baa04d4",
+        "citationCount": 88,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    11,
+    {
+      "title": "VulCNN",
+      "authors": [
+        "Yueming Wu",
+        "Deqing Zou",
+        "Shihan Dou",
+        "Wei Yang",
+        "Duo Xu",
+        "Hai Jin"
+      ],
+      "doi": "10.1145/3510003.3510229",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b58693fda3d32596fa75887dc9353432adf4e06a",
+        "citationCount": 87,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    12,
+    {
+      "title": "Explanation-guided fairness testing through genetic algorithm",
+      "authors": [
+        "Ming Fan",
+        "Wenying Wei",
+        "Wuxia Jin",
+        "Zijiang Yang",
+        "Ting Liu"
+      ],
+      "doi": "10.1145/3510003.3510137",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4d97817f20343176aa682ec2e0ef82d726de7346",
+        "citationCount": 84,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    13,
+    {
+      "title": "MVD",
+      "authors": [
+        "Sicong Cao",
+        "Xiaobing Sun",
+        "Lili Bo",
+        "Rongxin Wu",
+        "Bin Li",
+        "Chuanqi Tao"
+      ],
+      "doi": "10.1145/3510003.3510219",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8668537082f97b85a9fdb02a61e5fa9526d06f82",
+        "citationCount": 81,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    14,
+    {
+      "title": "Free lunch for testing",
+      "authors": [
+        "Anjiang Wei",
+        "Yinlin Deng",
+        "Chenyuan Yang",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1145/3510003.3510041",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8c8d4698873fc56e0358cfd5c346ca8c669aaf3a",
+        "citationCount": 80,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    15,
+    {
+      "title": "TOGA",
+      "authors": [
+        "Elizabeth Dinella",
+        "Gabriel Ryan",
+        "Todd Mytkowicz",
+        "Shuvendu K. Lahiri"
+      ],
+      "doi": "10.1145/3510003.3510141",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8c40f0259aac79db7203ffdb452fffe006cd7e18",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    16,
+    {
+      "title": "On the reliability of coverage-based fuzzer benchmarking",
+      "authors": [
+        "Marcel B\u00f6hme",
+        "L\u00e1szl\u00f3 Szekeres",
+        "Jonathan Metzman"
+      ],
+      "doi": "10.1145/3510003.3510230",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0d75e337794f77b66ddd83824f4ab49c83d8ad87",
+        "citationCount": 79,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    17,
+    {
+      "title": "DEAR",
+      "authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien N. Nguyen"
+      ],
+      "doi": "10.1145/3510003.3510177",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "66579b62a81979027056ff69376828822b200f4c",
+        "citationCount": 78,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    18,
+    {
+      "title": "On the evaluation of neural code summarization",
+      "authors": [
+        "Ensheng Shi",
+        "Yanlin Wang",
+        "Lun Du",
+        "Junjie Chen",
+        "Shi Han",
+        "Hongyu Zhang",
+        "Dongmei Zhang",
+        "Hongbin Sun"
+      ],
+      "doi": "10.1145/3510003.3510060",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "343594d16840c3841e70ca603f500a79c433848b",
+        "citationCount": 78,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    19,
+    {
+      "title": "Demystifying the vulnerability propagation and its evolution via dependency trees in the NPM ecosystem",
+      "authors": [
+        "Chengwei Liu",
+        "Sen Chen",
+        "Lingling Fan",
+        "Bihuan Chen",
+        "Yang Liu",
+        "Xin Peng"
+      ],
+      "doi": "10.1145/3510003.3510142",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "63c8044efacec1b39a28fbde5889bc75f473bd46",
+        "citationCount": 76,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    20,
+    {
+      "title": "Bridging pre-trained models and downstream tasks for source code understanding",
+      "authors": [
+        "Deze Wang",
+        "Zhouyang Jia",
+        "Shanshan Li",
+        "Yue Yu",
+        "Yun Xiong",
+        "Wei Dong",
+        "Xiangke Liao"
+      ],
+      "doi": "10.1145/3510003.3510062",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "73569460b023f9ac1fe5a1876c3401460d2fc15d",
+        "citationCount": 74,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    21,
+    {
+      "title": "Multilingual training for software engineering",
+      "authors": [
+        "Toufique Ahmed",
+        "Premkumar Devanbu"
+      ],
+      "doi": "10.1145/3510003.3510049",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "775a9c722262c7b656876a5fef20f4577afd8981",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    22,
+    {
+      "title": "Green AI",
+      "authors": [
+        "Stefanos Georgiou",
+        "Maria Kechagia",
+        "Tushar Sharma",
+        "Federica Sarro",
+        "Ying Zou"
+      ],
+      "doi": "10.1145/3510003.3510221",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d04a4775312f9738ba716e1f863ed365d63122d3",
+        "citationCount": 67,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    23,
+    {
+      "title": "Causality-based neural network repair",
+      "authors": [
+        "Bing Sun",
+        "Jun Sun",
+        "Long H. Pham",
+        "Jie Shi"
+      ],
+      "doi": "10.1145/3510003.3510080",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3cb0bd9f5927403bf29c3b9ccd25a79daac55194",
+        "citationCount": 66,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    24,
+    {
+      "title": "On the importance of building high-quality training datasets for neural code search",
+      "authors": [
+        "Zhensu Sun",
+        "Li Li",
+        "Yan Liu",
+        "Xiaoning Du",
+        "Li Li"
+      ],
+      "doi": "10.1145/3510003.3510160",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "97010ef4c4bd80b1f959df236501cf7741053d04",
+        "citationCount": 64,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    25,
+    {
+      "title": "Practical automated detection of malicious npm packages",
+      "authors": [
+        "Adriana Sejfia",
+        "Max Sch\u00e4fer"
+      ],
+      "doi": "10.1145/3510003.3510104",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e95c7815f84b945b981ce46d8af136416b3795e4",
+        "citationCount": 56,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    26,
+    {
+      "title": "Trust enhancement issues in program repair",
+      "authors": [
+        "Yannic Noller",
+        "Ridwan Shariffdeen",
+        "Xiang Gao",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3510003.3510040",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "52c142b5a9d88c5b4853f9d325d73d850f8fd0db",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    27,
+    {
+      "title": "Type4Py",
+      "authors": [
+        "Amir M. Mir",
+        "Evaldas Lato\u0161kinas",
+        "Sebastian Proksch",
+        "Georgios Gousios"
+      ],
+      "doi": "10.1145/3510003.3510124",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61106307c956e704e5a609f71b344a68bd51a9f2",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    28,
+    {
+      "title": "One fuzzing strategy to rule them all",
+      "authors": [
+        "Mingyuan Wu",
+        "Ling Jiang",
+        "Jiahong Xiang",
+        "Yanwei Huang",
+        "Heming Cui",
+        "Lingming Zhang",
+        "Yuqun Zhang"
+      ],
+      "doi": "10.1145/3510003.3510174",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f4726cb6250186f38c499ab6b26532944ad0afba",
+        "citationCount": 54,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    29,
+    {
+      "title": "WindRanger",
+      "authors": [
+        "Zhengjie Du",
+        "Yuekang Li",
+        "Yang Liu",
+        "Bing Mao"
+      ],
+      "doi": "10.1145/3510003.3510197",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b2fecf1838b320d57ccaebe5b50857d1748183f1",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    30,
+    {
+      "title": "Using deep learning to generate complete log statements",
+      "authors": [
+        "Antonio Mastropaolo",
+        "Luca Pascarella",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1145/3510003.3511561",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "13d710314ea8bdeafdbb91bf4d3cb2839484a1c3",
+        "citationCount": 53,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    31,
+    {
+      "title": "FIRA",
+      "authors": [
+        "Jinhao Dong",
+        "Yiling Lou",
+        "Qihao Zhu",
+        "Zeyu Sun",
+        "Zhilin Li",
+        "Wenjie Zhang",
+        "Dan Hao"
+      ],
+      "doi": "10.1145/3510003.3510069",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b37cf366f8cdac6eb2d05a59e5963dab2e059f5b",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    32,
+    {
+      "title": "Guidelines for assessing the accuracy of log message template identification techniques",
+      "authors": [
+        "Zanis Ali Khan",
+        "Donghwan Shin",
+        "Domenico Bianculli",
+        "Lionel Briand"
+      ],
+      "doi": "10.1145/3510003.3510101",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "427ca180a90e2a90e3ea215e3d1192a4315ba0e0",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    33,
+    {
+      "title": "What makes a good commit message?",
+      "authors": [
+        "Yingchen Tian",
+        "Yuxia Zhang",
+        "Klaas-Jan Stol",
+        "Lin Jiang",
+        "Hui Liu"
+      ],
+      "doi": "10.1145/3510003.3510205",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2eb38715880c8d680c5e15ccb8a3854959ca1458",
+        "citationCount": 52,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    34,
+    {
+      "title": "Static inference meets deep learning",
+      "authors": [
+        "Yun Peng",
+        "Cuiyun Gao",
+        "Zongjie Li",
+        "Bowei Gao",
+        "David Lo",
+        "Qirun Zhang",
+        "Michael Lyu"
+      ],
+      "doi": "10.1145/3510003.3510038",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e1bf21ab4f577d660a11727ebc3ee76b17b41693",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    35,
+    {
+      "title": "AutoTransform",
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Chanathip Pornprasit",
+        "Chakkrit Tantithamthavorn"
+      ],
+      "doi": "10.1145/3510003.3510067",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "62dc2ec5bbe1aa8dcbef7c1b50907a1c80fa031c",
+        "citationCount": 51,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    36,
+    {
+      "title": "Efficient online testing for DNN-enabled systems using surrogate-assisted and many-objective optimization",
+      "authors": [
+        "Fitash Ul Haq",
+        "Donghwan Shin",
+        "Lionel Briand"
+      ],
+      "doi": "10.1145/3510003.3510188",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ad5e191831d22ac5029a60cdcaffb7294a73e440",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    37,
+    {
+      "title": "Muffin",
+      "authors": [
+        "Jiazhen Gu",
+        "Xuchuan Luo",
+        "Yangfan Zhou",
+        "Xin Wang"
+      ],
+      "doi": "10.1145/3510003.3510092",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b2a2059105ded9dcd0be69f82d389c438a76e789",
+        "citationCount": 50,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    38,
+    {
+      "title": "\"Did you miss my comment or what?\"",
+      "authors": [
+        "Courtney Miller",
+        "Sophie Cohen",
+        "Daniel Klug",
+        "Bogdan Vasilescu",
+        "Christian KaUstner"
+      ],
+      "doi": "10.1145/3510003.3510111",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dad7810836060b8e6364e070ac3d0054644d17e7",
+        "citationCount": 48,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    39,
+    {
+      "title": "Fast changeset-based bug localization with BERT",
+      "authors": [
+        "Agnieszka Ciborowska",
+        "Kostadin Damevski"
+      ],
+      "doi": "10.1145/3510003.3510042",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bef522d3533a378725f0b5bdf664fd3cd6836fed",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    40,
+    {
+      "title": "AST-trans",
+      "authors": [
+        "Ze Tang",
+        "Xiaoyu Shen",
+        "Chuanyi Li",
+        "Jidong Ge",
+        "Liguo Huang",
+        "Zhelin Zhu",
+        "Bin Luo"
+      ],
+      "doi": "10.1145/3510003.3510224",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4990be2f9092f02df3560fca63d8aef26954bca6",
+        "citationCount": 47,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    41,
+    {
+      "title": "Improving fault localization and program repair with deep semantic features and transferred knowledge",
+      "authors": [
+        "Xiangxin Meng",
+        "Xu Wang",
+        "Hongyu Zhang",
+        "Hailong Sun",
+        "Xudong Liu"
+      ],
+      "doi": "10.1145/3510003.3510147",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cc62f6306e121bff2e2007e7612c77a48211d612",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    42,
+    {
+      "title": "The art and practice of data science pipelines",
+      "authors": [
+        "Sumon Biswas",
+        "Mohammad Wardat",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3510003.3510057",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f9d403c58db99e2214f43e5b1740694b9c79002f",
+        "citationCount": 46,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    43,
+    {
+      "title": "History-driven test program synthesis for JVM testing",
+      "authors": [
+        "Yingquan Zhao",
+        "Zan Wang",
+        "Junjie Chen",
+        "Mengdi Liu",
+        "Mingyuan Wu",
+        "Yuqun Zhang",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1145/3510003.3510059",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "68614bc3d0c1551125a3f2e9cc1e259c8048e9a1",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    44,
+    {
+      "title": "Code search based on context-aware code translation",
+      "authors": [
+        "Weisong Sun",
+        "Chunrong Fang",
+        "Yuchen Chen",
+        "Guanhong Tao",
+        "Tingxu Han",
+        "Quanjun Zhang"
+      ],
+      "doi": "10.1145/3510003.3510140",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "287e46bbc3d070fb82836cf706803c8a806b75e2",
+        "citationCount": 43,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    45,
+    {
+      "title": "NeuronFair",
+      "authors": [
+        "Haibin Zheng",
+        "Zhiqing Chen",
+        "Tianyu Du",
+        "Xuhong Zhang",
+        "Yao Cheng",
+        "Shouling Ji",
+        "Jingyi Wang",
+        "Yue Yu",
+        "Jinyin Chen"
+      ],
+      "doi": "10.1145/3510003.3510123",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4107b022e89a024a7a98a31a1acce7d919b5e32e",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    46,
+    {
+      "title": "CLEAR",
+      "authors": [
+        "Moshi Wei",
+        "Nima Shiri Harzevili",
+        "Yuchao Huang",
+        "Junjie Wang",
+        "Song Wang"
+      ],
+      "doi": "10.1145/3510003.3510159",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ed5702c457d9f6cadfb07e16f7f8094ce45d095e",
+        "citationCount": 42,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    47,
+    {
+      "title": "Improving machine translation systems via isotopic replacement",
+      "authors": [
+        "Zeyu Sun",
+        "Jie M. Zhang",
+        "Yingfei Xiong",
+        "Mark Harman",
+        "Mike Papadakis",
+        "Lu Zhang"
+      ],
+      "doi": "10.1145/3510003.3510206",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "c5b2dc81baeaba0595c6e8a2ed84a42ce706cab5",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    48,
+    {
+      "title": "Detecting false alarms from automatic static analysis tools",
+      "authors": [
+        "Hong Jin Kang",
+        "Khai Loong Aw",
+        "David Lo"
+      ],
+      "doi": "10.1145/3510003.3510214",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9e9033cea9d3a677c185455730c1139000db4713",
+        "citationCount": 41,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    49,
+    {
+      "title": "Automated handling of anaphoric ambiguity in requirements",
+      "authors": [
+        "Saad Ezzini",
+        "Sallam Abualhaija",
+        "Chetan Arora",
+        "Mehrdad Sabetzadeh"
+      ],
+      "doi": "10.1145/3510003.3510157",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f8a90067f2e3359c61c87e2a28738cfd01bbd6a5",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    50,
+    {
+      "title": "Fairness-aware configuration of machine learning libraries",
+      "authors": [
+        "Saeid Tizpaz-Niari",
+        "Ashish Kumar",
+        "Gang Tan",
+        "Ashutosh Trivedi"
+      ],
+      "doi": "10.1145/3510003.3510202",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f05c4da8db117a3a5d865bb26202338918fb5dee",
+        "citationCount": 40,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    51,
+    {
+      "title": "Training data debugging for the fairness of machine learning software",
+      "authors": [
+        "Yanhui Li",
+        "Linghan Meng",
+        "Lin Chen",
+        "Li Yu",
+        "Di Wu",
+        "Yuming Zhou",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/3510003.3510091",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4959054adba3e7160976a1d5179e1ba283522820",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    52,
+    {
+      "title": "Morest",
+      "authors": [
+        "Yi Liu",
+        "Yuekang Li",
+        "Gelei Deng",
+        "Yang Liu",
+        "Ruiyuan Wan",
+        "Runchao Wu",
+        "Dandan Ji",
+        "Shiheng Xu",
+        "Minli Bao"
+      ],
+      "doi": "10.1145/3510003.3510133",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b8d9b8e25c17af9a755877ba33b23562d026062b",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    53,
+    {
+      "title": "\u03bcAFL",
+      "authors": [
+        "Wenqiang Li",
+        "Jiameng Shi",
+        "Fengjun Li",
+        "Jingqiang Lin",
+        "Wei Wang",
+        "Le Guan"
+      ],
+      "doi": "10.1145/3510003.3510208",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1b45a24ee6254bc14ce0b3cc60f4a1a8de7168ae",
+        "citationCount": 39,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    54,
+    {
+      "title": "RoPGen",
+      "authors": [
+        "Zhen Li",
+        "Guenevere (Qian) Chen",
+        "Chen Chen",
+        "Yayi Zou",
+        "Shouhuai Xu"
+      ],
+      "doi": "10.1145/3510003.3510181",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a3035562e83f1638cec5beebc4669e936fa20a03",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    55,
+    {
+      "title": "DeepDiagnosis",
+      "authors": [
+        "Mohammad Wardat",
+        "Breno Dantas Cruz",
+        "Wei Le",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3510003.3510071",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e9d878e9e40b4c5a63a16a0d838b13e2b437df84",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    56,
+    {
+      "title": "ReMoS",
+      "authors": [
+        "Ziqi Zhang",
+        "Yuanchun Li",
+        "Jindong Wang",
+        "Bingyan Liu",
+        "Ding Li",
+        "Yao Guo",
+        "Xiangqun Chen",
+        "Yunxin Liu"
+      ],
+      "doi": "10.1145/3510003.3510191",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "75cd0023bd8b45a8b38828629462a43e9ef324c6",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    57,
+    {
+      "title": "Practitioners' expectations on automated code comment generation",
+      "authors": [
+        "Xing Hu",
+        "Xin Xia",
+        "David Lo",
+        "Zhiyuan Wan",
+        "Qiuyuan Chen",
+        "Thomas Zimmermann"
+      ],
+      "doi": "10.1145/3510003.3510152",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "68c04c8b2af2ea2b406fc6065fa2b854fb5cc3e4",
+        "citationCount": 38,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    58,
+    {
+      "title": "Adaptive test selection for deep neural networks",
+      "authors": [
+        "Xinyu Gao",
+        "Yang Feng",
+        "Yining Yin",
+        "Zixi Liu",
+        "Zhenyu Chen",
+        "Baowen Xu"
+      ],
+      "doi": "10.1145/3510003.3510232",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "37f2ce45b6a29db96892337f53493d8ac88cbdaa",
+        "citationCount": 37,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    59,
+    {
+      "title": "A grounded theory of coordination in remote-first and hybrid software teams",
+      "authors": [
+        "Ronnie E. de Souza Santos",
+        "Paul Ralph"
+      ],
+      "doi": "10.1145/3510003.3510105",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "92a8650b4ac764a27aab6f0f39c8c3ce4c4dddb9",
+        "citationCount": 36,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    60,
+    {
+      "title": "Learning to reduce false positives in analytic bug detectors",
+      "authors": [
+        "Anant Kharkar",
+        "Roshanak Zilouchian Moghaddam",
+        "Matthew Jin",
+        "Xiaoyu Liu",
+        "Xin Shi",
+        "Colin Clement",
+        "Neel Sundaresan"
+      ],
+      "doi": "10.1145/3510003.3510153",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "291390ece15032c6a72c61a460efc25209162efb",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    61,
+    {
+      "title": "Combinatorial testing of RESTful APIs",
+      "authors": [
+        "Huayao Wu",
+        "Lixin Xu",
+        "Xintao Niu",
+        "Changhai Nie"
+      ],
+      "doi": "10.1145/3510003.3510151",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0d3bfb0b1eaf6a32c59295c7b762484adbd3e84f",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    62,
+    {
+      "title": "A universal data augmentation approach for fault localization",
+      "authors": [
+        "Huan Xie",
+        "Yan Lei",
+        "Meng Yan",
+        "Yue Yu",
+        "Xin Xia",
+        "Xiaoguang Mao"
+      ],
+      "doi": "10.1145/3510003.3510136",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cbdddd3779f923949c65c1a7e15cdeade9996e17",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    63,
+    {
+      "title": "GIFdroid",
+      "authors": [
+        "Sidong Feng",
+        "Chunyang Chen"
+      ],
+      "doi": "10.1145/3510003.3510048",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "af8837aa0f0a094c6350ef3a382bb6cd6dca7761",
+        "citationCount": 35,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    64,
+    {
+      "title": "JuCify",
+      "authors": [
+        "Jordan Samhi",
+        "Jun Gao",
+        "Nadia Daoudi",
+        "Pierre Graux",
+        "Henri Hoyez",
+        "Xiaoyu Sun",
+        "Kevin Allix",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein"
+      ],
+      "doi": "10.1145/3510003.3512766",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "72e4048194132fb595fa34a0b59448be447d3965",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    65,
+    {
+      "title": "Analyzing user perspectives on mobile app privacy at scale",
+      "authors": [
+        "Preksha Nema",
+        "Pauline Anthonysamy",
+        "Nina Taft",
+        "Sai Teja Peddinti"
+      ],
+      "doi": "10.1145/3510003.3510079",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fc5b7c21af4ab28fcb297b1b7ae69cdc78c40171",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    66,
+    {
+      "title": "Cross-domain deep code search with meta learning",
+      "authors": [
+        "Yitian Chai",
+        "Hongyu Zhang",
+        "Beijun Shen",
+        "Xiaodong Gu"
+      ],
+      "doi": "10.1145/3510003.3510125",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "190ae56a68a94620d7ddfdc7c4b1424673f78b97",
+        "citationCount": 33,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    67,
+    {
+      "title": "Towards training reproducible deep learning models",
+      "authors": [
+        "Boyuan Chen",
+        "Mingzhi Wen",
+        "Yong Shi",
+        "Dayi Lin",
+        "Gopi Krishnan Rajbahadur",
+        "Zhen Ming (Jack) Jiang"
+      ],
+      "doi": "10.1145/3510003.3510163",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e73cf7179bc9eb28b8fcd8774ca5c4c23140658f",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    68,
+    {
+      "title": "An exploratory study of deep learning supply chain",
+      "authors": [
+        "Xin Tan",
+        "Kai Gao",
+        "Minghui Zhou",
+        "Li Zhang"
+      ],
+      "doi": "10.1145/3510003.3510199",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e51a37d3c917455641d9078398335d26045db84",
+        "citationCount": 32,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    69,
+    {
+      "title": "VarCLR",
+      "authors": [
+        "Qibin Chen",
+        "Jeremy Lacomis",
+        "Edward J. Schwartz",
+        "Graham Neubig",
+        "Bogdan Vasilescu",
+        "Claire Le Goues"
+      ],
+      "doi": "10.1145/3510003.3510162",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "47c740e858d3dfec0bf95104600851a8a2bec9ff",
+        "citationCount": 31,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    70,
+    {
+      "title": "FairNeuron",
+      "authors": [
+        "Xuanqi Gao",
+        "Juan Zhai",
+        "Shiqing Ma",
+        "Chao Shen",
+        "Yufei Chen",
+        "Qian Wang"
+      ],
+      "doi": "10.1145/3510003.3510087",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "24aea66df1a857145e8d24f52b193b25a9171aae",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    71,
+    {
+      "title": "V-SZZ",
+      "authors": [
+        "Lingfeng Bao",
+        "Xin Xia",
+        "Ahmed E. Hassan",
+        "Xiaohu Yang"
+      ],
+      "doi": "10.1145/3510003.3510113",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0e01648d438bfedf8409e69dba2d7b1778483f06",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    72,
+    {
+      "title": "EAGLE",
+      "authors": [
+        "Jiannan Wang",
+        "Thibaud Lutellier",
+        "Shangshu Qian",
+        "Hung Viet Pham",
+        "Lin Tan"
+      ],
+      "doi": "10.1145/3510003.3510165",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d092e753c112f1e71cc9f51b94eddcee6568785f",
+        "citationCount": 30,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    73,
+    {
+      "title": "Adaptive performance anomaly detection for online service systems via pattern sketching",
+      "authors": [
+        "Zhuangbin Chen",
+        "Jinyang Liu",
+        "Yuxin Su",
+        "Hongyu Zhang",
+        "Xiao Ling",
+        "Yongqiang Yang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/3510003.3510085",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "57d284a57ada4700b19b4faaea571cb6427f3849",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    74,
+    {
+      "title": "DeepFD",
+      "authors": [
+        "Jialun Cao",
+        "Meiziniu Li",
+        "Xiao Chen",
+        "Ming Wen",
+        "Yongqiang Tian",
+        "Bo Wu",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1145/3510003.3510099",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3190c9901883122a5935265f727281e1877b4342",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    75,
+    {
+      "title": "Automated assertion generation via information retrieval and its integration with deep learning",
+      "authors": [
+        "Hao Yu",
+        "Yiling Lou",
+        "Ke Sun",
+        "Dezhi Ran",
+        "Tao Xie",
+        "Dan Hao",
+        "Ying Li",
+        "Ge Li",
+        "Qianxiang Wang"
+      ],
+      "doi": "10.1145/3510003.3510149",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "873fdc443d895c376177044a74a062574437616f",
+        "citationCount": 29,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    76,
+    {
+      "title": "Discovering repetitive code changes in python ML systems",
+      "authors": [
+        "Malinda Dilhara",
+        "Ameya Ketkar",
+        "Nikhith Sannidhi",
+        "Danny Dig"
+      ],
+      "doi": "10.1145/3510003.3510225",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d7ce32085359c8dd3da4a2b87747bc23b472f25d",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    77,
+    {
+      "title": "Recommending good first issues in GitHub OSS projects",
+      "authors": [
+        "Wenxin Xiao",
+        "Hao He",
+        "Weiwei Xu",
+        "Xin Tan",
+        "Jinhao Dong",
+        "Minghui Zhou"
+      ],
+      "doi": "10.1145/3510003.3510196",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9c1b3117a95a36a5fd79f5abcd89c678a2614666",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    78,
+    {
+      "title": "Diversity-driven automated formal verification",
+      "authors": [
+        "Emily First",
+        "Yuriy Brun"
+      ],
+      "doi": "10.1145/3510003.3510138",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b191899397087f9a49fa61fa8a2b2a009edb6223",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    79,
+    {
+      "title": "BeDivFuzz",
+      "authors": [
+        "Hoang Lam Nguyen",
+        "Lars Grunske"
+      ],
+      "doi": "10.1145/3510003.3510182",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f9b1629328e69bb02f6593541803b37a35dd4191",
+        "citationCount": 28,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    80,
+    {
+      "title": "Learning to recommend method names with global context",
+      "authors": [
+        "Fang Liu",
+        "Ge Li",
+        "Zhiyi Fu",
+        "Shuai Lu",
+        "Yiyang Hao",
+        "Zhi Jin"
+      ],
+      "doi": "10.1145/3510003.3510154",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "85874214ececddcc603c58458d9b21fc6d3b3147",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    81,
+    {
+      "title": "Decomposing convolutional neural networks into reusable and replaceable modules",
+      "authors": [
+        "Rangeet Pan",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3510003.3510051",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6af4023c4237873feab0298f336f35ea92ee05a5",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    82,
+    {
+      "title": "Automatic detection of performance bugs in database systems using equivalent queries",
+      "authors": [
+        "Xinyu Liu",
+        "Qi Zhou",
+        "Joy Arulraj",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1145/3510003.3510093",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1f74989f2884e71ff09ca23f0c10e753bab9fcc9",
+        "citationCount": 27,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    83,
+    {
+      "title": "Prioritizing mutants to guide mutation testing",
+      "authors": [
+        "Samuel J. Kaufman",
+        "Ryan Featherman",
+        "Justin Alvin",
+        "Bob Kurtz",
+        "Paul Ammann",
+        "Ren\u00e9 Just"
+      ],
+      "doi": "10.1145/3510003.3510187",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5725e75baf85b096ebb45f0a80e079fa2a7fe345",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    84,
+    {
+      "title": "Automated detection of password leakage from public GitHub repositories",
+      "authors": [
+        "Runhan Feng",
+        "Ziyang Yan",
+        "Shiyan Peng",
+        "Yuanyuan Zhang"
+      ],
+      "doi": "10.1145/3510003.3510150",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aa01368fba5bafb589421742acd7be914cde7a34",
+        "citationCount": 26,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    85,
+    {
+      "title": "Fault localization via efficient probabilistic modeling of program semantics",
+      "authors": [
+        "Muhan Zeng",
+        "Yiqian Wu",
+        "Zhentao Ye",
+        "Yingfei Xiong",
+        "Xin Zhang",
+        "Lu Zhang"
+      ],
+      "doi": "10.1145/3510003.3510073",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8592c6bd234bed2517fbdad9221a766c015ad0fe",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    86,
+    {
+      "title": "Towards automatically repairing compatibility issues in published Android apps",
+      "authors": [
+        "Yanjie Zhao",
+        "Li Li",
+        "Kui Liu",
+        "John Grundy"
+      ],
+      "doi": "10.1145/3510003.3510128",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "37a713d593b187b2b79f48b946752169bd9b8ed0",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    87,
+    {
+      "title": "What makes effective leadership in agile software development teams?",
+      "authors": [
+        "Lucas Gren",
+        "Paul Ralph"
+      ],
+      "doi": "10.1145/3510003.3510100",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e01323bdb9c7bf00e0d233a09861aace3e4b4fdb",
+        "citationCount": 25,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    88,
+    {
+      "title": "DeepSTL",
+      "authors": [
+        "Jie He",
+        "Ezio Bartocci",
+        "Dejan Ni\u010dkovi\u0107",
+        "Haris Isakovic",
+        "Radu Grosu"
+      ],
+      "doi": "10.1145/3510003.3510171",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b90d7bb9fa54ffceabcea9353edd419fe5d688cd",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    89,
+    {
+      "title": "Linear-time temporal logic guided greybox fuzzing",
+      "authors": [
+        "Ruijie Meng",
+        "Zhen Dong",
+        "Jialin Li",
+        "Ivan Beschastnikh",
+        "Abhik Roychoudhury"
+      ],
+      "doi": "10.1145/3510003.3510082",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b88dbfb3ccd89251ab71277f3397d4b538c4b763",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    90,
+    {
+      "title": "Bots for pull requests",
+      "authors": [
+        "Mairieli Wessel",
+        "Ahmad Abdellatif",
+        "Igor Wiese",
+        "Tayana Conte",
+        "Emad Shihab",
+        "Marco A. Gerosa",
+        "Igor Steinmacher"
+      ],
+      "doi": "10.1145/3510003.3512765",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "38b9e57d9b94a4e59c39835e7067d1e5858feb97",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    91,
+    {
+      "title": "Using reinforcement learning for load testing of video games",
+      "authors": [
+        "Rosalia Tufano",
+        "Simone Scalabrino",
+        "Luca Pascarella",
+        "Emad Aghajani",
+        "Rocco Oliveto",
+        "Gabriele Bavota"
+      ],
+      "doi": "10.1145/3510003.3510625",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5d5fa01f7b648716c695233a400a31f7f9589e93",
+        "citationCount": 24,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    92,
+    {
+      "title": "Domain-specific analysis of mobile app reviews using keyword-assisted topic models",
+      "authors": [
+        "Miroslav Tushev",
+        "Fahimeh Ebrahimi",
+        "Anas Mahmoud"
+      ],
+      "doi": "10.1145/3510003.3510201",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e37a778b80350974647284b98102c42826ad7877",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    93,
+    {
+      "title": "Causality in configurable software systems",
+      "authors": [
+        "Clemens Dubslaff",
+        "Kallistos Weis",
+        "Christel Baier",
+        "Sven Apel"
+      ],
+      "doi": "10.1145/3510003.3510200",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6d68d86c545d5dd59f203dfc9f7eec90b536de3d",
+        "citationCount": 23,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    94,
+    {
+      "title": "Evaluating and improving neural program-smoothing-based fuzzing",
+      "authors": [
+        "Mingyuan Wu",
+        "Ling Jiang",
+        "Jiahong Xiang",
+        "Yuqun Zhang",
+        "Guowei Yang",
+        "Huixin Ma",
+        "Sen Nie",
+        "Shi Wu",
+        "Heming Cui",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1145/3510003.3510089",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "74896f526d2ced93b826498e8654f932271889f3",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    95,
+    {
+      "title": "Less is more",
+      "authors": [
+        "Larissa Braz",
+        "Christian Aeberhard",
+        "G\u00fcl \u00c7alikli",
+        "Alberto Bacchelli"
+      ],
+      "doi": "10.1145/3510003.3511560",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8cf0437f4fedd64f06c774996c1b82457b00b676",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    96,
+    {
+      "title": "Utilizing parallelism in smart contracts on decentralized blockchains by taming application-inherent conflicts",
+      "authors": [
+        "P\u00e9ter Garamv\u00f6lgyi",
+        "Yuxi Liu",
+        "Dong Zhou",
+        "Fan Long",
+        "Ming Wu"
+      ],
+      "doi": "10.1145/3510003.3510086",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "66c434a2c9988a4db79085889eb6d41e716144ce",
+        "citationCount": 22,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    97,
+    {
+      "title": "ModX",
+      "authors": [
+        "Can Yang",
+        "Zhengzi Xu",
+        "Hongxu Chen",
+        "Yang Liu",
+        "Xiaorui Gong",
+        "Baoxu Liu"
+      ],
+      "doi": "10.1145/3510003.3510627",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2ac2e0708fdbceaa876b45d9d648de90b0a0f49a",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    98,
+    {
+      "title": "Preempting flaky tests via non-idempotent-outcome tests",
+      "authors": [
+        "Anjiang Wei",
+        "Pu Yi",
+        "Zhengxi Li",
+        "Tao Xie",
+        "Darko Marinov",
+        "Wing Lam"
+      ],
+      "doi": "10.1145/3510003.3510170",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cf6230ed8b600c38d9ca4eaadde6e1ad6fac3e16",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    99,
+    {
+      "title": "Automated testing of software that uses machine learning APIs",
+      "authors": [
+        "Chengcheng Wan",
+        "Shicheng Liu",
+        "Sophie Xie",
+        "Yifan Liu",
+        "Henry Hoffmann",
+        "Michael Maire",
+        "Shan Lu"
+      ],
+      "doi": "10.1145/3510003.3510068",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7c9d36a6227bb15c9d5d1b2e5d4a27c17825ba74",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    100,
+    {
+      "title": "Unleashing the power of compiler intermediate representation to enhance neural program embeddings",
+      "authors": [
+        "Zongjie Li",
+        "Pingchuan Ma",
+        "Huaijin Wang",
+        "Shuai Wang",
+        "Qiyi Tang",
+        "Sen Nie",
+        "Shi Wu"
+      ],
+      "doi": "10.1145/3510003.3510217",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "65fd4085a8498928e675d4cb50c0a31092f410fb",
+        "citationCount": 21,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    101,
+    {
+      "title": "Fuzzing class specifications",
+      "authors": [
+        "Facundo Molina",
+        "Marcelo d'Amorim",
+        "Nazareno Aguirre"
+      ],
+      "doi": "10.1145/3510003.3510120",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9c37c2d23b14af9c3ff9d262b2123ef37b821d85",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    102,
+    {
+      "title": "Path transitions tell more",
+      "authors": [
+        "Kunpeng Zhang",
+        "Xi Xiao",
+        "Xiaogang Zhu",
+        "Ruoxi Sun",
+        "Minhui Xue",
+        "Sheng Wen"
+      ],
+      "doi": "10.1145/3510003.3510063",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "041000dbd872cf01af6db0c22d4b3d41f27a64b3",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    103,
+    {
+      "title": "Learning and programming challenges of rust",
+      "authors": [
+        "Shuofei Zhu",
+        "Ziyi Zhang",
+        "Boqin Qin",
+        "Aiping Xiong",
+        "Linhai Song"
+      ],
+      "doi": "10.1145/3510003.3510164",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f43714e6c4de1452fcbbf53d14af6669cf46d80a",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    104,
+    {
+      "title": "Lessons from eight years of operational data from a continuous integration service",
+      "authors": [
+        "Keheliya Gallaba",
+        "Maxime Lamothe",
+        "Shane McIntosh"
+      ],
+      "doi": "10.1145/3510003.3510211",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d571264556e6d5b88bf2856ce0bd1756b1bbb545",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    105,
+    {
+      "title": "CONFETTI",
+      "authors": [
+        "James Kukucka",
+        "Lu\u00eds Pina",
+        "Paul Ammann",
+        "Jonathan Bell"
+      ],
+      "doi": "10.1145/3510003.3510628",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "27843f2be08b3eb07f7b0c1f9fa79a20d32a6912",
+        "citationCount": 20,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    106,
+    {
+      "title": "Striking a balance",
+      "authors": [
+        "Akshay Utture",
+        "Shuyang Liu",
+        "Christian Gram Kalhauge",
+        "Jens Palsberg"
+      ],
+      "doi": "10.1145/3510003.3510166",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0964f98ac967478e99904cf9a2a80a576b489735",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    107,
+    {
+      "title": "Difuzer",
+      "authors": [
+        "Jordan Samhi",
+        "Li Li",
+        "Tegawend\u00e9 F. Bissyand\u00e9",
+        "Jacques Klein"
+      ],
+      "doi": "10.1145/3510003.3510135",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4712a4ebfc9db0296bb775e4e282a2b8c4155453",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    108,
+    {
+      "title": "DeepState",
+      "authors": [
+        "Zixi Liu",
+        "Yang Feng",
+        "Yining Yin",
+        "Zhenyu Chen"
+      ],
+      "doi": "10.1145/3510003.3510231",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3a1231e786b46bdf5bcc65f99679431f922f00a2",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    109,
+    {
+      "title": "Control parameters considered harmful",
+      "authors": [
+        "Ruidong Han",
+        "Chao Yang",
+        "Siqi Ma",
+        "JiangFeng Ma",
+        "Cong Sun",
+        "Juanru Li",
+        "Elisa Bertino"
+      ],
+      "doi": "10.1145/3510003.3510084",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b516cabbfce54898cce798e8bb36ef407dc2fdf2",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    110,
+    {
+      "title": "GraphFuzz",
+      "authors": [
+        "Harrison Green",
+        "Thanassis Avgerinos"
+      ],
+      "doi": "10.1145/3510003.3510228",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "331607137f977e51c5b0fd8871b40193d6f68265",
+        "citationCount": 19,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    111,
+    {
+      "title": "If a human can see it, so should your system",
+      "authors": [
+        "Boyue Caroline Hu",
+        "Lina Marsso",
+        "Krzysztof Czarnecki",
+        "Rick Salay",
+        "Huakun Shen",
+        "Marsha Chechik"
+      ],
+      "doi": "10.1145/3510003.3510109",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cdbe07b194517267b4b4c7d6eb4961351c2c2dc9",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    112,
+    {
+      "title": "Characterizing and detecting bugs in WeChat mini-programs",
+      "authors": [
+        "Tao Wang",
+        "Qingxin Xu",
+        "Xiaoning Chang",
+        "Wensheng Dou",
+        "Jiaxin Zhu",
+        "Jinhui Xie",
+        "Yuetang Deng",
+        "Jianbo Yang",
+        "Jiaheng Yang",
+        "Jun Wei",
+        "Tao Huang"
+      ],
+      "doi": "10.1145/3510003.3510114",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6badad1714791c9ec9ab9fcbcc18b00d859c6250",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    113,
+    {
+      "title": "Repairing order-dependent flaky tests via test generation",
+      "authors": [
+        "Chengpeng Li",
+        "Chenguang Zhu",
+        "Wenxi Wang",
+        "August Shi"
+      ],
+      "doi": "10.1145/3510003.3510173",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "bc6f480bfc402e0d94eb4649296949778902447f",
+        "citationCount": 18,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    114,
+    {
+      "title": "What the fork?",
+      "authors": [
+        "Elizabeth Wyss",
+        "Lorenzo De Carli",
+        "Drew Davidson"
+      ],
+      "doi": "10.1145/3510003.3510168",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7dc0b4bd8a57344dab969c336db576d5c780f4a0",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    115,
+    {
+      "title": "Nalin",
+      "authors": [
+        "Jibesh Patra",
+        "Michael Pradel"
+      ],
+      "doi": "10.1145/3510003.3510144",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1e94ab82c1ea7f6f445b3ea4bb64db4bc0495182",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    116,
+    {
+      "title": "Controlled concurrency testing via periodical scheduling",
+      "authors": [
+        "Cheng Wen",
+        "Mengda He",
+        "Bohao Wu",
+        "Zhiwu Xu",
+        "Shengchao Qin"
+      ],
+      "doi": "10.1145/3510003.3510178",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5e43d0eedc234788850d62b2d017c65edbecd0bf",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    117,
+    {
+      "title": "On debugging the performance of configurable software systems",
+      "authors": [
+        "Miguel Velez",
+        "Pooyan Jamshidi",
+        "Norbert Siegmund",
+        "Sven Apel",
+        "Christian K\u00e4stner"
+      ],
+      "doi": "10.1145/3510003.3510043",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8645c50ae3e6c2fd3affb657f5090ff68ab3ee1b",
+        "citationCount": 17,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    118,
+    {
+      "title": "Decomposing software verification into off-the-shelf components",
+      "authors": [
+        "Dirk Beyer",
+        "Jan Haltermann",
+        "Thomas Lemberger",
+        "Heike Wehrheim"
+      ],
+      "doi": "10.1145/3510003.3510064",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ff5035099b3717a20887c8431b57ff5c2747f5ce",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    119,
+    {
+      "title": "Static stack-preserving intra-procedural slicing of webassembly binaries",
+      "authors": [
+        "Quentin Sti\u00e9venart",
+        "David W. Binkley",
+        "Coen De Roover"
+      ],
+      "doi": "10.1145/3510003.3510070",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "743067aed49d0f62682d11d2db96bf3f62c969ba",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    120,
+    {
+      "title": "SnR",
+      "authors": [
+        "Yiwen Dong",
+        "Tianxiao Gu",
+        "Yongqiang Tian",
+        "Chengnian Sun"
+      ],
+      "doi": "10.1145/3510003.3510061",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0f67e752a2ed1c559d099f8e79caa4cf9c8785fc",
+        "citationCount": 16,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    121,
+    {
+      "title": "Where is your app frustrating users?",
+      "authors": [
+        "Yawen Wang",
+        "Junjie Wang",
+        "Hongyu Zhang",
+        "Xuran Ming",
+        "Lin Shi",
+        "Qing Wang"
+      ],
+      "doi": "10.1145/3510003.3510189",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4ed8f5ca08ad0474497dc964b6568d75d69e1cc0",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    122,
+    {
+      "title": "Knowledge-based environment dependency inference for python programs",
+      "authors": [
+        "Hongjie Ye",
+        "Wei Chen",
+        "Wensheng Dou",
+        "Guoquan Wu",
+        "Jun Wei"
+      ],
+      "doi": "10.1145/3510003.3510127",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "61161792830faeba938d77a115e8f675fa305bea",
+        "citationCount": 15,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    123,
+    {
+      "title": "\"This is damn slick!\"",
+      "authors": [
+        "Hongbo Fang",
+        "Hemank Lamba",
+        "James Herbsleb",
+        "Bogdan Vasilescu"
+      ],
+      "doi": "10.1145/3510003.3510121",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "26bcabd7cc98c07429305ba8cdc3d4a7cea6653d",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    124,
+    {
+      "title": "Modeling review history for reviewer recommendation",
+      "authors": [
+        "Guoping Rong",
+        "Yifan Zhang",
+        "Lanxin Yang",
+        "Fuli Zhang",
+        "Hongyu Kuang",
+        "He Zhang"
+      ],
+      "doi": "10.1145/3510003.3510213",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "b2fffb86ea86d029b39b1aedf9f49cdf03d06812",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    125,
+    {
+      "title": "Manas",
+      "authors": [
+        "Giang Nguyen",
+        "Md Johirul Islam",
+        "Rangeet Pan",
+        "Hridesh Rajan"
+      ],
+      "doi": "10.1145/3510003.3510052",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "1af62cd02c72af4444abb7a587f6470f366e1bfc",
+        "citationCount": 14,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    126,
+    {
+      "title": "The extent of orphan vulnerabilities from code reuse in open source software",
+      "authors": [
+        "David Reid",
+        "Mahmoud Jahanshahi",
+        "Audris Mockus"
+      ],
+      "doi": "10.1145/3510003.3510216",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "db5c5f69cbf840a1b70087a17ea1f2d89c481a38",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    127,
+    {
+      "title": "Exploiting input sanitization for regex denial of service",
+      "authors": [
+        "Efe Barlas",
+        "Xin Du",
+        "James C. Davis"
+      ],
+      "doi": "10.1145/3510003.3510047",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "178d2362e0c183c0c457a6ece6b4e11481779d0c",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    128,
+    {
+      "title": "Towards practical robustness analysis for DNNs based on PAC-model learning",
+      "authors": [
+        "Renjue Li",
+        "Pengfei Yang",
+        "Cheng-Chao Huang",
+        "Youcheng Sun",
+        "Bai Xue",
+        "Lijun Zhang"
+      ],
+      "doi": "10.1145/3510003.3510143",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3ddaa8dbe6335e31fce56cee2410d88662a3f7e1",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    129,
+    {
+      "title": "Inferring and applying type changes",
+      "authors": [
+        "Ameya Ketkar",
+        "Oleg Smirnov",
+        "Nikolaos Tsantalis",
+        "Danny Dig",
+        "Timofey Bryksin"
+      ],
+      "doi": "10.1145/3510003.3510115",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "75a5c03ecc50b287cf3cae5763616a51dbc7cb77",
+        "citationCount": 13,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    130,
+    {
+      "title": "PropR",
+      "authors": [
+        "Matth\u00edas P\u00e1ll Gissurarson",
+        "Leonhard Applis",
+        "Annibale Panichella",
+        "Arie van Deursen",
+        "David Sands"
+      ],
+      "doi": "10.1145/3510003.3510620",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e5cbcb665486ae7077dc3a37a9fd6addeabca5cf",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    131,
+    {
+      "title": "Towards language-independent brown build detection",
+      "authors": [
+        "Doriane Olewicki",
+        "Mathieu Nayrolles",
+        "Bram Adams"
+      ],
+      "doi": "10.1145/3510003.3510122",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "504703660bd55b53663b969a7fa0ad9b3828d128",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    132,
+    {
+      "title": "FlakiMe",
+      "authors": [
+        "Maxime Cordy",
+        "Renaud Rwemalika",
+        "Adriano Franci",
+        "Mike Papadakis",
+        "Mark Harman"
+      ],
+      "doi": "10.1145/3510003.3510194",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "28e418b8854c51638f518135adb8bc5eeacf6226",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    133,
+    {
+      "title": "Large-scale security measurements on the android firmware ecosystem",
+      "authors": [
+        "Qinsheng Hou",
+        "Wenrui Diao",
+        "Yanhao Wang",
+        "Xiaofeng Liu",
+        "Song Liu",
+        "Lingyun Ying",
+        "Shanqing Guo",
+        "Yuanzhi Li",
+        "Meining Nie",
+        "Haixin Duan"
+      ],
+      "doi": "10.1145/3510003.3510072",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3c511227e19deeb98f5bac17c166f13032e3b3e3",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    134,
+    {
+      "title": "Conflict-aware inference of python compatible runtime environments with domain knowledge graph",
+      "authors": [
+        "Wei Cheng",
+        "Xiangrong Zhu",
+        "Wei Hu"
+      ],
+      "doi": "10.1145/3510003.3510078",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aeec187143c3a766bce5cc593de61d0aa2b224b0",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    135,
+    {
+      "title": "DeepStability",
+      "authors": [
+        "Eliska Kloberdanz",
+        "Kyle G. Kloberdanz",
+        "Wei Le"
+      ],
+      "doi": "10.1145/3510003.3510095",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e28bea71d5a27834faacee9268ae2c12b2597e78",
+        "citationCount": 12,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    136,
+    {
+      "title": "Hashing it out",
+      "authors": [
+        "Madeline Endres",
+        "Kevin Boehnke",
+        "Westley Weimer"
+      ],
+      "doi": "10.1145/3510003.3510156",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "37b1029d14e187be6752fb616c04c713f7405cd5",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    137,
+    {
+      "title": "Semantic image fuzzing of AI perception systems",
+      "authors": [
+        "Trey Woodlief",
+        "Sebastian Elbaum",
+        "Kevin Sullivan"
+      ],
+      "doi": "10.1145/3510003.3510212",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cdb6de9a13b794904b61f03d8c13c8b0e4046fd1",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    138,
+    {
+      "title": "Nessie",
+      "authors": [
+        "Ellen Arteca",
+        "Sebastian Harner",
+        "Michael Pradel",
+        "Frank Tip"
+      ],
+      "doi": "10.1145/3510003.3510106",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2a26f75ef925818941ea6fe414e37bc57d113da8",
+        "citationCount": 11,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    139,
+    {
+      "title": "Rotten apples spoil the bunch",
+      "authors": [
+        "Michael Cao",
+        "Khaled Ahmed",
+        "Julia Rubin"
+      ],
+      "doi": "10.1145/3510003.3510161",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9208b4089700bda2bf754b4b4be6a04cbb64c0a2",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    140,
+    {
+      "title": "Multi-intention-aware configuration selection for performance tuning",
+      "authors": [
+        "Haochen He",
+        "Zhouyang Jia",
+        "Shanshan Li",
+        "Yue Yu",
+        "Chenglong Zhou",
+        "Qing Liao",
+        "Ji Wang",
+        "Xiangke Liao"
+      ],
+      "doi": "10.1145/3510003.3510094",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "323e8e7a8879c3e4c386c82d16016dd7dd7196a8",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    141,
+    {
+      "title": "Use of test doubles in Android testing",
+      "authors": [
+        "Mattia Fazzini",
+        "Chase Choi",
+        "Juan Manuel Copia",
+        "Gabriel Lee",
+        "Yoshiki Kakehi",
+        "Alessandra Gorla",
+        "Alessandro Orso"
+      ],
+      "doi": "10.1145/3510003.3510175",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "aa9dd4a74dad4a8a92e150bb2b1f711dd719a033",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    142,
+    {
+      "title": "NPEX",
+      "authors": [
+        "Junhee Lee",
+        "Seongjoon Hong",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1145/3510003.3510186",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d14db4dc01c631f6a4755ea0831cce8d4c14b606",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    143,
+    {
+      "title": "R2Z2",
+      "authors": [
+        "Suhwan Song",
+        "Jaewon Hur",
+        "Sunwoo Kim",
+        "Philip Rogers",
+        "Byoungyoung Lee"
+      ],
+      "doi": "10.1145/3510003.3510044",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4cf27c45f8eb3d79e00d9aea20a925e9a50f6b76",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    144,
+    {
+      "title": "Aper",
+      "authors": [
+        "Sinan Wang",
+        "Yibo Wang",
+        "Xian Zhan",
+        "Ying Wang",
+        "Yepang Liu",
+        "Xiapu Luo",
+        "Shing-Chi Cheung"
+      ],
+      "doi": "10.1145/3510003.3510074",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "33b8bf41b73e312d35121ff12e2706b0c26b12b8",
+        "citationCount": 10,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    145,
+    {
+      "title": "Demystifying Android non-SDK APIs",
+      "authors": [
+        "Shishuai Yang",
+        "Rui Li",
+        "Jiongyi Chen",
+        "Wenrui Diao",
+        "Shanqing Guo"
+      ],
+      "doi": "10.1145/3510003.3510045",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "003ec44e69d0e737d46886748ef6d56e61364d08",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    146,
+    {
+      "title": "OJXPerf",
+      "authors": [
+        "Bolun Li",
+        "Hao Xu",
+        "Qidong Zhao",
+        "Pengfei Su",
+        "Milind Chabbi",
+        "Shuyin Jiao",
+        "Xu Liu"
+      ],
+      "doi": "10.1145/3510003.3510083",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "48b17c8150de1f2f451aaf50d8caf5437d1f2e12",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    147,
+    {
+      "title": "EREBA",
+      "authors": [
+        "Mirazul Haque",
+        "Yaswanth Yadlapalli",
+        "Wei Yang",
+        "Cong Liu"
+      ],
+      "doi": "10.1145/3510003.3510088",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "cbe4f848ff2227224e570b60e95423c5edfe111f",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    148,
+    {
+      "title": "Online summarizing alerts through semantic and behavior information",
+      "authors": [
+        "Jia Chen",
+        "Peng Wang",
+        "Wei Wang"
+      ],
+      "doi": "10.1145/3510003.3510055",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "58b45d84128589219c48d4a41e213fe7e28b50ce",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    149,
+    {
+      "title": "GitHub sponsors",
+      "authors": [
+        "Naomichi Shimada",
+        "Tao Xiao",
+        "Hideaki Hata",
+        "Christoph Treude",
+        "Kenichi Matsumoto"
+      ],
+      "doi": "10.1145/3510003.3510116",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39408ef47288f6ab34f644d3b6d8dca48fe3b77b",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    150,
+    {
+      "title": "Garbage collection makes rust easier to use",
+      "authors": [
+        "Michael Coblenz",
+        "Michelle L. Mazurek",
+        "Michael Hicks"
+      ],
+      "doi": "10.1145/3510003.3510107",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e5cf3d8585eaa976fa58c750fe1e85073cab7715",
+        "citationCount": 9,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    151,
+    {
+      "title": "Testing time limits in screener questions for online surveys with programmers",
+      "authors": [
+        "Anastasia Danilova",
+        "Stefan Horstmann",
+        "Matthew Smith",
+        "Alena Naiakshina"
+      ],
+      "doi": "10.1145/3510003.3510223",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "71101c8a07499de194147c6b810c758b719291b3",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    152,
+    {
+      "title": "Towards boosting patch execution on-the-fly",
+      "authors": [
+        "Samuel Benton",
+        "Yuntong Xie",
+        "Lan Lu",
+        "Mengshi Zhang",
+        "Xia Li",
+        "Lingming Zhang"
+      ],
+      "doi": "10.1145/3510003.3510117",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "fd0a2c39a7b03390fa3ce9c00e46babc268b2bf1",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    153,
+    {
+      "title": "Automated patching for unreproducible builds",
+      "authors": [
+        "Zhilei Ren",
+        "Shiwei Sun",
+        "Jifeng Xuan",
+        "Xiaochen Li",
+        "Zhide Zhou",
+        "He Jiang"
+      ],
+      "doi": "10.1145/3510003.3510102",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9cbfbf994c0c742affaf24cf348028f878c644fb",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    154,
+    {
+      "title": "Nufix",
+      "authors": [
+        "Zhenming Li",
+        "Ying Wang",
+        "Zeqi Lin",
+        "Shing-Chi Cheung",
+        "Jian-Guang Lou"
+      ],
+      "doi": "10.1145/3510003.3510118",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dc3b44b9626078670d8a91e4084b6689608e110a",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    155,
+    {
+      "title": "Quantifying permissiveness of access control policies",
+      "authors": [
+        "William Eiers",
+        "Ganesh Sankaran",
+        "Albert Li",
+        "Emily O'Mahony",
+        "Benjamin Prince",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/3510003.3510233",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5516e3e9aee344776f7df4fcac15449ec58d14bf",
+        "citationCount": 8,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    156,
+    {
+      "title": "BuildSheriff",
+      "authors": [
+        "Chen Zhang",
+        "Bihuan Chen",
+        "Xin Peng",
+        "Wenyun Zhao"
+      ],
+      "doi": "10.1145/3510003.3510132",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "8f77b756736b63b092d33911f6d43bbb2cc96117",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    157,
+    {
+      "title": "ShellFusion",
+      "authors": [
+        "Neng Zhang",
+        "Chao Liu",
+        "Xin Xia",
+        "Christoph Treude",
+        "Ying Zou",
+        "David Lo",
+        "Zibin Zheng"
+      ],
+      "doi": "10.1145/3510003.3510131",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "94ac02f13ac3252a55b8740b7b310383cdf53445",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    158,
+    {
+      "title": "Social science theories in software engineering research",
+      "authors": [
+        "Tobias Lorey",
+        "Paul Ralph",
+        "Michael Felderer"
+      ],
+      "doi": "10.1145/3510003.3510076",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "70c6924ede145bd453b50322d0616130bd730baf",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    159,
+    {
+      "title": "PerfSig",
+      "authors": [
+        "Jingzhu He",
+        "Yuhang Lin",
+        "Xiaohui Gu",
+        "Chin-Chia Michael Yeh",
+        "Zhongfang Zhuang"
+      ],
+      "doi": "10.1145/3510003.3510110",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5501225f19d33a3dd2c23ad6a297613f9fc2b67a",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    160,
+    {
+      "title": "Demystifying the dependency challenge in kernel fuzzing",
+      "authors": [
+        "Yu Hao",
+        "Hang Zhang",
+        "Guoren Li",
+        "Xingyun Du",
+        "Zhiyun Qian",
+        "Ardalan Amiri Sani"
+      ],
+      "doi": "10.1145/3510003.3510126",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "3661945646d4b0d2a35231384c93a97871219366",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    161,
+    {
+      "title": "SapientML",
+      "authors": [
+        "Ripon K. Saha",
+        "Akira Ura",
+        "Sonal Mahajan",
+        "Chenguang Zhu",
+        "Linyi Li",
+        "Yang Hu",
+        "Hiroaki Yoshida",
+        "Sarfraz Khurshid",
+        "Mukul R. Prasad"
+      ],
+      "doi": "10.1145/3510003.3510226",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "88cae0e3e3f01051ecd1eb8a15f6d6148eee6f83",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    162,
+    {
+      "title": "PReach",
+      "authors": [
+        "Seemanta Saha",
+        "Mara Downing",
+        "Tegan Brennan",
+        "Tevfik Bultan"
+      ],
+      "doi": "10.1145/3510003.3510227",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "06176560a19aed55b102c3b0d0967447ffd97d2b",
+        "citationCount": 7,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    163,
+    {
+      "title": "ProMal",
+      "authors": [
+        "Changlin Liu",
+        "Hanlin Wang",
+        "Tianming Liu",
+        "Diandian Gu",
+        "Yun Ma",
+        "Haoyu Wang",
+        "Xusheng Xiao"
+      ],
+      "doi": "10.1145/3510003.3510037",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a6795fc06c95b595c052c026c4421152b7c282c6",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    164,
+    {
+      "title": "DescribeCtx",
+      "authors": [
+        "Shao Yang",
+        "Yuehan Wang",
+        "Yuan Yao",
+        "Haoyu Wang",
+        "Yanfang (Fanny) Ye",
+        "Xusheng Xiao"
+      ],
+      "doi": "10.1145/3510003.3510058",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d8232c9a60169de6b84b1e2a77d299d9a385fb89",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    165,
+    {
+      "title": "Learning probabilistic models for static analysis alarms",
+      "authors": [
+        "Hyunsu Kim",
+        "Mukund Raghothaman",
+        "Kihong Heo"
+      ],
+      "doi": "10.1145/3510003.3510098",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "24f7c33f182ca06a2bba69cb3deb08706252a7fb",
+        "citationCount": 6,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    166,
+    {
+      "title": "ExAIS",
+      "authors": [
+        "Richard Schumi",
+        "Jun Sun"
+      ],
+      "doi": "10.1145/3510003.3510112",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "32e91e898ca437361bc39d7ea13301d2987576eb",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    167,
+    {
+      "title": "SugarC",
+      "authors": [
+        "Zachary Patterson",
+        "Zenong Zhang",
+        "Brent Pappas",
+        "Shiyi Wei",
+        "Paul Gazzillo"
+      ],
+      "doi": "10.1145/3510003.3512763",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ab64434c114488165ddd01795ff89a5240fd4a49",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    168,
+    {
+      "title": "ARCLIN",
+      "authors": [
+        "Yintong Huo",
+        "Yuxin Su",
+        "Hongming Zhang",
+        "Michael R. Lyu"
+      ],
+      "doi": "10.1145/3510003.3510158",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "49c1c42be0c3dbaf03de53fea7ea449d9ac73ff2",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    169,
+    {
+      "title": "DeFault",
+      "authors": [
+        "Xing Zhang",
+        "Jiongyi Chen",
+        "Chao Feng",
+        "Ruilin Li",
+        "Wenrui Diao",
+        "Kehuan Zhang",
+        "Jing Lei",
+        "Chaojing Tang"
+      ],
+      "doi": "10.1145/3510003.3512760",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "e34e9bf7405ccfc837ce8ae2a9a9ecc9b633c7c7",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    170,
+    {
+      "title": "An exploratory study of productivity perceptions in software teams",
+      "authors": [
+        "Anastasia Ruvimova",
+        "Alexander Lill",
+        "Jan Gugler",
+        "Lauren Howe",
+        "Elaine Huang",
+        "Gail Murphy",
+        "Thomas Fritz"
+      ],
+      "doi": "10.1145/3510003.3510081",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "7d2ad114e1aba20a9a14c7a5cd112d8facf97fd8",
+        "citationCount": 5,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    171,
+    {
+      "title": "Imperative versus declarative collection processing",
+      "authors": [
+        "Nils Mehlhorn",
+        "Stefan Hanenberg"
+      ],
+      "doi": "10.1145/3510003.3519016",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a92cb36c54a24378c95914a48ea9f548dc508149",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    172,
+    {
+      "title": "Search-based diverse sampling from real-world software product lines",
+      "authors": [
+        "Yi Xiang",
+        "Han Huang",
+        "Yuren Zhou",
+        "Sizhe Li",
+        "Chuan Luo",
+        "Qingwei Lin",
+        "Miqing Li",
+        "Xiaowei Yang"
+      ],
+      "doi": "10.1145/3510003.3510053",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "04198537079f2937dbe3de24287619ebe8419b7e",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    173,
+    {
+      "title": "A grounded theory based approach to characterize software attack surfaces",
+      "authors": [
+        "Sara Moshtari",
+        "Ahmet Okutan",
+        "Mehdi Mirakhorli"
+      ],
+      "doi": "10.1145/3510003.3510210",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6a4945de1d163d498db176b18abb930f05899474",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    174,
+    {
+      "title": "PUS",
+      "authors": [
+        "Peiming Liu",
+        "Yanze Li",
+        "Brad Swain",
+        "Jeff Huang"
+      ],
+      "doi": "10.1145/3510003.3510075",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "28e131ab8dfc8f38dd8f0b9f03855ad3afc1cc5a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    175,
+    {
+      "title": "Big data = big insights?",
+      "authors": [
+        "Christoph Gote",
+        "Pavlin Mavrodiev",
+        "Frank Schweitzer",
+        "Ingo Scholtes"
+      ],
+      "doi": "10.1145/3510003.3510619",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "39ea856a2c5fa12ffebeddb5d1f7257319b5200a",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    176,
+    {
+      "title": "DeepAnalyze",
+      "authors": [
+        "Manish Shetty",
+        "Chetan Bansal",
+        "Suman Nath",
+        "Sean Bowles",
+        "Henry Wang",
+        "Ozgur Arman",
+        "Siamak Ahari"
+      ],
+      "doi": "10.1145/3510003.3512759",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "48502331a42270bf45b13246e3f0a728276652a8",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    177,
+    {
+      "title": "Towards bidirectional live programming for incomplete programs",
+      "authors": [
+        "Xing Zhang",
+        "Zhenjiang Hu"
+      ],
+      "doi": "10.1145/3510003.3510195",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "42a6f62dd4245fd1584700b133c5bd7a5defb90b",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    178,
+    {
+      "title": "Fast and precise application code analysis using a partial library",
+      "authors": [
+        "Akshay Utture",
+        "Jens Palsberg"
+      ],
+      "doi": "10.1145/3510003.3510046",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ffb8793c585b5d2188a6c20fb5e969cbc35c67c3",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    179,
+    {
+      "title": "Inference and test generation using program invariants in chemical reaction networks",
+      "authors": [
+        "Michael C. Gerten",
+        "Alexis L. Marsh",
+        "James I. Lathrop",
+        "Myra B. Cohen",
+        "Andrew S. Miner",
+        "Titus H. Klinge"
+      ],
+      "doi": "10.1145/3510003.3510176",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "331a29246cc2a738b6f44add1a8870527a26811e",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    180,
+    {
+      "title": "A scalable t-wise coverage estimator",
+      "authors": [
+        "Eduard Baranov",
+        "Sourav Chakraborty",
+        "Axel Legay",
+        "Kuldeep S. Meel",
+        "Vinodchandran N. Variyam"
+      ],
+      "doi": "10.1145/3510003.3510218",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "9b0e1c55fb7a43d79fa48584feada075eb2a5fa5",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    181,
+    {
+      "title": "Dynamic update for synthesized GR(1) controllers",
+      "authors": [
+        "Gal Amram",
+        "Shahar Maoz",
+        "Itai Segall",
+        "Matan Yossef"
+      ],
+      "doi": "10.1145/3510003.3510054",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5a034e50258ddb8c541d713c50ed3abf5b32ebf0",
+        "citationCount": 4,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    182,
+    {
+      "title": "Change is the only constant",
+      "authors": [
+        "Daniel Sokolowski",
+        "Pascal Weisenburger",
+        "Guido Salvaneschi"
+      ],
+      "doi": "10.1145/3510003.3510065",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a5938f7eb8ed337b51c414ff268d0c86f473dd52",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    183,
+    {
+      "title": "Precise divide-by-zero detection with affirmative evidence",
+      "authors": [
+        "Yiyuan Guo",
+        "Jinguo Zhou",
+        "Peisen Yao",
+        "Qingkai Shi",
+        "Charles Zhang"
+      ],
+      "doi": "10.1145/3510003.3510066",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4746fda6a5064d03ba9614ba21a143cfa03d6608",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    184,
+    {
+      "title": "Generating and visualizing trace link explanations",
+      "authors": [
+        "Yalin Liu",
+        "Jinfeng Lin",
+        "Oghenemaro Anuyah",
+        "Ronald Metoyer",
+        "Jane Cleland-Huang"
+      ],
+      "doi": "10.1145/3510003.3510129",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "20f64f83366417576894bc6ff7f94bcb2f69f574",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    185,
+    {
+      "title": "FADATest",
+      "authors": [
+        "Jin Wu",
+        "Jian Dong",
+        "Ruili Fang",
+        "Wen Zhang",
+        "Wenwen Wang",
+        "Decheng Zuo"
+      ],
+      "doi": "10.1145/3510003.3510169",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "f7b49d3cf620ff0503b5954f119d10e30a9dd5c9",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    186,
+    {
+      "title": "Eflect",
+      "authors": [
+        "Timur Babakol",
+        "Anthony Canino",
+        "Yu David Liu"
+      ],
+      "doi": "10.1145/3510003.3510145",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "5e876716a8f6899883ad017458552a3227707e37",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    187,
+    {
+      "title": "Retrieving data constraint implementations using fine-grained code patterns",
+      "authors": [
+        "Juan Manuel Florez",
+        "Jonathan Perry",
+        "Shiyi Wei",
+        "Andrian Marcus"
+      ],
+      "doi": "10.1145/3510003.3510167",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "eb49b004ebda9b46f849059e60f54406808bb5ea",
+        "citationCount": 3,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    188,
+    {
+      "title": "Push-button synthesis of watch companions for Android apps",
+      "authors": [
+        "Cong Li",
+        "Yanyan Jiang",
+        "Chang Xu"
+      ],
+      "doi": "10.1145/3510003.3510056",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a70634d3d9d2045ffa5be96d119e474083779236",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    189,
+    {
+      "title": "SymTuner",
+      "authors": [
+        "Sooyoung Cha",
+        "Myungho Lee",
+        "Seokhyun Lee",
+        "Hakjoo Oh"
+      ],
+      "doi": "10.1145/3510003.3510185",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "ef84275aac74cf43be52f32f086988e5f80180c9",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    190,
+    {
+      "title": "DrAsync",
+      "authors": [
+        "Alexi Turcotte",
+        "Michael D. Shah",
+        "Mark W. Aldrich",
+        "Frank Tip"
+      ],
+      "doi": "10.1145/3510003.3510097",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "d4015c32b69d5c26d89d964d93377f9b89248ec5",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    191,
+    {
+      "title": "Data-driven loop bound learning for termination analysis",
+      "authors": [
+        "Rongchen Xu",
+        "Jianhui Chen",
+        "Fei He"
+      ],
+      "doi": "10.1145/3510003.3510220",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "a61ed731d75ac36a514539dd0d6321f330ff515f",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    192,
+    {
+      "title": "BugListener",
+      "authors": [
+        "Lin Shi",
+        "Fangwen Mu",
+        "Yumin Zhang",
+        "Ye Yang",
+        "Junjie Chen",
+        "Xiao Chen",
+        "Hanzhi Jiang",
+        "Ziyou Jiang",
+        "Qing Wang"
+      ],
+      "doi": "10.1145/3510003.3510108",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "0f8fa20863ea1ebbc23a48aba666fa424838270c",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    193,
+    {
+      "title": "Refty",
+      "authors": [
+        "Yanjie Gao",
+        "Zhengxian Li",
+        "Haoxiang Lin",
+        "Hongyu Zhang",
+        "Ming Wu",
+        "Mao Yang"
+      ],
+      "doi": "10.1145/3510003.3510077",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "dcf4f3ee58a500d8bf6850f48df277b6f62d3be6",
+        "citationCount": 2,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    194,
+    {
+      "title": "Verification of ORM-based controllers by summary inference",
+      "authors": [
+        "Geetam Chawla",
+        "Navneet Aman",
+        "Raghavan Komondoor",
+        "Ashish Bokil",
+        "Nilesh Kharat"
+      ],
+      "doi": "10.1145/3510003.3510148",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "4ad81f8094c1cc6673691468bc3b9ca8394ca84f",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    195,
+    {
+      "title": "Hiding critical program components via ambiguous translation",
+      "authors": [
+        "Chijung Jung",
+        "Doowon Kim",
+        "An Chen",
+        "Weihang Wang",
+        "Yunhui Zheng",
+        "Kyu Hyung Lee",
+        "Yonghwi Kwon"
+      ],
+      "doi": "10.1145/3510003.3510139",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "2b8e3a8a08cb80f05e8d500940e1fae8a0446a39",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    196,
+    {
+      "title": "Repairing brain-computer interfaces with fault-based data acquisition",
+      "authors": [
+        "Cailin Winston",
+        "Caleb Winston",
+        "Chloe N Winston",
+        "Claris Winston",
+        "Cleah Winston",
+        "Rajesh P N Rao",
+        "Ren\u00e9 Just"
+      ],
+      "doi": "10.1145/3510003.3512764",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "paperId": "6f05192827a34b6b2517bea2e03a250a6cf941c7",
+        "citationCount": 1,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ],
+  [
+    197,
+    {
+      "title": "On the benefits and limits of incremental build of software configurations",
+      "authors": [
+        "Georges Aaron Randrianaina",
+        "Xhevahire T\u00ebrnava",
+        "Djamel Eddine Khelladi",
+        "Mathieu Acher"
+      ],
+      "doi": "10.1145/3510003.3510190",
+      "venue": "Proceedings of the 44th International Conference on Software Engineering",
+      "citations": {
+        "citationCount": 0,
+        "source": "semanticscholar"
+      },
+      "year": 2022
+    }
+  ]
+]
