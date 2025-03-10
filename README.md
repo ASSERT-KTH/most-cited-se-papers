@@ -2,15 +2,17 @@
 
 A systematic analysis of the most cited papers in software engineering from 2013-2023, based on data from CrossRef and Semantic Scholar APIs.
 
-If you use this data, please cite the paper [Most Cited Papers in Software Engineering 2013-2023](TODO):
+If you use this data, please cite the paper [Most Cited Papers in Software Engineering 2013-2023](https://zenodo.org/records/14885766/files/main.pdf):
 
 ```bibtex
-@techreport{mostcitedse,
+@techreport{mostcitedse20132023,
   title= {Most Cited Papers in Software Engineering 2013-2023},
   author= {Martin Monperrus},
   year = {2025},
-  number = {TBD},
-  institution = {arXiv}
+  number = {14885766},
+  institution = {Zenodo},
+  url = {https://zenodo.org/records/14885766/files/main.pdf},
+  doi = {https://doi.org/10.5281/zenodo.14885765}
 }
 ```
 
