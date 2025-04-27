@@ -2,7 +2,7 @@
 
 A systematic analysis of the most cited papers in software engineering from 2013-2023, based on data from CrossRef and Semantic Scholar APIs.
 
-If you use this data, please cite the paper [Most Cited Papers in Software Engineering 2013-2023](https://zenodo.org/records/14885766/files/main.pdf):
+If you use this data, please cite the paper [Most Cited Papers in Software Engineering 2013-2023](https://kth.diva-portal.org/smash/get/diva2:1953484/FULLTEXT01.pdf):
 
 ```bibtex
 @techreport{mostcitedse20132023,
@@ -10,8 +10,8 @@ If you use this data, please cite the paper [Most Cited Papers in Software Engin
   author= {Martin Monperrus},
   year = {2025},
   number = {14885766},
-  institution = {Zenodo},
-  url = {https://zenodo.org/records/14885766/files/main.pdf},
+  institution = {KTH Royal Institute of Technology},
+  url = {[https://zenodo.org/records/14885766/files/main.pdf](https://kth.diva-portal.org/smash/get/diva2:1953484/FULLTEXT01.pdf)},
   doi = {https://doi.org/10.5281/zenodo.14885765}
 }
 ```
