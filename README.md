@@ -11,7 +11,7 @@ If you use this data, please cite the paper [Most Cited Papers in Software Engin
   year = {2025},
   number = {14885766},
   institution = {KTH Royal Institute of Technology},
-  url = {[https://zenodo.org/records/14885766/files/main.pdf](https://kth.diva-portal.org/smash/get/diva2:1953484/FULLTEXT01.pdf)},
+  url = {https://kth.diva-portal.org/smash/get/diva2:1953484/FULLTEXT01.pdf},
   doi = {https://doi.org/10.5281/zenodo.14885765}
 }
 ```
